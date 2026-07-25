@@ -10,14 +10,14 @@ url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/12732
 iconimage="https://image.tmdb.org/t/p/original/y9yJd2qIIwhZcllHeKHsz5eRvNr.jpg"
 fanart="https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
 description="Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo."
-
+skin_id=""
 
 name="Obsessão (2026)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/1339713.zip"
 iconimage="https://image.tmdb.org/t/p/original/c1Yg0Lxj5SR0C1VxpvAAf15jFvi.jpg"
 fanart="https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
 description="Sem grandes pretensões, um romântico incurável compra um brinquedo que promete realizar desejos únicos. Ele quebra o artefato misterioso enquanto pede para conquistar a crush e consegue exatamente o que desejava, mas descobre que a consequência é sinistra."
-
+skin_id=""
 
 name="Velozes & Furiosos: Coleção"
 url=""
