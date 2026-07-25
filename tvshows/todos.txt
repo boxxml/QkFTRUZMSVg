@@ -49,7 +49,7 @@ description="Quando uma misteriosa nave espacial cai na Terra, uma jovem e um gr
 skin_id=""
 
 name="Avatar: O Último Mestre do Ar (2024)"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/82452.zip"
 iconimage="https://image.tmdb.org/t/p/original/zCz483fU94RxRt1gdGW1rxQkcID.jpg"
 fanart="https://image.tmdb.org/t/p/original/u62XtaV8Iski2CgAUM8Yp0ZgKxD.jpg"
 description="Um garoto conhecido como o Avatar precisa dominar os quatro poderes elementares para salvar um mundo em guerra e enfrentar um inimigo implacável.."
@@ -91,7 +91,7 @@ description="Nesta aclamada série que é continuação dos filmes Karatê Kid, 
 skin_id=""
 
 name="Cidade das Estrelas (2026)"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/252107.zip"
 iconimage="https://image.tmdb.org/t/p/original/1YObhpxCn59eOr53devSk4Ohgay.jpg"
 fanart="https://image.tmdb.org/t/p/original/1FKMjElFJxgG3vPN7Sp5k8oMmo2.jpg"
 description="Entre em um capítulo eletrizante inspirado em For All Mankind. Mesmo universo alternativo. Nova perspectiva: a da União Soviética. Atravesse a Cortina de Ferro com os cosmonautas, engenheiros e agentes de inteligência que arriscaram tudo na corrida pela Lua."
