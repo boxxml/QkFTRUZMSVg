@@ -114,7 +114,7 @@ description="Uma adolescente presa na vida após a morte decide investigar seu d
 skin_id=""
 
 name="IT: Bem-Vindos a Derry (2025)"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/200875.zip"
 iconimage="https://image.tmdb.org/t/p/original/gMTfrLvrDaD0zrhpLZ7zXIIpKfJ.jpg"
 fanart="https://image.tmdb.org/t/p/original/2746UvsbkZINd873Yd3o3TxOwCP.jpg"
 description="Durante as férias de 1958, em uma pacata cidadezinha chamada Derry, um grupo de sete amigos começa a ver coisas bizarras. Um conta que viu um palhaço, outro que viu uma múmia. Finalmente, acabam descobrindo que estavam todos vendo a mesma coisa: um ser sobrenatural e maligno que pode assumir várias formas. Ele mesmo. O Pennywise."
