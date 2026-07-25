@@ -42,7 +42,7 @@ description="Camareira real Jane Andrews saiu da pobreza e chegou ao palácio, a
 skin_id=""
 
 name="Alien: Earth (2025)"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/157239.zip"
 iconimage="https://image.tmdb.org/t/p/original/kGbG5qlZrQzdYxpGYhzAChvFp5l.jpg"
 fanart="https://image.tmdb.org/t/p/original/25g7mthXoJFcNZhAKz0evk17Bsx.jpg"
 description="Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta."
