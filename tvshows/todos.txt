@@ -77,7 +77,7 @@ description="Sticky Fingaz é o meio-homem, meio-vampiro imortal, que usa os seu
 skin_id=""
 
 name="BEASTARS - O Lobo Bom (2019)"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/90937.zip"
 iconimage="https://image.tmdb.org/t/p/original/jJHykaBex66D01wlfPx0tcyEQ8E.jpg"
 fanart="https://image.tmdb.org/t/p/original/4xvQGRIJpPEDf7HQdF0JkBVsmoX.jpg"
 description="Em um mundo onde convivem animais de todo tipo, um lobo manso começa a descobrir seus instintos predatórios justamente quando acontece um assassinato na escola."
