@@ -3,427 +3,427 @@ url=""
 iconimage="https://image.tmdb.org/t/p/original/wkspryd5Ve93npEge3OFYCRgYwY.jpg"
 fanart="https://image.tmdb.org/t/p/original/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg"
 description="Um romântico escritor se surpreende quando sua namorada Summer termina o namoro repentinamente. Com isso, ele relembra vários momentos dos 500 dias que passaram juntos para tentar descobrir onde seu caso de amor se perdeu e vai redescobrindo suas verdadeiras paixões."
-skin_id=""
+
 
 name="Todo Mundo em Pânico (2026)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/1273221.zip"
 iconimage="https://image.tmdb.org/t/p/original/y9yJd2qIIwhZcllHeKHsz5eRvNr.jpg"
 fanart="https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
 description="Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo."
-skin_id=""
+
 
 name="Obsessão (2026)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/1339713.zip"
 iconimage="https://image.tmdb.org/t/p/original/c1Yg0Lxj5SR0C1VxpvAAf15jFvi.jpg"
 fanart="https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
 description="Sem grandes pretensões, um romântico incurável compra um brinquedo que promete realizar desejos únicos. Ele quebra o artefato misterioso enquanto pede para conquistar a crush e consegue exatamente o que desejava, mas descobre que a consequência é sinistra."
-skin_id=""
+
 
 name="Velozes & Furiosos: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/bj2y7PABBBzrI1POZFtqPwYJA4m.jpg"
 fanart="https://image.tmdb.org/t/p/original/56h4DCt0ogIRI7B71xD5iA5hES1.jpg"
 description="Dominic Toretto e sua equipe usa a velocidade e a fúria para se livrar de enrascadas perigosas e ilegais."
-skin_id=""
+
 
 name="007: Sem Tempo para Morrer (2021)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/ymiLbqoSxGSkMeM2vW6JWpmnPjL.jpg"
 fanart="https://image.tmdb.org/t/p/original/r2GAjd4rNOHJh6i6Y0FntmYuPQW.jpg"
 description="Bond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa."
-skin_id=""
+
 
 name="13º Distrito (2014)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/fJwAFbjWXdbu0nl8wZPYn1VZkNj.jpg"
 fanart="https://image.tmdb.org/t/p/original/3bmjOwTMBiShNzi5FavCcVRZDtk.jpg"
 description="A área de Brick Mansions é extremamente violenta e abandonada pela polícia local, que foi corrompida pelo crime organizado. Todo dia é uma batalha para o honesto detetive Damien Collier, que pretende vingar o assassinato do seu pai. Ele recebe a missão de entrar na perigosa região e localizar uma bomba que pode destruir a cidade de Detroit inteira. Para tanto, Damien conta com a ajuda do jovem Lino, que precisa tirar a namorada das mãos de um traficante."
-skin_id=""
+
 
 name="A Dama e o Vagabundo (2019)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/vnBl7huZPEPsxD2ZmqZqRBI3efr.jpg"
 fanart="https://image.tmdb.org/t/p/original/nHNNKoqQOIWODk5mMyW8CvDisem.jpg"
 description="Relançamento do clássico de 1955, que conta a história de amor entre a Dama, uma cocker spaniel mimada, e um vira-lata chamado Vagabundo, que salva a cadelinha do perigo de vagar sozinha perdida pelas ruas."
-skin_id=""
+
 
 name="A Era do Gelo: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/f5PM3zXVhd8O1YnPqbkI3gHsWe4.jpg"
 fanart="https://image.tmdb.org/t/p/original/8pwIhymsxfAVjrAE7syDjQULn37.jpg"
 description="Uma franquia de filmes de animação que acompanha as aventuras de um grupo inusitado de três animais pré-históricos durante diferentes períodos da Era do Gelo."
-skin_id=""
+
 
 name="A Lenda de Beowulf (2007)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/oVjkoLfiR8fScXQAS7nMiu6RxH.jpg"
 fanart="https://image.tmdb.org/t/p/original/lIruQxRCxw5ZI3CmBL6VxwpKtUe.jpg"
 description="Em uma época de heróis, um cavaleiro chamado Beowulf chega à corte do Rei Hrothgar e oferece para combater um demônio chamado Grendel. Ele combate a fera com sucesso, mas terá que enfrentar também a ira da mãe de Grendel, uma criatura má e vingativa, porém sedutora."
-skin_id=""
+
 
 name="A Lenda dos Guardiões (2010)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/zWx7qwzT0WDRUaJafnotACJDX3e.jpg"
 fanart="https://image.tmdb.org/t/p/original/s1aCCFPCRl4Zw2EBHLGK1dAHs1L.jpg"
 description="Soren é uma corujinha fascinada pelas histórias épicas contadas pelo pai sobre os Guardiões de Ga’Hoole, míticos guerreiros alados que lutaram em uma grande batalha para salvar a espécie de uma grande ameaça. Por outro lado, seu irmão Kludd zomba dele e tem ciúmes, procurando sempre atrair a atenção do pai. Um dia os dois são capturados e caem nas mãos dos Puros, corujas do mal que querem dominar o Reino do Oeste e a Grande Árvore."
-skin_id=""
+
 
 name="A Liga de Monstros (2021)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/oFD3haaWBJe4tMxUAEtcGMioayC.jpg"
 fanart="https://image.tmdb.org/t/p/original/e9o00kc7Fg5hA7SubfoZSseHOo2.jpg"
 description="Em um mundo onde monstros existem, podem ser domados e competir no wrestling, Winnie decide seguir os passos do pai no popular esporte: ele quer se tornar um treinador e transformar uma criatura inexperiente em um grande lutador."
-skin_id=""
+
 
 name="A Múmia: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/kiG1bxrI7V4J7mc3ukh2JmPspPJ.jpg"
 fanart="https://image.tmdb.org/t/p/original/nm2pU4RJ2vR61vYh93QmqeMPpr1.jpg"
 description="A série de filmes Múmia é um remake de A Múmia, vagamente baseado no filme original de 1932. Os dois primeiros filmes da série foram escritos e dirigidos por Stephen Sommers."
-skin_id=""
+
 
 name="Ad Astra - Rumo às Estrelas (2019)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg"
 fanart="https://image.tmdb.org/t/p/original/tjWQ3ooqRTRXdWzoPWZlrvTiIrh.jpg"
 description="Roy McBride é um engenheiro espacial, portador de um leve grau de autismo, que decide empreender a maior jornada de sua vida: viajar para o espaço, cruzar a galáxia e tentar descobrir o que aconteceu com seu pai, um astronauta que se perdeu há vinte anos atrás no caminho para Netuno."
-skin_id=""
+
 
 name="Adrenalina: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/vn9EYuvxVQQtnjGAayFKSUINoCz.jpg"
 fanart="https://image.tmdb.org/t/p/original/g49FylpoLi9aUPWOqvPCIEezCHN.jpg"
 description="Adrenalina é uma série de filmes de comédia de ação americanos, com foco nas aventuras de um assassino britânico na cidade de Los Angeles chamado Chev Chelios. Chev foi envenenado e deve manter sua adrenalina fluindo constantemente para permanecer vivo."
-skin_id=""
+
 
 name="Adão Negro (2022)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/soHjr03YMSe5uUMaEQEe1lC145O.jpg"
 fanart="https://image.tmdb.org/t/p/original/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg"
 description="Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno."
-skin_id=""
+
 
 name="Alerta Vermelho (2021)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg"
 fanart="https://image.tmdb.org/t/p/original/p34WRcgkN2QIHcds5FtFiSpV3PC.jpg"
 description="No mundo do crime internacional, a INTERPOL lança um Alerta Vermelho, o que inicia uma caçada para capturar a mais notória ladra de artes do globo."
-skin_id=""
+
 
 name="Alita: Anjo de Combate (2019)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg"
 fanart="https://image.tmdb.org/t/p/original/jXDselREPq8TOVGM4dzBBUM7xVk.jpg"
 description="Abandonada em um ferro-velho de Iron City, a ciborgue Alita é encontrada pelo cientista Dyson Ido. Revitalizada, ela acorda sem memória e reconhecimento do mundo em que se encontra. Determinada a conhecer seu passado e explorar suas habilidades surpreendentes de luta, Alita se torna uma poderosa caçadora de recompensas, combatendo forças mortais."
-skin_id=""
+
 
 name="American Pie: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/rJzYNoyXBNmjmWWUD4rKTJZITm9.jpg"
 fanart="https://image.tmdb.org/t/p/original/9vjgerKR19gTxhI1eKB5CcMfttz.jpg"
 description="American Pie é uma série de filmes de comédia sexual. O primeiro filme da série foi lançado em 1999, pela Universal Pictures, e se tornou um fenômeno mundial da cultura pop, cultuado entre os jovens. O segundo e o terceiro filmes foram lançados em intervalos de dois anos, enquanto o quarto filme foi lançado em 2012."
-skin_id=""
+
 
 name="Angry Birds: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/ehoZnL5usVagZOJ2VccmqZKa8in.jpg"
 fanart="https://image.tmdb.org/t/p/original/v46tzzYiG2FIXqtuuo1OLSjOLuQ.jpg"
 description="Coletânea de filmes baseados na série de games Angry Birds."
-skin_id=""
+
 
 name="Anjos da Lei: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/8cT5XcWXJ650zggxFosNzEsJISv.jpg"
 fanart="https://image.tmdb.org/t/p/original/3fkhNqG2i6dlWZmjg100PFEpbWW.jpg"
 description="Anjos da Lei é uma empolgante coleção de filmes de comédia policial que segue a história de dois policiais desajustados que se infiltram em escolas para combater o crime. Com uma mistura irresistível de ação, humor e amizade, eles enfrentam desafios hilariantes e perigosos, deixando uma trilha de risadas por onde passam."
-skin_id=""
+
 
 name="Anjos da Noite: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/kIcfI7EHAffmzkaZKX2haPFDOaV.jpg"
 fanart="https://image.tmdb.org/t/p/original/6L6oJCO76XUg1UyOldrBDY0LbrH.jpg"
 description="Anjos da Noite é uma coletânea composta por cinco filmes, estrelada por Kate Beckinsale, na personagem de Selene, uma vampira guerreira. Anjos da Noite (2003), Anjos da Noite: A Evolução (2006), Anjos da Noite: A Rebelião (2009), Anjos da Noite: O Despertar (2012) e Anjos da Noite: Guerras de Sangue (2016)."
-skin_id=""
+
 
 name="Anônimo: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/zwELreUw3SvkzWbPGxFReaGBPzo.jpg"
 fanart="https://image.tmdb.org/t/p/original/jNxcPaz5OT3A3PqTgQevwe8pVh8.jpg"
 description="Uma série de filmes de ação e suspense estrelados por Bob Odenkirk."
-skin_id=""
+
 
 name="Arranha-Céu: Coragem Sem Limite (2018)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/iCWFqns8tpBLdMwvLix8QjagiP8.jpg"
 fanart="https://image.tmdb.org/t/p/original/9bn8ApCTuqTb7rLoxzyGcyzjuFx.jpg"
 description="Will Sawyer, veterano de guerra e ex-líder da equipe de resgate do FBI, é agora responsável pela segurança de arranha-céus, trabalhando na China. Quando descobre que o mais alto e seguro edifício do mundo está em chamas e ele está sendo acusado por isso, Will torna-se um foragido procurado e precisa encontrar os verdadeiros culpados, limpar seu nome e, de alguma forma, resgatar sua família, que está no prédio, acima da linha de fogo."
-skin_id=""
+
 
 name="Arrebentando em Nova York (1995)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/9Sk5pnCdu2Mm1SeaczRj0yEVH9I.jpg"
 fanart="https://image.tmdb.org/t/p/original/5ftRls3IbR1kXnasqJEJL63LVsc.jpg"
 description="Keung é um perito em artes marciais de Hong Kong que viaja para o casamento do seu tio em Nova York. Durante sua estada no Bronx, ele compra briga com motoqueiros e mafiosos, causando um verdadeiro terremoto de pancadaria na cidade. Para piorar, os policiais não conseguem controlar a situação e o lutador vai ter que resolver a situação pelas próprias mãos."
-skin_id=""
+
 
 name="As Branquelas (2004)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg"
 fanart="https://image.tmdb.org/t/p/original/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg"
 description="O que acontece quando dois atrapalhados agentes do FBI se disfarçam de princesas mega-ricas para se infiltrarem na alta sociedade? O resultado é situações extremamente engraçadas e diversão total ao ver estes dois irmãos azarados transformando-se em duas senhoritas refinadas e com estilo!"
-skin_id=""
+
 
 name="Capitã Marvel: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/kpWAhJx3LSstGVb7XfIc4V83NAg.jpg"
 fanart="https://image.tmdb.org/t/p/original/yMJn2vWKAAzZzlewJm5pPWHUWL3.jpg"
 description=""Capitã Marvel" é um filme de ficção científica produzido pelos American Marvel Studios. O filme é adaptado dos quadrinhos da Marvel e ambientado na década de 1990. Ele conta a história do piloto da Força Aérea Carol Danfoss após se tornar um membro do exército interestelar de elite, com a ajuda do Agente Nick Fury, Carol Danver começa a desvendar a história da verdade do seu passado."
-skin_id=""
+
 
 name="As Tartarugas Ninja: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/umWmfsBvNyJFpyQvSb5YMQcu73j.jpg"
 fanart="https://image.tmdb.org/t/p/original/nhduljh4ZdptATMjZxIclXHjmHT.jpg"
 description="Os três filmes live action das Tartarugas Ninja que foram ao ar nas telonas durante os anos 90."
-skin_id=""
+
 
 name="Assassino a Preço Fixo: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/injh3UPPqXbteDmFNcerHvBnjwn.jpg"
 fanart="https://image.tmdb.org/t/p/original/vexuvLnuX6MD2A9A8CZ5dxczmgp.jpg"
 description="Assassino a Preço Fixo é uma coletânea composta por dois filmes, estrelada por Jason Statham, no personagem Arthur Bishop, um matador de aluguel com muita habilidade para eliminar os seus alvos. 1. Assassina a Preço Fixo (2011) e Assassino a Preço Fixo: A Ressurreição (2016)."
-skin_id=""
+
 
 name="Avatar: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/xpkoYMAmAoEl9FOn0fRgaUlHrFY.jpg"
 fanart="https://image.tmdb.org/t/p/original/6qkJLRCZp9Y3ovXti5tSuhH0DpO.jpg"
 description="A Coleção Avatar conta a história do mundo de Pandora, habitado pelos humanóides indígenas, os Na'vi. O protagonista principal, Jake Sully, é enviado para Pandora como um avatar - um híbrido de humano e Na'vi. Durante sua missão, Jake descobre a beleza e a complexidade do mundo Na'vi e estabelece uma conexão profunda com os habitantes do planeta. A coleção centra-se no conflito entre os humanos e os Na'vi e na luta para salvar o mundo de Pandora."
-skin_id=""
+
 
 name="B13: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/u3w5TfDkXLIlLQonFlz0kahjjEK.jpg"
 fanart="https://image.tmdb.org/t/p/original/dSbXXdDcnQFimUf1mhkPk5dkQU3.jpg"
 description="Uma série de filmes que explora cenários fictícios distópicos. Concentra-se no problema da crescente criminalidade em um dos subúrbios de Paris: 13º Distrito."
-skin_id=""
+
 
 name="Babe, o Porquinho Atrapalhado: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/sMUtzbHphHX4pwq6TehDNpF5aTy.jpg"
 fanart="https://image.tmdb.org/t/p/original/cOYRzPx86msMyCJ1E0D4jiMvASp.jpg"
 description="Double bill of the hugely successful 'talking animals' movies. In 'Babe' (1995) a loveable pig is saved from the butcher's knife when Farmer Hoggett wins him in a raffle. Adopted by the farm's sheepdog fraternity, Babe begins to display mutton herding skills of his own, leading to his entry into the local sheepdog trials. In the sequel, 'Babe: Pig in the City' (1998), Farmer Hoggett has an accident, is unable to run his business and faces bankruptcy. The only solution is to cash in on the fame of his shepherding pig, and the animal is duly dispatched to open a state fair. However, a series of mishaps leads to Mrs Hoggett being detained by city authorities, along with a number of four-legged friends, and our porcine hero has to use all his wits to finds his way back to his owner."
-skin_id=""
+
 
 name="Bad Boys: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/cTGvYsEwk4nFzSUIGPLlwWrNH11.jpg"
 fanart="https://image.tmdb.org/t/p/original/r8kZJbi6UNhilLhM5WhauYELIR8.jpg"
 description="Uma franquia de filmes sobre a dupla de policiais Mike Lowrey e Marcus Burnett, explodindo coisas e perseguindo carros malucos. Eles fazem o trabalho, mas a um custo caro."
-skin_id=""
+
 
 name="Bailarina: Do Universo de John Wick (2025)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/by5hjYJp3OJ8GW118kPeURp1rFo.jpg"
 fanart="https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
 description="Bailarina se passa durante os eventos de ‘John Wick 3: Parabellum‘ e acompanha Eve Macarro, que está começando seu treinamento nas tradições da organização Ruska Roma para se tornar uma assassina que buscará vingança contra aqueles que destruíram sua família."
-skin_id=""
+
 
 name="Baki Hanma x Kengan Ashura (2024)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/etbHJxil0wHvYOCmibzFLsMcl2C.jpg"
 fanart="https://image.tmdb.org/t/p/original/kti9ufHhCKaOLjg2to4RKfrlkmh.jpg"
 description="É o confronto final. Os lutadores mais fortes de “Baki Hanma” e “Kengan Ashura” se enfrentam neste crossover inédito de artes marciais."
-skin_id=""
+
 
 name="Bater ou Correr: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/g54KIJ7PK2p28GrE9xdtUPGFfI3.jpg"
 fanart="https://image.tmdb.org/t/p/original/b4c3qRzQNkTk3DpN1sZ03xdmBa8.jpg"
 description="Bater ou Correr é um faroeste de comédia e ação 2000, com Jackie Chan, Owen Wilson e Lucy Liu. O filme, que marcou a estréia na direção de Tom Dey, foi escrito por Alfred Gough e Miles Millar. Uma sequência, Bater ou Correr em Londres, foi lançada em 2003, com David Dobkin como diretor."
-skin_id=""
+
 
 name="Batman (2022)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg"
 fanart="https://image.tmdb.org/t/p/original/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg"
 description="Em seu segundo ano de combate ao crime, Batman descobre corrupção em Gotham City que se conecta à sua própria família enquanto enfrenta um serial killer conhecido como Charada."
-skin_id=""
+
 
 name="O Cavaleiro das Trevas: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/afR93PKtvUvZtUcpf5rNLkpVcTi.jpg"
 fanart="https://image.tmdb.org/t/p/original/24ZzYtZB4fQDj3ckwKIhMvF3XdJ.jpg"
 description="Com uso mínimo de CGI e foco em narrativas centradas nos personagens, o retrato sombrio e realista de Christopher Nolan sobre a transição de Bruce Wayne para o Batman e suas lutas como o super-herói de Gotham estabeleceu o padrão para os filmes modernos de super-heróis."
-skin_id=""
+
 
 name="Black Clover: A Espada do Rei Mago (2023)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/5KK0FJGdZI7jMhfwyJTg1LGR2z8.jpg"
 fanart="https://image.tmdb.org/t/p/original/rogeBJK44LtWynOqzMFmEF30T80.jpg"
 description="Um garoto destemido e sem poderes mágicos luta pelo título de Rei Mago – enfrentando quatro rivais que foram banidos e agora ameaçam destruir o Reino Clover."
-skin_id=""
+
 
 name="Bloodshot (2020)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg"
 fanart="https://image.tmdb.org/t/p/original/zlqMASc3vEtdym2OvXgE7fC6onT.jpg"
 description="Bloodshot é um ex-soldado com poderes especiais: o de regeneração e a capacidade de se metamorfosear. Assassinado ao lado da esposa, ele é ressuscitado e aprimorado com nanotecnologia, desenvolvendo tais habilidades. Ao apagarem sua memória várias vezes, ele finalmente descobre quem realmente é e parte em um busca de vingança daqueles que mataram sua família."
-skin_id=""
+
 
 name="Bumblebee (2018)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/x9vAcoPsyFQ6m3Re5S9DQSbudyi.jpg"
 fanart="https://image.tmdb.org/t/p/original/hMANgfPHR1tRObNp2oPiOi9mMlz.jpg"
 description="Cybertron foi derrotado. Quando Optimus Prime envia Bumblebee para defender a Terra, tem início sua jornada até se tornar um herói. Charlie Watson, uma adolescente que procura seu espaço no mundo, descobre e repara o robô, cheio de danos e disfarçado de Fusca. Enquanto os Decepticons caçam os Autobots sobreviventes, com a ajuda de uma agência secreta liderada pelo Agente Burns, Bumblebee e Charlie se unem para proteger o mundo."
-skin_id=""
+
 
 name="Capitão América: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/9Az8phwtTIQ4THpizQ54Xa6dB7x.jpg"
 fanart="https://image.tmdb.org/t/p/original/7kVucUYqz8fZkOmFtA8opDwJFXM.jpg"
 description="Baseado no personagem da Marvel Comics, Capitão América, e parte da série do Universo Cinematográfico da Marvel (MCU). A série centra-se em Steve Rogers, um homem do tempo da Segunda Guerra Mundial do Brooklyn que é transformado em super-soldado"
-skin_id=""
+
 
 name="Cara de Um, Focinho de Outro (2026)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/ftPFJBGbldoWiiPrmesW96zBzdH.jpg"
 fanart="https://image.tmdb.org/t/p/original/kKvcnXN9QwjqST1C1d79H8gLJBq.jpg"
 description="Mabel é uma jovem amante da natureza que tenta impedir o prefeito Jerry de construir uma rodovia que destruirá suas florestas locais. Graças a um experimento secreto de troca de cérebros, Mabel consegue transferir sua mente para um castor robô e segue para um lago, onde refugiados da industrialização invasora desembarcaram. Lá, ela tenta convencer os animais, liderados pelo castor majestoso Rei George, a se juntarem a ela e impedirem a construção da rodovia."
-skin_id=""
+
 
 name="Carros: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/d3a9nafpB6rUWckVptwpTJ0Sy0l.jpg"
 fanart="https://image.tmdb.org/t/p/original/3xgI2de9NV3HdvVKq2HBjS7uQRx.jpg"
 description="Em um mundo onde os carros são seres vivos, Relâmpago McQueen é um carro de corrida famoso e arrogante que, ao se perder em uma pequena cidade, aprende uma lição de humildade."
-skin_id=""
+
 
 name="Chainsaw Man - A Compilação: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/7no7pAorfhiZ7bYXoSGFb2oCH2B.jpg"
 fanart="https://image.tmdb.org/t/p/original/8zCtORjNK4GkY6VoEMU4gzQdSaP.jpg"
 description="Oficialmente, Chainsaw Man: The Compilation é um filme em duas partes, e o anúncio da Crunchyroll identifica Tatsuya Yoshihara como seu diretor, enquanto a série de TV de 2022 foi dirigida por Ryū Nakayama. Reze Arc é oficialmente descrito como a continuação dessa história, e o site oficial de Chainsaw Man posteriormente programou Compilation Parte 1, Compilation Parte 2 e Reze Arc juntos em uma única exibição noturna de 5 horas e 13 minutos. Discussões documentadas por fãs sobre os filmes de Compilation também apontam para um trabalho substancial de revisão sob a direção de Yoshihara: performances de voz regravadas ou mais enérgicas, mudanças nos diálogos notavelmente mais próximas da linguagem do mangá, ritmo de luta mais acelerado e remoção de algumas pausas lentas, mudanças nas escolhas musicais, restauração das informações sobre as baixas do Gun Devil, remoção de algumas cenas originais do anime e adição de animação de Chainsaw Days. Em conjunto, isso faz dos filmes de Compilation uma releitura teatral revisada que leva diretamente ao Reze Arc do diretor Tatsuya Yoshihara."
-skin_id=""
+
 
 name="Como Treinar o Seu Dragão (2025)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg"
 fanart="https://image.tmdb.org/t/p/original/79PNOxNXSe5e0bhEj11QJPlsdCN.jpg"
 description="Na montanhosa Ilha de Berk, vikings e dragões são inimigos implacáveis há gerações, mas Soluço é diferente. Filho do Chefe Stoico, o Imenso, o criativo e subestimado Soluço desafia séculos de tradição ao fazer amizade com Banguela, um temido dragão Fúria da Noite. Essa relação improvável revela a verdadeira natureza dos dragões, abalando as bases da sociedade viking."
-skin_id=""
+
 
 name="Constantine (2005)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/dd4uzgUAbBIiRW7dcY0AcgSWohJ.jpg"
 fanart="https://image.tmdb.org/t/p/original/z9qFZHT8K7tG2PlpKBSAqlmGST8.jpg"
 description="John Constantine (Keanu Reeves) é um experiente ocultista e exorcista, que literalmente chegou ao inferno. Juntamente com Angela Dodson (Rachel Weisz), uma policial cética, ele investiga o misterioso assassinato da irmã gêmea dela, Isabel. As investigações levam a dupla a um mundo sombrio, em que precisam lidar com demônios e anjos malvados."
-skin_id=""
+
 
 name="Contra o Tempo (2003)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/nMslq3j5MLF1KKClHj883Tw1GOX.jpg"
 fanart="https://image.tmdb.org/t/p/original/aE7GmGs9SQGcl1mZ18jBmgil2Ql.jpg"
 description="Ling deseja ter a posse de um raro e valioso diamente. Para tê-lo em mãos, ele decide por sequestrar a filha de Tony Fait, um famoso ladrão de joias, de forma a obrigá-lo a roubar o diamante. Sem saída, Fait e sua gangue forjam uma parceria com a Inteligência de Taiwan, chefiada por Su Duncan, para conseguir a cobiçada jóia."
-skin_id=""
+
 
 name="Coringa: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/cOZ2hOY9VgNANdS2gngbExi9dBh.jpg"
 fanart="https://image.tmdb.org/t/p/original/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg"
 description="Uma série centrada em um comediante de stand-up fracassado que enlouquece e se dedica a uma vida de crime e caos em Gotham City, ao mesmo tempo em que se torna uma figura psicopata infame do crime."
-skin_id=""
+
 
 name="Davi: Nasce Um Rei (2025)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/kr5Owq7ixs2gsOMZm1MferN8qZX.jpg"
 fanart="https://image.tmdb.org/t/p/original/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg"
 description="Em um reino tomado pelo medo e pela opressão, um jovem pastor de ovelhas decide enfrentar um gigante guerreiro e a escuridão que o acompanha. Com nada além de fé, coragem, uma funda e algumas pedras nas mãos, ele desafia um império e desperta o coração de uma nação."
-skin_id=""
+
 
 name="Deadpool: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/sG79t0CRVzZd7BnHGVfD5daTpGQ.jpg"
 fanart="https://image.tmdb.org/t/p/original/hBQOWY8qWXJVFAc8yLTh1teIu43.jpg"
 description="Uma série de filmes sobre o anti-super-herói do mesmo nome. Um lado engraçado e bem-humorado dos X-Men."
-skin_id=""
+
 
 name="Destruição Final: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/pgQu4N5ezDyXFXQrB8O4X4oJGca.jpg"
 fanart="https://image.tmdb.org/t/p/original/1bWiBEEmdQCkdI4pQ5iVpURznxn.jpg"
 description="A series of science-fiction disaster films focusing on a family's efforts to survive the impact of a planet-killing comet."
-skin_id=""
+
 
 name="Devoradores de Estrelas (2026)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/7pIgFNoX07z7alHt73TSsKRtYye.jpg"
 fanart="https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg"
 description="O professor de ciências Ryland Grace acorda em uma espaçonave a anos-luz de casa, sem nenhuma lembrança de quem é ou como chegou ali. À medida que sua memória retorna, ele começa a descobrir sua missão: resolver o enigma de uma substância misteriosa que está fazendo o Sol morrer. Ele precisará recorrer ao seu conhecimento científico e a ideias nada convencionais para salvar tudo na Terra da extinção… mas uma amizade inesperada pode significar que ele não terá que fazer isso sozinho."
-skin_id=""
+
 
 name="Divertida Mente: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/c0nfNHqGUYFwQXZdH6OGCYVcOgo.jpg"
 fanart="https://image.tmdb.org/t/p/original/7hYG0v6BEErqqwnU7vWJjWgYJJp.jpg"
 description="Filmes que exploram temas profundos relacionados à vida emocional e ao crescimento pessoal, especialmente da perspectiva de uma garota em transição. Por meio de uma jornada emocionalmente tocante, "Divertida Mente" aborda temas como a importância de todas as emoções, a aceitação da mudança e a compreensão de que todas as emoções têm seu lugar e propósito."
-skin_id=""
+
 
 name="Doutor Estranho: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/opxpWZnJtRZQ0q6OtZNW4AJbRK3.jpg"
 fanart="https://image.tmdb.org/t/p/original/t7Xl8fNVuETzrbpmf6dGosjIHPN.jpg"
 description="Esta série de filmes conta a história do arrogante neurocirurgião Stephen Strange que, após perder o uso das mãos em um acidente, ganha uma nova chance na vida quando uma feiticeira o treina para se tornar o Mago Supremo."
-skin_id=""
+
 
 name="Dragon Ball Super: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/5eCjxOnlOTSrZ1qOtQkp6BLNhz.jpg"
 fanart="https://image.tmdb.org/t/p/original/hBzDzjMesdB3SoxFaSjGK3rFRVG.jpg"
 description="A coleção de filmes de Dragon Ball Super."
-skin_id=""
+
 
 name="Duna: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/wSvsy0TwSg6u47CHqEcax194AGk.jpg"
 fanart="https://image.tmdb.org/t/p/original/fahk0Fu7VUUfK6IkTt1R3waOD9F.jpg"
 description="A saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis."
-skin_id=""
+
 
 name="Elementos (2023)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/tsfaRkZfUl5Ve9GMV8oY0UuLH52.jpg"
 fanart="https://image.tmdb.org/t/p/original/zjuvu5WsGfSvHxMxb9yagDQV6zg.jpg"
 description="Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum."
-skin_id=""
+
 
 name="Epa! Cadê o Noé?: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/yEJrkNKTHYrMp2NjLQeVPv2tGoI.jpg"
 fanart="https://image.tmdb.org/t/p/original/jiki5U5RhiX1pFJCfUakp5logzD.jpg"
 description="Não temos uma sinopse em Português do Brasil. Você pode ajudar a ampliar o nosso banco de dados adicionando uma."
-skin_id=""
+
 
 name="Espião por Acidente (2001)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/1kdhlCXBRZWhJTODezC4lJKiDFy.jpg"
 fanart="https://image.tmdb.org/t/p/original/2vQfPfzcFylZdPUBN6yNRusqe5X.jpg"
 description="Jackie, é um atrapalhado vendedor de uma loja de roupas esportivas que leva uma vida sem grandes emoções. Mas, quando ele vê um roubo de banco acontecer na sua frente, imediatamente entra em ação distribuindo pancadas e golpes mortais por todos os lados. Como resultado de toda publicidade alcançada por seu heroísmo, desperta a atenção de um estranho advogado que revela sua verdadeira identidade. Agora, ele quer conhecer seu pai que jamais pensou existir... um dos mais notáveis e respeitados espiões do mundo. Para desvendar os mistérios de sua família, ele terá que se passar por espião, o que poderá lhe render uma boa herança mas que definitivamente o colocará em mais confusões."
-skin_id=""
+
 
 name="Esquadrão Suicida: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/oqjsA7XPgOgbmcngJuVlvYixr2G.jpg"
 fanart="https://image.tmdb.org/t/p/original/jxWpUDJoXQII0fvaTLqn0bw1C7p.jpg"
 description="Série de filmes baseados no time de anti-heróis da DC, chamado Esquadrão Suicida."
-skin_id=""
+
 
 name="F1: O Filme (2025)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg"
 fanart="https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
 description="Sonny Hayes, a lenda do automobilismo, é persuadido a deixar a aposentadoria para liderar uma equipe de Fórmula 1 em dificuldades—e ser mentor de um jovem piloto famoso—enquanto busca mais uma oportunidade de glória."
-skin_id=""
+
 
 name="Todo Mundo em Pânico: Coleção"
 url=""
@@ -438,39 +438,38 @@ url=""
 iconimage="https://image.tmdb.org/t/p/original/6OHNDLSvTxvis1oWGdIqmH8jrEH.jpg"
 fanart="https://image.tmdb.org/t/p/original/5NTJZ571646mTziTOGt0jnq7uKe.jpg"
 description="Uma paródia de todos os filmes no estilo "found footage/documentário" lançados nos últimos anos."
-skin_id=""
+
 
 name="Sobrenatural: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/ppXhhlBtI8tomYKcby0F4hqYptR.jpg"
 fanart="https://image.tmdb.org/t/p/original/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg"
 description="A series of American horror films where the plots are depicted as case files of demonologists. The first two films center on a couple who, after their son mysteriously enters a comatose state and becomes a vessel for ghosts in an astral plane, are continuously haunted by demons of a hellish realm known as the Further until they take from the family what they want most: life. The third film, a prequel, focuses on the same psychic that helped the family this time come to the aid of a young girl who calls out to the dead, and the fourth follows her when her own family becomes haunted. All plots are depicted as case files of demonologists."
-skin_id=""
+
 
 name="Finch (2021)"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/eEJtzD1F05xDipFEDY98CTH5yZn.jpg"
 fanart="https://image.tmdb.org/t/p/original/eUUtVLv4WHoZVuxv7p0aGtZ12VH.jpg"
 description="Eu um mundo pós-apocalíptico, um robô construído para proteger o cachorro do seu criado, que está a beira da morte, aprende sobre a vida, amor e amizade, aprendendo o que significa ser humano."
-skin_id=""
+
 
 name="Five Nights at Freddy's: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/mziuu7XpcnsOb6eRvHDi666U6Nc.jpg"
 fanart="https://image.tmdb.org/t/p/original/537TH9PnmUk5X0FZaRP0wH1PJqV.jpg"
 description="A series of movies based on the video games of the same name by Scott Cawthon."
-skin_id=""
+
 
 name="Fullmetal Alchemist (Live-Action) Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/5gkYmdWDZkhaKM0P5wkpx6OaM1x.jpg"
 fanart=""
 description="A series of live action films based on the famous manga “Fullmetal Alchemist”, created by Hiromu Arakawa."
-skin_id=""
+
 
 name="Fúria de Titãs: Coleção"
 url=""
 iconimage="https://image.tmdb.org/t/p/original/t8E4iEiTBjuUUK0HQw1DN8chG4r.jpg"
 fanart="https://image.tmdb.org/t/p/original/vmE52XvE2yWWQFt4g1x17K070gY.jpg"
 description="Uma franquia de ação e fantasia baseada em personagens da mitologia grega antiga envolvendo o herói grego Perseus."
-skin_id=""
