@@ -18,7 +18,7 @@ url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip
 iconimage="https://image.tmdb.org/t/p/original/nnqscYuGNJKdM62PAxTYEf8Z9cm.jpg"
 fanart="https://image.tmdb.org/t/p/original/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg"
 description="Em um passado alternativo, uma dupla improvável se une para procurar um catálogo perdido capaz de levar eletricidade às ruas esfumaçadas de Kyoto."
-skin_id=""
+
 
 name="Among Us (2026)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
