@@ -35,7 +35,7 @@ description="A Casa dos Espíritos é uma saga familiar de 8 episódios que most
 skin_id=""
 
 name="A Dama (2026)"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/298425.zip"
 iconimage="https://image.tmdb.org/t/p/original/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg"
 fanart="https://image.tmdb.org/t/p/original/vpNqo2Uvk8GvnIIubc7ghVySbMg.jpg"
 description="Camareira real Jane Andrews saiu da pobreza e chegou ao palácio, até que uma condenação por homicídio acabou com seu conto de fadas."
