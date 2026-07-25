@@ -1,5 +1,5 @@
-name="(500) Dias com Ela (2009)"
-url=""
+name="(500) Dias com Ela"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/1273221.zip"
 iconimage="https://image.tmdb.org/t/p/original/wkspryd5Ve93npEge3OFYCRgYwY.jpg"
 fanart="https://image.tmdb.org/t/p/original/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg"
 description="Um romântico escritor se surpreende quando sua namorada Summer termina o namoro repentinamente. Com isso, ele relembra vários momentos dos 500 dias que passaram juntos para tentar descobrir onde seu caso de amor se perdeu e vai redescobrindo suas verdadeiras paixões."
