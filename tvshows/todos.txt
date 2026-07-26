@@ -21,7 +21,7 @@ description="Em um passado alternativo, uma dupla improvável se une para procur
 
 
 name="Among Us (2026)"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/229544.zip"
 iconimage="https://image.tmdb.org/t/p/original/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg"
 fanart="https://image.tmdb.org/t/p/original/iVDwwERuFEUWZ6f9pEATuKYt1WJ.jpg"
 description="Os excêntricos tripulantes de uma nave que transporta sucata pela galáxia precisam descobrir quem é o impostor entre eles antes de serem vítimas dos planos maliciosos dele. Baseada no fenômeno mundial dos videogames da Innersloth, de mesmo nome."
@@ -107,7 +107,7 @@ skin_id=""
 
 
 name="Espíritos na Escola (2023)"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/208397.zip"
 iconimage="https://image.tmdb.org/t/p/original/y3mmy2IJvLu7InRlXqGtraIB19y.jpg"
 fanart="https://image.tmdb.org/t/p/original/rwlV11hoVMfMDMFEZk4000zNfBI.jpg"
 description="Uma adolescente presa na vida após a morte decide investigar seu desaparecimento com um grupo de outros alunos que também estão presos no limbo em sua escola."
