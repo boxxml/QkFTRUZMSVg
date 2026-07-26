@@ -97,6 +97,13 @@ fanart="https://image.tmdb.org/t/p/original/g1PXzQvUJjIBM70vdfYrzaM0Jxb.jpg"
 description="Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a rivalidade dos tempos de escola."
 skin_id=""
 
+name="A Nova Super Máquina (2008)"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
+iconimage="https://image.tmdb.org/t/p/original/63Sp9y9X0P9LTMZVCeg96uAYJeW.jpg"
+fanart="https://image.tmdb.org/t/p/original/vh2ZS4Aome8klUyJH5whPnZbSZe.jpg"
+description=""A Nova Super Máquina" é uma versão moderna do clássico dos anos 1980 chamada de “A Super Máquina”. Este seriado mostra o filho de Michael Knight, que utilizando o K.I.T.T., o carro mais descolado de todos os tempos, luta contra o crime. A clássica série de velocidade e ação está de volta com mais adrenalina do que nunca. Embarque nas novas aventuras a bordo de um K.I.T.T. modernizado e aperte os cintos nessa corrida contra o crime."
+skin_id=""
+
 name="Cidade das Estrelas (2026)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/252107.zip"
 iconimage="https://image.tmdb.org/t/p/original/1YObhpxCn59eOr53devSk4Ohgay.jpg"
