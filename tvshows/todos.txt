@@ -48,6 +48,13 @@ fanart="https://image.tmdb.org/t/p/original/25g7mthXoJFcNZhAKz0evk17Bsx.jpg"
 description="Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta."
 skin_id=""
 
+name="Ash vs Evil Dead (2015)"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/62264.zip"
+iconimage="https://image.tmdb.org/t/p/original/9tNtSk46s3f1ePr59p0JG6uacc8.jpg"
+fanart="https://image.tmdb.org/t/p/original/bIna9BL7Uny1hM63ntTI9BpRkRJ.jpg"
+description="30 anos depois, o caçador de demônios Ash Williams está de volta para enfrentar uma nova praga Deadite. Ele pode ter perdido a mão, mas não o seu toque."
+skin_id=""
+
 name="Avatar: O Último Mestre do Ar (2024)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/82452.zip"
 iconimage="https://image.tmdb.org/t/p/original/zCz483fU94RxRt1gdGW1rxQkcID.jpg"
