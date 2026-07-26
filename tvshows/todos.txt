@@ -98,7 +98,7 @@ description="Nesta aclamada série que é continuação dos filmes Karatê Kid, 
 skin_id=""
 
 name="A Nova Super Máquina (2008)"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/15655.zip"
 iconimage="https://image.tmdb.org/t/p/original/63Sp9y9X0P9LTMZVCeg96uAYJeW.jpg"
 fanart="https://image.tmdb.org/t/p/original/vh2ZS4Aome8klUyJH5whPnZbSZe.jpg"
 description=""A Nova Super Máquina" é uma versão moderna do clássico dos anos 1980 chamada de “A Super Máquina”. Este seriado mostra o filho de Michael Knight, que utilizando o K.I.T.T., o carro mais descolado de todos os tempos, luta contra o crime. A clássica série de velocidade e ação está de volta com mais adrenalina do que nunca. Embarque nas novas aventuras a bordo de um K.I.T.T. modernizado e aperte os cintos nessa corrida contra o crime."
