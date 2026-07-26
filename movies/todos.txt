@@ -9,6 +9,7 @@ url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/2614.
 iconimage="https://image.tmdb.org/t/p/original/4OGOyx3D86UvQr4drIpNzjlNlfr.jpg"
 fanart="https://image.tmdb.org/t/p/original/pM4tWr37Y2cOB0mVGmvbshKpvmP.jpg"
 description="Jack Putter se sente muito bem hoje, pelo menos para um hipocondríaco. Mas algo novo está acontecendo, ele começa a ouvir vozes. "Estou possuído!", ele diz. A voz que Jack ouve é do piloto da Marinha Tuck Pendleton que foi submetido a uma miniaturização, para um projeto secreto, e acidentalmente injetado em Jack. Antes que possa dizer alguma coisa seu improvável companheiro realizará a mais incrível fuga da sua vida."
+skin_id=""
 
 
 name="Todo Mundo em Pânico (2026)"
