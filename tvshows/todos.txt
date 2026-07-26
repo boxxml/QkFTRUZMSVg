@@ -77,7 +77,7 @@ description="Jiro Azuma não é um estudante qualquer. Descendente de ninjas e t
 skin_id=""
 
 name="Blade: A Série (2006)"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/4619.zip"
 iconimage="https://image.tmdb.org/t/p/original/2XL1XAkk4ZGUmtbc8YDfWG7LX24.jpg"
 fanart="https://image.tmdb.org/t/p/original/eF7DaPaNJyIs1cQQJ0ECIc7I11z.jpg"
 description="Sticky Fingaz é o meio-homem, meio-vampiro imortal, que usa os seus poderes e capacidades sobre-humanas para combater corajosamente as demoníacas criaturas da noite, numa sangrenta cruzada para impedir o seu domínio sobre a humanidade."
