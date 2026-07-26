@@ -1,3 +1,9 @@
+name="INVENCÍVEL (2021)"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/95557.zip"
+iconimage="https://image.tmdb.org/t/p/original/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg"
+fanart="https://image.tmdb.org/t/p/original/9qrroces8C6R9aKr08hACNPVXdZ.jpg"
+description="Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece."
+skin_id=""
 
 name="100 Code (2015)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/62146.zip"
