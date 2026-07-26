@@ -13,6 +13,13 @@ fanart="https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
 description="200 anos antes dos eventos de "Game of Thrones", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen."
 skin_id=""
 
+name="As Visões da Raven (2003)"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/4602.zip"
+iconimage="https://image.tmdb.org/t/p/original/5AYuv6cSBC0Iqb1Ugkfp3z3Pjyw.jpg"
+fanart="https://image.tmdb.org/t/p/original/iacQ5HfRg7GEKpdOvHGFSh5t4xD.jpg"
+description="Raven Baxter é uma típica adolescente, mas com poderes psíquicos! Ela adora prever o futuro e com a ajuda de seus amigos, Eddie e Chelsea, elabora planos para alterar o que vai acontecer. Juntos eles criam mais problemas do que os resolvem de uma maneira muito engraçada!"
+skin_id=""
+
 name="A Luz do Futuro (2026)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
 iconimage="https://image.tmdb.org/t/p/original/nnqscYuGNJKdM62PAxTYEf8Z9cm.jpg"
