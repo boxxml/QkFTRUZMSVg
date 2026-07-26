@@ -147,13 +147,6 @@ fanart="https://image.tmdb.org/t/p/original/2746UvsbkZINd873Yd3o3TxOwCP.jpg"
 description="Durante as férias de 1958, em uma pacata cidadezinha chamada Derry, um grupo de sete amigos começa a ver coisas bizarras. Um conta que viu um palhaço, outro que viu uma múmia. Finalmente, acabam descobrindo que estavam todos vendo a mesma coisa: um ser sobrenatural e maligno que pode assumir várias formas. Ele mesmo. O Pennywise."
 skin_id=""
 
-name="INVENCÍVEL (2021)"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
-iconimage="https://image.tmdb.org/t/p/original/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg"
-fanart="https://image.tmdb.org/t/p/original/9qrroces8C6R9aKr08hACNPVXdZ.jpg"
-description="Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece."
-skin_id=""
-
 name="Money Heist (2017)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
 iconimage="https://image.tmdb.org/t/p/original/qUmlmYWx3WndM01DHOTrmeiklVW.jpg"
