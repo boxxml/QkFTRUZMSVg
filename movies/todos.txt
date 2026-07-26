@@ -1,3 +1,10 @@
+name="Avatar Aang: O Último Mestre do Ar (2026)"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/980431.zip"
+iconimage="https://image.tmdb.org/t/p/original/mTdadPqjkcjOphSsKXLiW2fgLMm.jpg"
+fanart="https://image.tmdb.org/t/p/original/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg"
+description="O Avatar Aang, o último mestre do ar do mundo, toma conhecimento de um poder antigo que poderia salvar sua cultura da extinção. Com a ajuda de seus amigos, ele embarca em uma busca global para encontrá-lo antes que caia em mãos erradas e ameace destruir a paz que eles sacrificaram tudo para alcançar."
+skin_id=""
+
 name="(500) Dias com Ela (2009)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/.zip"
 iconimage="https://image.tmdb.org/t/p/original/wkspryd5Ve93npEge3OFYCRgYwY.jpg"
