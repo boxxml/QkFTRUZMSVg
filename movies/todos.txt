@@ -4,6 +4,12 @@ iconimage="https://image.tmdb.org/t/p/original/wkspryd5Ve93npEge3OFYCRgYwY.jpg"
 fanart="https://image.tmdb.org/t/p/original/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg"
 description="Um romântico escritor se surpreende quando sua namorada Summer termina o namoro repentinamente. Com isso, ele relembra vários momentos dos 500 dias que passaram juntos para tentar descobrir onde seu caso de amor se perdeu e vai redescobrindo suas verdadeiras paixões."
 
+name="Viagem Insólita (1987)"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/2614.zip"
+iconimage="https://image.tmdb.org/t/p/original/4OGOyx3D86UvQr4drIpNzjlNlfr.jpg"
+fanart="https://image.tmdb.org/t/p/original/pM4tWr37Y2cOB0mVGmvbshKpvmP.jpg"
+description="Jack Putter se sente muito bem hoje, pelo menos para um hipocondríaco. Mas algo novo está acontecendo, ele começa a ouvir vozes. "Estou possuído!", ele diz. A voz que Jack ouve é do piloto da Marinha Tuck Pendleton que foi submetido a uma miniaturização, para um projeto secreto, e acidentalmente injetado em Jack. Antes que possa dizer alguma coisa seu improvável companheiro realizará a mais incrível fuga da sua vida."
+
 
 name="Todo Mundo em Pânico (2026)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/1273221.zip"
