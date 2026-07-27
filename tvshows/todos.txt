@@ -1,3 +1,11 @@
+
+name="Rooster Fighter (2026)"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/259819.zip"
+iconimage="https://image.tmdb.org/t/p/original/iCtbr0sIdaKZjhQH3Wr7hW6A1IU.jpg"
+fanart="https://image.tmdb.org/t/p/original/nTDL4UmMLDBCeMtYh8F1LZtgmLV.jpg"
+description="Quando criaturas estranhas atacam, Keiji as enfrenta cara a cara com seu grito de guerra: Kokekokko!"
+skin_id=""
+
 name="INVENCÍVEL 107 KB"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/95557.zip"
 iconimage="https://image.tmdb.org/t/p/original/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg"
