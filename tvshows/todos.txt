@@ -126,7 +126,7 @@ skin_id=""
 
 
 name="Dragon Ball DAIMA (2024)"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/.zip"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/tvshows/base/236994.zip"
 iconimage="https://image.tmdb.org/t/p/original/qlLJvJO8rsltmnWWbKgT13hP90I.jpg"
 fanart="https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg"
 description="Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles."
