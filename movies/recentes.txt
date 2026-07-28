@@ -1,0 +1,29 @@
+
+name="Avatar Aang: O Último Mestre do Ar (2026)"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/980431.zip"
+iconimage="https://image.tmdb.org/t/p/original/mTdadPqjkcjOphSsKXLiW2fgLMm.jpg"
+fanart="https://image.tmdb.org/t/p/original/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg"
+description="O Avatar Aang, o último mestre do ar do mundo, toma conhecimento de um poder antigo que poderia salvar sua cultura da extinção. Com a ajuda de seus amigos, ele embarca em uma busca global para encontrá-lo antes que caia em mãos erradas e ameace destruir a paz que eles sacrificaram tudo para alcançar."
+skin_id=""
+
+
+name="Todo Mundo em Pânico (2026)"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/1273221.zip"
+iconimage="https://image.tmdb.org/t/p/original/y9yJd2qIIwhZcllHeKHsz5eRvNr.jpg"
+fanart="https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
+description="Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo."
+skin_id=""
+
+
+name="Obsessão (2026)"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/1339713.zip"
+iconimage="https://image.tmdb.org/t/p/original/c1Yg0Lxj5SR0C1VxpvAAf15jFvi.jpg"
+fanart="https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
+description="Sem grandes pretensões, um romântico incurável compra um brinquedo que promete realizar desejos únicos. Ele quebra o artefato misterioso enquanto pede para conquistar a crush e consegue exatamente o que desejava, mas descobre que a consequência é sinistra."
+skin_id=""
+
+name="Cara de Um, Focinho de Outro (2026)"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/.zip"
+iconimage="https://image.tmdb.org/t/p/original/ftPFJBGbldoWiiPrmesW96zBzdH.jpg"
+fanart="https://image.tmdb.org/t/p/original/kKvcnXN9QwjqST1C1d79H8gLJBq.jpg"
+description="Mabel é uma jovem amante da natureza que tenta impedir o prefeito Jerry de construir uma rodovia que destruirá suas florestas locais. Graças a um experimento secreto de troca de cérebros, Mabel consegue transferir sua mente para um castor robô e segue para um lago, onde refugiados da industrialização invasora desembarcaram. Lá, ela tenta convencer os animais, liderados pelo castor majestoso Rei George, a se juntarem a ela e impedirem a construção da rodovia."
