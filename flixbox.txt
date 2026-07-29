@@ -7,7 +7,7 @@ bloqueado=true
 #:usuario
 nome=TESTE
 senha=TESTE.COM
-validade=2026-08-04 
+validade=2026-08-30 
 bloqueado=false
 
 #:usuario
