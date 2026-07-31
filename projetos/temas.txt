@@ -1,5 +1,5 @@
 name="TEMA 02"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/profiles.zip"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/profiles.xml"
 iconimage=""
 fanart=""
 description=""
