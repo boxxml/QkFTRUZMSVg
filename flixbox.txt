@@ -13,7 +13,7 @@ bloqueado=false
 #:usuario
 nome=!u8No
 senha=MWr6DNCd
-validade=2026-09-1 
+validade=2026-09-01 
 bloqueado=false
 
 #:usuario
