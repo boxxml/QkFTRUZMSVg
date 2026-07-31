@@ -147,6 +147,7 @@ url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/96968
 iconimage="https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/movies/base/969681-poster.jpg"
 fanart="https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/movies/base/969681-fanart.jpg"
 description="Passaram-se quatro anos desde os acontecimentos de «Sem Volta a Casa», e Peter é agora um adulto que vive totalmente sozinho, tendo-se apagado voluntariamente da vida e das memórias daqueles que ama. A combater o crime numa Nova Iorque que já não conhece o seu nome, dedicou-se inteiramente a proteger a sua cidade — um Homem-Aranha a tempo inteiro — mas, à medida que as exigências sobre ele se intensificam, a pressão desencadeia uma surpreendente evolução física que ameaça a sua existência, mesmo quando um novo e estranho padrão de crimes dá origem a uma das ameaças mais poderosas que alguma vez enfrentou."
+skin_id=""
 
 name="Supergirl (2026)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/1081003.zip"
