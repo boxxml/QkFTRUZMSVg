@@ -11,8 +11,8 @@ validade=2026-08-20
 bloqueado=false
 
 #:usuario
-nome=!u8No
-senha=MWr6DNCd
+nome=5F6v/
+senha=4#U^d
 validade=2026-09-01 
 bloqueado=false
 
