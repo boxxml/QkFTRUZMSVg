@@ -1,7 +1,6 @@
-name="TEMA 02"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/MyVideos146.db"
-iconimage=""
+name="pré-configuração"
+url="https://www.mediafire.com/file/n1zyw65mesn3l8i/Pre.zip/file"
+iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI47RykhO9akRKvEVqVZ86iSj8PeUzzIIXQ&s"
 fanart=""
-description=""
-skin_id=""
-
+description="Você tiver algum problema no elemento baixa essa pre  configuração e veja se resolve."
+skin_id="skin.flixbox"
