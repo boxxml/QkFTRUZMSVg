@@ -1,7 +1,6 @@
-name="FLIXBOX 1.5"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/MyVideos146.apk"
-iconimage=""
-fanart=""
-description=""
-skin_id=""
-
+name="FLIXBOX-PRO 1.5 2026-08-01"
+url="https://www.mediafire.com/file/a4o4cwp74gbzvqo/FLIXBOX-+OFICIAL.apk/file"
+iconimage="https://raw.githubusercontent.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/refs/heads/main/Flixbox%20pro.png"
+fanart="https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbox1.5.png?raw=true"
+description="Flixbox é uma versão modificada do Kodi com ele você sente mais leveza rapidez para navegar pelos conteúdos dos seus addons favoritos, ele contém alguns recursos que é especialmente para colaborador  para ajudar o desenvolvimento do projeto do flixbox"
+skin_id="skin.flixbox"
