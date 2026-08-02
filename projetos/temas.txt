@@ -1,4 +1,4 @@
-name="pré-configuração"
+name="configuração 01"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/01.zip"
 iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI47RykhO9akRKvEVqVZ86iSj8PeUzzIIXQ&s"
 fanart=""
