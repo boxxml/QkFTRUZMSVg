@@ -5,6 +5,13 @@ fanart="https://image.tmdb.org/t/p/original/3dK12SaczU7Tf8btq7K2F5HQg6F.jpg"
 description="A jovem babá Jill Johnson é contratada pelo casal Mandrakis para cuidar de seus dois filhos pequenos. Mas o horror começa quando alguém telefona para a casa dos Mandrakis e diz, com voz tétrica: "Você já foi olhar as crianças?". Inicialmente, a baby-sitter pensar tratar-se do sr. Mandrakis, mas logo percebe que a coisa é mais grave quando o misterioso interlocutor passa a ligar diversas vezes seguidas, sempre pronunciando a misteriosa frase: "Você já foi olhar as crianças?"."
 skin_id=""
 
+name="Top 32 Melhores Filmes Infantis PT-PT"
+url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/listras-de-filme-kids.zip"
+iconimage="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/listras-de-filme-kids.png"
+fanart=""
+description="Em busca de filmes infantis? Selecionamos uma lista repleta de ótimos títulos desse gênero cinematográfico. "
+skin_id=""
+
 
 name="Avatar Aang: O Último Mestre do Ar (2026)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/980431.zip"
