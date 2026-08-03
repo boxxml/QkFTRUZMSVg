@@ -1,5 +1,5 @@
-name="FLIXBOX 1.5"
-url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/01.zip"
+name="FLIXBOX 1.6"
+url="https://www.mediafire.com/file/7rq61u3f74992s3/kodi07.zip/file"
 iconimage="https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/projetos/flixbox1.5.png"
 fanart=""
 description="Você tiver algum problema no elemento baixa essa pre  configuração e veja se resolve."
