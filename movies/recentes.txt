@@ -164,7 +164,7 @@ skin_id=""
 
 name="Supergirl (2026)"
 url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/movies/base/1081003.zip"
-iconimage="https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg"
+iconimage="https://image.tmdb.org/t/p/original/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg"
 fanart="https://image.tmdb.org/t/p/original/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg"
 description="Quando um adversário implacável e inesperado atinge algo demasiado próximo de casa, Kara Zor-El, também conhecida como Supergirl, une forças, ainda que com relutância, com uma companheira improvável numa jornada épica e interestelar movida por justiça e vingança."
 skin_id=""
