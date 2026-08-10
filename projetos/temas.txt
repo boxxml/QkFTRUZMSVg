@@ -10,4 +10,4 @@ url="https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/hades.zi
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/repo-kodish2025/refs/heads/main/nexus/plugin.video.Hades/Icon.png"
 fanart=""
 description="O ADDON HADES by R.O é um addon multifuncional de entretenimento para Kodi, projetado para oferecer acesso rápido e organizado a conteúdos de TV Ao Vivo, Filmes e Séries. Com uma interface intuitiva e ícones personalizados, ele conecta você aos melhores servidores de streaming com máxima estabilidade.TV Ao Vivo: Grade completa de canais com suporte a EPG (Guia de Programação) para você saber o que está passando.Cinema e Séries (VOD): Milhares de títulos atualizados, com sinopses detalhadas, capas e notas de avaliação.Busca Inteligente: Ferramenta de busca individual em cada aba (TV, Filmes e Séries) para encontrar seu conteúdo favorito em segundos.Área VIP/Adulta: Conteúdo restrito com controle parental protegido por PIN"
-skin_id="plugin.video.Hades"
+addon_id="plugin.video.Hades"
