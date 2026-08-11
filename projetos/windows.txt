@@ -1,5 +1,5 @@
-name="FLIXBOX 1.6-colaborador"
-url="https://www.mediafire.com/file/s3nairvwwfmcmh7"
+name="FLIXBOX 1.6 11/08/2026"
+url="https://www.mediafire.com/file/2esa5f2joa2aiwk/"
 iconimage="https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/projetos/flixbox1.5.png"
 fanart=""
 description="Você tiver algum problema no elemento baixa essa pre  configuração e veja se resolve."
