@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Flixbox Oficial",
+    "id": "flixbox.oficial",
+    "url": "https://seu-servidor.com",
+    "description": "Add-on principal para streaming de conteúdos de vídeo.",
+    "icon": "https://imgur.com",
+    "fanart": "https://imgur.com"
+  },
+  {
+    "name": "QuickFilmes",
+    "id": "plugin.video.quickfilmes",
+    "url": "https://seu-servidor.com",
+    "description": "Acesse canais de reprodução rápida e listas personalizadas diretamente no seu Kodi.",
+    "icon": "https://imgur.com",
+    "fanart": "https://imgur.com"
+  },
+  {
+    "name": "Biblioteca Online",
+    "id": "biblioteca.online",
+    "url": "https://seu-servidor.com",
+    "description": "Utilitário de organização de arquivos de mídia e metadados na nuvem.",
+    "icon": "https://imgur.com",
+    "fanart": "https://imgur.com"
+  }
+]
