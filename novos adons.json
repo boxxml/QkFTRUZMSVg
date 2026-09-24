@@ -1,26 +1,46 @@
 [
   {
-    "name": "Flixbox Oficial",
-    "id": "flixbox.oficial",
-    "url": "https://seu-servidor.com",
-    "description": "Add-on principal para streaming de conteúdos de vídeo.",
+    "name": "Flixbox Oficial Avançado",
+    "id": "plugin.video.flixboxoficial",
+    "description": "Add-on principal otimizado para reprodução de vídeo em alta performance.",
     "icon": "https://imgur.com",
-    "fanart": "https://imgur.com"
+    "fanart": "https://imgur.com",
+    "url": {
+      "windows_x86_64": "https://seu-servidor.com",
+      "android_arm64": "https://seu-servidor.com",
+      "android_arm": "https://seu-servidor.com",
+      "universal": "https://seu-servidor.com"
+    },
+    "dependencies": {
+      "windows_x86_64": [
+        "https://seu-servidor.com",
+        "https://seu-servidor.com"
+      ],
+      "android_arm64": [
+        "https://seu-servidor.com",
+        "https://seu-servidor.com"
+      ],
+      "android_arm": [
+        "https://seu-servidor.com",
+        "https://seu-servidor.com"
+      ],
+      "universal": [
+        "https://seu-servidor.com",
+        "https://seu-servidor.com"
+      ]
+    }
   },
   {
-    "name": "QuickFilmes",
+    "name": "QuickFilmes Play",
     "id": "plugin.video.quickfilmes",
-    "url": "https://seu-servidor.com",
-    "description": "Acesse canais de reprodução rápida e listas personalizadas diretamente no seu Kodi.",
+    "description": "Acesse canais de reprodução rápida com carregamento instantâneo de listas.",
     "icon": "https://imgur.com",
-    "fanart": "https://imgur.com"
-  },
-  {
-    "name": "Biblioteca Online",
-    "id": "biblioteca.online",
-    "url": "https://seu-servidor.com",
-    "description": "Utilitário de organização de arquivos de mídia e metadados na nuvem.",
-    "icon": "https://imgur.com",
-    "fanart": "https://imgur.com"
+    "fanart": "https://imgur.com",
+    "url": {
+      "universal": "https://seu-servidor.com"
+    },
+    "dependencies": {
+      "universal": []
+    }
   }
 ]
