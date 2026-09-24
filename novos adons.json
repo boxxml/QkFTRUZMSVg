@@ -1,46 +1,25 @@
 [
   {
-    "name": "Flixbox Oficial Avançado",
-    "id": "plugin.video.flixboxoficial",
-    "description": "Add-on principal otimizado para reprodução de vídeo em alta performance.",
-    "icon": "https://imgur.com",
-    "fanart": "https://imgur.com",
+    "name": "Elementum",
+    "id": "plugin.video.elementum",
+    "description": "O Elementum é um dos add-ons mais populares e poderosos para o Kodi.Ele funciona como um motor de busca e reprodução de vídeos via redes BitTorrent, permitindo assistir a filmes e séries por streaming diretamente de arquivos torrent de alta qualidade, sem precisar baixá-los completamente antes.Diferente de outras ferramentas, ele é focado em mídia e se integra perfeitamente com plataformas como o TheMovieDB e o Trakt.tv para organizar a sua biblioteca e sincronizar o que você já assistiu",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxqD0QRbcccru2pttrEyUsQ6t7QDzW6sV1ejVLMo_4g&s=10",
+    "fanart": "",
     "url": {
-      "windows_x86_64": "https://seu-servidor.com",
-      "android_arm64": "https://seu-servidor.com",
-      "android_arm": "https://seu-servidor.com",
-      "universal": "https://seu-servidor.com"
+      "universal": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.windows_x64.zip",
+      "windows_x86_64": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.windows_x64.zip"
     },
     "dependencies": {
-      "windows_x86_64": [
-        "https://seu-servidor.com",
-        "https://seu-servidor.com"
-      ],
-      "android_arm64": [
-        "https://seu-servidor.com",
-        "https://seu-servidor.com"
-      ],
-      "android_arm": [
-        "https://seu-servidor.com",
-        "https://seu-servidor.com"
-      ],
       "universal": [
-        "https://seu-servidor.com",
-        "https://seu-servidor.com"
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.elementum.burst.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.idna.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.kodi-six.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.requests.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.urllib3.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.certifi.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.chardet.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.future.zip"
       ]
-    }
-  },
-  {
-    "name": "QuickFilmes Play",
-    "id": "plugin.video.quickfilmes",
-    "description": "Acesse canais de reprodução rápida com carregamento instantâneo de listas.",
-    "icon": "https://imgur.com",
-    "fanart": "https://imgur.com",
-    "url": {
-      "universal": "https://seu-servidor.com"
-    },
-    "dependencies": {
-      "universal": []
     }
   }
 ]
