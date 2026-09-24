@@ -1,30 +1,25 @@
 [
   {
-    "name": "Flixbox Play",
-    "version": "3.0.2",
-    "description": "Assista a canais de TV aberta, filmes e séries diretamente pelo reprodutor. O plugin conta com carregamento rápido e suporte a listas customizadas m3u8.",
-    "icon": "https://imgur.com",
-    "fanart": "https://imgur.com",
+    "name": "Elementum",
+    "id": "plugin.video.elementum",
+    "description": "O Elementum é um dos add-ons mais populares e poderosos para o Kodi.Ele funciona como um motor de busca e reprodução de vídeos via redes BitTorrent, permitindo assistir a filmes e séries por streaming diretamente de arquivos torrent de alta qualidade, sem precisar baixá-los completamente antes.Diferente de outras ferramentas, ele é focado em mídia e se integra perfeitamente com plataformas como o TheMovieDB e o Trakt.tv para organizar a sua biblioteca e sincronizar o que você já assistiu",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxqD0QRbcccru2pttrEyUsQ6t7QDzW6sV1ejVLMo_4g&s=10",
+    "fanart": "",
     "url": {
-      "windows_x86_64": "https://github.com",
-      "android_arm": "https://github.com",
-      "android_arm64": "https://github.com",
-      "universal": "https://github.com"
+      "universal": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.windows_x64.zip",
+      "windows_x86_64": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.windows_x64.zip"
     },
     "dependencies": {
       "universal": [
-        "https://github.com",
-        "https://github.com"
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.elementum.burst.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.idna.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.kodi-six.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.requests.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.urllib3.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.certifi.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.chardet.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.future.zip"
       ]
     }
-  },
-  {
-    "name": "Biblioteca Online",
-    "version": "2.0.0",
-    "description": "Extensão universal de metadados para catalogar capas de álbuns, sinopses de shows e letras de músicas automaticamente.",
-    "icon": "https://imgur.com",
-    "fanart": "https://imgur.com",
-    "url": "https://github.com",
-    "dependencies": []
   }
 ]
