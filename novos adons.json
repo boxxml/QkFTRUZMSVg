@@ -6,8 +6,8 @@
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxqD0QRbcccru2pttrEyUsQ6t7QDzW6sV1ejVLMo_4g&s=10",
     "fanart": "",
     "url": {
-      "universal": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.windows_x64.zip",
-      "windows_x86_64": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.windows_x64.zip"
+      "universal": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.115.windows_x64.zip",
+      "windows_x86_64": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.115.windows_x64.zip"
     },
     "dependencies": {
       "universal": [
