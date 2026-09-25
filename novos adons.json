@@ -30,5 +30,20 @@
     "dependencies": {
       "universal": []
     }
+  },
+  {
+    "name": "elementum",
+    "id": "plugin.video.elementum",
+    "description": "O Elementum é um dos complementos (add-ons) mais poderosos e populares para o Kodi",
+    "icon": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/projetos/plugin.video.elementum/icon.png?raw=true",
+    "fanart": "",
+    "url": {
+      "universal": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.zip",
+      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.windows.zip",
+      "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.android.zip"
+    },
+    "dependencies": {
+      "universal": []
+    }
   }
 ]
