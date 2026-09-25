@@ -21,6 +21,22 @@
         "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.chardet.zip",
         "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.future.zip"
       ]
+    },
+	{
+    "name": "vkkodi",
+    "id": "vkkodi.rep",
+	"version": "3.33",
+    "description": "Vikings - Repositorio Oficial! A Casa dos Melhores Add-ons BR",
+    "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/projetos/addons/vkkodi.repo/icon.png",
+    "fanart": "",
+    "url": {
+      "universal": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/projetos/addons/vkkodi.repo.zip",
+      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/projetos/addons/vkkodi.repo.zip",
+      "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/projetos/addons/vkkodi.repo.zip",
+      "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/projetos/addons/vkkodi.repo.zip"
+    },
+    "dependencies": {
+      "universal": []
     }
   }
 ]
