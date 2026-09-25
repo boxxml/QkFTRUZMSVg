@@ -39,11 +39,21 @@
     "fanart": "",
     "url": {
       "universal": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.zip",
-      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.windows.zip",
-      "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.android.zip"
+      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/addons/plugin.video.elementum-windows.zip",
+      "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/addons/plugin.video.elementum-android-64.zip",
+      "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/addons/plugin.video.elementum-android-32.zip"
     },
     "dependencies": {
-      "universal": []
+      "universal": [
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.elementum.burst.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.certifi.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.chardet.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.future.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.idna.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.kodi-six.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.requests.zip",
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.urllib3.zip"
+      ]
     }
   }
 ]
