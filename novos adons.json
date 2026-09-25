@@ -39,7 +39,7 @@
     "fanart": "",
     "url": {
       "universal": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.zip",
-      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/addons/plugin.video.elementum-windows.zip",
+      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.elementum-windows.zip",
       "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/addons/plugin.video.elementum-android-64.zip",
       "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/addons/plugin.video.elementum-android-32.zip"
     },
