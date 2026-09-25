@@ -2,6 +2,7 @@
   {
     "name": "Elementum",
     "id": "plugin.video.elementum",
+	"version": "0.1.114",
     "description": "O Elementum é um dos add-ons mais populares e poderosos para o Kodi.Ele funciona como um motor de busca e reprodução de vídeos via redes BitTorrent, permitindo assistir a filmes e séries por streaming diretamente de arquivos torrent de alta qualidade, sem precisar baixá-los completamente antes.Diferente de outras ferramentas, ele é focado em mídia e se integra perfeitamente com plataformas como o TheMovieDB e o Trakt.tv para organizar a sua biblioteca e sincronizar o que você já assistiu",
     "icon": "https://iwf1.com/scrapekod/icons/plugin.video.elementum.png",
     "fanart": "",
