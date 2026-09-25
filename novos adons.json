@@ -31,10 +31,10 @@
     "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/projetos/addons/vkkodi.repo/icon.png",
     "fanart": "",
     "url": {
-      "universal": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/projetos/addons/vkkodi.repo.zip",
-      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/projetos/addons/vkkodi.repo.zip",
-      "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/projetos/addons/vkkodi.repo.zip",
-      "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/projetos/addons/vkkodi.repo.zip"
+      "universal": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip",
+      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip",
+      "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip",
+      "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip"
     },
     "dependencies": {
       "universal": []
