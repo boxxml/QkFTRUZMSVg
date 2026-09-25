@@ -1,40 +1,31 @@
 [
   {
-    "name": "Elementum",
-    "id": "plugin.video.elementum",
-	"version": "0.1.115",
-    "description": "O Elementum é um dos add-ons mais populares e poderosos para o Kodi.Ele funciona como um motor de busca e reprodução de vídeos via redes BitTorrent, permitindo assistir a filmes e séries por streaming diretamente de arquivos torrent de alta qualidade, sem precisar baixá-los completamente antes.Diferente de outras ferramentas, ele é focado em mídia e se integra perfeitamente com plataformas como o TheMovieDB e o Trakt.tv para organizar a sua biblioteca e sincronizar o que você já assistiu",
-    "icon": "https://iwf1.com/scrapekod/icons/plugin.video.elementum.png",
+    "name": "Vikings Repositorio",
+    "id": "vkkodi.repo",
+    "description": ">Repositório Vikings levando os melhores addons a sua familia e aos quatro cantos do Mundo!!!",
+    "icon": "https://github.com/oneplayhd/oneplayhd.github.io/blob/master/vkkodi.repo/icon.png?raw=true",
     "fanart": "",
     "url": {
-      "universal": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.windows_x64.zip",
-      "windows_x86_64": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.windows_x64.zip"
+      "universal": "https://github.com/oneplayhd/oneplayhd.github.io/raw/refs/heads/master/vkkodi.repo/vkkodi.repo-3.32.zip",
+      "windows_x86_64": "https://github.com/oneplayhd/oneplayhd.github.io/raw/refs/heads/master/vkkodi.repo/vkkodi.repo-3.32.zip",
+      "android_arm64": "https://github.com/oneplayhd/oneplayhd.github.io/raw/refs/heads/master/vkkodi.repo/vkkodi.repo-3.32.zip",
+      "android_arm": "https://github.com/oneplayhd/oneplayhd.github.io/raw/refs/heads/master/vkkodi.repo/vkkodi.repo-3.32.zip"
     },
     "dependencies": {
-      "universal": [
-        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.elementum.burst.zip",
-        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.idna.zip",
-        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.kodi-six.zip",
-        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.requests.zip",
-        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.urllib3.zip",
-        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.certifi.zip",
-        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.chardet.zip",
-        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.future.zip"
-      ]
+      "universal": []
     }
   },
-	{
-    "name": "vkkodi",
-    "id": "vkkodi.rep",
-	"version": "3.33",
-    "description": "Vikings - Repositorio Oficial! A Casa dos Melhores Add-ons BR",
-    "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/projetos/addons/vkkodi.repo/icon.png",
-    "fanart": "",
+  {
+    "name": "Repositorio: ONEPLAY",
+    "id": "One.repo",
+    "description": "ONEREPO é um agregador de addons. Assim como o Google.com, o OnePlay atua exclusivamente como um indexador e organizador de links de conteúdos disponibilizados publicamente na internet.",
+    "icon": "https://github.com/oneplayhd/oneplayhd.github.io/blob/master/One.repo/icon.png?raw=true",
+    "fanart": "https://github.com/oneplayhd/oneplayhd.github.io/blob/master/One.repo/icon.png?raw=true",
     "url": {
-      "universal": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip",
-      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip",
-      "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip",
-      "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip"
+      "universal": "https://github.com/oneplayhd/oneplayhd.github.io/raw/refs/heads/master/One.repo/One.repo-1.16.zip",
+      "windows_x86_64": "https://github.com/oneplayhd/oneplayhd.github.io/raw/refs/heads/master/One.repo/One.repo-1.16.zip",
+      "android_arm64": "https://github.com/oneplayhd/oneplayhd.github.io/raw/refs/heads/master/One.repo/One.repo-1.16.zip",
+      "android_arm": "https://github.com/oneplayhd/oneplayhd.github.io/raw/refs/heads/master/One.repo/One.repo-1.16.zip"
     },
     "dependencies": {
       "universal": []
