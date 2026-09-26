@@ -1,75 +1,33 @@
 [
   {
-    "id": "stranger-things",
-    "titulo": "Stranger Things",
-    "ano": 2016,
-    "nota": 8.7,
+    "id": "Reacher",
+    "titulo": "Reacher",
+    "sinopse": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Baseado na saga literária de Lee Child.",
+    "ano": 2022,
+    "nota": 8.1,
     "classificacao": "16",
-    "estudio": "Netflix",
-    "generos": ["Ficção Científica", "Drama", "Terror"],
-    "sinopse": "Quando um jovem garoto desaparece, uma pequena cidade descobre um mistério envolvendo experimentos secretos, forças sobrenaturais aterrorizantes e uma estranha garotinha.",
-    "poster": "https://image.tmdb.org/t/p/original/twfKp60THrcOIep9sjHODOOfO8d.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/twfKp60THrcOIep9sjHODOOfO8d.jpg",
-    "banner": "https://thetvdb.com",
-    "elenco": [
-      {"nome": "Millie Bobby Brown", "papel": "Eleven", "foto": "https://thetvdb.com"},
-      {"nome": "Winona Ryder", "papel": "Joyce Byers", "foto": "https://thetvdb.com"},
-      {"nome": "David Harbour", "papel": "Jim Hopper", "foto": "https://thetvdb.com"}
+    "estudio": "",
+    "generos": [
+      "Action & Adventure e Crime"
     ],
+    "poster": "https://image.tmdb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "banner": "",
+    "elenco": [],
     "temporadas": [
       {
         "numero": 1,
+        "sinopse": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Munido apenas da sua inteligência, deve descobrir o que se passa em Margrave, Geórgia.",
+        "poster": "https://image.tmdb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
         "episodios": [
           {
             "numero": 1,
-            "titulo": "Capítulo Um: O Desaparecimento de Will Byers",
-            "sinopse": "No caminho para casa, o jovem Will vê algo terrível. Perto dali, um segredo sinistro esconde-se nas profundezas de um laboratório do governo.",
-            "url": "https://googleapis.com",
-            "thumb": "https://nocookie.net",
-            "duracao": 2900,
-            "diretor": "The Duffer Brothers"
-          },
-          {
-            "numero": 2,
-            "titulo": "Capítulo Dois: A Estranha da Private Street",
-            "sinopse": "Lucas, Dustin e Mike tentam falar com a garota que encontraram na floresta. O chefe de polícia Hopper questiona uma ansiosa Joyce sobre o telefone.",
-            "url": "https://googleapis.com",
-            "thumb": "https://nocookie.net",
-            "duracao": 3300,
-            "diretor": "The Duffer Brothers"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "the-last-of-us",
-    "titulo": "The Last of Us",
-    "ano": 2023,
-    "nota": 8.8,
-    "classificacao": "18",
-    "estudio": "HBO",
-    "generos": ["Ação", "Aventura", "Drama"],
-    "sinopse": "Vinte anos após a destruição da civilização moderna, Joel, um sobrevivente experiente, é contratado para contrabandear Ellie, uma garota de 14 anos, para fora de uma zona de quarentena opressiva.",
-    "poster": "https://image.tmdb.org/t/p/original/twfKp60THrcOIep9sjHODOOfO8d.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/twfKp60THrcOIep9sjHODOOfO8d.jpg",
-    "banner": "https://thetvdb.com",
-    "elenco": [
-      {"nome": "Pedro Pascal", "papel": "Joel Miller", "foto": "https://thetvdb.com"},
-      {"nome": "Bella Ramsey", "papel": "Ellie Williams", "foto": "https://thetvdb.com"}
-    ],
-    "temporadas": [
-      {
-        "numero": 1,
-        "episodios": [
-          {
-            "numero": 1,
-            "titulo": "Quando Estiver Perdido na Escuridão",
-            "sinopse": "Vinte anos após um surto fúngico devastar o planeta, os sobreviventes Joel e Tess recebem a missão de cuidar de uma jovem que pode ser a chave para a cura.",
-            "url": "https://googleapis.com",
-            "thumb": "https://nocookie.net",
-            "duracao": 4800,
-            "diretor": "Craig Mazin"
+            "titulo": "Bem-vindo a Margrave",
+            "sinopse": "Reacher é erradamente acusado de homicídio, enquanto visita a pequena cidade de Margrave, GA.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/15xLLZN3LLAdvoiHnYL5DcXlsYu.jpg",
+            "url": "HTTPS"
           }
         ]
       }
