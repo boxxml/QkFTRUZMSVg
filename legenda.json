@@ -1,0 +1,14 @@
+[
+  {
+    "nome_arquivo": "Toy Story 5.srt",
+    "url_download": "https://sua-api-remota.com",
+    "idioma": "Portuguese (Brazil)",
+    "nota": "5"
+  },
+  {
+    "nome_arquivo": "Nome.Do.Filme.2026.720p.BluRay.srt",
+    "url_download": "https://sua-api-remota.com",
+    "idioma": "Portuguese (Brazil)",
+    "nota": "4"
+  }
+]
