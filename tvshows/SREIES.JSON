@@ -2,53 +2,18 @@
   {
     "id": "stranger-things",
     "titulo": "Stranger Things",
-    "ano": 2025,
-    "classificacao": 9.2,
-    "estudio": "Netflix",
-    "genero": ["Ficção Científica", "Terror", "Drama"],
-    "tags": ["Anos 80", "Mundo Invertido", "Mistério"],
-    "sinopse": "Quando um jovem garoto desaparece, uma pequena cidade descobre um mistério envolvendo experimentos secretos, forças sobrenaturais aterrorizantes e uma estranha garotinha.",
-    "poster": "https://githubusercontent.com",
-    "fanart": "https://githubusercontent.com",
+    "ano": "2016",
+    "sinopse": "Um grupo de amigos se envolve em uma série de eventos sobrenaturais.",
+    "poster": "https://placeholder.com",
     "temporadas": [
       {
         "numero": 1,
-        "titulo": "1ª Temporada",
         "episodios": [
           {
             "numero": 1,
             "titulo": "Capítulo Um: O Desaparecimento de Will Byers",
-            "url": "https://archive.org"
-          },
-          {
-            "numero": 2,
-            "titulo": "Capítulo Dois: A Estranha da Springfield",
-            "url": "https://archive.org"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "the-last-of-us",
-    "titulo": "The Last of Us",
-    "ano": 2024,
-    "classificacao": 8.8,
-    "estudio": "HBO",
-    "genero": ["Ação", "Drama", "Ficção Científica"],
-    "tags": ["Pós-Apocalíptico", "Zumbis", "Baseado em Jogo"],
-    "sinopse": "Joel e Ellie, uma dupla conectada pela crueza do mundo em que vivem, são forçados a suportar circunstâncias brutais e assassinos implacáveis em uma jornada pela América pós-pandêmica.",
-    "poster": "https://githubusercontent.com",
-    "fanart": "https://githubusercontent.com",
-    "temporadas": [
-      {
-        "numero": 1,
-        "titulo": "1ª Temporada",
-        "episodios": [
-          {
-            "numero": 1,
-            "titulo": "Quando Estiver Perdido na Escuridão",
-            "url": "https://archive.org"
+            "url": "http://googleapis.com",
+            "sinopse": "O início dos mistérios na cidade de Hawkins."
           }
         ]
       }
