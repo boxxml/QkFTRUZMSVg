@@ -3,8 +3,10 @@
     "id": "stranger-things",
     "titulo": "Stranger Things",
     "ano": "2016",
-    "sinopse": "Um grupo de amigos se envolve em uma série de eventos sobrenaturais.",
-    "poster": "https://placeholder.com",
+    "sinopse": "Quando um jovem garoto desaparece, uma pequena cidade descobre um mistério envolvendo experimentos secretos, forças sobrenaturais aterrorizantes e uma estranha garotinha.",
+    "poster": "https://justwatch.com",
+    "fanart": "https://justwatch.com",
+    "banner": "https://thetvdb.com",
     "temporadas": [
       {
         "numero": 1,
@@ -12,11 +14,26 @@
           {
             "numero": 1,
             "titulo": "Capítulo Um: O Desaparecimento de Will Byers",
-            "url": "http://googleapis.com",
-            "sinopse": "O início dos mistérios na cidade de Hawkins."
+            "sinopse": "No caminho para casa, o jovem Will vê algo terrível. Perto dali, um segredo sinistro esconde-se nas profundezas de um laboratório do governo.",
+            "url": "https://googleapis.com",
+            "thumb": "https://nocookie.net"
+          },
+          {
+            "numero": 2,
+            "titulo": "Capítulo Dois: A Estranha da Private Street",
+            "sinopse": "Lucas, Dustin e Mike tentam falar com a garota que encontraram na floresta. O chefe de polícia Hopper questiona uma ansiosa Joyce sobre o telefone.",
+            "url": "https://googleapis.com",
+            "thumb": "https://nocookie.net"
           }
         ]
-      }
-    ]
-  }
-]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Capítulo Um: Madmax",
+            "sinopse": "A cidade se prepara para o Halloween, um novo jogador agita o fliperama e o cético Hopper inspeciona um campo de abóboras apodrecidas.",
+            "url": "https://googleapis.com",
+            "thumb": "https://nocookie.net"
+          }
