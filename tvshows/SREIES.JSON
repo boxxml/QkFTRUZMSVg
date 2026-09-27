@@ -326,7 +326,8 @@
             "diretor": "",
             "thumb": "",
             "url": ""
-          },
+          }
+        ],
   {
     "id": "108978-reacher",
     "titulo": "Reacher",
@@ -664,5 +665,4 @@
             "thumb": "https://image.tmdb.org/t/p/original/fx4RRJtY9Dusdo2RW1CLB6jA0m7.jpg",
             "url": ""
           }
-		  
           ]
