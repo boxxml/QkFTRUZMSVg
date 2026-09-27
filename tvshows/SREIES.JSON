@@ -3367,5 +3367,144 @@
         ]
       }
     ]
+  },
+  {
+    "id": "4619-blade-a-serie",
+    "titulo": "Blade: A Série",
+    "sinopse": "A veterana do exército, Krista Starr, está em busca do assassino de seu irmão gêmeo. Em meio às investigações, ela descobre uma inacreditável organização de vampiros em Detroit, liderada pelo implacável Marcus Van Sciver. Envolvida nas armações das criaturas da noite, ela vai contar com a relutante ajuda de Blade, o caçador de vampiros - metade humano, metade vampiro. Este anti-herói é dotado de incríveis poderes e armamentos que utiliza em sua luta para dar fim à raça de sugadores de sangue.",
+    "ano": 2006,
+    "nota": 6.5,
+    "classificacao": "14",
+    "estudio": "Spike",
+    "generos": [
+      "Action & Adventure e Sci-Fi & Fantasy e Drama e Mistério"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/2XL1XAkk4ZGUmtbc8YDfWG7LX24.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/eF7DaPaNJyIs1cQQJ0ECIc7I11z.jpg",
+    "banner": "",
+    "elenco": [
+      "Sticky Fingaz",
+      "Jill Wagner",
+      "李志傑",
+      "Jessica Gower",
+      "Neil Jackson"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/bdpbXGczc9zvRyYVUvNci1KWnfx.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "",
+            "duracao": 84,
+            "diretor": "Peter O'Fallon",
+            "thumb": "https://image.tmdb.org/t/p/original/fO7nruvvkBzFudRR1bsvvGNhpzv.jpg",
+            "url": "https://ia600506.us.archive.org/0/items/t-v-s-h-o-w-s01/4619-01-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Michael Robison",
+            "thumb": "https://image.tmdb.org/t/p/original/aNLWM13KfpNUt1vYzS8PWROGtBk.jpg",
+            "url": "https://ia600506.us.archive.org/0/items/t-v-s-h-o-w-s01/4619-01-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "John Fawcett",
+            "thumb": "https://image.tmdb.org/t/p/original/3gVA1dsqXL1ulOuGHzPeT81Mpvc.jpg",
+            "url": "https://ia600506.us.archive.org/0/items/t-v-s-h-o-w-s01/4619-01-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/2QnSVlZz3fCQ74tH2GMA2yZOuLa.jpg",
+            "url": "https://ia600506.us.archive.org/0/items/t-v-s-h-o-w-s01/4619-01-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Michael Robison",
+            "thumb": "https://image.tmdb.org/t/p/original/ucj7F5i5LvUAo325tj5IXgz1e9V.jpg",
+            "url": "https://ia600506.us.archive.org/0/items/t-v-s-h-o-w-s01/4619-01-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Alex Chapple",
+            "thumb": "https://image.tmdb.org/t/p/original/oLIb5ubhsh5C2ldBHG6iRmjvm3z.jpg",
+            "url": "https://ia600506.us.archive.org/0/items/t-v-s-h-o-w-s01/4619-01-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "David Staiton",
+            "thumb": "https://image.tmdb.org/t/p/original/kIymmja5C2RkohBbucDMFobhOVh.jpg",
+            "url": "https://ia600506.us.archive.org/0/items/t-v-s-h-o-w-s01/4619-01-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Norberto Barba",
+            "thumb": "https://image.tmdb.org/t/p/original/RBVe8sv66nxm7Af6e96KEsD2z9.jpg",
+            "url": "https://ia600506.us.archive.org/0/items/t-v-s-h-o-w-s01/4619-01-08.mkv"
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Félix Alcalá",
+            "thumb": "https://image.tmdb.org/t/p/original/5r2fGZn82JCwUqMXYSl2FDIw7rZ.jpg",
+            "url": "https://ia600506.us.archive.org/0/items/t-v-s-h-o-w-s01/4619-01-09.mkv"
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Brad Turner",
+            "thumb": "https://image.tmdb.org/t/p/original/wMSTdFBASojV6LvrLp8fPl2aBu8.jpg",
+            "url": "https://ia600506.us.archive.org/0/items/t-v-s-h-o-w-s01/4619-01-10.mkv"
+          },
+          {
+            "numero": 11,
+            "titulo": "Episódio 11",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Ken Girotti",
+            "thumb": "https://image.tmdb.org/t/p/original/i0aLjdGOUe6a0SRu44lv72NBvzT.jpg",
+            "url": "https://ia600506.us.archive.org/0/items/t-v-s-h-o-w-s01/4619-01-11.mkv"
+          },
+          {
+            "numero": 12,
+            "titulo": "Episódio 12",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/igse3GZJhCKPXxD8w6PSdABrMHE.jpg",
+            "url": "https://ia600506.us.archive.org/0/items/t-v-s-h-o-w-s01/4619-01-12.mkv"
+          }
+        ]
+      }
+    ]
   }
 ]
