@@ -2828,5 +2828,285 @@
         ]
       }
     ]
+  },
+  {
+    "id": "94997-a-casa-do-dragao",
+    "titulo": "A Casa do Dragão",
+    "sinopse": "200 anos antes dos eventos de \"Game of Thrones\", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.",
+    "ano": 2022,
+    "nota": 8.4,
+    "classificacao": "16",
+    "estudio": "HBO",
+    "generos": [
+      "Sci-Fi & Fantasy e Drama e Action & Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/oKJDm4QCKbp6mR4FnxXrFlPJP8Y.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+    "banner": "",
+    "elenco": [
+      "Matt Smith",
+      "Emma D'Arcy",
+      "Olivia Cooke",
+      "James Norton",
+      "Steve Toussaint",
+      "Fabien Frankel"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Ambientada quase 200 anos antes de Game of Thrones, esta temporada narra os eventos que levaram à guerra civil Targaryen, conhecida como a Dança dos Dragões. O Rei Viserys I Targaryen nomeia sua filha, a Princesa Rhaenyra, como herdeira do Trono de Ferro, quebrando a tradição e acirrando as tensões no reino. A corte se divide quando a Rainha Alicent Hightower, segunda esposa de Viserys, promove a reivindicação de seu filho Aegon ao trono. Intrigas políticas, alianças instáveis ​​e traições pessoais preparam o terreno para um conflito iminente que ameaça destruir a dinastia Targaryen.",
+        "poster": "https://image.tmdb.org/t/p/original/yXo83cODROFRYXS40ipHsSICfTY.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Os Herdeiros do Dragão",
+            "sinopse": "Viserys organiza um torneio para comemorar o nascimento de seu segundo filho. Rhaenyra recebe seu tio Daemon na Fortaleza Vermelha.",
+            "duracao": 66,
+            "diretor": "Miguel Sapochnik",
+            "thumb": "https://image.tmdb.org/t/p/original/3oumSnkavc4pcMFvPbgWDUTclNb.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-01-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "O Príncipe Canalha",
+            "sinopse": "Rhaenyra se excede no Pequeno Conselho. Viserys é aconselhado a garantir a sucessão através do casamento. Daemon anuncia suas intenções.",
+            "duracao": 54,
+            "diretor": "Greg Yaitanes",
+            "thumb": "https://image.tmdb.org/t/p/original/uyWlPCKMPcjxjiKY6xFKtdbkFSR.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-01-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "Segundo de Seu Nome",
+            "sinopse": "Daemon e a Serpente Marinha lutam contra o Engorda Caranguejos. O reino celebra o segundo dia do nome de Aegon. Rhaenyra enfrenta a possibilidade de um casamento.",
+            "duracao": 63,
+            "diretor": "Greg Yaitanes",
+            "thumb": "https://image.tmdb.org/t/p/original/fP1HCPFgwfXCcGHhjhgf0sndWAH.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-01-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "Rei do Mar Estreito",
+            "sinopse": "Depois que Rhaenyra interrompe sua turnê por Westeros, Daemon apresenta a princesa à Rua da Seda após o anoitecer.",
+            "duracao": 62,
+            "diretor": "Clare Kilner",
+            "thumb": "https://image.tmdb.org/t/p/original/mW2a20R8VZqENHAmz47x21FCoYV.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-01-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "Iluminamos o Caminho",
+            "sinopse": "Daemon visita sua esposa no Vale. Viserys e Rhaenyra negociam acordos com os Velaryon. Alicent busca a verdade sobre a princesa.",
+            "duracao": 60,
+            "diretor": "Clare Kilner",
+            "thumb": "https://image.tmdb.org/t/p/original/8kgv0QAfICMGPqDD2dQvO9TR3AD.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-01-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "A Princesa e a Rainha",
+            "sinopse": "Dez anos depois, Rhaenyra lida com as constantes especulações de Alicent sobre seus filhos. Enquanto isso, Daemon e Laena avaliam uma oferta em Pentos.",
+            "duracao": 67,
+            "diretor": "Miguel Sapochnik",
+            "thumb": "https://image.tmdb.org/t/p/original/lcBTDoCkBTJAdi8VagMQdzB6RYi.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-01-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "Driftmark",
+            "sinopse": "Enquanto as famílias se reúnem em Driftmark para um funeral, Viserys pede que as lutas internas cessem e Alicent exige justiça.",
+            "duracao": 59,
+            "diretor": "Miguel Sapochnik",
+            "thumb": "https://image.tmdb.org/t/p/original/nasv3ej4xd0An87ExkcIFL8ePvE.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-01-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "O Senhor das Marés",
+            "sinopse": "Seis anos depois. Com uma repentina crise de sucessão em Driftmark, Rhaenyra tenta chegar a um acordo com Rhaenys.",
+            "duracao": 67,
+            "diretor": "Geeta Patel",
+            "thumb": "https://image.tmdb.org/t/p/original/iSL0p7ZF6X8cfoDwfAAPavVZFlC.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-01-08.mkv"
+          },
+          {
+            "numero": 9,
+            "titulo": "O Conselho Verde",
+            "sinopse": "Enquanto Alicent pede ajuda a Cole e Aemond para localizar Aegon, Otto reúne as grandes casas de Westeros para que afirmem sua lealdade.",
+            "duracao": 58,
+            "diretor": "Clare Kilner",
+            "thumb": "https://image.tmdb.org/t/p/original/hQV9o7EM9Ex8vobmM830HPrv924.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-01-09.mkv"
+          },
+          {
+            "numero": 10,
+            "titulo": "A Rainha Negra",
+            "sinopse": "Enquanto lamenta uma perda trágica, Rhaenyra tenta manter o reino unido, e Daemon se prepara para a guerra.",
+            "duracao": 59,
+            "diretor": "Greg Yaitanes",
+            "thumb": "https://image.tmdb.org/t/p/original/8QXW8N0FneCDf8PkTJ0HUXpuVin.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-01-10.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "A Dança dos Dragões irrompe quando Rhaenyra e Aegon II reivindicam o Trono de Ferro, mergulhando Westeros em uma brutal guerra civil. A temporada explora as complexidades da lealdade, do poder e da família, enquanto ambos os lados utilizam dragões e exércitos para afirmar sua supremacia. Eventos cruciais incluem o trágico assassinato do Príncipe Jaehaerys, que intensifica o conflito, e a dinâmica em constante mudança entre figuras-chave como Daemon Targaryen e Alicent Hightower. À medida que a guerra se intensifica, o reino testemunha as consequências devastadoras da ambição e o alto preço das disputas de sucessão.",
+        "poster": "https://image.tmdb.org/t/p/original/d8um9L1fqQGCLgTw5JGPHogdNgK.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Um Filho por um Filho",
+            "sinopse": "Enquanto Alicent fica cada vez mais preocupada com o Conselho de Aegon, Rhaenyra toma uma decisão fatídica.",
+            "duracao": 58,
+            "diretor": "Alan Taylor",
+            "thumb": "https://image.tmdb.org/t/p/original/s0OUOQKhFdshcwWEMkNKogOOWd4.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-02-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "Rhaenyra, a Cruel",
+            "sinopse": "Rhaenyra questiona a lealdade de Daemon enquanto Otto planeja colocar o público contra ela.",
+            "duracao": 69,
+            "diretor": "Clare Kilner",
+            "thumb": "https://image.tmdb.org/t/p/original/plVChbDtiWCZowdqiKThSXZaWYa.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-02-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "O Moinho Ardente",
+            "sinopse": "Enquanto velhos rancores ressurgem, Rhaenys sugere moderação. Daemon chega a Harrenhal para formar um exército para os Pretos.",
+            "duracao": 66,
+            "diretor": "Geeta Patel",
+            "thumb": "https://image.tmdb.org/t/p/original/p0qHRRhD8QOONaxJBzUewTRWADO.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-02-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "O Dragão Vermelho e O Dourado",
+            "sinopse": "Na ausência de Rhaenyra e sem nenhuma palavra de Daemon em Harrenhal, Rhaenys tenta manter a paz no Conselho Negro enquanto Cole monta uma campanha nas Terras da Coroa. Em Porto Real, Aemond continua a minar o frágil domínio de autoridade de Aegon.",
+            "duracao": 55,
+            "diretor": "Alan Taylor",
+            "thumb": "https://image.tmdb.org/t/p/original/3PUDi380j8xIwJ3dMAext9kj2GR.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-02-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "O Regente",
+            "sinopse": "Em meio a rumores de maus presságios, os Verdes consideram como preencher uma lacuna no Conselho de Aegon, Jacaerys parte em uma missão desonesta para chegar a um acordo, e Daemon convoca Lorde Willem Blackwood para ajudar a persuadir os Brackens a dobrarem os joelhos.",
+            "duracao": 63,
+            "diretor": "Clare Kilner",
+            "thumb": "https://image.tmdb.org/t/p/original/5IDHh8l7c0vKIkv8yfGa3cuw0mX.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-02-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "Os Plebeus",
+            "sinopse": "Com poucas opções restantes, Rhaenyra convoca um cavaleiro de confiança para uma aventura arriscada e conspira com Mysaria para catalisar o povo comum. Enquanto isso, o desconforto de Daemon aumenta e Aemond toma medidas para remodelar o Conselho Verde.",
+            "duracao": 67,
+            "diretor": "Andrij Parekh",
+            "thumb": "https://image.tmdb.org/t/p/original/8KfK0u7dkFXTyFXbTytbzX9bHr0.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-02-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "A Semeação Vermelha",
+            "sinopse": "Enquanto Rhaenyra procura obter vantagem por meios incomuns, Daemon pressiona um jovem lorde a convocar seus vassalos.",
+            "duracao": 64,
+            "diretor": "Loni Peristere",
+            "thumb": "https://image.tmdb.org/t/p/original/j33ry5ZtW8O1xFkRbGMFT9avAeD.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-02-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "A Rainha que Sempre Foi",
+            "sinopse": "Conforme Aemond fica mais volátil, Larys planeja uma fuga e Alicent se preocupa cada vez mais pela segurança de Helaena. Envaidecida com seu novo poder, Rhaenyra procura aproveitar toda a sua vantagem.",
+            "duracao": 69,
+            "diretor": "Geeta Patel",
+            "thumb": "https://image.tmdb.org/t/p/original/rOJNO7vZ8yEWTivZHON6Pqy6Xri.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-02-08.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "Rhaenyra parece se aproximar da vitória na guerra entre as duas facções da Casa Targaryen. Mas o equilíbrio de poder é frágil, e tudo pode mudar quando as lealdades mudam e novos personagens entram em cena.",
+        "poster": "https://image.tmdb.org/t/p/original/oKJDm4QCKbp6mR4FnxXrFlPJP8Y.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Sal e Mar, Fogo e Sangue",
+            "sinopse": "Impulsionada por sua fé em Alicent, Rhaenyra se prepara para tomar King's Landing enquanto a Triarquia zarpa para enfrentar Corlys na Goela.",
+            "duracao": 66,
+            "diretor": "Loni Peristere",
+            "thumb": "https://image.tmdb.org/t/p/original/oVawK97dRbB7zeMaC44SjXQgUr1.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-03-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "Porto da Rainha",
+            "sinopse": "Alicent arrisca tudo para cumprir sua parte do acordo, Rhaenyra deve decidir se o preço do Trono de Ferro é alto demais.",
+            "duracao": 64,
+            "diretor": "Clare Kilner",
+            "thumb": "https://image.tmdb.org/t/p/original/tUsEe9OiDR2P7l5VwcRKVrsFaOI.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-03-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "Rhaenyra Triunfante",
+            "sinopse": "Sem conseguir localizar seus inimigos e pressionada pelas exigências, Rhaenyra descobre que a situação em King’s Landing não é a que esperava.",
+            "duracao": 57,
+            "diretor": "Clare Kilner",
+            "thumb": "https://image.tmdb.org/t/p/original/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-03-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "Tumbleton",
+            "sinopse": "A invasão de Ormund a Tumbleton deixa Rhaenyra contra a parede.",
+            "duracao": 62,
+            "diretor": "Clare Kilner",
+            "thumb": "https://image.tmdb.org/t/p/original/fK6q2XKyXDBzmSy5QmCx93eBgDS.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-03-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "Insubmissos e Imbatíveis",
+            "sinopse": "Rhaenyra se concentra na busca por Aemond e Vhagar, Daemon tenta controlar a tensão crescente em King's Landing com a ajuda dos Mantos Dourados.",
+            "duracao": 64,
+            "diretor": "Nina Lopez-Corrado",
+            "thumb": "https://image.tmdb.org/t/p/original/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-03-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "Homens sem Rosto",
+            "sinopse": "Rhaenyra e Daemon se concentram na melhor forma de lidar com Ormund, as tensões entre seus aliados relegados aumentam.",
+            "duracao": 63,
+            "diretor": "Loni Peristere",
+            "thumb": "https://image.tmdb.org/t/p/original/6nU7pbPWspOKjud544KV2VEamUe.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-03-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "O Dragão no Inverno",
+            "sinopse": "Dividida entre as visões de Mysaria e Daemon para seu reinado, Rhaenyra anseia desesperadamente por um sinal de que prevalecerá.",
+            "duracao": 64,
+            "diretor": "Nina Lopez-Corrado",
+            "thumb": "https://image.tmdb.org/t/p/original/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-03-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "As Traições em Tumbleton",
+            "sinopse": "As alianças cambiantes transformam a guerra de forma irreversível à medida que as forças de Rhaenyra convergem em Tumbleton e ambos os bandos competem para obter vantagem.",
+            "duracao": 71,
+            "diretor": "Andrij Parekh",
+            "thumb": "https://image.tmdb.org/t/p/original/3307RKThwUvOoa0h8nhbMYZNpEd.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/94997-03-08.mkv"
+          }
+        ]
+      }
+    ]
   }
 ]
