@@ -2084,5 +2084,347 @@
         ]
       }
     ]
+  },
+  [
+  {
+    "id": "108978-reacher",
+    "titulo": "Reacher",
+    "sinopse": "Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma trama mortal cheia de policiais corruptos, empresários obscuros e políticos conspiradores. Só com sua inteligência, ele precisa descobrir o que está havendo em Margrave, Geórgia.",
+    "ano": 2022,
+    "nota": 8.1,
+    "classificacao": "16",
+    "estudio": "Prime Video",
+    "generos": [
+      "Action & Adventure e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "banner": "",
+    "elenco": [
+      "Alan Ritchson",
+      "Agnez Mo",
+      "Sydelle Noel",
+      "Anggun",
+      "Christopher Rodriguez Marquette",
+      "Kevin Corrigan"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Baseado em \"Dinheiro Sujo\" Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma conspiração mortal cheia de policiais sujos, empresários duvidosos e políticos intrigantes. Com nada além de sua inteligência, ele deve descobrir o que está acontecendo em Margrave, na Geórgia.",
+        "poster": "https://image.tmdb.org/t/p/original/uXUQksKCL5ddj6moUqfhDwvMRYN.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Bem-vindo a Margrave",
+            "sinopse": "Reacher é acusado de um homicídio que não cometeu ao visitar a pequena cidade de Margrave, na Geórgia.",
+            "duracao": 54,
+            "diretor": "Thomas Vincent",
+            "thumb": "https://image.tmdb.org/t/p/original/15xLLZN3LLAdvoiHnYL5DcXlsYu.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Primeira Dança",
+            "sinopse": "Quando mais vítimas são descobertas, Reacher tenta conseguir respostas, mas é encurralado. Roscoe recebe um recado ameaçador.",
+            "duracao": 53,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/4nfnpqWMX8dHI1bYZcdxLEvy2c9.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Prato Cheio",
+            "sinopse": "A investigação de Reacher e Finlay atrás de Spivey, desaparecido, se torna uma disputa com Kliner Sr. Roscoe recebe informações preocupantes sobre Reacher.",
+            "duracao": 47,
+            "diretor": "Stephen Surjik",
+            "thumb": "https://image.tmdb.org/t/p/original/6dgLq2bUlEBuXz5SPzr1Dn7UpML.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Pista",
+            "sinopse": "Conforme o perigo aumenta, Reacher e Roscoe se tornam mais íntimos e fazem planos de encontrar com o contato na Segurança Nacional.",
+            "duracao": 46,
+            "diretor": "Christine Moore",
+            "thumb": "https://image.tmdb.org/t/p/original/8AgfxcL0WxcDCiTtanrKG9vGyug.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Sem Desculpas",
+            "sinopse": "O mistério se aprofunda. Reacher convoca uma antiga colega e Finlay faz uma descoberta alarmante.",
+            "duracao": 49,
+            "diretor": "Norberto Barba",
+            "thumb": "https://image.tmdb.org/t/p/original/yvSWomTB7uiVOov0iQXrlmek81l.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Papel",
+            "sinopse": "Quando a cidade é abalada por um novo homicídio, Reacher vai para Nova York e descobre a verdade sobre o negócio criminoso em Margrave, enquanto Roscoe enfrenta o perigo na floresta.",
+            "duracao": 49,
+            "diretor": "Omar Madha",
+            "thumb": "https://image.tmdb.org/t/p/original/3GT2msFS0C4KdEDeD9TR2NPOS1s.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Reacher Não Disse Nada",
+            "sinopse": "Reacher cria uma armadilha e depois acaba caindo em uma.",
+            "duracao": 42,
+            "diretor": "Lin Oeding",
+            "thumb": "https://image.tmdb.org/t/p/original/i9z3J0xwImiuFhu5DQyYqnBxVDC.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Torta",
+            "sinopse": "Reacher lidera uma equipe de resgate até o galpão, que termina em uma batalha.",
+            "duracao": 52,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/8Pzg1MpVAAbyBGdfAUmRmfSmAWQ.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Baseado em \"Má sorte e problemas\" quando membros da antiga unidade militar de Reacher começam a aparecer mortos, Reacher só tem uma coisa em mente: vingança.",
+        "poster": "https://image.tmdb.org/t/p/original/amMjk39mJAyT9mHQ6OUynoanPtV.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Caixa Eletrônico",
+            "sinopse": "Reacher e Neagley investigam a morte de um dos membros da 110, a equipe de investigadores especiais criada por Reacher, e percebem que toda a equipe pode estar em perigo.",
+            "duracao": 56,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/j7hYdtMCzXsRtk8oeoynzcB1skZ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "O que Acontece em Atlantic City",
+            "sinopse": "A investigação da morte de Franz leva Reacher e os membros que restaram de sua antiga equipe militar até Atlantic City, onde o mistério aumenta, o perigo os aguarda, e uma antiga chama é reaquecida.",
+            "duracao": 50,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/qdsegCgx8x5tXL7k1nwiQ0493J6.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Uma Imagem Vale Mil Palavras",
+            "sinopse": "Depois de mais amigos se tornarem vítimas, Reacher forja uma aliança complicada com um detetive obstinado, e a única pista que têm do caso leva a 110 a uma descoberta inquietante.",
+            "duracao": 48,
+            "diretor": "Omar Madha",
+            "thumb": "https://image.tmdb.org/t/p/original/fRqRZZuBRMhxOw6QHIOL97MAj5P.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Uma Noite na Sinfonia",
+            "sinopse": "Reacher e sua equipe vão a Boston para rastrear um assessor político com informações secretas sobre um contrato de defesa militar confidencial que pode ser o motivo da morte de seus amigos.",
+            "duracao": 46,
+            "diretor": "Omar Madha",
+            "thumb": "https://image.tmdb.org/t/p/original/xZMIwWORGokHKxU4DgGSzcrvvJr.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Enterro",
+            "sinopse": "Neagley e Dixon descobrem informações surpreendentes sobre um velho amigo em Denver, enquanto Reacher e O'Donnell aprofundam o que sabem sobre o perigoso e misterioso A.M..",
+            "duracao": 44,
+            "diretor": "Carol Banker",
+            "thumb": "https://image.tmdb.org/t/p/original/qHoDmkiqipd7u8VzVDNcwVksRfd.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "A Polícia de Nova York",
+            "sinopse": "O mistério continua a se desdobrar, e Reacher e sua equipe montam uma armadilha para equilibrar o jogo.",
+            "duracao": 46,
+            "diretor": "Carol Banker",
+            "thumb": "https://image.tmdb.org/t/p/original/r0Xj9M0XfaX1tbuahIZECCo9y6S.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Cumprindo o que Prometeu",
+            "sinopse": "A equipe fecha o cerco em Langston, e dois membros da 110 correm perigo, obrigando Reacher a criar um plano perigoso para resgatá-los.",
+            "duracao": 46,
+            "diretor": "Julian Holmes",
+            "thumb": "https://image.tmdb.org/t/p/original/xdX8ijvCkwM6erROSdZYqnlzEre.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Voador",
+            "sinopse": "Reacher e Neagley fazem uma tentativa final e desesperada para salvar O'Donnell e Dixon, deter A.M. e vingar a morte de seus amigos.",
+            "duracao": 43,
+            "diretor": "Julian Holmes",
+            "thumb": "https://image.tmdb.org/t/p/original/7Jt8ghfYb2jx7hg1H5UbEUEH101.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "Reacher viaja para o Maine em busca de um inimigo mortal de seu passado e acaba envolvido com agentes da agência antidrogas, assassinos perigosos e um misterioso negócio de família.",
+        "poster": "https://image.tmdb.org/t/p/original/4Xt7uxaBHijAMSbqwPHm4aZ6fwd.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Acerto de Contas",
+            "sinopse": "A tentativa de Reacher de impedir um sequestro o coloca em contato com o misterioso empresário Zachary Beck.",
+            "duracao": 53,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/rOH23zL2aisDvZ3aCDlj65gsmdZ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Na Estrada",
+            "sinopse": "Incumbido de transportar uma carga para seu novo empregador, Zachary Beck, Reacher precisa lidar com o envolvimento da agência antidrogas e de um novo funcionário intrometido.",
+            "duracao": 43,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/cxjl8M0822xIaetKhseEC12znKY.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Braço Direito Armado",
+            "sinopse": "Com o aumento do número de mortos ameaçando sua posição de infiltrado, Reacher faz uma jogada arriscada para conquistar a confiança de Beck.",
+            "duracao": 54,
+            "diretor": "Gary Fleder",
+            "thumb": "https://image.tmdb.org/t/p/original/xewDe800NB1qdxu1l3vjINtBwJK.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Dominique",
+            "sinopse": "Reacher se reúne com Duffy e Villanueva e finalmente revela os detalhes dolorosos de sua história com Xavier Quinn.",
+            "duracao": 53,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/ypZpH089L0AD45fH0SiixqW3MK8.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Confronto",
+            "sinopse": "Quando uma tragédia envolvendo a agência antidrogas coloca toda a missão em risco, Reacher, Duffy e Villanueva improvisam um plano drástico para proteger seus disfarces.",
+            "duracao": 49,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/4r5BUAgNyzhsk28Pr9OpnrQXsvZ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Fumaça na Água",
+            "sinopse": "Reacher se vê dividido entre seu desejo de matar Quinn e sua promessa a Duffy de salvar Teresa.",
+            "duracao": 48,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/2gpbqF4AiqwuKuths8jKyap16I6.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Uma História em L.A.",
+            "sinopse": "Após Reacher e Duffy viajarem para Los Angeles para negociar um acordo, Neagley chega ao Maine para ajudar Reacher a obter respostas.",
+            "duracao": 52,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/h6n5EXzNYTYycAH72J8FVMqXw9u.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Negócios Inacabados",
+            "sinopse": "Reacher finalmente confronta Paulie e Quinn.",
+            "duracao": 52,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/y0LEFFyCAZqZPM7zggm4KysdF2h.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "sinopse": "Um encontro inesperado com uma estranha perturbada no metrô da Filadélfia arrasta Jack Reacher para um mistério mortal.",
+        "poster": "https://image.tmdb.org/t/p/original/wXQNonDCHMI4tzzzPwp66rKK0DC.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Cidade do Amor Fraternal",
+            "sinopse": "Um encontro inesperado com uma estranha visivelmente perturbada em um vagão do metrô da Filadélfia arrasta Jack Reacher para um mistério envolvendo um pen drive desaparecido que contém segredos pelos quais vale a pena matar.",
+            "duracao": 47,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/r34i4he79jzOeDuTddNHF62DdD3.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Luta na Gaiola",
+            "sinopse": "Tamara acaba se envolvendo no mistério, mesmo contra a sua vontade, quando ela, Reacher e Jacob enfrentam agentes do governo corruptos e um esquadrão misterioso de soldados profissionais, todos atrás do mesmo pen drive.",
+            "duracao": 49,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/zql5YtLObawcXJaZihwu28dKmIg.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Um Pequeno Passo",
+            "sinopse": "Reacher e Lila ficam mais próximos, e ele descobre que as coisas são mais complexas do que parecem. Enquanto isso, Tamara, Jacob e Plum encontram uma pista importante depois que outro ataque de um de seus misteriosos adversários faz com que eles precisem retornar à Filadélfia.",
+            "duracao": 45,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/rNVrMf7gXC1EZBMdgsFYFCHjpEF.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Karambits, que droga!",
+            "sinopse": "Reacher interroga Sampson, Tamara invade uma instalação do governo, Jacob recebe notícias devastadoras e a equipe recebe uma informação que muda tudo.",
+            "duracao": 44,
+            "diretor": "Gary Fleder",
+            "thumb": "https://image.tmdb.org/t/p/original/cFJMK5jyQ04jIMX9A6ZcIt65K9L.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "A Ponte",
+            "sinopse": "Após um mal-entendido, Reacher se torna o criminoso mais procurado da Filadélfia. Enquanto isso, antigos inimigos reaparecem e novos surgem. Jacob, Tamara e Plum acabam indo parar no meio de um tiroteio, dando a Jacob sua primeira chance real de vingar a morte da irmã.",
+            "duracao": 48,
+            "diretor": "Gary Fleder",
+            "thumb": "https://image.tmdb.org/t/p/original/3JrZvxduPF6YH6Sb3BlPnKDmh67.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Plum deu Azar",
+            "sinopse": "Fugindo da polícia, Reacher e Tamara saem da cidade para encontrar o misterioso Ahlquist, mas acabam arrumando mais problemas. Enquanto isso, Jacob e Plum lidam com seus próprios problemas na Filadélfia.",
+            "duracao": 41,
+            "diretor": "Gary Fleder",
+            "thumb": "https://image.tmdb.org/t/p/original/qSJn08nw1pdCE5vTrNbWSDEJipd.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Vote em Sampson",
+            "sinopse": "Reacher e Tamara finalmente conseguem as respostas que tanto buscavam. Enquanto isso, Jacob descobre que seus problemas estão apenas começando quando as fontes de Plum trazem informações relevantes.",
+            "duracao": 41,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/szPCuR79q4iapjkZi7bWVJUMtRt.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Corte",
+            "sinopse": "Reacher, Tamara e Jacob enfrentam o inimigo enquanto a verdadeira dimensão do plano dele é revelada. Reacher confronta os responsáveis pela morte de Anna, enquanto Jacob encara um momento decisivo e Plum tem sua chance de redenção.",
+            "duracao": 56,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/fx4RRJtY9Dusdo2RW1CLB6jA0m7.jpg",
+            "url": ""
+          }
+        ]
+      }
+    ]
   }
 ]
