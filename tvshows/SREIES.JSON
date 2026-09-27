@@ -3506,5 +3506,918 @@
         ]
       }
     ]
+  },
+  {
+    "id": "60625-rick-e-morty",
+    "titulo": "Rick e Morty",
+    "sinopse": "O brilhante cientista beberrão Rick sequestra Morty, seu neto aborrescente, para viver loucuras em outros mundos e dimensões alternativas.",
+    "ano": 2013,
+    "nota": 8.7,
+    "classificacao": "16",
+    "estudio": "Adult Swim",
+    "generos": [
+      "Animação e Comédia e Sci-Fi & Fantasy e Action & Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+    "banner": "",
+    "elenco": [
+      "Chris Parnell",
+      "Spencer Grammer",
+      "Sarah Chalke",
+      "Ian Cardoni",
+      "Harry Belden",
+      "Lil Pump"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Rick e Morty visitam uma loja de penhores no espaço, encontram várias realidades alternativas e virtuais e encontram o diabo em sua loja de antiguidades.",
+        "poster": "https://image.tmdb.org/t/p/original/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Piloto",
+            "sinopse": "Um cientista sociopata arrasta seu neto inocente para perigosas aventuras interdimensionais.",
+            "duracao": 22,
+            "diretor": "Justin Roiland",
+            "thumb": "https://image.tmdb.org/t/p/original/oWaKdUeMOlVZem3v9DWsdDGlTuY.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-01-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "Cãortador de Grama",
+            "sinopse": "Rick ajuda Jerry com seu cachorro.",
+            "duracao": 22,
+            "diretor": "John Rice",
+            "thumb": "https://image.tmdb.org/t/p/original/zsO5ylZLn7ihplZFqPmOz2v87R7.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-01-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "Parque Anatômico",
+            "sinopse": "É Natal. Rick encolhe Morty e o injeta em um homem sem teto para salvar o Parque Anatômico. Jerry tenta ter um Natal sem aparelhos eletrônicos, mas lamenta sua decisão quando seus pais lhe apresentam seu novo amigo.",
+            "duracao": 22,
+            "diretor": "John Rice",
+            "thumb": "https://image.tmdb.org/t/p/original/3cp6QrExDBQUFGcOu43NBtaugNY.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-01-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "Realidade Virtual",
+            "sinopse": "Rick e Morty tentam chegar ao fundo de um mistério neste episódio estilo M. Night Shyamalan.",
+            "duracao": 21,
+            "diretor": "Jeff Myers",
+            "thumb": "https://image.tmdb.org/t/p/original/9hbDdbHeHIuquiwQ5zdux57nYTk.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-01-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "A Revolta dos Meeseeks",
+            "sinopse": "Rick proporciona à família uma solução para seus problemas, ficando liberado para ir a uma aventura liderada por Morty.",
+            "duracao": 21,
+            "diretor": "Bryan Newton",
+            "thumb": "https://image.tmdb.org/t/p/original/9nh9ZpxOyCJMD73biS2h3CvHfm2.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-01-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "A Poção do Rick 9",
+            "sinopse": "Rick oferece a Morty uma poção de amor para conquistar Jessica.",
+            "duracao": 22,
+            "diretor": "Stephen Sandoval",
+            "thumb": "https://image.tmdb.org/t/p/original/hY750JVvL7K9KQN9lcqPTqcUEkN.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-01-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "O Pequeno Gazorpazorp",
+            "sinopse": "Morty se transforma no pai de um bebê extraterrestre, enquanto Rick e Summer ficam presos em uma dimensão perigosa.",
+            "duracao": 22,
+            "diretor": "Jeff Myers",
+            "thumb": "https://image.tmdb.org/t/p/original/j7qn7TIOSQOHZBgVi4NKnTpIcgM.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-01-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "Minutos Rixty",
+            "sinopse": "Rick conecta a TV da família ao cabo interdimensional, o que permite ver a televisão infinita de todo o multiverso.",
+            "duracao": 23,
+            "diretor": "Bryan Newton",
+            "thumb": "https://image.tmdb.org/t/p/original/HaTpHoQw2DWFAtHgGKn4gLOEaX.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-01-08.mkv"
+          },
+          {
+            "numero": 9,
+            "titulo": "Uma Loja do Diabo",
+            "sinopse": "Summer consegue um trabalho em uma loja de penhora cujo proprietário é o Diabo. Jerry ajuda Morty no seu projeto de ciências.",
+            "duracao": 23,
+            "diretor": "John Rice",
+            "thumb": "https://image.tmdb.org/t/p/original/daA9q3U3ibIcm5OGuklySeIsQWV.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-01-09.mkv"
+          },
+          {
+            "numero": 10,
+            "titulo": "Contatos Imediatos",
+            "sinopse": "Rick tem um encontro com antigos parceiros, o que acaba se tornando um problema com Morty.",
+            "duracao": 23,
+            "diretor": "Stephen Sandoval",
+            "thumb": "https://image.tmdb.org/t/p/original/8gOouaPQhfB8cC01sYyFLYgTcRq.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-01-10.mkv"
+          },
+          {
+            "numero": 11,
+            "titulo": "Negócio Arriscado",
+            "sinopse": "Beth e Jerry vão a um encontro deixando Rick no comando. Morty não aceita ir a novas aventuras se a casa não estiver nas mesmas condições na volta.",
+            "duracao": 23,
+            "diretor": "Stephen Sandoval",
+            "thumb": "https://image.tmdb.org/t/p/original/8zhyqhx7JU00FGEZPWOSotEHaiF.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-01-11.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Rick e Morty decidem descongelar o tempo e precisam lidar com parasitas alienígenas, Jerrys alternativos e uma dimensão que está se desintegrando e talvez nem exista.",
+        "poster": "https://image.tmdb.org/t/p/original/bvZdrDqP3KhQ1WWiNulWtUHI6hZ.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Fratura Temporal",
+            "sinopse": "Como o tempo foi reiniciado, Rick, Morty e Summer estão em um estado de existência quantum-incerta. O assunto leva à criação de duas linhas de tempo alternativas.",
+            "duracao": 23,
+            "diretor": "Wes Archer",
+            "thumb": "https://image.tmdb.org/t/p/original/49kPj1L8KkJAnhnqJIftr3fdXHt.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-02-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "Expresso da Meia-Noite",
+            "sinopse": "Rick e Morty tentam salvar uma forma de vida gasosa enquanto Jerry mora em uma creche.",
+            "duracao": 23,
+            "diretor": "Dominic Polcino",
+            "thumb": "https://image.tmdb.org/t/p/original/zsrtewu4jJPh4vB5ZDB9oW36tm8.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-02-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "Assimilação Autoerótica",
+            "sinopse": "Rick fica emocionado. Beth e Jerry brigam.",
+            "duracao": 23,
+            "diretor": "Bryan Newton",
+            "thumb": "https://image.tmdb.org/t/p/original/6zOHPMTvduupyEDqL8FnLGt6fxq.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-02-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "Parasitas Invasores Alienígenas",
+            "sinopse": "A casa dos Smith está fechada depois que parasitas ameaçaram dominar o mundo.",
+            "duracao": 22,
+            "diretor": "Juan Meza-Leon",
+            "thumb": "https://image.tmdb.org/t/p/original/zGLFTVfrUrzVSXhIM5iJ5ILmLMV.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-02-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "Planeta Música",
+            "sinopse": "Rick e Morty tem que ajudar a Terra depois que uma cabeça gigante apareceu no planeta, demandando ver o programa de um sucesso musical.",
+            "duracao": 23,
+            "diretor": "Wes Archer",
+            "thumb": "https://image.tmdb.org/t/p/original/jBUDahgRdHQUrDGcd44ju2AllbV.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-02-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "Os Ricks Devem Estar Loucos",
+            "sinopse": "Rick tem problemas com o carro e, para consertá-lo, viaja ao microuniverso.",
+            "duracao": 23,
+            "diretor": "Dominic Polcino",
+            "thumb": "https://image.tmdb.org/t/p/original/nK4uwrLAsSTMAi2iK1kzceg51NW.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-02-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "Confusão em Little Sanchez",
+            "sinopse": "Rick faz algumas travessuras por meio da transferência da sua consciência na adolescência \"Tiny Rick\". Beth e Jerry tentar resolver seus problemas de relacionamento.",
+            "duracao": 23,
+            "diretor": "Bryan Newton",
+            "thumb": "https://image.tmdb.org/t/p/original/mmGdga7NBsz7CCZNVJrZ7bvzuOe.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-02-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "TV Interdimensional 2: Desafiando o Destino",
+            "sinopse": "Jerry enfrenta a difícil decisão de perder a virilidade para salvar um líder extraterrestre da morte iminente. Rick, Morty e Summer exploram as possibilidades da televisão interdimensional.",
+            "duracao": 23,
+            "diretor": "Juan Meza-Leon",
+            "thumb": "https://image.tmdb.org/t/p/original/fm5rzPCXTLr1SlSmylBkNkZhF1P.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-02-08.mkv"
+          },
+          {
+            "numero": 9,
+            "titulo": "Olhe Quem Está Expurgando",
+            "sinopse": "Rick e Morty chegam a um planeta alienígena para consertar sua nave justamente no dia em que começa uma purga. Jerry e Summer trabalham na relação pai e filha, mas a falta de emprego dele é uma questão que volta à tona.",
+            "duracao": 22,
+            "diretor": "Dominic Polcino",
+            "thumb": "https://image.tmdb.org/t/p/original/uK0bpV9Oc07FfCsPk6BISqKj7bS.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-02-09.mkv"
+          },
+          {
+            "numero": 10,
+            "titulo": "Casamento Intergaláctico",
+            "sinopse": "Rick e Morty são convidados para um casamento.",
+            "duracao": 23,
+            "diretor": "Wes Archer",
+            "thumb": "https://image.tmdb.org/t/p/original/tdH0b9klzjxUc93J2h4HY7hnWHo.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-02-10.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "Rick e Morty viajam para Atlântida e aproveitam para relaxar; além disso, Rick se transforma em um picles e enfrenta o presidente.",
+        "poster": "https://image.tmdb.org/t/p/original/npcDOsd6CEQLf9RlsveTCPDQwQ3.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "A Rickapunhalada Ricksalvação",
+            "sinopse": "Rick, ainda na prisão galáctica, coloca em ação um intrincado plano de fuga. De volta à Terra, a qual agora está sob controle da Federação, Morty e Summer discutem sobre o avô deles.",
+            "duracao": 23,
+            "diretor": "Juan Meza-Leon",
+            "thumb": "https://image.tmdb.org/t/p/original/xwxRcQRpTpUlWN34mP0SpQCbfvs.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-03-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "Rickcurtindo a Pedra",
+            "sinopse": "Com as crianças tendo que lidar com o divórcio de seus pais, Rick os leva a um universo do tipo Mad Max onde ele tenta roubar um cristal verde de um grupo de canibais.",
+            "duracao": 23,
+            "diretor": "Dominic Polcino",
+            "thumb": "https://image.tmdb.org/t/p/original/2uXVtyVMsQ4ju9Ts4Fhnj5IXFdr.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-03-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "Rick Pepino",
+            "sinopse": "Rick transforma a si mesmo em um pepino enquanto Beth, Summer e Morty vão à terapia familiar.",
+            "duracao": 24,
+            "diretor": "Anthony Chun",
+            "thumb": "https://image.tmdb.org/t/p/original/lzNb4JsebI3JXQ6k73rWddrKkuV.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-03-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "Os Justiceiros 3: A volta do Exterminador de Mundos",
+            "sinopse": "Rick e Morty são convocados pelos Justiceiros para parar o Destruidor de Mundos, mas acabam em uma armadilha mortal concebida pelo Rick bêbado.",
+            "duracao": 23,
+            "diretor": "Bryan Newton",
+            "thumb": "https://image.tmdb.org/t/p/original/c1BdCiPvk13xWalDrm2VT4wFEBw.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-03-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "A Conspiração Whirly Dirly",
+            "sinopse": "Rick leva Jerry em uma aventura de compaixão a um resort onde todos são imortais quando estão lá e Jerry conhece alguns velhos conhecidos de Rick que querem vingança.",
+            "duracao": 23,
+            "diretor": "Juan Meza-Leon",
+            "thumb": "https://image.tmdb.org/t/p/original/sGWF8xQH6OtCk6m7WxBG8kztma9.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-03-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "Descanço e Ricklaxamento",
+            "sinopse": "Depois de uma aventura estressante, Rick e Morty vão descansar em um spa, onde removem suas toxinas, as quais vão tomar a forma deles.",
+            "duracao": 23,
+            "diretor": "Anthony Chun",
+            "thumb": "https://image.tmdb.org/t/p/original/kBlUIclFyabFCzaubgot6hUyQii.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-03-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "Contos da Cidadela",
+            "sinopse": "Enquanto Rick e Morty saem para aventurar-se na Atlântida, vamos dar uma olhada em como a Cidadela se reconstruiu desde que Rick e Morty a visitaram.",
+            "duracao": 23,
+            "diretor": "Dominic Polcino",
+            "thumb": "https://image.tmdb.org/t/p/original/7UFRlzHAWZDhZ062uJ4NvsMNzFf.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-03-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "Pulverizadores de Mente do Morty",
+            "sinopse": "Rick mostra ao Morty seus \"Pulverizadores de Mente\", uma coleção de memórias que Morty pediu ao Rick para apagar de sua mente.",
+            "duracao": 22,
+            "diretor": "Bryan Newton",
+            "thumb": "https://image.tmdb.org/t/p/original/htGYT3DrkEqT1ZB7lgLCEyUH2EF.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-03-08.mkv"
+          },
+          {
+            "numero": 9,
+            "titulo": "O ABC da Beth",
+            "sinopse": "Rick traz Beth a um mundo que ele criou para ela quando ela era jovem, enquanto Beth procura por um amigo de infância perdido há muito preso, preso lá há anos.",
+            "duracao": 23,
+            "diretor": "Juan Meza-Leon",
+            "thumb": "https://image.tmdb.org/t/p/original/qGwRWniPFiFsXE1Y13PxP71tnSW.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-03-09.mkv"
+          },
+          {
+            "numero": 10,
+            "titulo": "O Mortyencontro Rickchuriano",
+            "sinopse": "Rick e Morty são convocados pelo presidente para matar um alienígena perverso nos túneis secretos debaixo da Casa Branca.",
+            "duracao": 23,
+            "diretor": "Anthony Chun",
+            "thumb": "https://image.tmdb.org/t/p/original/ej2Y8gRkOllPF5dRMG0nS7HKy6w.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-03-10.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "sinopse": "O gênio bizarro Rick e seu neto Morty fazem novas viagens alucinantes pelo tempo, espaço e outras dimensões.",
+        "poster": "https://image.tmdb.org/t/p/original/oYYUgVuvZrXrgJ9e9FZ10Da6gpV.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "No Limite da Morty: Rick, Morra Rickpita",
+            "sinopse": "Morty enlouquece dessa vez, mano. Rick faz coisas.",
+            "duracao": 23,
+            "diretor": "Erica Hayes",
+            "thumb": "https://image.tmdb.org/t/p/original/z0qw504V0rkLKGviNsBnq1HOnXR.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-04-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "O Velho e a Privada",
+            "sinopse": "Todos nós temos uma coisa em comum, broh. Eu não sei mano. Assista a este.",
+            "duracao": 23,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/3QrhXUMAtmNvtlJy3XLDWvr2Xk7.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-04-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "Um Estranho no Ninho de Morty",
+            "sinopse": "Muitas voltas e mais voltas desta vez, broh. Vista seus capacetes.",
+            "duracao": 23,
+            "diretor": "Bryan Newton",
+            "thumb": "https://image.tmdb.org/t/p/original/etaGJvYnUNN7Hrs5ddNIkKxuXFn.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-04-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "Fora da Lei e com Desordem: Unidade de Vítimas do Morty",
+            "sinopse": "Morty recebe um dragão neste, broh. É um passeio selvagem, broh.",
+            "duracao": 23,
+            "diretor": "Anthony Chun",
+            "thumb": "https://image.tmdb.org/t/p/original/xG2DlQB8amHLCiiDohheCpjjUrd.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-04-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "Rattlestar Ricklactica",
+            "sinopse": "Muitas coisas no espaço, broh. Cobras e coisas afiadas. Assista isso, broh.",
+            "duracao": 22,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/po6Uuzz17eFcGFgiB2f6n7v0chL.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-04-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "Fãs do Rick",
+            "sinopse": "Um episódio de antologia que segue Rick e Morty em um trem com pessoas que não gostam de Rick.",
+            "duracao": 22,
+            "diretor": "Erica Hayes",
+            "thumb": "https://image.tmdb.org/t/p/original/zAUbOurESu3aWQazYkdVbhlKoVp.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-04-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "Os Sugadores",
+            "sinopse": "Rick, Morty e Summer visitam uma civilização alienígena, onde Rick e Morty são controlados por parasitas e Summer vive um estilo de vida luxuoso.",
+            "duracao": 22,
+            "diretor": "Bryan Newton",
+            "thumb": "https://image.tmdb.org/t/p/original/cgtHF7rqaac6ZhJp94orTFnNHgJ.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-04-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "O Tanque do Ácido",
+            "sinopse": "Rick e Morty fazem um acordo quando Rick diz a Morty que se algo der errado, pule no mesmo tanque de ácido que ele.",
+            "duracao": 23,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/fN6d00et55OzeVSqq34Ww2wGQxR.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-04-08.mkv"
+          },
+          {
+            "numero": 9,
+            "titulo": "Gravidez",
+            "sinopse": "Rick, Morty, Beth, Summer e Jerry compartilham uma aventura galáctica.",
+            "duracao": 23,
+            "diretor": "Kyounghee Lim",
+            "thumb": "https://image.tmdb.org/t/p/original/h5QkB2nmmBwPhNhPN2FNTj3bm2I.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-04-09.mkv"
+          },
+          {
+            "numero": 10,
+            "titulo": "Star Mort: O Retorno de Jerri",
+            "sinopse": "Uma aventura com um cinto de invisibilidade, mas uma família que desaparece junta, deve ficar junta.",
+            "duracao": 23,
+            "diretor": "Erica Hayes",
+            "thumb": "https://image.tmdb.org/t/p/original/6TemRqYYm1JQDEqf2sc6jRD5uXH.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-04-10.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "sinopse": "Esta animação ensina a respeitar os mais velhos, mesmo que se trate de um alcoólico perigoso, delirante, que vive uma realidade paralela e que é ninguém menos que o avô.",
+        "poster": "https://image.tmdb.org/t/p/original/nR88VuTepypYRAgYGzHzgEyLRCL.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Jantar para o Inimigo",
+            "sinopse": "Temos um convidado especial para o jantar, broh. Checa a bebida.",
+            "duracao": 23,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/w864XNoMFjrR8dP0lfDkH8uYBym.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-05-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "Mortyplicidade",
+            "sinopse": "E quem é real, broh? Você é real? Broh?",
+            "duracao": 22,
+            "diretor": "Lucas Gray",
+            "thumb": "https://image.tmdb.org/t/p/original/wzKkvUbWMso3bceAwJRXDDdMzNI.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-05-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "Morty e Planetinhas",
+            "sinopse": "Reducir e reutilizar, broh. Talvez seja tarde.",
+            "duracao": 23,
+            "diretor": "Juan Meza-Leon",
+            "thumb": "https://image.tmdb.org/t/p/original/nUP1i4LregRWkwMZTITmI26NgZA.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-05-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "Rickdependence Spray",
+            "sinopse": "Não precisa ficar com vergonha, broh. Todo mundo faz.",
+            "duracao": 22,
+            "diretor": "Erica Hayes",
+            "thumb": "https://image.tmdb.org/t/p/original/kZEv3526Omec597J6NIpP2GAa7n.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-05-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "Noite Infernal",
+            "sinopse": "Os adultos vão sair esta noite, broh. Pegue as chaves.",
+            "duracao": 23,
+            "diretor": "Kyounghee Lim",
+            "thumb": "https://image.tmdb.org/t/p/original/5nCh9wrr93WdYhquBFEMjZrDgFq.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-05-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "Rick e Morty Exploram o Dia de Ação de Graças",
+            "sinopse": "É Ação de Graças, broh.",
+            "duracao": 24,
+            "diretor": "Douglas Einar Olsen",
+            "thumb": "https://image.tmdb.org/t/p/original/n3U2G3QOrfU3vQTpo42q23OwJKa.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-05-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "Vício em Robôs Liberado",
+            "sinopse": "Saca esse furões, broh. Mas melhor manter tudo em família.",
+            "duracao": 22,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/yehrEI2y5y1smocmeMNWeWigboA.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-05-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "Rick, o Salvador",
+            "sinopse": "Amizade não é fácil. É como uma viagem mental, broh.",
+            "duracao": 22,
+            "diretor": "Erica Hayes",
+            "thumb": "https://image.tmdb.org/t/p/original/oKf0YQVIQFYVIO2bgsDtxXLYLLJ.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-05-08.mkv"
+          },
+          {
+            "numero": 9,
+            "titulo": "Ressaca de Amor",
+            "sinopse": "Dois corvos, broh. Esses caras são ligeiros.",
+            "duracao": 22,
+            "diretor": "Kyounghee Lim",
+            "thumb": "https://image.tmdb.org/t/p/original/4ZU8vX420Tm2yilkmXejf7NKjL6.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-05-09.mkv"
+          },
+          {
+            "numero": 10,
+            "titulo": "Rickmurai Jack",
+            "sinopse": "Tentando algo novo, broh. E em grande estilo.",
+            "duracao": 22,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/6yPSy0ipNQfFUAX3tHSEf75rCdu.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-05-10.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "sinopse": "É a sexta temporada, e Rick e Morty estão de volta! A história continua exatamente de onde parou, com a dupla mais acabada do que nunca e em uma maré de azar. Será que eles vão conseguir se recuperar para viver ainda mais aventuras? Ou acabarão sendo arrastados por um oceano de mijo? Mais uma temporada imperdível do seu programa favorito.",
+        "poster": "https://image.tmdb.org/t/p/original/vqO8dvubgg8qDRayid546Uv2PEW.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "À Deriva no Espaço",
+            "sinopse": "Os Smiths lidam com as consequências do final da temporada anterior. Rick e Morty estão presos no espaço, flutuando entre os restos da cidadela. Será que eles irão se recuperar?",
+            "duracao": 23,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/5tiOEjp03nvaGiKT73knretU8e8.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-06-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "Rick: Duro de Matar",
+            "sinopse": "Morty está encrencado e Rick precisa salvá-lo. Para isso, Summer tem que fazer algo digno de Duro de Matar, mas isso não vai ser nada fácil, porque ela não assistiu ao filme.",
+            "duracao": 23,
+            "diretor": "Kyounghee Lim",
+            "thumb": "https://image.tmdb.org/t/p/original/ezzPXWo8zAKl8eW2FivYRfng0jq.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-06-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "Beth e o Amor-Próprio",
+            "sinopse": "Os Smiths aproveitam um dos seus feriados favoritos, enquanto Summer e Morty estão completamente obcecados com o seu novo videogame ultrarrealista.",
+            "duracao": 22,
+            "diretor": "Douglas Einar Olsen",
+            "thumb": "https://image.tmdb.org/t/p/original/8ZCNAxkDo67GtcBJBDIERdywnar.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-06-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "Família Noturna",
+            "sinopse": "A família descobre que Rick tem usado uma nova tecnologia que eles também querem experimentar. Mas quando conseguem o que querem, o clássico caos de Rick e Morty toma conta de tudo.",
+            "duracao": 21,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/d3FSuQC3SKLnVcb4zbyeqYUSM6X.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-06-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "Biscoito da Sorte, Só Que Não",
+            "sinopse": "Enquanto comem no seu restaurante chinês favorito, os Smiths leem as mensagens dos seus biscoitos da sorte em voz alta. Tudo tranquilo, até que o Jerry lê a sua.",
+            "duracao": 23,
+            "diretor": "Douglas Einar Olsen",
+            "thumb": "https://image.tmdb.org/t/p/original/ziMNDO6UMjDAbUV2zbV5TxgH537.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-06-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "Rick, Morty e os Dinossauros",
+            "sinopse": "Do nada, os antigos governantes da Terra voltam à cena com um argumento convincente sobre a necessidade de mudar a forma como a sociedade lida com os negócios. Mas não é tão fácil convencer o Rick.",
+            "duracao": 23,
+            "diretor": "Kyounghee Lim",
+            "thumb": "https://image.tmdb.org/t/p/original/bj56DAGeH3vAMnBDXCObto8KCsK.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-06-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "Metarrealidade",
+            "sinopse": "Rick e Morty estão meio confusos por suas circunstâncias. E quando eles conseguem lembrar de algumas das suas aventuras juntos, terminam num impasse com um velho inimigo.",
+            "duracao": 22,
+            "diretor": "Lucas Gray",
+            "thumb": "https://image.tmdb.org/t/p/original/lG890UhNqGtdsq9nJWxI31IQU2t.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-06-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "Cara do Mijo",
+            "sinopse": "Personagens malucos e aleatórios começam a aparecer cada vez mais, e o Rick está exausto de lidar com eles. Mas o que será que isso significa para ele?",
+            "duracao": 23,
+            "diretor": "Fill Marc Sagadraca",
+            "thumb": "https://image.tmdb.org/t/p/original/iEz4PBtbs2TU0r4fq3gkZ01Mxl2.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-06-08.mkv"
+          },
+          {
+            "numero": 9,
+            "titulo": "Presente de um Estranho",
+            "sinopse": "Se o Rick te diz para não fazer algo, não faça. O Morty não sabe onde está se metendo quando recebe um presente de um estranho na rua.",
+            "duracao": 21,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/xiPSthi7ZF5xosfEqvAp6bl0sFu.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-06-09.mkv"
+          },
+          {
+            "numero": 10,
+            "titulo": "Natal Caótico",
+            "sinopse": "O Morty sempre quis um presente específico de Natal, mas nunca ganhou. Pode ser que este ano o Rick finalmente dê o braço a torcer.",
+            "duracao": 22,
+            "diretor": "Kyounghee Lim",
+            "thumb": "https://image.tmdb.org/t/p/original/zoCeFhTwzeO15h5BdhzlprFJzF1.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-06-10.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "sinopse": "Rick e Morty retornam mais Rick e mais Morty do que nunca nesta sétima temporada em que tudo pode acontecer: o que o Jerry está aprontando? Existe uma Summer MALIGNA?! Vamos descobrir! Provavelmente com menos xixi que na temporada passada.",
+        "poster": "https://image.tmdb.org/t/p/original/oOU1aynuYPi8SnVSZeqI8t7Z2WI.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Como Bunda Se Recuperou",
+            "sinopse": "Poopybutthole vive de gandaia na casa dos Smiths, e Rick tenta ajudá-lo, enquanto acontecem coisas com o Predador e o Hugh Jackman.",
+            "duracao": 23,
+            "diretor": "Lucas Gray",
+            "thumb": "https://image.tmdb.org/t/p/original/rLrNq2fd4khvwYspPXL5e41QVcK.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-07-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "A Armadilha Jerrick",
+            "sinopse": "Rick mostra a Jerry um segredo para o trabalho: faça-o com inteligência, nunca trabalhe muito.",
+            "duracao": 23,
+            "diretor": "Kyounghee Lim",
+            "thumb": "https://image.tmdb.org/t/p/original/nPcoJ8K1TPhFwCDTZRIKBPv8IyH.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-07-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "Força Aérea Wong",
+            "sinopse": "Flertes, pensamento de rebanho e Wong, a terapeuta familiar, se encontram neste novo episódio em que Rick e o Presidente se reencontram.",
+            "duracao": 23,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/lPTEES0yrLn5RnQRN1k3jFsx0GB.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-07-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "É de Morty",
+            "sinopse": "Rick revela uma receita secreta para sua família: uma receita de espaguete feito de seres humanos...",
+            "duracao": 23,
+            "diretor": "Lucas Gray",
+            "thumb": "https://image.tmdb.org/t/p/original/b5KOiBYZxYnfl4wL2IlvpqtU3tC.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-07-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "Não Mortificado",
+            "sinopse": "Rick e Morty ficam presos num projeto.",
+            "duracao": 23,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/86ARgAvOKFHOvq9Y0wkmiMSJj4o.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-07-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "Rick Defendendo Morty",
+            "sinopse": "Morty é auditado e observadores do Conselho de Observadores observam.",
+            "duracao": 23,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/xdsjTPUF6eBf6YJhVbzARkeaXP3.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-07-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "Uma (Con)Fusão Perigosa de Summer",
+            "sinopse": "Summer e Morty se afeiçoando um pelo outro, qualquer kuato, Kuato Morty, qualquer um dos kuatos contrabandeando coisas clandestinas, Kenneth (ou Kwyatt ou Jasmine) sendo maligno, o solo de kuato de Kenneth, Summer com seu kuato removido.",
+            "duracao": 23,
+            "diretor": "Kyounghee Lim",
+            "thumb": "https://image.tmdb.org/t/p/original/wgfl1QwjxPtng5m02ix26yjCjLM.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-07-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "A Ascensão dos Numericones: O Filme",
+            "sinopse": "Sinistar 7, o seu romance, o planeta E-10 e os rabiscos, o i da harmonia, Oxygen S transformando-se em 8 e depois em infinito, a canção original.",
+            "duracao": 23,
+            "diretor": "Lucas Gray",
+            "thumb": "https://image.tmdb.org/t/p/original/8xmc22qIVtn1MSZM5C8pAb94QO8.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-07-08.mkv"
+          },
+          {
+            "numero": 9,
+            "titulo": "Morty: Ragnarick",
+            "sinopse": "Protocolo de Phoenix, qualquer coisa relacionada ao papa, Pé-Grande, os monstros do cinema clássico, qualquer coisa com a derrota dos vikings.",
+            "duracao": 22,
+            "diretor": "Kyounghee Lim",
+            "thumb": "https://image.tmdb.org/t/p/original/fICBDuGjmSZc5OH8yOwTAKdQgYA.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-07-09.mkv"
+          },
+          {
+            "numero": 10,
+            "titulo": "Não Tema Morty",
+            "sinopse": "Os Dennys, qualquer coisa com Diane, Rick ou Morty parecendo fracos/emaciados, o Homem de Terno sendo malvado, os monstros do buraco do medo, a montagem do \"Morty envelhecendo\".",
+            "duracao": 24,
+            "diretor": "Eugene Huang",
+            "thumb": "https://image.tmdb.org/t/p/original/4kKiVFbRxAPxcPDi7rPrUJjyMf6.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-07-10.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "sinopse": "Rick e Morty estão de volta para a oitava temporada! A vida voltou a fazer sentido! Tudo é possível! Prepare-se para aventuras com Summer, Jerry, Beth e a outra Beth. Quem sabe o Robô Manteiga ganha uma nova tarefa?Aconteça o que acontecer, ninguém consegue manter Rick e Morty fora de ação por muito tempo. Muitos já tentaram!",
+        "poster": "https://image.tmdb.org/t/p/original/5ZjS34kymG8FOVfl4es47snvft6.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "A Summer de Todos os Medos",
+            "sinopse": "Rick deixou as crianças dentro de uma matrix. Isso não foi legal.",
+            "duracao": 24,
+            "diretor": "Fill Marc Sagadraca",
+            "thumb": "https://image.tmdb.org/t/p/original/t7arWMclhZ8Kub48ymLvbDUN5Qg.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-08-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "Valquírickia",
+            "sinopse": "Space Beth pediu uma carona pro pai.",
+            "duracao": 22,
+            "diretor": "Jacob Hair",
+            "thumb": "https://image.tmdb.org/t/p/original/wJNBw6mTV38fdMSpqbb4j4DnlMy.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-08-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "Homens em Rickonflito",
+            "sinopse": "Alguns caras querem reconstruir a Cidadela. Parece uma má ideia. Algo bem fora do comum.",
+            "duracao": 22,
+            "diretor": "Brian Kaufman",
+            "thumb": "https://image.tmdb.org/t/p/original/gRPXyICt6nDeHYpIOsezqbx4qid.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-08-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "A Última Tentação de Jerry",
+            "sinopse": "A família Smith descobre o sentido da Páscoa. Mais ou menos.",
+            "duracao": 23,
+            "diretor": "Douglas Einar Olsen",
+            "thumb": "https://image.tmdb.org/t/p/original/bvaJhvaBHHuiMZb80ErCCSuRRDz.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-08-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "Foi um Crio Que PaRickssou em Morty Vida",
+            "sinopse": "Rick e Morty planejam roubar uma nave enquanto a tripulação está em sono criogênico. Mas são todos dorminhocos.",
+            "duracao": 22,
+            "diretor": "Fill Marc Sagadraca",
+            "thumb": "https://image.tmdb.org/t/p/original/eHkk2VxIKofHESBH1JcahnyAJT1.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-08-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "O Rickurioso Caso de Bethjamin Button",
+            "sinopse": "Os brohs vão curtir um parque que o Rick adora. A Beth e a Space Beth ficam em casa e dão uma regredida, ou algo assim.",
+            "duracao": 22,
+            "diretor": "Eugene Huang",
+            "thumb": "https://image.tmdb.org/t/p/original/9L5sjRTSmV75YRh6IpIdngmYYZF.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-08-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "Maior Que a Rickção",
+            "sinopse": "Rick e Morty tão escrevendo a continuação da franquia que eles mais amam. Pura arte cinematográfica.",
+            "duracao": 23,
+            "diretor": "Douglas Einar Olsen",
+            "thumb": "https://image.tmdb.org/t/p/original/A8lJdG8eSdvXRRp8f9kiBoHFktz.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-08-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "Nomortland",
+            "sinopse": "Vivendo a vida de quem tá sem trampo... Jerry encontra um novo amigo na mesma situação.",
+            "duracao": 23,
+            "diretor": "Fill Marc Sagadraca",
+            "thumb": "https://image.tmdb.org/t/p/original/8hVPCPuYVRTkG5DV3buLVTRhePU.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-08-08.mkv"
+          },
+          {
+            "numero": 9,
+            "titulo": "Papis Morty",
+            "sinopse": "Rick e Summer tão curtindo um jantar de luxo. Enquanto isso, o Morty reencontra uma figurinha do passado.",
+            "duracao": 22,
+            "diretor": "Eugene Huang",
+            "thumb": "https://image.tmdb.org/t/p/original/eZEJkJS2vyaIXTeloGvADUsIJs5.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-08-09.mkv"
+          },
+          {
+            "numero": 10,
+            "titulo": "Hot Rick",
+            "sinopse": "De vez em quando, a gente faz umas coisas meio esquisitas só pra lidar com o passado.",
+            "duracao": 24,
+            "diretor": "Brian Kaufman",
+            "thumb": "https://image.tmdb.org/t/p/original/qwfGBFu2QrPm1BrkvSb9TNRXwXm.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-08-10.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "sinopse": "Rick and Morty voltou, baby! A 9ª temporada é toda hits certificados. Sem lixo de IA! Só lixo orgânico de primeira qualidade, feito por humanos de verdade com traços humanos de verdade, como pelo nas costas e cistos.",
+        "poster": "https://image.tmdb.org/t/p/original/myyyXqLLlL5eOYtTJ9RunhJkrC0.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Quem Vai Rickar com Morty?",
+            "sinopse": "Rick tá sozinho, mano. Morty tá preocupado com as ficantes dele.",
+            "duracao": 23,
+            "diretor": "Douglas Einar Olsen",
+            "thumb": "https://image.tmdb.org/t/p/original/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-09-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "Rick Dias, Sete Noites",
+            "sinopse": "Você tenta ser o Rick toda a hora, mano.",
+            "duracao": 23,
+            "diretor": "Brian Kaufman",
+            "thumb": "https://image.tmdb.org/t/p/original/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-09-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "RicKung Fusão",
+            "sinopse": "Você não viveu até ter encarado alguém de peito aberto no Trader Joe's, mano.",
+            "duracao": 24,
+            "diretor": "Fill Marc Sagadraca",
+            "thumb": "https://image.tmdb.org/t/p/original/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-09-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "Nada É PaRick Sempre",
+            "sinopse": "Lembrar senhas é difícil, mano. Caracteres especiais, mano.",
+            "duracao": 23,
+            "diretor": "Fill Marc Sagadraca",
+            "thumb": "https://image.tmdb.org/t/p/original/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-09-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "Jer Bud: O Verme Amigo",
+            "sinopse": "O melhor amigo do homem, mano.",
+            "duracao": 23,
+            "diretor": "Brian Kaufman",
+            "thumb": "https://image.tmdb.org/t/p/original/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-09-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "ERickerHead",
+            "sinopse": "O estômago do Rick tá bravo, mano. Mas aqui é rodízio de comida e bebida à vontade, mano!",
+            "duracao": 24,
+            "diretor": "Eugene Huang",
+            "thumb": "https://image.tmdb.org/t/p/original/uye472viIZrJZNf9VgqLO1xwpBk.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-09-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "MortGully: Aventuras na FloRicksta Tropical",
+            "sinopse": "Rick e Morty precisam evoluir, mano.",
+            "duracao": 24,
+            "diretor": "Daniel Cole",
+            "thumb": "https://image.tmdb.org/t/p/original/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-09-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "Ríckiem Mort um Sonho",
+            "sinopse": "Fica quieto, mano. Vai te deixar bem, mano.",
+            "duracao": 23,
+            "diretor": "Douglas Einar Olsen",
+            "thumb": "https://image.tmdb.org/t/p/original/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-09-08.mkv"
+          },
+          {
+            "numero": 9,
+            "titulo": "AcampaMorty de Férias",
+            "sinopse": "Morty e Summer vão para o acampamento, mano. Beth e Jerry sozinhos em casa, mano.",
+            "duracao": 24,
+            "diretor": "Brian Kaufman",
+            "thumb": "https://image.tmdb.org/t/p/original/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-09-09.mkv"
+          },
+          {
+            "numero": 10,
+            "titulo": "Campo dos Sonhos",
+            "sinopse": "É o Tom Sawyer, mano.",
+            "duracao": 24,
+            "diretor": "Eugene Huang",
+            "thumb": "https://image.tmdb.org/t/p/original/fOaRHSP4uHujzFlgYFA8ufZ9kJN.jpg",
+            "url": "https://ia903205.us.archive.org/14/items/s-e-r-i-e-02/60625-09-10.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "sinopse": "",
+        "poster": "",
+        "episodios": []
+      }
+    ]
   }
 ]
