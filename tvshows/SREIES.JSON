@@ -1,93 +1,42 @@
 [
   {
-    "id": "Reacher",
-    "titulo": "Reacher",
-    "sinopse": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Baseado na saga literária de Lee Child.",
-    "ano": 2022,
-    "nota": 8.1,
+    "id": "113962-lioness",
+    "titulo": "Lioness",
+    "sinopse": "Joe é a líder do grupo de contraterrorismo Lioness, da CIA, encarregue de treinar, gerir e liderar uma equipa agentes que se infiltram nas linha inimigas, tanto dentro como fora dos EUA – porque o verdadeiro perigo está muitas vezes dentro de portas.",
+    "ano": 2023,
+    "nota": 0,
     "classificacao": "16",
     "estudio": "",
     "generos": [
-      "Action & Adventure e Crime"
+      "Drama e War & Politics"
     ],
-    "poster": "https://image.tmdb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/5OeI0zcsoux6VNNQzGjvDO11gHA.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/3Udwq6W7y4AIsuJDXV2YwowZ1gQ.jpg",
     "banner": "",
     "elenco": [],
     "temporadas": [
       {
         "numero": 1,
-        "sinopse": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Munido apenas da sua inteligência, deve descobrir o que se passa em Margrave, Geórgia.",
-        "poster": "https://image.tmdb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "sinopse": "Joe está a tentar equilibrar a sua vida pessoal e profissional enquanto lidera a guerra da CIA contra o terrorismo. O programa Lioness pede a recruta Cruz que trabalhe disfarçada ao lado de Joe entre as poderosas forças do terrorismo patrocinado pelo Estado.",
+        "poster": "https://image.tmdb.org/t/p/original/9jn04k8nFlqaeLINGQu4URDRqsJ.jpg",
         "episodios": [
           {
             "numero": 1,
-            "titulo": "Bem-vindo a Margrave",
-            "sinopse": "Reacher é erradamente acusado de homicídio, enquanto visita a pequena cidade de Margrave, GA.",
-            "duracao": 45,
+            "titulo": " Soldados Sacrificiais",
+            "sinopse": "As coisas correm mal para Joe e a sua equipa; Cruz tenta escapar a uma situação perigosa.",
+            "duracao": 42,
             "diretor": "",
-            "thumb": "https://image.tmdb.org/t/p/original/15xLLZN3LLAdvoiHnYL5DcXlsYu.jpg",
-            "url": "HTTPS"
+            "thumb": "https://image.tmdb.org/t/p/original/nmQp2GT1T2mK4YoLWcMl1FsoZC.jpg",
+            "url": "01"
           },
-		  {
-    "id": "Reacher",
-    "titulo": "Reacher",
-    "sinopse": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Baseado na saga literária de Lee Child.",
-    "ano": 2022,
-    "nota": 8.1,
-    "classificacao": "16",
-    "estudio": "",
-    "generos": [
-      "Action & Adventure e Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "banner": "",
-    "elenco": [],
-    "temporadas": [
-      {
-        "numero": 1,
-        "sinopse": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Munido apenas da sua inteligência, deve descobrir o que se passa em Margrave, Geórgia.",
-        "poster": "https://image.tmdb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "episodios": [
           {
-            "numero": 1,
-            "titulo": "Bem-vindo a Margrave",
-            "sinopse": "Reacher é erradamente acusado de homicídio, enquanto visita a pequena cidade de Margrave, GA.",
-            "duracao": 45,
+            "numero": 2,
+            "titulo": "O Espancamento",
+            "sinopse": "Joe continua a treinar Cruz; Cruz começa a criar uma relação com Aaliyah.",
+            "duracao": 43,
             "diretor": "",
-            "thumb": "https://image.tmdb.org/t/p/original/15xLLZN3LLAdvoiHnYL5DcXlsYu.jpg",
-            "url": "HTTPS"
-          },
-		  {
-    "id": "Reacher",
-    "titulo": "Reacher",
-    "sinopse": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Baseado na saga literária de Lee Child.",
-    "ano": 2022,
-    "nota": 8.1,
-    "classificacao": "16",
-    "estudio": "",
-    "generos": [
-      "Action & Adventure e Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "banner": "",
-    "elenco": [],
-    "temporadas": [
-      {
-        "numero": 1,
-        "sinopse": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Munido apenas da sua inteligência, deve descobrir o que se passa em Margrave, Geórgia.",
-        "poster": "https://image.tmdb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "episodios": [
-          {
-            "numero": 1,
-            "titulo": "Bem-vindo a Margrave",
-            "sinopse": "Reacher é erradamente acusado de homicídio, enquanto visita a pequena cidade de Margrave, GA.",
-            "duracao": 45,
-            "diretor": "",
-            "thumb": "https://image.tmdb.org/t/p/original/15xLLZN3LLAdvoiHnYL5DcXlsYu.jpg",
-            "url": "HTTPS"
+            "thumb": "https://image.tmdb.org/t/p/original/efD2aug7QpeGYkz7gIK5OVjWVU8.jpg",
+            "url": "02"
           }
         ]
       }
