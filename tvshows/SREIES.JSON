@@ -340,4 +340,338 @@
       }
     ]
   }
+],
+[
+  {
+    "id": "125988-silo",
+    "titulo": "Silo",
+    "sinopse": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
+    "ano": 2023,
+    "nota": 8.2,
+    "classificacao": "14",
+    "estudio": "Apple TV",
+    "generos": [
+      "Sci-Fi & Fantasy e Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
+    "banner": "",
+    "elenco": [
+      "Rebecca Ferguson",
+      "Common",
+      "Chinaza Uche",
+      "Ashley Zukerman",
+      "Shane McRae",
+      "Remmie Milner"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
+        "poster": "https://image.tmdb.org/t/p/original/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Dia da liberdade",
+            "sinopse": "Os planos do xerife Becker para o futuro mudam depois que sua esposa conhece um hacker com informações sobre o silo.",
+            "duracao": 62,
+            "diretor": "Morten Tyldum",
+            "thumb": "https://image.tmdb.org/t/p/original/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "A escolha de Holston",
+            "sinopse": "Juliette, uma engenheira, junta as peças do que pode ter causado a morte misteriosa de um colega de trabalho.",
+            "duracao": 52,
+            "diretor": "Morten Tyldum",
+            "thumb": "https://image.tmdb.org/t/p/original/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Máquinas",
+            "sinopse": "Em sua busca por um novo xerife, a prefeita Jahns entra em conflito com Bernard. Juliette faz um acordo para manter o gerador funcionando.",
+            "duracao": 66,
+            "diretor": "Morten Tyldum",
+            "thumb": "https://image.tmdb.org/t/p/original/8hQB4jxk9ydj55Mrl9sY95smV7.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Verdade",
+            "sinopse": "Juliette tenta ganhar a confiança do delegado Marnes enquanto eles trabalham para descobrir a verdade sobre as recentes tragédias.",
+            "duracao": 49,
+            "diretor": "David Semel",
+            "thumb": "https://image.tmdb.org/t/p/original/x3fMuXhTx5f91tQgjXNzopo5B5g.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "O filho do zelador",
+            "sinopse": "Sims nomeia Billings como subdelegado para manter o controle sobre Juliette, cujos esforços para resolver dois assassinatos levam a um confronto.",
+            "duracao": 54,
+            "diretor": "David Semel",
+            "thumb": "https://image.tmdb.org/t/p/original/yzLUNo2jU82N5rdRG0xZ2A2ed79.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "A relíquia",
+            "sinopse": "Durante sua investigação, Juliette descobre segredos perturbadores sobre alguém que ela achava que conhecia.",
+            "duracao": 55,
+            "diretor": "Bertie",
+            "thumb": "https://image.tmdb.org/t/p/original/k5UxYAS4Xmcsn3GZdCklXGMIBMd.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Os protetores da chama",
+            "sinopse": "Bernard busca a cooperação de Juliette enquanto fica cada vez mais preocupado com a segurança do silo. Juliette pede um favor ao pai.",
+            "duracao": 51,
+            "diretor": "Bertie",
+            "thumb": "https://image.tmdb.org/t/p/original/ukzV8BZbjlIU6WOKdoZqhHMg2yi.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Hanna",
+            "sinopse": "Novas informações fazem com que Juliette veja o passado de sua família de maneira diferente—e ela finalmente tem acesso aos maiores segredos do silo.",
+            "duracao": 48,
+            "diretor": "Adam Bernstein",
+            "thumb": "https://image.tmdb.org/t/p/original/sZaeOvZYS4evALQtm2wfC3eJxit.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "A fuga",
+            "sinopse": "Atormentado pela culpa, Billings parte em uma missão pessoal, apenas para descobrir uma pista chocante de Juliette.",
+            "duracao": 48,
+            "diretor": "Adam Bernstein",
+            "thumb": "https://image.tmdb.org/t/p/original/mogTf95jiLdvSXwnjpQcIs6Wxh2.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Lá fora",
+            "sinopse": "O destino de Juliette parece selado quando certas verdades finalmente vêm à tona.",
+            "duracao": 49,
+            "diretor": "Adam Bernstein",
+            "thumb": "https://image.tmdb.org/t/p/original/qcqkEv0S8Re5V2UV9LFUWzHYyq3.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Presa do lado de fora de seu silo com um traje defeituoso, Juliette corre contra o tempo. Atordoada, encontra outro silo próximo, sua esperança de sobrevivência. Enquanto isso, a agitação cresce dentro de seu silo original enquanto Bernard Holland reúne cidadãos para manter a ordem em meio a crescentes questões sobre seu mundo.",
+        "poster": "https://image.tmdb.org/t/p/original/9rCsN9tcZHXXrQM4bcTpcyTkTIS.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "A engenheira",
+            "sinopse": "Juliette encontra refúgio em um silo destruído pela guerra há muito tempo, pensando que está sozinha.",
+            "duracao": 48,
+            "diretor": "Michael Dinner",
+            "thumb": "https://image.tmdb.org/t/p/original/kB5wWdEknKlBJ8iGEYQyTJWTSZv.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Ordem",
+            "sinopse": "No Silo 18, o choque e a inquietação tomam conta de Juliette quando ela faz o que ninguém fez antes.",
+            "duracao": 42,
+            "diretor": "Michael Dinner",
+            "thumb": "https://image.tmdb.org/t/p/original/gB2lEpKUvTshTdq00IRjQHFgG4J.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Solo",
+            "sinopse": "Bernard pede ajuda para a juíza Meadows. Billings começa a se perguntar se estão mentindo para ele. Juliette finalmente conhece o homem no cofre.",
+            "duracao": 54,
+            "diretor": "Aric Avelino",
+            "thumb": "https://image.tmdb.org/t/p/original/dY1nJnRuuhC0stZqNWShBYqk93H.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "O harmônio",
+            "sinopse": "Juliette parte em uma jornada perigosa para recuperar um traje, voltar para casa e salvar seu silo. A mecânica planeja uma reunião com a juíza Meadows.",
+            "duracao": 54,
+            "diretor": "Aric Avelino",
+            "thumb": "https://image.tmdb.org/t/p/original/lSsLzD8eVZaju4XUGmoTGSvZq2C.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "A descida",
+            "sinopse": "Sims se encontra em uma nova posição. Juliette descobre que Solo não está sendo sincero. Bernard e Lukas fazem uma descoberta importante.",
+            "duracao": 49,
+            "diretor": "Bert",
+            "thumb": "https://image.tmdb.org/t/p/original/y2KEcaL7GLj5uYXP0t7C0d0R5B6.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Barricadas",
+            "sinopse": "Bernard põe em prática um plano para matar Knox, Shirley e Walker. Billings toma uma posição. Solo salva a vida de Juliette e pede algo em troca.",
+            "duracao": 43,
+            "diretor": "Michael Dinner",
+            "thumb": "https://image.tmdb.org/t/p/original/aAPo83kOC5mfgcOado49ijWITVo.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "O mergulho",
+            "sinopse": "Lukas recebe uma missão. A mecânica envia uma mensagem poderosa. Juliette embarca em uma descida perigosa—e enfrenta um novo perigo.",
+            "duracao": 51,
+            "diretor": "Michael Dinner",
+            "thumb": "https://image.tmdb.org/t/p/original/z60fohHAWgfhpVjZRZq4M1Itw7Z.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "O livro de Quinn",
+            "sinopse": "Juliette descobre que algo aconteceu com Solo. Bernard faz uma oferta para Walker. Lukas se encontra com os descendentes de Salvador Quinn.",
+            "duracao": 47,
+            "diretor": "Bert",
+            "thumb": "https://image.tmdb.org/t/p/original/krzYmEQZ3ugR5MFqOMQJrv2pcnh.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "A salvaguarda",
+            "sinopse": "A fé de Billings fica abalada. Lukas vai para as profundezas. Knox identifica o traidor. Juliette descobre a verdade sobre o passado de Solo.",
+            "duracao": 59,
+            "diretor": "Bert",
+            "thumb": "https://image.tmdb.org/t/p/original/aNgT4AEffmGwiabRD03riCz1aWr.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "No fogo",
+            "sinopse": "Os rebeldes fazem sua jogada—e Juliette também.",
+            "duracao": 59,
+            "diretor": "Bert",
+            "thumb": "https://image.tmdb.org/t/p/original/coz4XyEQ59IbkJ3UYB9Nr8UW8ur.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "No presente, Juliette Nichols sobrevive à sua \"limpeza\" forçada, mas retorna com amnésia enquanto o silo se recupera da rebelião e enfrenta uma nova e perigosa ameaça. Enquanto isso, no \"Tempo Anterior\", a jornalista Helen Drew e o congressista Daniel Keene descobrem uma conspiração que os arrasta para uma série de eventos com consequências catastróficas e irreversíveis.",
+        "poster": "https://image.tmdb.org/t/p/original/cxB16Cc7xZuqWgNDo7QlqLMlinu.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Quem é você?",
+            "sinopse": "A nova prefeita Juliette não se lembra de nada do tempo em que esteve do lado de fora, nem do seu passado.",
+            "duracao": 56,
+            "diretor": "Michael Dinner",
+            "thumb": "https://image.tmdb.org/t/p/original/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Está tudo bem",
+            "sinopse": "Billings investiga um desaparecimento. Daniel Keene tem um desentendimento com uma repórter.",
+            "duracao": 51,
+            "diretor": "Michael Dinner",
+            "thumb": "https://image.tmdb.org/t/p/original/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Dark web",
+            "sinopse": "Juliette assume o controle de seu processo de recuperação. Helen sofre as consequências de sua investigação.",
+            "duracao": 49,
+            "diretor": "Michael Dinner",
+            "thumb": "https://image.tmdb.org/t/p/original/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Não importa o que faça, não vá para casa",
+            "sinopse": "A corrida para escapar de Camille leva Juliette a uma descoberta chocante. Daniel pede ajuda a um amigo.",
+            "duracao": 48,
+            "diretor": "Aric Avelino",
+            "thumb": "https://image.tmdb.org/t/p/original/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Memória",
+            "sinopse": "Os eventos que se seguiram ao retorno de Juliette vêm à tona e alianças inesperadas surgem.",
+            "duracao": 52,
+            "diretor": "Aric Avelino",
+            "thumb": "https://image.tmdb.org/t/p/original/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "A viagem",
+            "sinopse": "Billings e Hank se deparam com um novo mistério. Daniel e Helen recebem uma proposta surpreendente.",
+            "duracao": 55,
+            "diretor": "Alrick Riley",
+            "thumb": "https://image.tmdb.org/t/p/original/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Rádio",
+            "sinopse": "Juliette envia Lukas e Kennedy em uma missão, enquanto Camille, desesperada, ameaça Robert para que ele conte a verdade.",
+            "duracao": 55,
+            "diretor": "Aric Avelino",
+            "thumb": "https://image.tmdb.org/t/p/original/hT47PUyS6fQrmukmbyXrL9nBgKc.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Gosma cinza",
+            "sinopse": "O pai de Knox, Gus, revela um segredo. Charlotte toma uma decisão que mudará sua vida.",
+            "duracao": 56,
+            "diretor": "Bert",
+            "thumb": "https://image.tmdb.org/t/p/original/qZiRIiFbjCSttNe3uNHsi6hoxWV.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Despedida",
+            "sinopse": "Todos no silo ficam atônitos com o anúncio de Camille. Daniel e Helen participam de um evento especial.",
+            "duracao": 62,
+            "diretor": "Bert",
+            "thumb": "https://image.tmdb.org/t/p/original/fl5tbMRYYQ6eWEuU5E5wN3qRXrK.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Troy",
+            "sinopse": "Um líder desperta para um novo mundo.",
+            "duracao": 61,
+            "diretor": "Bert",
+            "thumb": "https://image.tmdb.org/t/p/original/cWfqa602Kcka7zRaLMq9TRhLJkH.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "sinopse": "",
+        "poster": "",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  }
 ]
