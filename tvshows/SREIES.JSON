@@ -4764,5 +4764,396 @@
         "episodios": []
       }
     ]
+  },
+  {
+    "id": "80623-baki-o-campeao",
+    "titulo": "Baki - O Campeão",
+    "sinopse": "Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai, cinco condenados à pena de morte partem para Tóquio para acabar com ele.",
+    "ano": 2018,
+    "nota": 8.1,
+    "classificacao": "18",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=UwJhnmwpCyU",
+    "generos": [
+      "Animação e Action & Adventure e Crime e Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/hTlJIKptJedaho7N42xCdX0dJyY.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/qbxoEhlxNcyr7GjG2SXTShWn32m.jpg",
+    "banner": "",
+    "elenco": [
+      "Nobunaga Shimazaki",
+      "Kenjiro Tsuda",
+      "Takehito Koyasu",
+      "Issei Futamata",
+      "Banjo Ginga",
+      "Chafurin"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Condenado à prisão, o caçador de recompensas Biscuit Oliver é enviado a Tóquio para deter presos fugitivos e evitar que os criminosos continuem espalhando o caos.",
+        "poster": "https://image.tmdb.org/t/p/original/rXbmuaZXH6oR5ni6m7AN6LnGFgg.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Sincronicidade",
+            "sinopse": "O organizador de lutas de artes marciais Tokugawa avisa o campeão Baki que cinco condenados à pena de morte do mundo inteiro escaparam e estão indo para Tóquio.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/l6WddxxlqumbwL6NiEBfKYs6iSq.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMDEubWt2"
+          },
+          {
+            "numero": 2,
+            "titulo": "Artes marciais do submundo",
+            "sinopse": "Baki domina facilmente os bandidos contratados por delinquentes de sua escola. Foragido e condenado à morte, Spec tenta descobrir mais sobre as habilidades de Baki.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/dUFkV1kpyB7IM74vNHG1AwKjHtN.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMDIubWt2"
+          },
+          {
+            "numero": 3,
+            "titulo": "Eles finalmente chegaram!",
+            "sinopse": "No dojo Shinshinkai, o foragido Dorian é confrontado por Retsu, que está lá dando aulas de artes marciais chinesas.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uRillQqO7CuaKVs4ROGtG1x3fK8.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMDMubWt2"
+          },
+          {
+            "numero": 4,
+            "titulo": "Começa a batalha",
+            "sinopse": "Todos os cinco foragidos e seus adversários estão juntos na arena subterrânea. Tokugawa declara oficialmente o início da batalha.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/tjkY1weiJfyvuz81b5OonwoTdNA.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMDQubWt2"
+          },
+          {
+            "numero": 5,
+            "titulo": "Quer mais?",
+            "sinopse": "Enquanto estava fora com Kozue, Baki quase é capturado por Spec, mas Kaoru aparece de repente e protege o casal do perigo.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/R9xvNrEsX2uckv7eSnu5Vrxb5.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMDUubWt2"
+          },
+          {
+            "numero": 6,
+            "titulo": "O relatório do policial Katahira",
+            "sinopse": "Spec dispara golpes mortais que derrubariam até o mais forte dos adversários, mas Hanayama contra-ataca com outros golpes imprevistos.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/7ZZqPKK7kXujcs9qUlbublCNbvl.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMDYubWt2"
+          },
+          {
+            "numero": 7,
+            "titulo": "Um time incrível",
+            "sinopse": "Baki é atacado por Doyle enquanto estava na aula e o leva para fora da sala, onde acaba encontrando Yanagi disfarçado.",
+            "duracao": 24,
+            "diretor": "小野田雄亮",
+            "thumb": "https://image.tmdb.org/t/p/original/eiJYoc1sln6P9Xf0fNWeul1pZes.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMDcubWt2"
+          },
+          {
+            "numero": 8,
+            "titulo": "Uma luta de verdade",
+            "sinopse": "Enquanto Baki e seus aliados discutem os eventos que aconteceram em sua escola, Dorian aparece, se infiltrando pelo complexo altamente protegido de Tokugawa.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/mlZ3rF7h7bugd0UhMqKqpvN6R2U.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMDgubWt2"
+          },
+          {
+            "numero": 9,
+            "titulo": "Shin Shin Kai em fúria",
+            "sinopse": "Kiyosumi Kato, conhecido como o lutador mais forte do caratê Shinshinkai, confronta Dorian dentro de seu esconderijo secreto subterrâneo.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uFizeI9GiqNakuRmbT84IBY5HSU.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMDkubWt2"
+          },
+          {
+            "numero": 10,
+            "titulo": "Duelo aéreo",
+            "sinopse": "Com mais de um milhão de membros no mundo, o Shinshinkai atrai Dorian para um parque de diversões, onde o parceiro de Kato, Suedo, ataca imediatamente.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/8fxOpv6uGtg8yK4KbV0ChYp370O.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMTAubWt2"
+          },
+          {
+            "numero": 11,
+            "titulo": "O matador de tigres",
+            "sinopse": "O passado de Dorian vem à tona, e o fundador do Shinshinkai e \"matador de tigres\", Doppo Orochi, o leva para uma batalha de caratê contra kung fu.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/5yLS5jJn5hMiQ1v4JX6wvZ46BLW.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMTEubWt2"
+          },
+          {
+            "numero": 12,
+            "titulo": "Doce",
+            "sinopse": "Doppo Orochi acaba com o aterrorizado Dorian antes de trazer Kiyosumi Kato, que também está ferido, para aplicar os golpes finais.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/md18dgS1waYOn3lwDvPs3yk0pbs.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMTIubWt2"
+          },
+          {
+            "numero": 13,
+            "titulo": "Sr. Oliva",
+            "sinopse": "O chefe de polícia Sonoda considera os foragidos uma ameaça à segurança de Tóquio e busca ajuda de líderes de polícia do mundo todo.",
+            "duracao": 24,
+            "diretor": "小野田雄亮",
+            "thumb": "https://image.tmdb.org/t/p/original/wWtvvbW1wo1RHwTL7mRjfvwnsR1.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMTgubWt2"
+          },
+          {
+            "numero": 14,
+            "titulo": "Liberdade recusada",
+            "sinopse": "Biscuit Oliver chega a Tóquio para capturar os criminosos remanescentes. Com uma ajuda inesperada, Sikorsky atrai Baki à batalha.",
+            "duracao": 24,
+            "diretor": "粟井重紀",
+            "thumb": "https://image.tmdb.org/t/p/original/j4wGL2ST2xRN6ZGWo0z1gB0GQDP.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMTQubWt2"
+          },
+          {
+            "numero": 15,
+            "titulo": "Montanha de músculos",
+            "sinopse": "Ao buscar pistas no banco de dados da polícia, Biscuit Oliver cai numa armadilha de Doyle.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/rwS27SpPnirNoBVcCGwcXQPrG6S.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMTUubWt2"
+          },
+          {
+            "numero": 16,
+            "titulo": "Corta-corda",
+            "sinopse": "Biscuit Oliver acredita que conseguirá a faixa preta se vencer os agentes da equipe, mas o plano não sai como o esperado.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/er4Rj3zSKyrK0Gu1MJX04NB3r9z.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMTYubWt2"
+          },
+          {
+            "numero": 17,
+            "titulo": "Pai!",
+            "sinopse": "A batalha mortal entre Kosho Shinogi e Doyle chega ao clímax. Baki e Kozue recebem a visita inesperada de Yujiro.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/4L1dZx7izEK4fJI2e1evVjwshxh.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMTcubWt2"
+          },
+          {
+            "numero": 18,
+            "titulo": "Obrigado",
+            "sinopse": "O grande mestre das artes marciais chinesas mostra seu domínio das armas no confronto contra o fortemente armado Hector Doyle.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/4wByu0B9r7TD5d5bb4us5waethS.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMTgubWt2"
+          },
+          {
+            "numero": 19,
+            "titulo": "Admite a derrota?",
+            "sinopse": "Após provocar uma explosão no centro de treinamento de Shinshinkai, Doyle é confrontado pelo seu fundador, Doppo. Tokugawa visita o mestre de Ryukoh Yanagi.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/z9A7QkGr1cHmOePMgXSFbNfUsi4.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMTkubWt2"
+          },
+          {
+            "numero": 20,
+            "titulo": "Golpe chicoteante",
+            "sinopse": "Tokugawa aprende um golpe mortal. Baki dá mais um passo na relação com Kozue.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/807uYl8KsrDVHPAl7ikyPgav9Bc.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMjAubWt2"
+          },
+          {
+            "numero": 21,
+            "titulo": "Punição",
+            "sinopse": "Revigorado, Baki encara facilmente os ataques de Ryukoh Yanagi e Sikorsky numa luta cheia de surpresas.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/ugKCv7gV5YPdlzP94dXAXjU5Xog.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMjEubWt2"
+          },
+          {
+            "numero": 22,
+            "titulo": "Confronto entre alfas",
+            "sinopse": "O meio irmão de Baki, Jack Hammer, desafia Sikorsky para uma luta num lugar inusitado de um parque.",
+            "duracao": 24,
+            "diretor": "小野田雄亮",
+            "thumb": "https://image.tmdb.org/t/p/original/digqiX9YSm1mpiHTMNzLcoVGA3y.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMjIubWt2"
+          },
+          {
+            "numero": 23,
+            "titulo": "Ataque de verdade",
+            "sinopse": "Na arena de batalha clandestina, o método de luta incomum de Gaia vai cansando Sikorsky aos poucos.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/8CH6qFVKMImUgIhhHnAhPI7Dfha.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMjMubWt2"
+          },
+          {
+            "numero": 24,
+            "titulo": "Derrota",
+            "sinopse": "Agora que o veneno de Ryukoh Yanagi não é mais uma ameaça, Yujiro Hanma o pressiona para admitir a derrota no confronto contra Izo Motobe.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/iQtv4LUT3e9VgYWg9PdbYsKBOU4.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMjQubWt2"
+          },
+          {
+            "numero": 25,
+            "titulo": "Deus e o diabo",
+            "sinopse": "Um lendário campeão peso-pesado de boxe reflete sobre seu encontro tenso com o jovem Yujiro Hanma.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/rWp9aXWI3mKcWYlcM8cffYsHLtC.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMjUubWt2"
+          },
+          {
+            "numero": 26,
+            "titulo": "O Grande Torneio Raitai",
+            "sinopse": "Retsu pede a seu mentor que permita o mortalmente envenenado Baki entrar no torneio Raitai de artes marciais.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/3699oIPV4zvjNiEd1GMPQjz0Xst.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvODA2MjMtMDEtMjYubWt2"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Com entrada especial concedida no Grande Torneio Raitai, um Baki envenenado agora enfrenta lutadores na China, onde o próximo verdadeiro Imperador do Mar será escolhido.",
+        "poster": "https://image.tmdb.org/t/p/original/taarM0OCOQW1heyUaOttIwKbclu.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Que comece o torneio",
+            "sinopse": "Louco para lutar, Yujiro é provocado por Mohammad Alai Jr. Baki é envenenado, mas ainda assim Retsu Kaioh consegue inscrevê-lo no Grande Torneio Raitai.",
+            "duracao": 25,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uDK2JjN1aEAEHSnR5CvD0MK4WjC.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Reviravolta",
+            "sinopse": "O adversário de Alai Jr. enfrenta a sua velocidade. Mesmo fraco, Baki enfrenta Li Kaioh.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/q3mkdo9z4lubIAaJl8OiTVJ9Mke.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Recuperado!",
+            "sinopse": "Samwan Kaioh é 121 anos mais jovem, mas Kaku Kaioh não tem medo nenhum de enfrentá-lo.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/34RmY27b875qEj30DCncttP4nN4.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Time formado!",
+            "sinopse": "Chin Kaioh e Jaku Kaioh, do Japão, se enfrentam no torneio. Baki tenta fazer Yujiro lutar com ele fora da arena.",
+            "duracao": 25,
+            "diretor": "小野田雄亮",
+            "thumb": "https://image.tmdb.org/t/p/original/2rREONhrIQ9muLKtawpaTGpV84d.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Mão no bolso",
+            "sinopse": "Shobun Ron confia no seu Kenpo Iai para encarar a força bruta de Oliva.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/8Vo4cmPa9fa0HcgfnOz4clX16Zo.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Excelente!",
+            "sinopse": "A habilidade de Retsu no Kenpo chinês o torna um lutador de alto nível, mas Jaku é um inimigo temível, com golpes baixos e grande capacidade tática.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/xDAsazFaUqfRsOdsWWP8wddkaCI.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Imperador do mar",
+            "sinopse": "Começa o confronto do século: Kaku Kaioh, o principal representante do Kenpo chinês, contra o homem mais forte do planeta, Yujiro Hanma.",
+            "duracao": 24,
+            "diretor": "おゆなむ",
+            "thumb": "https://image.tmdb.org/t/p/original/aebpliGZ3hgFkAXPJ0G7ssIXvPL.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Os mais fortes",
+            "sinopse": "Todos ficam chocados com o resultado do confronto entre o poder puro de Yujiro e a habilidade que Kaku desenvolveu praticando artes marciais por mais de um século.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/AdxeW1UD1DCOZ7cBPtuMXWpAAmg.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Lutador x Mestre",
+            "sinopse": "Kozue se espanta quando Alai Jr. tenta convencê-la de que é melhor que Baki. Alai Jr. desafia o grande mestre Goki Shibukawa.",
+            "duracao": 24,
+            "diretor": "小野田雄亮",
+            "thumb": "https://image.tmdb.org/t/p/original/lB6ZkaRa10unknMepIW1Y9mhrhA.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Firme na luta",
+            "sinopse": "Meio-irmão de Baki, Jack Hammer prova ser um lutador à parte na lista dos melhores contra quem Alai Jr. testa suas habilidades.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/x61NlMTjKIyxt9Wje10i73C5HVS.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "Despertar",
+            "sinopse": "Alai Jr. volta ao hotel para se recuperar dos ferimentos que sofreu nas lutas, mas é desafiado pelo seu pai, o maior boxeador de todos os tempos.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/8efvJiqwOFP5XYdTLRe0EOSmqDr.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "Chegou a hora",
+            "sinopse": "Os filhos de dois lutadores lendários estremecem a arena: Baki contra Alai Jr. Quem vencerá?",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/ruCF5486yiMVvA84Zje5CwCNd2u.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "Vingança",
+            "sinopse": "Ryukoh Yanagi foge da prisão e o inspetor Sonoda procura os outros condenados que espalharam caos em Tóquio.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uBEb3EE58jaFJ0HXw4QFsxPrKa6.jpg",
+            "url": ""
+          }
+        ]
+      }
+    ]
   }
 ]
