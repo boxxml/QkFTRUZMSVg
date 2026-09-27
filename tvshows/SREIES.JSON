@@ -3245,5 +3245,127 @@
         ]
       }
     ]
+  },
+  {
+    "id": "229544-among-us",
+    "titulo": "Among Us",
+    "sinopse": "Os excêntricos tripulantes de uma nave que transporta sucata pela galáxia precisam descobrir quem é o impostor entre eles antes de serem vítimas dos planos maliciosos dele. Baseada no fenômeno mundial dos videogames da Innersloth, de mesmo nome.",
+    "ano": 2026,
+    "nota": 9,
+    "classificacao": "14",
+    "estudio": "Paramount+",
+    "generos": [
+      "Animação e Comédia e Mistério e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
+    "banner": "",
+    "elenco": [
+      "Yvette Nicole Brown",
+      "Kimiko Glenn",
+      "Liv Hewson",
+      "Ashley Johnson",
+      "Wayne Knight",
+      "Phil LaMarr"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/d9B1PJomFcKTSOghMTKN4fxcPX6.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Uma Pizza Onde Nada de Ruim Acontece",
+            "sinopse": "Dois novatos visitam a Skeld pouco antes de acontecer um desastre!",
+            "duracao": 14,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/2mUBee5n9EOMuo1cFdztbjaAOyE.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/229544-01-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "Não Dá Para Ser Bonito e Inteligente",
+            "sinopse": "Um cadáver é encontrado. Quem é chamado? O médico bonitão!",
+            "duracao": 13,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/35HXtXIPRTEQNgKqcBaA4ZewUGK.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/229544-01-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "A NOVA CASA DO CAOS!",
+            "sinopse": "Tem algo errado a bordo. Hora da PRIMEIRA REUNIÃO DE EMERGÊNCIA!",
+            "duracao": 13,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/ngktvMYMRY4MyMs8Oj2y8iLjOP1.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/229544-01-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "E GOSTAM DE MATAR!",
+            "sinopse": "Surgem facções, rola uma pizza e o caçador pode virar presa.",
+            "duracao": 14,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/dFdB5itYKuJRkCv0bKcrq7rDWCz.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/229544-01-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "Só Boas Energias",
+            "sinopse": "A tripulação expulsa o impostor… mas algo parece errado.",
+            "duracao": 14,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/k0iAEpOoFDZrB6rHCubVCwfT9e7.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/229544-01-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "Segurança Insegura",
+            "sinopse": "Houve uma sabotagem a bordo. A tripulação precisa resolver isso… de novo.",
+            "duracao": 13,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/6SC7e6WpsABUH3HjDSBxOCQbj0t.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/229544-01-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "6 Tripulantes Indignados",
+            "sinopse": "Tripulantes são postos à prova, segredos vêm à tona e decisões ficam mais difíceis ainda.",
+            "duracao": 14,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uELyv785mYddVsqBJd8ntdxtSCt.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/229544-01-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "Síndrome do Impostor",
+            "sinopse": "Alianças se formam, a culpa se espalha e uma descoberta surpreendente muda tudo.",
+            "duracao": 14,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/aDR0krKELLxbke6iOTd9la9Gpym.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/229544-01-08.mkv"
+          },
+          {
+            "numero": 9,
+            "titulo": "Só Estou Desabafando",
+            "sinopse": "Menos sobreviventes, pânico cada vez maior e um reator à beira do colapso.",
+            "duracao": 14,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/cN4YlKqgJcAfPciWVCDivQjQ1SA.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/229544-01-09.mkv"
+          },
+          {
+            "numero": 10,
+            "titulo": "Todos Ainda Vivem. Ninguém Morreu",
+            "sinopse": "A sobrevivência está em jogo, segredos vêm à tona e tensões de longa data finalmente explodem.",
+            "duracao": 15,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/c1z83dNmsXjvg47jnDGaDND7jXh.jpg",
+            "url": "https://ia800506.us.archive.org/0/items/t-v-s-h-o-w-s01/229544-01-10.mkv"
+          }
+        ]
+      }
+    ]
   }
 ]
