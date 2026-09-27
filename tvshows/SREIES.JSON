@@ -1,663 +1,2084 @@
 [
   {
-    "id": "125988-silo",
-    "titulo": "Silo",
-    "sinopse": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
-    "ano": 2023,
-    "nota": 8.2,
-    "classificacao": "14",
-    "estudio": "Apple TV",
+    "id": "108978-reacher",
+    "titulo": "Reacher",
+    "sinopse": "Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma trama mortal cheia de policiais corruptos, empresários obscuros e políticos conspiradores. Só com sua inteligência, ele precisa descobrir o que está havendo em Margrave, Geórgia.",
+    "ano": 2022,
+    "nota": 8.1,
+    "classificacao": "16",
+    "estudio": "Prime Video",
     "generos": [
-      "Sci-Fi & Fantasy e Drama"
+      "Action & Adventure e Crime"
     ],
-    "poster": "https://image.tmdb.org/t/p/original/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
     "banner": "",
     "elenco": [
-      "Rebecca Ferguson",
-      "Common",
-      "Chinaza Uche",
-      "Ashley Zukerman",
-      "Shane McRae",
-      "Remmie Milner"
+      "Alan Ritchson",
+      "Agnez Mo",
+      "Sydelle Noel",
+      "Anggun",
+      "Christopher Rodriguez Marquette",
+      "Kevin Corrigan"
     ],
     "temporadas": [
       {
         "numero": 1,
-        "sinopse": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
-        "poster": "https://image.tmdb.org/t/p/original/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg",
+        "sinopse": "Baseado em \"Dinheiro Sujo\" Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma conspiração mortal cheia de policiais sujos, empresários duvidosos e políticos intrigantes. Com nada além de sua inteligência, ele deve descobrir o que está acontecendo em Margrave, na Geórgia.",
+        "poster": "https://image.tmdb.org/t/p/original/uXUQksKCL5ddj6moUqfhDwvMRYN.jpg",
         "episodios": [
           {
             "numero": 1,
-            "titulo": "Dia da liberdade",
-            "sinopse": "Os planos do xerife Becker para o futuro mudam depois que sua esposa conhece um hacker com informações sobre o silo.",
-            "duracao": 62,
-            "diretor": "Morten Tyldum",
-            "thumb": "https://image.tmdb.org/t/p/original/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg",
+            "titulo": "Bem-vindo a Margrave",
+            "sinopse": "Reacher é acusado de um homicídio que não cometeu ao visitar a pequena cidade de Margrave, na Geórgia.",
+            "duracao": 54,
+            "diretor": "Thomas Vincent",
+            "thumb": "https://image.tmdb.org/t/p/original/15xLLZN3LLAdvoiHnYL5DcXlsYu.jpg",
             "url": ""
           },
           {
             "numero": 2,
-            "titulo": "A escolha de Holston",
-            "sinopse": "Juliette, uma engenheira, junta as peças do que pode ter causado a morte misteriosa de um colega de trabalho.",
-            "duracao": 52,
-            "diretor": "Morten Tyldum",
-            "thumb": "https://image.tmdb.org/t/p/original/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg",
+            "titulo": "Primeira Dança",
+            "sinopse": "Quando mais vítimas são descobertas, Reacher tenta conseguir respostas, mas é encurralado. Roscoe recebe um recado ameaçador.",
+            "duracao": 53,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/4nfnpqWMX8dHI1bYZcdxLEvy2c9.jpg",
             "url": ""
           },
           {
             "numero": 3,
-            "titulo": "Máquinas",
-            "sinopse": "Em sua busca por um novo xerife, a prefeita Jahns entra em conflito com Bernard. Juliette faz um acordo para manter o gerador funcionando.",
-            "duracao": 66,
-            "diretor": "Morten Tyldum",
-            "thumb": "https://image.tmdb.org/t/p/original/8hQB4jxk9ydj55Mrl9sY95smV7.jpg",
+            "titulo": "Prato Cheio",
+            "sinopse": "A investigação de Reacher e Finlay atrás de Spivey, desaparecido, se torna uma disputa com Kliner Sr. Roscoe recebe informações preocupantes sobre Reacher.",
+            "duracao": 47,
+            "diretor": "Stephen Surjik",
+            "thumb": "https://image.tmdb.org/t/p/original/6dgLq2bUlEBuXz5SPzr1Dn7UpML.jpg",
             "url": ""
           },
           {
             "numero": 4,
-            "titulo": "Verdade",
-            "sinopse": "Juliette tenta ganhar a confiança do delegado Marnes enquanto eles trabalham para descobrir a verdade sobre as recentes tragédias.",
-            "duracao": 49,
-            "diretor": "David Semel",
-            "thumb": "https://image.tmdb.org/t/p/original/x3fMuXhTx5f91tQgjXNzopo5B5g.jpg",
+            "titulo": "Pista",
+            "sinopse": "Conforme o perigo aumenta, Reacher e Roscoe se tornam mais íntimos e fazem planos de encontrar com o contato na Segurança Nacional.",
+            "duracao": 46,
+            "diretor": "Christine Moore",
+            "thumb": "https://image.tmdb.org/t/p/original/8AgfxcL0WxcDCiTtanrKG9vGyug.jpg",
             "url": ""
           },
           {
             "numero": 5,
-            "titulo": "O filho do zelador",
-            "sinopse": "Sims nomeia Billings como subdelegado para manter o controle sobre Juliette, cujos esforços para resolver dois assassinatos levam a um confronto.",
-            "duracao": 54,
-            "diretor": "David Semel",
-            "thumb": "https://image.tmdb.org/t/p/original/yzLUNo2jU82N5rdRG0xZ2A2ed79.jpg",
+            "titulo": "Sem Desculpas",
+            "sinopse": "O mistério se aprofunda. Reacher convoca uma antiga colega e Finlay faz uma descoberta alarmante.",
+            "duracao": 49,
+            "diretor": "Norberto Barba",
+            "thumb": "https://image.tmdb.org/t/p/original/yvSWomTB7uiVOov0iQXrlmek81l.jpg",
             "url": ""
           },
           {
             "numero": 6,
-            "titulo": "A relíquia",
-            "sinopse": "Durante sua investigação, Juliette descobre segredos perturbadores sobre alguém que ela achava que conhecia.",
-            "duracao": 55,
-            "diretor": "Bertie",
-            "thumb": "https://image.tmdb.org/t/p/original/k5UxYAS4Xmcsn3GZdCklXGMIBMd.jpg",
+            "titulo": "Papel",
+            "sinopse": "Quando a cidade é abalada por um novo homicídio, Reacher vai para Nova York e descobre a verdade sobre o negócio criminoso em Margrave, enquanto Roscoe enfrenta o perigo na floresta.",
+            "duracao": 49,
+            "diretor": "Omar Madha",
+            "thumb": "https://image.tmdb.org/t/p/original/3GT2msFS0C4KdEDeD9TR2NPOS1s.jpg",
             "url": ""
           },
           {
             "numero": 7,
-            "titulo": "Os protetores da chama",
-            "sinopse": "Bernard busca a cooperação de Juliette enquanto fica cada vez mais preocupado com a segurança do silo. Juliette pede um favor ao pai.",
-            "duracao": 51,
-            "diretor": "Bertie",
-            "thumb": "https://image.tmdb.org/t/p/original/ukzV8BZbjlIU6WOKdoZqhHMg2yi.jpg",
+            "titulo": "Reacher Não Disse Nada",
+            "sinopse": "Reacher cria uma armadilha e depois acaba caindo em uma.",
+            "duracao": 42,
+            "diretor": "Lin Oeding",
+            "thumb": "https://image.tmdb.org/t/p/original/i9z3J0xwImiuFhu5DQyYqnBxVDC.jpg",
             "url": ""
           },
           {
             "numero": 8,
-            "titulo": "Hanna",
-            "sinopse": "Novas informações fazem com que Juliette veja o passado de sua família de maneira diferente—e ela finalmente tem acesso aos maiores segredos do silo.",
-            "duracao": 48,
-            "diretor": "Adam Bernstein",
-            "thumb": "https://image.tmdb.org/t/p/original/sZaeOvZYS4evALQtm2wfC3eJxit.jpg",
-            "url": ""
-          },
-          {
-            "numero": 9,
-            "titulo": "A fuga",
-            "sinopse": "Atormentado pela culpa, Billings parte em uma missão pessoal, apenas para descobrir uma pista chocante de Juliette.",
-            "duracao": 48,
-            "diretor": "Adam Bernstein",
-            "thumb": "https://image.tmdb.org/t/p/original/mogTf95jiLdvSXwnjpQcIs6Wxh2.jpg",
-            "url": ""
-          },
-          {
-            "numero": 10,
-            "titulo": "Lá fora",
-            "sinopse": "O destino de Juliette parece selado quando certas verdades finalmente vêm à tona.",
-            "duracao": 49,
-            "diretor": "Adam Bernstein",
-            "thumb": "https://image.tmdb.org/t/p/original/qcqkEv0S8Re5V2UV9LFUWzHYyq3.jpg",
+            "titulo": "Torta",
+            "sinopse": "Reacher lidera uma equipe de resgate até o galpão, que termina em uma batalha.",
+            "duracao": 52,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/8Pzg1MpVAAbyBGdfAUmRmfSmAWQ.jpg",
             "url": ""
           }
         ]
       },
       {
         "numero": 2,
-        "sinopse": "Presa do lado de fora de seu silo com um traje defeituoso, Juliette corre contra o tempo. Atordoada, encontra outro silo próximo, sua esperança de sobrevivência. Enquanto isso, a agitação cresce dentro de seu silo original enquanto Bernard Holland reúne cidadãos para manter a ordem em meio a crescentes questões sobre seu mundo.",
-        "poster": "https://image.tmdb.org/t/p/original/9rCsN9tcZHXXrQM4bcTpcyTkTIS.jpg",
+        "sinopse": "Baseado em \"Má sorte e problemas\" quando membros da antiga unidade militar de Reacher começam a aparecer mortos, Reacher só tem uma coisa em mente: vingança.",
+        "poster": "https://image.tmdb.org/t/p/original/amMjk39mJAyT9mHQ6OUynoanPtV.jpg",
         "episodios": [
           {
             "numero": 1,
-            "titulo": "A engenheira",
-            "sinopse": "Juliette encontra refúgio em um silo destruído pela guerra há muito tempo, pensando que está sozinha.",
-            "duracao": 48,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/kB5wWdEknKlBJ8iGEYQyTJWTSZv.jpg",
+            "titulo": "Caixa Eletrônico",
+            "sinopse": "Reacher e Neagley investigam a morte de um dos membros da 110, a equipe de investigadores especiais criada por Reacher, e percebem que toda a equipe pode estar em perigo.",
+            "duracao": 56,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/j7hYdtMCzXsRtk8oeoynzcB1skZ.jpg",
             "url": ""
           },
           {
             "numero": 2,
-            "titulo": "Ordem",
-            "sinopse": "No Silo 18, o choque e a inquietação tomam conta de Juliette quando ela faz o que ninguém fez antes.",
-            "duracao": 42,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/gB2lEpKUvTshTdq00IRjQHFgG4J.jpg",
+            "titulo": "O que Acontece em Atlantic City",
+            "sinopse": "A investigação da morte de Franz leva Reacher e os membros que restaram de sua antiga equipe militar até Atlantic City, onde o mistério aumenta, o perigo os aguarda, e uma antiga chama é reaquecida.",
+            "duracao": 50,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/qdsegCgx8x5tXL7k1nwiQ0493J6.jpg",
             "url": ""
           },
           {
             "numero": 3,
-            "titulo": "Solo",
-            "sinopse": "Bernard pede ajuda para a juíza Meadows. Billings começa a se perguntar se estão mentindo para ele. Juliette finalmente conhece o homem no cofre.",
-            "duracao": 54,
-            "diretor": "Aric Avelino",
-            "thumb": "https://image.tmdb.org/t/p/original/dY1nJnRuuhC0stZqNWShBYqk93H.jpg",
+            "titulo": "Uma Imagem Vale Mil Palavras",
+            "sinopse": "Depois de mais amigos se tornarem vítimas, Reacher forja uma aliança complicada com um detetive obstinado, e a única pista que têm do caso leva a 110 a uma descoberta inquietante.",
+            "duracao": 48,
+            "diretor": "Omar Madha",
+            "thumb": "https://image.tmdb.org/t/p/original/fRqRZZuBRMhxOw6QHIOL97MAj5P.jpg",
             "url": ""
           },
           {
             "numero": 4,
-            "titulo": "O harmônio",
-            "sinopse": "Juliette parte em uma jornada perigosa para recuperar um traje, voltar para casa e salvar seu silo. A mecânica planeja uma reunião com a juíza Meadows.",
-            "duracao": 54,
-            "diretor": "Aric Avelino",
-            "thumb": "https://image.tmdb.org/t/p/original/lSsLzD8eVZaju4XUGmoTGSvZq2C.jpg",
+            "titulo": "Uma Noite na Sinfonia",
+            "sinopse": "Reacher e sua equipe vão a Boston para rastrear um assessor político com informações secretas sobre um contrato de defesa militar confidencial que pode ser o motivo da morte de seus amigos.",
+            "duracao": 46,
+            "diretor": "Omar Madha",
+            "thumb": "https://image.tmdb.org/t/p/original/xZMIwWORGokHKxU4DgGSzcrvvJr.jpg",
             "url": ""
           },
           {
             "numero": 5,
-            "titulo": "A descida",
-            "sinopse": "Sims se encontra em uma nova posição. Juliette descobre que Solo não está sendo sincero. Bernard e Lukas fazem uma descoberta importante.",
-            "duracao": 49,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/y2KEcaL7GLj5uYXP0t7C0d0R5B6.jpg",
+            "titulo": "Enterro",
+            "sinopse": "Neagley e Dixon descobrem informações surpreendentes sobre um velho amigo em Denver, enquanto Reacher e O'Donnell aprofundam o que sabem sobre o perigoso e misterioso A.M..",
+            "duracao": 44,
+            "diretor": "Carol Banker",
+            "thumb": "https://image.tmdb.org/t/p/original/qHoDmkiqipd7u8VzVDNcwVksRfd.jpg",
             "url": ""
           },
           {
             "numero": 6,
-            "titulo": "Barricadas",
-            "sinopse": "Bernard põe em prática um plano para matar Knox, Shirley e Walker. Billings toma uma posição. Solo salva a vida de Juliette e pede algo em troca.",
-            "duracao": 43,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/aAPo83kOC5mfgcOado49ijWITVo.jpg",
+            "titulo": "A Polícia de Nova York",
+            "sinopse": "O mistério continua a se desdobrar, e Reacher e sua equipe montam uma armadilha para equilibrar o jogo.",
+            "duracao": 46,
+            "diretor": "Carol Banker",
+            "thumb": "https://image.tmdb.org/t/p/original/r0Xj9M0XfaX1tbuahIZECCo9y6S.jpg",
             "url": ""
           },
           {
             "numero": 7,
-            "titulo": "O mergulho",
-            "sinopse": "Lukas recebe uma missão. A mecânica envia uma mensagem poderosa. Juliette embarca em uma descida perigosa—e enfrenta um novo perigo.",
-            "duracao": 51,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/z60fohHAWgfhpVjZRZq4M1Itw7Z.jpg",
+            "titulo": "Cumprindo o que Prometeu",
+            "sinopse": "A equipe fecha o cerco em Langston, e dois membros da 110 correm perigo, obrigando Reacher a criar um plano perigoso para resgatá-los.",
+            "duracao": 46,
+            "diretor": "Julian Holmes",
+            "thumb": "https://image.tmdb.org/t/p/original/xdX8ijvCkwM6erROSdZYqnlzEre.jpg",
             "url": ""
           },
           {
             "numero": 8,
-            "titulo": "O livro de Quinn",
-            "sinopse": "Juliette descobre que algo aconteceu com Solo. Bernard faz uma oferta para Walker. Lukas se encontra com os descendentes de Salvador Quinn.",
-            "duracao": 47,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/krzYmEQZ3ugR5MFqOMQJrv2pcnh.jpg",
-            "url": ""
-          },
-          {
-            "numero": 9,
-            "titulo": "A salvaguarda",
-            "sinopse": "A fé de Billings fica abalada. Lukas vai para as profundezas. Knox identifica o traidor. Juliette descobre a verdade sobre o passado de Solo.",
-            "duracao": 59,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/aNgT4AEffmGwiabRD03riCz1aWr.jpg",
-            "url": ""
-          },
-          {
-            "numero": 10,
-            "titulo": "No fogo",
-            "sinopse": "Os rebeldes fazem sua jogada—e Juliette também.",
-            "duracao": 59,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/coz4XyEQ59IbkJ3UYB9Nr8UW8ur.jpg",
+            "titulo": "Voador",
+            "sinopse": "Reacher e Neagley fazem uma tentativa final e desesperada para salvar O'Donnell e Dixon, deter A.M. e vingar a morte de seus amigos.",
+            "duracao": 43,
+            "diretor": "Julian Holmes",
+            "thumb": "https://image.tmdb.org/t/p/original/7Jt8ghfYb2jx7hg1H5UbEUEH101.jpg",
             "url": ""
           }
         ]
       },
       {
         "numero": 3,
-        "sinopse": "No presente, Juliette Nichols sobrevive à sua \"limpeza\" forçada, mas retorna com amnésia enquanto o silo se recupera da rebelião e enfrenta uma nova e perigosa ameaça. Enquanto isso, no \"Tempo Anterior\", a jornalista Helen Drew e o congressista Daniel Keene descobrem uma conspiração que os arrasta para uma série de eventos com consequências catastróficas e irreversíveis.",
-        "poster": "https://image.tmdb.org/t/p/original/cxB16Cc7xZuqWgNDo7QlqLMlinu.jpg",
+        "sinopse": "Reacher viaja para o Maine em busca de um inimigo mortal de seu passado e acaba envolvido com agentes da agência antidrogas, assassinos perigosos e um misterioso negócio de família.",
+        "poster": "https://image.tmdb.org/t/p/original/4Xt7uxaBHijAMSbqwPHm4aZ6fwd.jpg",
         "episodios": [
           {
             "numero": 1,
-            "titulo": "Quem é você?",
-            "sinopse": "A nova prefeita Juliette não se lembra de nada do tempo em que esteve do lado de fora, nem do seu passado.",
-            "duracao": 56,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
+            "titulo": "Acerto de Contas",
+            "sinopse": "A tentativa de Reacher de impedir um sequestro o coloca em contato com o misterioso empresário Zachary Beck.",
+            "duracao": 53,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/rOH23zL2aisDvZ3aCDlj65gsmdZ.jpg",
             "url": ""
           },
           {
             "numero": 2,
-            "titulo": "Está tudo bem",
-            "sinopse": "Billings investiga um desaparecimento. Daniel Keene tem um desentendimento com uma repórter.",
-            "duracao": 51,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
+            "titulo": "Na Estrada",
+            "sinopse": "Incumbido de transportar uma carga para seu novo empregador, Zachary Beck, Reacher precisa lidar com o envolvimento da agência antidrogas e de um novo funcionário intrometido.",
+            "duracao": 43,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/cxjl8M0822xIaetKhseEC12znKY.jpg",
             "url": ""
           },
           {
             "numero": 3,
-            "titulo": "Dark web",
-            "sinopse": "Juliette assume o controle de seu processo de recuperação. Helen sofre as consequências de sua investigação.",
-            "duracao": 49,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
+            "titulo": "Braço Direito Armado",
+            "sinopse": "Com o aumento do número de mortos ameaçando sua posição de infiltrado, Reacher faz uma jogada arriscada para conquistar a confiança de Beck.",
+            "duracao": 54,
+            "diretor": "Gary Fleder",
+            "thumb": "https://image.tmdb.org/t/p/original/xewDe800NB1qdxu1l3vjINtBwJK.jpg",
             "url": ""
           },
           {
             "numero": 4,
-            "titulo": "Não importa o que faça, não vá para casa",
-            "sinopse": "A corrida para escapar de Camille leva Juliette a uma descoberta chocante. Daniel pede ajuda a um amigo.",
-            "duracao": 48,
-            "diretor": "Aric Avelino",
-            "thumb": "https://image.tmdb.org/t/p/original/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
+            "titulo": "Dominique",
+            "sinopse": "Reacher se reúne com Duffy e Villanueva e finalmente revela os detalhes dolorosos de sua história com Xavier Quinn.",
+            "duracao": 53,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/ypZpH089L0AD45fH0SiixqW3MK8.jpg",
             "url": ""
           },
           {
             "numero": 5,
-            "titulo": "Memória",
-            "sinopse": "Os eventos que se seguiram ao retorno de Juliette vêm à tona e alianças inesperadas surgem.",
-            "duracao": 52,
-            "diretor": "Aric Avelino",
-            "thumb": "https://image.tmdb.org/t/p/original/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
+            "titulo": "Confronto",
+            "sinopse": "Quando uma tragédia envolvendo a agência antidrogas coloca toda a missão em risco, Reacher, Duffy e Villanueva improvisam um plano drástico para proteger seus disfarces.",
+            "duracao": 49,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/4r5BUAgNyzhsk28Pr9OpnrQXsvZ.jpg",
             "url": ""
           },
           {
             "numero": 6,
-            "titulo": "A viagem",
-            "sinopse": "Billings e Hank se deparam com um novo mistério. Daniel e Helen recebem uma proposta surpreendente.",
-            "duracao": 55,
-            "diretor": "Alrick Riley",
-            "thumb": "https://image.tmdb.org/t/p/original/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
+            "titulo": "Fumaça na Água",
+            "sinopse": "Reacher se vê dividido entre seu desejo de matar Quinn e sua promessa a Duffy de salvar Teresa.",
+            "duracao": 48,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/2gpbqF4AiqwuKuths8jKyap16I6.jpg",
             "url": ""
           },
           {
             "numero": 7,
-            "titulo": "Rádio",
-            "sinopse": "Juliette envia Lukas e Kennedy em uma missão, enquanto Camille, desesperada, ameaça Robert para que ele conte a verdade.",
-            "duracao": 55,
-            "diretor": "Aric Avelino",
-            "thumb": "https://image.tmdb.org/t/p/original/hT47PUyS6fQrmukmbyXrL9nBgKc.jpg",
+            "titulo": "Uma História em L.A.",
+            "sinopse": "Após Reacher e Duffy viajarem para Los Angeles para negociar um acordo, Neagley chega ao Maine para ajudar Reacher a obter respostas.",
+            "duracao": 52,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/h6n5EXzNYTYycAH72J8FVMqXw9u.jpg",
             "url": ""
           },
           {
             "numero": 8,
-            "titulo": "Gosma cinza",
-            "sinopse": "O pai de Knox, Gus, revela um segredo. Charlotte toma uma decisão que mudará sua vida.",
-            "duracao": 56,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/qZiRIiFbjCSttNe3uNHsi6hoxWV.jpg",
-            "url": ""
-          },
-          {
-            "numero": 9,
-            "titulo": "Despedida",
-            "sinopse": "Todos no silo ficam atônitos com o anúncio de Camille. Daniel e Helen participam de um evento especial.",
-            "duracao": 62,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/fl5tbMRYYQ6eWEuU5E5wN3qRXrK.jpg",
-            "url": ""
-          },
-          {
-            "numero": 10,
-            "titulo": "Troy",
-            "sinopse": "Um líder desperta para um novo mundo.",
-            "duracao": 61,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/cWfqa602Kcka7zRaLMq9TRhLJkH.jpg",
+            "titulo": "Negócios Inacabados",
+            "sinopse": "Reacher finalmente confronta Paulie e Quinn.",
+            "duracao": 52,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/y0LEFFyCAZqZPM7zggm4KysdF2h.jpg",
             "url": ""
           }
         ]
       },
       {
         "numero": 4,
-        "sinopse": "",
-        "poster": "",
+        "sinopse": "Um encontro inesperado com uma estranha perturbada no metrô da Filadélfia arrasta Jack Reacher para um mistério mortal.",
+        "poster": "https://image.tmdb.org/t/p/original/wXQNonDCHMI4tzzzPwp66rKK0DC.jpg",
         "episodios": [
           {
             "numero": 1,
-            "titulo": "Episódio 1",
-            "sinopse": "",
-            "duracao": 0,
-            "diretor": "",
-            "thumb": "",
+            "titulo": "Cidade do Amor Fraternal",
+            "sinopse": "Um encontro inesperado com uma estranha visivelmente perturbada em um vagão do metrô da Filadélfia arrasta Jack Reacher para um mistério envolvendo um pen drive desaparecido que contém segredos pelos quais vale a pena matar.",
+            "duracao": 47,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/r34i4he79jzOeDuTddNHF62DdD3.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Luta na Gaiola",
+            "sinopse": "Tamara acaba se envolvendo no mistério, mesmo contra a sua vontade, quando ela, Reacher e Jacob enfrentam agentes do governo corruptos e um esquadrão misterioso de soldados profissionais, todos atrás do mesmo pen drive.",
+            "duracao": 49,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/zql5YtLObawcXJaZihwu28dKmIg.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Um Pequeno Passo",
+            "sinopse": "Reacher e Lila ficam mais próximos, e ele descobre que as coisas são mais complexas do que parecem. Enquanto isso, Tamara, Jacob e Plum encontram uma pista importante depois que outro ataque de um de seus misteriosos adversários faz com que eles precisem retornar à Filadélfia.",
+            "duracao": 45,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/rNVrMf7gXC1EZBMdgsFYFCHjpEF.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Karambits, que droga!",
+            "sinopse": "Reacher interroga Sampson, Tamara invade uma instalação do governo, Jacob recebe notícias devastadoras e a equipe recebe uma informação que muda tudo.",
+            "duracao": 44,
+            "diretor": "Gary Fleder",
+            "thumb": "https://image.tmdb.org/t/p/original/cFJMK5jyQ04jIMX9A6ZcIt65K9L.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "A Ponte",
+            "sinopse": "Após um mal-entendido, Reacher se torna o criminoso mais procurado da Filadélfia. Enquanto isso, antigos inimigos reaparecem e novos surgem. Jacob, Tamara e Plum acabam indo parar no meio de um tiroteio, dando a Jacob sua primeira chance real de vingar a morte da irmã.",
+            "duracao": 48,
+            "diretor": "Gary Fleder",
+            "thumb": "https://image.tmdb.org/t/p/original/3JrZvxduPF6YH6Sb3BlPnKDmh67.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Plum deu Azar",
+            "sinopse": "Fugindo da polícia, Reacher e Tamara saem da cidade para encontrar o misterioso Ahlquist, mas acabam arrumando mais problemas. Enquanto isso, Jacob e Plum lidam com seus próprios problemas na Filadélfia.",
+            "duracao": 41,
+            "diretor": "Gary Fleder",
+            "thumb": "https://image.tmdb.org/t/p/original/qSJn08nw1pdCE5vTrNbWSDEJipd.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Vote em Sampson",
+            "sinopse": "Reacher e Tamara finalmente conseguem as respostas que tanto buscavam. Enquanto isso, Jacob descobre que seus problemas estão apenas começando quando as fontes de Plum trazem informações relevantes.",
+            "duracao": 41,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/szPCuR79q4iapjkZi7bWVJUMtRt.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Corte",
+            "sinopse": "Reacher, Tamara e Jacob enfrentam o inimigo enquanto a verdadeira dimensão do plano dele é revelada. Reacher confronta os responsáveis pela morte de Anna, enquanto Jacob encara um momento decisivo e Plum tem sua chance de redenção.",
+            "duracao": 56,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/fx4RRJtY9Dusdo2RW1CLB6jA0m7.jpg",
             "url": ""
           }
         ]
       }
     ]
-  }
-],
-  {
-    "id": "125988-silo",
-    "titulo": "Silo",
-    "sinopse": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
-    "ano": 2023,
-    "nota": 8.2,
-    "classificacao": "14",
-    "estudio": "Apple TV",
+  },
+  
+ {
+    "id": "60735-flash",
+    "titulo": "Flash",
+    "sinopse": "Um perito forense desperta de um coma com poderes especiais que serão postos à prova na luta contra forças que ameaçam a cidade.",
+    "ano": 2014,
+    "nota": 7.7,
+    "classificacao": "12",
+    "estudio": "The CW",
     "generos": [
-      "Sci-Fi & Fantasy e Drama"
+      "Drama e Sci-Fi & Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/original/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/lFxIoMKqkgTuxpghTPHBjoVstMV.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
     "banner": "",
     "elenco": [
-      "Rebecca Ferguson",
-      "Common",
-      "Chinaza Uche",
-      "Ashley Zukerman",
-      "Shane McRae",
-      "Remmie Milner"
+      "Grant Gustin",
+      "Candice Patton",
+      "Danielle Panabaker",
+      "Danielle Nicolet",
+      "Kayla Compton",
+      "Brandon McKnight"
     ],
     "temporadas": [
       {
         "numero": 1,
-        "sinopse": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
-        "poster": "https://image.tmdb.org/t/p/original/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg",
+        "sinopse": "Na primeira temporada, Barry procura o assassino de sua mãe enquanto Flash, sua versão meta-humana, protege a cidade dos poderosos vilões.",
+        "poster": "https://image.tmdb.org/t/p/original/m9jkOl5UdCBf2nfglZNyFwUw75J.jpg",
         "episodios": [
           {
             "numero": 1,
-            "titulo": "Dia da liberdade",
-            "sinopse": "Os planos do xerife Becker para o futuro mudam depois que sua esposa conhece um hacker com informações sobre o silo.",
-            "duracao": 62,
-            "diretor": "Morten Tyldum",
-            "thumb": "https://image.tmdb.org/t/p/original/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg",
+            "titulo": "Piloto",
+            "sinopse": "Barry acorda do coma e usa sua nova e extraordinária velocidade para combater outro meta-humano que usa poderes meteorológicos para assaltar bancos.",
+            "duracao": 44,
+            "diretor": "David Nutter",
+            "thumb": "https://image.tmdb.org/t/p/original/piyGyhwbqqyIxcyuZXYmDUWSylb.jpg",
             "url": ""
           },
           {
             "numero": 2,
-            "titulo": "A escolha de Holston",
-            "sinopse": "Juliette, uma engenheira, junta as peças do que pode ter causado a morte misteriosa de um colega de trabalho.",
-            "duracao": 52,
-            "diretor": "Morten Tyldum",
-            "thumb": "https://image.tmdb.org/t/p/original/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg",
+            "titulo": "O Homem Mais Rápido Vivo",
+            "sinopse": "Barry enfrenta diversos assassinos que invadem a premiação onde ele acompanha Iris, mas os efeitos colaterais de seus novos superpoderes representam uma ameaça.",
+            "duracao": 41,
+            "diretor": "David Nutter",
+            "thumb": "https://image.tmdb.org/t/p/original/tM61prhWhwHNDYAybsHAgRJbUZk.jpg",
             "url": ""
           },
           {
             "numero": 3,
-            "titulo": "Máquinas",
-            "sinopse": "Em sua busca por um novo xerife, a prefeita Jahns entra em conflito com Bernard. Juliette faz um acordo para manter o gerador funcionando.",
-            "duracao": 66,
-            "diretor": "Morten Tyldum",
-            "thumb": "https://image.tmdb.org/t/p/original/8hQB4jxk9ydj55Mrl9sY95smV7.jpg",
+            "titulo": "O Que Não dá Para Ultrapassar",
+            "sinopse": "Flash e Joe procuram um meta-humano mortal especializado em gases venenosos. Caitlin revive a noite da explosão que matou seu noivo.",
+            "duracao": 41,
+            "diretor": "Jesse Warn",
+            "thumb": "https://image.tmdb.org/t/p/original/wY1omkKIuqZILjniPssbGlfZ0NY.jpg",
             "url": ""
           },
           {
             "numero": 4,
-            "titulo": "Verdade",
-            "sinopse": "Juliette tenta ganhar a confiança do delegado Marnes enquanto eles trabalham para descobrir a verdade sobre as recentes tragédias.",
-            "duracao": 49,
-            "diretor": "David Semel",
-            "thumb": "https://image.tmdb.org/t/p/original/x3fMuXhTx5f91tQgjXNzopo5B5g.jpg",
+            "titulo": "Confiança é Tudo",
+            "sinopse": "Para roubar um diamante valioso, Capitão Frio consegue uma arma especial capaz de matar Flash. Joe não aprova o namoro de Iris e Eddie.",
+            "duracao": 41,
+            "diretor": "Glen Winter",
+            "thumb": "https://image.tmdb.org/t/p/original/flWYU25xy3KM5XxihrDV0cGvscp.jpg",
             "url": ""
           },
           {
             "numero": 5,
-            "titulo": "O filho do zelador",
-            "sinopse": "Sims nomeia Billings como subdelegado para manter o controle sobre Juliette, cujos esforços para resolver dois assassinatos levam a um confronto.",
-            "duracao": 54,
-            "diretor": "David Semel",
-            "thumb": "https://image.tmdb.org/t/p/original/yzLUNo2jU82N5rdRG0xZ2A2ed79.jpg",
+            "titulo": "Plástico",
+            "sinopse": "Barry tenta convencer Iris a parar de escrever sobre Flash no blog e investiga a ligação entre um general do exército e um meta-humano com poderes explosivos.",
+            "duracao": 41,
+            "diretor": "Dermott Downs",
+            "thumb": "https://image.tmdb.org/t/p/original/qg2A8gcBpuhEU7M3ZPxmRHGs5mX.jpg",
             "url": ""
           },
           {
             "numero": 6,
-            "titulo": "A relíquia",
-            "sinopse": "Durante sua investigação, Juliette descobre segredos perturbadores sobre alguém que ela achava que conhecia.",
-            "duracao": 55,
-            "diretor": "Bertie",
-            "thumb": "https://image.tmdb.org/t/p/original/k5UxYAS4Xmcsn3GZdCklXGMIBMd.jpg",
+            "titulo": "O Surgimento do Flash",
+            "sinopse": "Barry enfrenta seu rival de infância, que agora consegue se transformar em aço. Iris inventa o apelido “Flash” no blog.",
+            "duracao": 41,
+            "diretor": "Millicent Shelton",
+            "thumb": "https://image.tmdb.org/t/p/original/z8AlWWt2cOcZNqonl0U1BSTzZWb.jpg",
             "url": ""
           },
           {
             "numero": 7,
-            "titulo": "Os protetores da chama",
-            "sinopse": "Bernard busca a cooperação de Juliette enquanto fica cada vez mais preocupado com a segurança do silo. Juliette pede um favor ao pai.",
-            "duracao": 51,
-            "diretor": "Bertie",
-            "thumb": "https://image.tmdb.org/t/p/original/ukzV8BZbjlIU6WOKdoZqhHMg2yi.jpg",
+            "titulo": "Queda de Energia",
+            "sinopse": "Usando seus poderes meta-humanos para absorver eletricidade, Blackout rouba a velocidade de Barry e decide ir atrás dos laboratórios S.T.A.R. e do Dr. Wells.",
+            "duracao": 41,
+            "diretor": "Larry Shaw",
+            "thumb": "https://image.tmdb.org/t/p/original/aoCwicuOPu9NkdwqsNy4t4JFEs2.jpg",
             "url": ""
           },
           {
             "numero": 8,
-            "titulo": "Hanna",
-            "sinopse": "Novas informações fazem com que Juliette veja o passado de sua família de maneira diferente—e ela finalmente tem acesso aos maiores segredos do silo.",
-            "duracao": 48,
-            "diretor": "Adam Bernstein",
-            "thumb": "https://image.tmdb.org/t/p/original/sZaeOvZYS4evALQtm2wfC3eJxit.jpg",
+            "titulo": "Flash vs. Arqueiro",
+            "sinopse": "Arqueiro ajuda Flash a investigar um bumerangue mortal, mas um meta-humano que consegue controlar emoções faz os amigos se enfrentarem.",
+            "duracao": 41,
+            "diretor": "Glen Winter",
+            "thumb": "https://image.tmdb.org/t/p/original/farB7p2uU1SdFHbHLOvOxMFrdrA.jpg",
             "url": ""
           },
           {
             "numero": 9,
-            "titulo": "A fuga",
-            "sinopse": "Atormentado pela culpa, Billings parte em uma missão pessoal, apenas para descobrir uma pista chocante de Juliette.",
-            "duracao": 48,
-            "diretor": "Adam Bernstein",
-            "thumb": "https://image.tmdb.org/t/p/original/mogTf95jiLdvSXwnjpQcIs6Wxh2.jpg",
+            "titulo": "O Homem na Roupa Amarela",
+            "sinopse": "Flash finalmente tem a chance de enfrentar Flash Reverso. Caitlin recebe notícias surpreendentes sobre Ronnie.",
+            "duracao": 42,
+            "diretor": "Ralph Hemecker",
+            "thumb": "https://image.tmdb.org/t/p/original/AkXPSqGqLl656FJKPANUxeO8rjt.jpg",
             "url": ""
           },
           {
             "numero": 10,
-            "titulo": "Lá fora",
-            "sinopse": "O destino de Juliette parece selado quando certas verdades finalmente vêm à tona.",
-            "duracao": 49,
-            "diretor": "Adam Bernstein",
-            "thumb": "https://image.tmdb.org/t/p/original/qcqkEv0S8Re5V2UV9LFUWzHYyq3.jpg",
+            "titulo": "A Vingança dos Ladrões",
+            "sinopse": "Flash se prepara para aniquilar Flash Reverso. Capitão Frio e Onda Térmica se unem para sequestrar Caitlin e tentar acabar com o herói.",
+            "duracao": 41,
+            "diretor": "Nick Copus",
+            "thumb": "https://image.tmdb.org/t/p/original/mhfQB5YB1fLYGpe495MeYQV2wQP.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "O Som e a Fúria",
+            "sinopse": "Um ex-aluno de Dr. Wells usa ondas sonoras para atacar Flash. Iris enfrenta problemas em seu novo emprego de repórter.",
+            "duracao": 41,
+            "diretor": "John F. Showalter",
+            "thumb": "https://image.tmdb.org/t/p/original/3ekYsmDkO7BSXxas7A4FFe9UP6A.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "Louco Por Você",
+            "sinopse": "Flash encara um meta-humano com poderes de teletransporte. Cisco procura Ronnie. E Barry e Caitlin buscam o amor em um karaokê.",
+            "duracao": 41,
+            "diretor": "Rob Hardy",
+            "thumb": "https://image.tmdb.org/t/p/original/a1r4J8NQaNK24WMJSgCWkPyCvua.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "O Homem Nuclear",
+            "sinopse": "Ronnie sofre uma transformação perigosa e ataca um cientista. Joe e Cisco investigam novamente o assassinato de Nora Allen.",
+            "duracao": 41,
+            "diretor": "Glen Winter",
+            "thumb": "https://image.tmdb.org/t/p/original/gEBPOvQSzfTa8IADdDIFNU1Gsc4.jpg",
+            "url": ""
+          },
+          {
+            "numero": 14,
+            "titulo": "Recaída",
+            "sinopse": "General Eiling tenta usar Ronnie e Dr. Stein em seu projeto de super soldados. Barry tenta descobrir se viajou no tempo.",
+            "duracao": 41,
+            "diretor": "Stephen Surjik",
+            "thumb": "https://image.tmdb.org/t/p/original/5CuWCPJD2274Oz3RpsYzC0uK7mL.jpg",
+            "url": ""
+          },
+          {
+            "numero": 15,
+            "titulo": "Fora do Tempo",
+            "sinopse": "Um meta-humano que consegue controlar o clima ataca Joe para vingar a morte do irmão. Cisco descobre a verdade sobre Flash Reverso.",
+            "duracao": 40,
+            "diretor": "Thor Freudenthal",
+            "thumb": "https://image.tmdb.org/t/p/original/3ecwKLunVv2s8KFC9mt8NZe5jS6.jpg",
+            "url": ""
+          },
+          {
+            "numero": 16,
+            "titulo": "O Retorno dos Ladrões",
+            "sinopse": "Flash volta ao passado para impedir um maremoto, mas o túnel do tempo provoca outro ataque de Capitão Frio e Onda Térmica.",
+            "duracao": 41,
+            "diretor": "John Behring",
+            "thumb": "https://image.tmdb.org/t/p/original/akLeJQjlE7A4MaPhOU7im8QHSrK.jpg",
+            "url": ""
+          },
+          {
+            "numero": 17,
+            "titulo": "Os Trapaceiros",
+            "sinopse": "Flash persegue Trapaceiro e o vilão imitador que o tirou da cadeia. Barry descobre a verdade sobre Dr. Wells.",
+            "duracao": 41,
+            "diretor": "Ralph Hemecker",
+            "thumb": "https://image.tmdb.org/t/p/original/a4OayTfzogEzIc72sK4hBcVaFrC.jpg",
+            "url": ""
+          },
+          {
+            "numero": 18,
+            "titulo": "Todo o Time Unido",
+            "sinopse": "Felicity Smoak e Capitão Átomo se unem a Flash para enfrentar um meta-humano que está atacando cientistas com enxames de abelhas robóticas.",
+            "duracao": 41,
+            "diretor": "Kevin Tancharoen",
+            "thumb": "https://image.tmdb.org/t/p/original/o26LIdQiujYfKPI4kNEXz4UDr9v.jpg",
+            "url": ""
+          },
+          {
+            "numero": 19,
+            "titulo": "Quem é Harrison Wells?",
+            "sinopse": "Joe e Cisco intensificam as investigações sobre Dr. Wells. Flash enfrenta um meta-humano que consegue se transformar nas pessoas em que toca.",
+            "duracao": 41,
+            "diretor": "Wendey Stanzler",
+            "thumb": "https://image.tmdb.org/t/p/original/tQLhduqi4vFsCqXW9hZGVsI5D3K.jpg",
+            "url": ""
+          },
+          {
+            "numero": 20,
+            "titulo": "A Armadilha",
+            "sinopse": "Barry tem uma breve visão do futuro. Com apoio dos amigos, ele arma um plano para que Dr. Wells confesse o que fez. Mas isso arrisca a segurança de Cisco.",
+            "duracao": 41,
+            "diretor": "Steve Shill",
+            "thumb": "https://image.tmdb.org/t/p/original/xaC675vgOGeOtbE43vw7vuYxdUk.jpg",
+            "url": ""
+          },
+          {
+            "numero": 21,
+            "titulo": "Surge Grodd",
+            "sinopse": "Depois que um gorila telepático força o General Eiling a cometer um roubo, Flash e sua equipe penetram nos esgotos da cidade para confrontar a fera.",
+            "duracao": 41,
+            "diretor": "Dermott Downs",
+            "thumb": "https://image.tmdb.org/t/p/original/oA4TzwUNdcTwB4JFMICkx5l4rpR.jpg",
+            "url": ""
+          },
+          {
+            "numero": 22,
+            "titulo": "Acerto de Contas",
+            "sinopse": "Flash descobre que Dr. Wells reativou o acelerador de partículas e pede ajuda ao Capitão Frio para salvar os meta-humanos presos nele.",
+            "duracao": 41,
+            "diretor": "Douglas Aarniokoski",
+            "thumb": "https://image.tmdb.org/t/p/original/duURv7F1POR2OKh8TgVpSGvvhoN.jpg",
+            "url": ""
+          },
+          {
+            "numero": 23,
+            "titulo": "Rápido o Bastante",
+            "sinopse": "Dr. Wells faz uma proposta tentadora a Barry: a chance de voltar no tempo para salvar sua mãe. Mas as consequências podem ser catastróficas.",
+            "duracao": 44,
+            "diretor": "Dermott Downs",
+            "thumb": "https://image.tmdb.org/t/p/original/aepBBreYvTwsaGuqOygBgsYs4n.jpg",
             "url": ""
           }
         ]
       },
       {
         "numero": 2,
-        "sinopse": "Presa do lado de fora de seu silo com um traje defeituoso, Juliette corre contra o tempo. Atordoada, encontra outro silo próximo, sua esperança de sobrevivência. Enquanto isso, a agitação cresce dentro de seu silo original enquanto Bernard Holland reúne cidadãos para manter a ordem em meio a crescentes questões sobre seu mundo.",
-        "poster": "https://image.tmdb.org/t/p/original/9rCsN9tcZHXXrQM4bcTpcyTkTIS.jpg",
+        "sinopse": "Na segunda temporada, Flash conta com a ajuda de um super-herói veterano para enfrentar Zoom, que declarou guerra contra todos os velocistas do multiverso.",
+        "poster": "https://image.tmdb.org/t/p/original/vQMKdKEnymfnAlIBOhVJPu0j69Z.jpg",
         "episodios": [
           {
             "numero": 1,
-            "titulo": "A engenheira",
-            "sinopse": "Juliette encontra refúgio em um silo destruído pela guerra há muito tempo, pensando que está sozinha.",
-            "duracao": 48,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/kB5wWdEknKlBJ8iGEYQyTJWTSZv.jpg",
+            "titulo": "O Homem Que Salvou Central City",
+            "sinopse": "Seis meses depois de encarar a singularidade, a Equipe Flash se separou, deixando Barry sozinho nos Laboratórios S.T.A.R. e na sua luta contra os meta-humanos.",
+            "duracao": 41,
+            "diretor": "Ralph Hemecker",
+            "thumb": "https://image.tmdb.org/t/p/original/7cEj8I8uM3uM1y22UR5BouRFJ7l.jpg",
             "url": ""
           },
           {
             "numero": 2,
-            "titulo": "Ordem",
-            "sinopse": "No Silo 18, o choque e a inquietação tomam conta de Juliette quando ela faz o que ninguém fez antes.",
-            "duracao": 42,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/gB2lEpKUvTshTdq00IRjQHFgG4J.jpg",
+            "titulo": "Flash de Dois Mundos",
+            "sinopse": "Jay Garrick, um speedster da Terra-2, avisa a equipe sobre um speedster do mal chamado Zoom. Cisco tem mais visões, e uma delas leva ao Demônio da Areia.",
+            "duracao": 41,
+            "diretor": "Jesse Warn",
+            "thumb": "https://image.tmdb.org/t/p/original/qPZEyRCdtpxT57Hj0zggi2qCaml.jpg",
             "url": ""
           },
           {
             "numero": 3,
-            "titulo": "Solo",
-            "sinopse": "Bernard pede ajuda para a juíza Meadows. Billings começa a se perguntar se estão mentindo para ele. Juliette finalmente conhece o homem no cofre.",
-            "duracao": 54,
-            "diretor": "Aric Avelino",
-            "thumb": "https://image.tmdb.org/t/p/original/dY1nJnRuuhC0stZqNWShBYqk93H.jpg",
+            "titulo": "A Família de Trapaceiros",
+            "sinopse": "Iris se arrisca para conseguir sua matéria, e Joe é obrigado a contar para ela um segredo guardado há muito tempo. Capitão Frio volta mas desta vez precisa do Flash.",
+            "duracao": 41,
+            "diretor": "John F. Showalter",
+            "thumb": "https://image.tmdb.org/t/p/original/cUlJOXLl2NqncKntf7G76rH7iyT.jpg",
             "url": ""
           },
           {
             "numero": 4,
-            "titulo": "O harmônio",
-            "sinopse": "Juliette parte em uma jornada perigosa para recuperar um traje, voltar para casa e salvar seu silo. A mecânica planeja uma reunião com a juíza Meadows.",
-            "duracao": 54,
-            "diretor": "Aric Avelino",
-            "thumb": "https://image.tmdb.org/t/p/original/lSsLzD8eVZaju4XUGmoTGSvZq2C.jpg",
+            "titulo": "A Fúria do Nuclear",
+            "sinopse": "Dr. Stein precisa de uma força que o estabilize para não explodir, e a equipe acha dois compatíveis em potencial. Patty e Barry vão atrás de um homem-tubarão.",
+            "duracao": 41,
+            "diretor": "Stefan Pleszczynski",
+            "thumb": "https://image.tmdb.org/t/p/original/7mwmxIbx4ZFWbh6LV5wxL9SZwO.jpg",
             "url": ""
           },
           {
             "numero": 5,
-            "titulo": "A descida",
-            "sinopse": "Sims se encontra em uma nova posição. Juliette descobre que Solo não está sendo sincero. Bernard e Lukas fazem uma descoberta importante.",
-            "duracao": 49,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/y2KEcaL7GLj5uYXP0t7C0d0R5B6.jpg",
+            "titulo": "A Escuridão e a Luz",
+            "sinopse": "Um pico na Terra-2 revela tensão entre Jay e o Dr. Wells. A última meta-humana que persegue o Flash, Dra. Luz, lembra uma mulher do passado de Barry.",
+            "duracao": 41,
+            "diretor": "Steve Shill",
+            "thumb": "https://image.tmdb.org/t/p/original/cZUss7jKsQ4caGSWQHWyIHNX7vY.jpg",
             "url": ""
           },
           {
             "numero": 6,
-            "titulo": "Barricadas",
-            "sinopse": "Bernard põe em prática um plano para matar Knox, Shirley e Walker. Billings toma uma posição. Solo salva a vida de Juliette e pede algo em troca.",
-            "duracao": 43,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/aAPo83kOC5mfgcOado49ijWITVo.jpg",
+            "titulo": "Acionando Zoom",
+            "sinopse": "A equipe conta com uma aliada improvável para capturar Zoom. Cisco tenta usar seus poderes recém-descobertos na Terra-2. Dr. Wells, Barry e Zoom se enfrentam.",
+            "duracao": 40,
+            "diretor": "J.J. Makaro",
+            "thumb": "https://image.tmdb.org/t/p/original/5KV67qcPV3mxMSY8flnTbdCWiWt.jpg",
             "url": ""
           },
           {
             "numero": 7,
-            "titulo": "O mergulho",
-            "sinopse": "Lukas recebe uma missão. A mecânica envia uma mensagem poderosa. Juliette embarca em uma descida perigosa—e enfrenta um novo perigo.",
-            "duracao": 51,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/z60fohHAWgfhpVjZRZq4M1Itw7Z.jpg",
+            "titulo": "Guerra do Gorila",
+            "sinopse": "A confiança de Barry é abalada, e o Dr. Wells da Terra-2 precisa entrar em cena para salvar Caitlin de Grodd, um gorila super inteligente, mas bravo e solitário.",
+            "duracao": 41,
+            "diretor": "Dermott Downs",
+            "thumb": "https://image.tmdb.org/t/p/original/cv2xltOhRaYMhllbE2b8OlWASbl.jpg",
             "url": ""
           },
           {
             "numero": 8,
-            "titulo": "O livro de Quinn",
-            "sinopse": "Juliette descobre que algo aconteceu com Solo. Bernard faz uma oferta para Walker. Lukas se encontra com os descendentes de Salvador Quinn.",
-            "duracao": 47,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/krzYmEQZ3ugR5MFqOMQJrv2pcnh.jpg",
+            "titulo": "Lendas de Hoje",
+            "sinopse": "Vandal Savage é uma nova ameaça para Central City ele é perigoso e forte, mas não é um meta-humano. Barry pede a ajuda do Arqueiro.",
+            "duracao": 42,
+            "diretor": "Ralph Hemecker",
+            "thumb": "https://image.tmdb.org/t/p/original/exN2yJG4BWGCauvkMkIRiwO8lce.jpg",
             "url": ""
           },
           {
             "numero": 9,
-            "titulo": "A salvaguarda",
-            "sinopse": "A fé de Billings fica abalada. Lukas vai para as profundezas. Knox identifica o traidor. Juliette descobre a verdade sobre o passado de Solo.",
-            "duracao": 59,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/aNgT4AEffmGwiabRD03riCz1aWr.jpg",
+            "titulo": "Correndo Para Ficar Parado",
+            "sinopse": "Zoom faz uma proposta irrecusável ao Dr. Wells. O Trickster entrega uma surpresa de Natal, e Barry tem que fazer uma escolha difícil. Iris conta a verdade a Joe.",
+            "duracao": 41,
+            "diretor": "Kevin Tancharoen",
+            "thumb": "https://image.tmdb.org/t/p/original/3u8E7AY5XpfDSXCaB7JHfbCJVwY.jpg",
             "url": ""
           },
           {
             "numero": 10,
-            "titulo": "No fogo",
-            "sinopse": "Os rebeldes fazem sua jogada—e Juliette também.",
-            "duracao": 59,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/coz4XyEQ59IbkJ3UYB9Nr8UW8ur.jpg",
+            "titulo": "Energia Potencial",
+            "sinopse": "A noite especial de Barry e Patty é interrompida por um ataque da Tartaruga. Jay conta que está doente. Joe e Wally tentam ser pai e filho.",
+            "duracao": 41,
+            "diretor": "Rob Hardy",
+            "thumb": "https://image.tmdb.org/t/p/original/u2rCTzwDf6ePfZ0kBIwTmrNl5rK.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "O Flash Reverso Retorna",
+            "sinopse": "O Flash Reverso sequestra a Dra. McGee para tentar voltar ao seu tempo. Cisco controla seus poderes. A cronologia se rompe.",
+            "duracao": 41,
+            "diretor": "Michael A. Allowitz",
+            "thumb": "https://image.tmdb.org/t/p/original/gpjOWmxlz7PzhrM65TwO9dKswlK.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "Pista Rápida",
+            "sinopse": "Barry perde velocidade, mas não sabe explicar por quê. Iris quer manter Wally a salvo das corridas, e os dois acabam atrapalhando a vingança do Fosso de Piche.",
+            "duracao": 41,
+            "diretor": "Rachel Talalay",
+            "thumb": "https://image.tmdb.org/t/p/original/wwmmhrbZ4JEctNeXdN3oarQUpXA.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "Bem-Vindos à Terra-2",
+            "sinopse": "Num plano ousado, a equipe vai para Terra-2 depois de fechar as fendas. Barry se mete na vida do seu sósia e se distrai da missão.",
+            "duracao": 41,
+            "diretor": "Millicent Shelton",
+            "thumb": "https://image.tmdb.org/t/p/original/sdIU4knF5Qk2hxTXlKtE0aeC779.jpg",
+            "url": ""
+          },
+          {
+            "numero": 14,
+            "titulo": "Fuga da Terra-2",
+            "sinopse": "Geomancer causa estragos na Terra-1. O editor de Iris duvida do heroísmo do Flash. Na toca do Zoom, o Homem da Máscara de Ferro manda uma mensagem.",
+            "duracao": 39,
+            "diretor": "J.J. Makaro",
+            "thumb": "https://image.tmdb.org/t/p/original/cwgkxe4l2tb8CNCancRZmPRTEaz.jpg",
+            "url": ""
+          },
+          {
+            "numero": 15,
+            "titulo": "Tubarão-Rei",
+            "sinopse": "Tubarão-Rei está à solta e determinado a matar o Flash. Barry e Wally não conseguem concordar. A verdadeira identidade de Zoom é revelada.",
+            "duracao": 41,
+            "diretor": "Hanelle M. Culpepper",
+            "thumb": "https://image.tmdb.org/t/p/original/pZpBABUF1rJAllxEsUOtAECZMVp.jpg",
+            "url": ""
+          },
+          {
+            "numero": 16,
+            "titulo": "Trajetória",
+            "sinopse": "Uma nova speedster chamada Trajetória aparece e consegue ser mais rápida do que Barry. Ela invade os Laboratórios S.T.A.R. em busca de ainda mais poder, a qualquer custo.",
+            "duracao": 40,
+            "diretor": "Glen Winter",
+            "thumb": "https://image.tmdb.org/t/p/original/8qbMUBHTmhXRMwVgSdikrvRhGjp.jpg",
+            "url": ""
+          },
+          {
+            "numero": 17,
+            "titulo": "Flash Back",
+            "sinopse": "Barry aprende como a viagem no tempo funciona e os perigos dela, quando ele corre para o passado para saber como ficar mais rápido.",
+            "duracao": 41,
+            "diretor": "Alice Troughton",
+            "thumb": "https://image.tmdb.org/t/p/original/zc8rMSh8EQWy9bHNsyPY6hMWjzx.jpg",
+            "url": ""
+          },
+          {
+            "numero": 18,
+            "titulo": "Contra Zoom",
+            "sinopse": "A equipe monta a história da origem de Zoom e a usa para preparar uma armadilha. Mas quando Wally acaba em perigo, Barry é obrigado a fazer um sacrifício.",
+            "duracao": 41,
+            "diretor": "Stefan Pleszczynski",
+            "thumb": "https://image.tmdb.org/t/p/original/dUqj3M2ZszMSf3zDffaArDYfWCK.jpg",
+            "url": ""
+          },
+          {
+            "numero": 19,
+            "titulo": "De Volta ao Normal",
+            "sinopse": "Um meta-humano super forte procura o Dr. Wells em busca de uma cura. Caitlin e Nevasca trocam histórias enquanto estão presas na toca de Zoom.",
+            "duracao": 41,
+            "diretor": "John F. Showalter",
+            "thumb": "https://image.tmdb.org/t/p/original/anRzRx9G51DpwOmuyhIJ3NWiboF.jpg",
+            "url": ""
+          },
+          {
+            "numero": 20,
+            "titulo": "Ruptura",
+            "sinopse": "A equipe usa suas habilidades científicas para encobrir os poderes de Barry que sumiram. Zoom e Caitlin voltam à Terra-1. Barry encara uma decisão arriscada.",
+            "duracao": 41,
+            "diretor": "Armen V. Kevorkian",
+            "thumb": "https://image.tmdb.org/t/p/original/aNk16H68m0yPCClaFij3TnDCHSm.jpg",
+            "url": ""
+          },
+          {
+            "numero": 21,
+            "titulo": "O Dinossauro Fujão",
+            "sinopse": "Barry faz uma jornada pela força da velocidade, revisitando momentos e pessoas importantes na sua vida. Recriar o acidente tem um efeito inesperado.",
+            "duracao": 41,
+            "diretor": "Kevin Smith",
+            "thumb": "https://image.tmdb.org/t/p/original/rxuYCLXgZUEsbsUXAdhdsyxO3bn.jpg",
+            "url": ""
+          },
+          {
+            "numero": 22,
+            "titulo": "Invencível",
+            "sinopse": "Zoom e seu novo bando de meta-humanos estão destruindo a Terra-1. Barry se sente imbatível, mas Zoom quer provar que eles são mais parecidos do que diferentes.",
+            "duracao": 41,
+            "diretor": "Jesse Warn",
+            "thumb": "https://image.tmdb.org/t/p/original/8O5wjKXFwFdqFkChXuQL2G5ACkV.jpg",
+            "url": ""
+          },
+          {
+            "numero": 23,
+            "titulo": "A Corrida de Sua Vida",
+            "sinopse": "Zoom desafia Barry para uma corrida, mas a equipe suspeita de uma armadilha e tenta convencer Barry a não topar. Só um speedster sobreviverá à épica luta final.",
+            "duracao": 42,
+            "diretor": "Antonio Negret",
+            "thumb": "https://image.tmdb.org/t/p/original/rgqplybppN3GYojkAIElOoEHZcO.jpg",
             "url": ""
           }
         ]
       },
       {
         "numero": 3,
-        "sinopse": "No presente, Juliette Nichols sobrevive à sua \"limpeza\" forçada, mas retorna com amnésia enquanto o silo se recupera da rebelião e enfrenta uma nova e perigosa ameaça. Enquanto isso, no \"Tempo Anterior\", a jornalista Helen Drew e o congressista Daniel Keene descobrem uma conspiração que os arrasta para uma série de eventos com consequências catastróficas e irreversíveis.",
-        "poster": "https://image.tmdb.org/t/p/original/cxB16Cc7xZuqWgNDo7QlqLMlinu.jpg",
+        "sinopse": "Após voltar no tempo, Barry leva uma vida tranquila graças à existência de outro Flash para proteger a cidade. Mas a aparição de um vilão põe sua nova realidade em xeque.",
+        "poster": "https://image.tmdb.org/t/p/original/2O2HBCnpl97xsTQxCAXXpzKH8qB.jpg",
         "episodios": [
           {
             "numero": 1,
-            "titulo": "Quem é você?",
-            "sinopse": "A nova prefeita Juliette não se lembra de nada do tempo em que esteve do lado de fora, nem do seu passado.",
-            "duracao": 56,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
+            "titulo": "Ponto de Ignição",
+            "sinopse": "Após alterar o passado, Barry enfrenta problemas com sua nova vida quando começa a perder a memória. Central City ganha um novo velocista.",
+            "duracao": 42,
+            "diretor": "Jesse Warn",
+            "thumb": "https://image.tmdb.org/t/p/original/zcHTOaxmFoCKeGR4d5lSH9bYaEn.jpg",
             "url": ""
           },
           {
             "numero": 2,
-            "titulo": "Está tudo bem",
-            "sinopse": "Billings investiga um desaparecimento. Daniel Keene tem um desentendimento com uma repórter.",
-            "duracao": 51,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
+            "titulo": "Paradoxo",
+            "sinopse": "Barry descobre as duras consequências de mexer com o tempo. Com superpoderes, Clariss leva a equipe até um inimigo ainda mais perigoso.",
+            "duracao": 42,
+            "diretor": "Ralph Hemecker",
+            "thumb": "https://image.tmdb.org/t/p/original/qV0UGxuSCSPWNmrb4J6bPKlOyBS.jpg",
             "url": ""
           },
           {
             "numero": 3,
-            "titulo": "Dark web",
-            "sinopse": "Juliette assume o controle de seu processo de recuperação. Helen sofre as consequências de sua investigação.",
-            "duracao": 49,
-            "diretor": "Michael Dinner",
-            "thumb": "https://image.tmdb.org/t/p/original/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
+            "titulo": "Magenta",
+            "sinopse": "Vítima de abuso, a garota Frankie Kane desenvolve uma personalidade alternativa com poderes magnéticos. Harry se aconselha com Jesse, da Terra 1.",
+            "duracao": 42,
+            "diretor": "Armen V. Kevorkian",
+            "thumb": "https://image.tmdb.org/t/p/original/iEXg92FFdwoenKir8EYrsOhknos.jpg",
             "url": ""
           },
           {
             "numero": 4,
-            "titulo": "Não importa o que faça, não vá para casa",
-            "sinopse": "A corrida para escapar de Camille leva Juliette a uma descoberta chocante. Daniel pede ajuda a um amigo.",
-            "duracao": 48,
-            "diretor": "Aric Avelino",
-            "thumb": "https://image.tmdb.org/t/p/original/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
+            "titulo": "Novos Trapaceiros",
+            "sinopse": "Dois antigos comparsas de Leonard Snart escapam de uma dimensão de espelhos para atacarem Central City. Barry continua treinando Jesse.",
+            "duracao": 42,
+            "diretor": "Stefan Pleszczynski",
+            "thumb": "https://image.tmdb.org/t/p/original/zn079GEGFGKcRx934r6fgbrAxli.jpg",
             "url": ""
           },
           {
             "numero": 5,
-            "titulo": "Memória",
-            "sinopse": "Os eventos que se seguiram ao retorno de Juliette vêm à tona e alianças inesperadas surgem.",
-            "duracao": 52,
-            "diretor": "Aric Avelino",
-            "thumb": "https://image.tmdb.org/t/p/original/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
+            "titulo": "Monstro",
+            "sinopse": "A Equipe Flash precisa enfrentar uma criatura gigante que aparece e desaparece com facilidade. Em busca de respostas, Caitlin visita a mãe em segredo.",
+            "duracao": 42,
+            "diretor": "C. Kim Miles",
+            "thumb": "https://image.tmdb.org/t/p/original/rSW2SnzyuiYCh29dIpxAS3BnnZd.jpg",
             "url": ""
           },
           {
             "numero": 6,
-            "titulo": "A viagem",
-            "sinopse": "Billings e Hank se deparam com um novo mistério. Daniel e Helen recebem uma proposta surpreendente.",
-            "duracao": 55,
-            "diretor": "Alrick Riley",
-            "thumb": "https://image.tmdb.org/t/p/original/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
+            "titulo": "Sombra",
+            "sinopse": "Após enviar um meta-humano sombrio para manter Flash ocupado, Alquimia tenta recrutar Wally oferecendo-lhe os superpoderes dos seus sonhos.",
+            "duracao": 42,
+            "diretor": "J.J. Makaro",
+            "thumb": "https://image.tmdb.org/t/p/original/4i8qYcPorWqquskWJL11WH6dyVN.jpg",
             "url": ""
           },
           {
             "numero": 7,
-            "titulo": "Rádio",
-            "sinopse": "Juliette envia Lukas e Kennedy em uma missão, enquanto Camille, desesperada, ameaça Robert para que ele conte a verdade.",
-            "duracao": 55,
-            "diretor": "Aric Avelino",
-            "thumb": "https://image.tmdb.org/t/p/original/hT47PUyS6fQrmukmbyXrL9nBgKc.jpg",
+            "titulo": "Nevasca",
+            "sinopse": "Barry promete acabar com Savitar, o autoproclamado deus da velocidade, enquanto Joe tenta salvar Wally. Caitlin se vê sufocada por seu lado maligno.",
+            "duracao": 42,
+            "diretor": "Kevin Smith",
+            "thumb": "https://image.tmdb.org/t/p/original/b0fHHUgZVaDDAkbneQ6akHFRjLj.jpg",
             "url": ""
           },
           {
             "numero": 8,
-            "titulo": "Gosma cinza",
-            "sinopse": "O pai de Knox, Gus, revela um segredo. Charlotte toma uma decisão que mudará sua vida.",
-            "duracao": 56,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/qZiRIiFbjCSttNe3uNHsi6hoxWV.jpg",
+            "titulo": "Invasão!",
+            "sinopse": "Quando uma raça alienígena ameaça todos os meta-humanos, Barry se une a Supergirl e às equipes Arqueiro e Lendas para uma batalha histórica.",
+            "duracao": 41,
+            "diretor": "Dermott Downs",
+            "thumb": "https://image.tmdb.org/t/p/original/j4tw5k3UGNGvPWp844pF4eYhgrh.jpg",
             "url": ""
           },
           {
             "numero": 9,
-            "titulo": "Despedida",
-            "sinopse": "Todos no silo ficam atônitos com o anúncio de Camille. Daniel e Helen participam de um evento especial.",
-            "duracao": 62,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/fl5tbMRYYQ6eWEuU5E5wN3qRXrK.jpg",
+            "titulo": "O Presente",
+            "sinopse": "Barry pede ajuda a Jay Garrick, da Terra 3, na luta contra Savitar. Os heróis veem uma oportunidade após descobrirem a identidade de Alquimia.",
+            "duracao": 41,
+            "diretor": "Rachel Talalay",
+            "thumb": "https://image.tmdb.org/t/p/original/m3pds85mWkf43hDob6qtn2L9yJd.jpg",
             "url": ""
           },
           {
             "numero": 10,
-            "titulo": "Troy",
-            "sinopse": "Um líder desperta para um novo mundo.",
-            "duracao": 61,
-            "diretor": "Bert",
-            "thumb": "https://image.tmdb.org/t/p/original/cWfqa602Kcka7zRaLMq9TRhLJkH.jpg",
+            "titulo": "Problemas Emprestados do Futuro",
+            "sinopse": "As visões do futuro fazem Barry refletir sobre os esforços de Wally como Kid Flash. H.R. inaugura o museu. Caitlin faz um pedido especial a Julian.",
+            "duracao": 42,
+            "diretor": "Millicent Shelton",
+            "thumb": "https://image.tmdb.org/t/p/original/isfyG1zruErJyw02vUufYDUzLNc.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "Morto ou Vivo",
+            "sinopse": "Cisco enfrenta um combate mortal após desafiar uma caçadora de recompensas da Terra 19. Iris convence Wally a ajudá-la a prender um traficante de armas.",
+            "duracao": 42,
+            "diretor": "Harry Jierjian",
+            "thumb": "https://image.tmdb.org/t/p/original/a60WRRMtZq964FgEefE5upnkjQc.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "Intocável",
+            "sinopse": "A Equipe Flash está muito ocupada quando um meta-humano com toque destruidor começa a matar os colegas dos policiais que o prenderam em Flashpoint.",
+            "duracao": 42,
+            "diretor": "Rob Hardy",
+            "thumb": "https://image.tmdb.org/t/p/original/wCE5PTcnLGBHGEy5oVVt3t9k59d.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "Ataque na Cidade Gorilla",
+            "sinopse": "Enquanto Wally e Jesse lidam com criminosos em Central City, o resto da equipe tenta resgatar Harry de Grodd em Gorilla City.",
+            "duracao": 42,
+            "diretor": "Dermott Downs",
+            "thumb": "https://image.tmdb.org/t/p/original/8bHeI3cJwKAPcwQSe6FvmQUWNHx.jpg",
+            "url": ""
+          },
+          {
+            "numero": 14,
+            "titulo": "Ataque em Central City",
+            "sinopse": "Grodd e suas forças planejam um grande ataque à cidade de Central City. Barry começa a achar que sua única opção é matar o gorila.",
+            "duracao": 42,
+            "diretor": "Dermott Downs",
+            "thumb": "https://image.tmdb.org/t/p/original/9CM5eTIICaWB34ivihok9e9i0wg.jpg",
+            "url": ""
+          },
+          {
+            "numero": 15,
+            "titulo": "A Fúria de Savitar",
+            "sinopse": "Wally fala com a equipe depois que as visões de Savitar se tornam perigosamente físicas. Uma visita inesperada o deixa ainda mais desorientado.",
+            "duracao": 42,
+            "diretor": "Alexandra La Roche",
+            "thumb": "https://image.tmdb.org/t/p/original/vr3qbJudy6Q4czkuNELVr8lOp9V.jpg",
+            "url": ""
+          },
+          {
+            "numero": 16,
+            "titulo": "Entrando na Força de Aceleração",
+            "sinopse": "Desesperado, Barry encontra inimigos e aliados após entrar na Força de Aceleração para salvar Wally. Jesse decide enfrentar Savitar.",
+            "duracao": 41,
+            "diretor": "Gregory Smith",
+            "thumb": "https://image.tmdb.org/t/p/original/6oSRljzmtmzL5HcgXMDIEHeUIAh.jpg",
+            "url": ""
+          },
+          {
+            "numero": 17,
+            "titulo": "Dueto",
+            "sinopse": "Após serem colocados em coma pelo Mestre da Música, Barry e Kara se veem forçados a participar de um musical.",
+            "duracao": 43,
+            "diretor": "Dermott Downs",
+            "thumb": "https://image.tmdb.org/t/p/original/kHRGJFFr8tn0s11riOnLY3SI4a4.jpg",
+            "url": ""
+          },
+          {
+            "numero": 18,
+            "titulo": "Abra Kadabra",
+            "sinopse": "Cigana persegue um criminoso do século 64 que chega a Central City e oferece informações valiosas em troca de liberdade.",
+            "duracao": 42,
+            "diretor": "Nina Lopez-Corrado",
+            "thumb": "https://image.tmdb.org/t/p/original/usnFTiLMv8bmbENxTwSlBdUySOe.jpg",
+            "url": ""
+          },
+          {
+            "numero": 19,
+            "titulo": "O Único e Eterno Flash",
+            "sinopse": "Enquanto a maior parte da equipe está em 2017 em busca da Nevasca, Barry viaja ao futuro para tentar descobrir a identidade de Savitar.",
+            "duracao": 42,
+            "diretor": "Tom Cavanagh",
+            "thumb": "https://image.tmdb.org/t/p/original/wMbUrpUkw5Ghvf67nAfG3GTywJZ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 20,
+            "titulo": "Eu Sei Quem Você é",
+            "sinopse": "Barry, Cisco e H.R. precisam deter Nevasca, que está cada vez mais agressiva, enquanto procuram a mulher destinada a acabar com Savitar.",
+            "duracao": 42,
+            "diretor": "Hanelle M. Culpepper",
+            "thumb": "https://image.tmdb.org/t/p/original/tprBGzPaC8hN0C0WCZoygYannwR.jpg",
+            "url": ""
+          },
+          {
+            "numero": 21,
+            "titulo": "Causa e Efeito",
+            "sinopse": "H.R. e Tracy correm para construir a armadilha da Força de Aceleração. A verdade sobre a origem de Savitar inspira Cisco e Julian a tentarem uma solução arriscada.",
+            "duracao": 42,
+            "diretor": "David McWhirter",
+            "thumb": "https://image.tmdb.org/t/p/original/wsnRrzggQrAhIpvPmJuSwZ27p56.jpg",
+            "url": ""
+          },
+          {
+            "numero": 22,
+            "titulo": "Rua Infantino",
+            "sinopse": "Enquanto a Equipe Flash localiza a única fonte de energia capaz de ativar a bazuca, Barry vai parar no ano 1892 para recrutar um improvável aliado especializado em roubo.",
+            "duracao": 42,
+            "diretor": "Michael A. Allowitz",
+            "thumb": "https://image.tmdb.org/t/p/original/xtOUGmplyLjcflhsE7vWnPsQviW.jpg",
+            "url": ""
+          },
+          {
+            "numero": 23,
+            "titulo": "Linha de Chegada",
+            "sinopse": "Depois que Savitar inicia um plano urgente para se dispersar pelo tempo, Barry percebe que sua melhor opção é enfrentar o resquício do tempo.",
+            "duracao": 41,
+            "diretor": "David McWhirter",
+            "thumb": "https://image.tmdb.org/t/p/original/jZVp65TlXJYDvL6wVHGjkulbRgP.jpg",
             "url": ""
           }
         ]
       },
       {
         "numero": 4,
-        "sinopse": "",
-        "poster": "",
+        "sinopse": "Correr contra uma versão maligna remanescente do tempo de si mesmo é algo que ninguém deveria fazer, mas é exatamente isso que Barry Allen o The Flash fez e precisou enfrentar para salvar a vida de sua noiva Iris West, contra o Deus da velocidade Savitar. No entanto, a vitória de Barry teve curta duração, uma vez que a força de aceleração entrou em desequilíbrio e começou a causar estragos em Central City, forçando Barry a se sacrificar pelo bem maior de todos. Com o homem mais rápido vivo preso dentro de uma energia extra-dimensional, os perigos desconhecidos e sondando nas sombras, cabe ao time flash libertar Barry de seu próprio inferno pessoal.",
+        "poster": "https://image.tmdb.org/t/p/original/hDjEM4kDCl6A1ScJD6qeN5Lo7Dv.jpg",
         "episodios": [
           {
             "numero": 1,
-            "titulo": "Episódio 1",
-            "sinopse": "",
-            "duracao": 0,
-            "diretor": "",
-            "thumb": "",
+            "titulo": "O Flash Renasce",
+            "sinopse": "Enquanto Barry continua preso na força da velocidade, um novo e poderoso vilão faz um ultimato mortal, deixando Iris e a turma em uma difícil situação.",
+            "duracao": 42,
+            "diretor": "Glen Winter",
+            "thumb": "https://image.tmdb.org/t/p/original/QpHXFNFpwknSsL8xGhkBonPLGV.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Sinais Confusos",
+            "sinopse": "Com dificuldades para se ajustar ao novo traje de Cisco, Barry enfrenta um meta perigoso que tem o poder de controlar a tecnologia.",
+            "duracao": 42,
+            "diretor": "Alexandra La Roche",
+            "thumb": "https://image.tmdb.org/t/p/original/detx85YNFO94CV5Zeuyzple77WI.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Que a Sorte Seja uma Mulher",
+            "sinopse": "Depois de serem atingidos por uma sequência de acidentes e problemas, Barry e a turma percebem que isso pode ser mais que uma mera falta de sorte.",
+            "duracao": 42,
+            "diretor": "Armen V. Kevorkian",
+            "thumb": "https://image.tmdb.org/t/p/original/q2isRo8B9yj2r0rqA2tptHS1Z0U.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Longa Jornada Noite Adentro",
+            "sinopse": "Cisco se assusta ao ver Gypsy e seu pai, Breacher, na Terra-1. Barry enfrenta um velho inimigo, o evasivo Ralph Dibny.",
+            "duracao": 41,
+            "diretor": "Tom Cavanagh",
+            "thumb": "https://image.tmdb.org/t/p/original/HFr1zkORvKzYOKEaKdkmF1GKna.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "A Noite das Garotas",
+            "sinopse": "Enquanto Barry e os rapazes vão a uma despedida de solteiro, Iris se diverte em uma noitada com as meninas. Mas eles enfrentam alguns imprevistos.",
+            "duracao": 41,
+            "diretor": "Laura Belsey",
+            "thumb": "https://image.tmdb.org/t/p/original/vh50fVATHWnj0jzGyXJumjECnUe.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Quando Harry Conheceu Harry",
+            "sinopse": "Ralph Dibny veste o traje personalizado de Cisco e descobre como é ser o Homem Elástico. Um inimigo ataca colecionadores de artefatos indígenas.",
+            "duracao": 42,
+            "diretor": "Brent Crowell",
+            "thumb": "https://image.tmdb.org/t/p/original/afXbQcJNSX8AsKSr1btj2sCnVVt.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Logo Existo",
+            "sinopse": "As suspeitas de Barry em relação à identidade e as intenções de DeVoe geram discórdia com o resto da equipe. Iris se prepara para o grande casamento.",
+            "duracao": 41,
+            "diretor": "David McWhirter",
+            "thumb": "https://image.tmdb.org/t/p/original/y1no2bERz1sUj0qIXXA0GlNqMY7.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Crise na Terra-X - Parte 3",
+            "sinopse": "Barry se junta aos heróis Supergirl, Arqueiro Verde e os Legends of Tomorrow para combater uma invasão traiçoeira da Terra-X.",
+            "duracao": 42,
+            "diretor": "Dermott Downs",
+            "thumb": "https://image.tmdb.org/t/p/original/gMoFxyQH2owvsXMd9C8fcZf7w2r.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Não Corra",
+            "sinopse": "Com Barry imobilizado em uma prisão à prova de velocidade e Amunet mantendo Caitlin como refém, a equipe enfrenta a difícil escolha de quem salvar.",
+            "duracao": 42,
+            "diretor": "Stefan Pleszczynski",
+            "thumb": "https://image.tmdb.org/t/p/original/fY4DaGaz6OcrGe8947JM3tprzh6.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "O Julgamento do Flash",
+            "sinopse": "Acusado e sendo julgado por um crime que não cometeu, Barry deve decidir se é hora de revelar seu alter ego para o mundo.",
+            "duracao": 42,
+            "diretor": "Phil Chipera",
+            "thumb": "https://image.tmdb.org/t/p/original/jO1WVRSj6nzBvmjEh0zELzRiZ9C.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "Surge o Cavaleiro Elástico",
+            "sinopse": "Um inimigo retorna à Central City e testa o heroísmo de Ralph. Barry tenta ficar otimista, apesar da situação complicada.",
+            "duracao": 42,
+            "diretor": "Alexandra La Roche",
+            "thumb": "https://image.tmdb.org/t/p/original/beqkqosYycMChGJCvaouyfpCE26.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "Querida, Encolhi o Time Flash",
+            "sinopse": "Sylbert Rundine pode encolher tudo o que toca. Cisco e Ralph percebem isso pessoalmente ao lutar com o meta-humano.",
+            "duracao": 42,
+            "diretor": "Chris Peppe",
+            "thumb": "https://image.tmdb.org/t/p/original/upodc5LfdaCvm832M7bW2oLdjQS.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "Verdadeiras Cores",
+            "sinopse": "Barry recebe notícias terríveis sobre os planos de Amunet e precisa fazer uma escolha perigosa para salvar seus colegas de cela.",
+            "duracao": 42,
+            "diretor": "Tara Nicole Weyr",
+            "thumb": "https://image.tmdb.org/t/p/original/6cT9Q4JMxBDeG7KNCz2WfjxO4rD.jpg",
+            "url": ""
+          },
+          {
+            "numero": 14,
+            "titulo": "Sujeita 9",
+            "sinopse": "Barry e a equipe são ajudados de forma inesperada por um talento musical que impressiona a todos. Ralph reavalia suas prioridades.",
+            "duracao": 42,
+            "diretor": "Ralph Hemecker",
+            "thumb": "https://image.tmdb.org/t/p/original/cTfzqVGaLzqFRFh9Q3Fbf2w1Xa3.jpg",
+            "url": ""
+          },
+          {
+            "numero": 15,
+            "titulo": "Entre no Tempo do Flash",
+            "sinopse": "Barry retarda o tempo ao máximo enquanto procura desesperadamente uma forma de impedir que uma bomba destrua Central City.",
+            "duracao": 41,
+            "diretor": "Gregory Smith",
+            "thumb": "https://image.tmdb.org/t/p/original/fTVvQKddt1SRuo4E1X5Gea2Tgtk.jpg",
+            "url": ""
+          },
+          {
+            "numero": 16,
+            "titulo": "Corre Iris, Corre",
+            "sinopse": "Depois de enfrentar um novo inimigo, Iris adquire toda a velocidade de Barry e assume um novo papel: a heroína que deve proteger Central City.",
+            "duracao": 41,
+            "diretor": "Harry Jierjian",
+            "thumb": "https://image.tmdb.org/t/p/original/lf6fSsW0xo9vMVFZYDSxBSJ8k2m.jpg",
+            "url": ""
+          },
+          {
+            "numero": 17,
+            "titulo": "Nula e Irritada",
+            "sinopse": "A maneira desleixada como Ralph procura os metas do ônibus testa a paciência de Barry. Cisco responde a um favor solicitado por Breacher.",
+            "duracao": 42,
+            "diretor": "Kevin Smith",
+            "thumb": "https://image.tmdb.org/t/p/original/dZd5ZOgIR2uBPsRC7DKLzoF7nJo.jpg",
+            "url": ""
+          },
+          {
+            "numero": 18,
+            "titulo": "Se Perder",
+            "sinopse": "Enquanto a Equipe Flash se prepara para enfrentar o Pensador, Ralph avalia tomar uma medida arriscada. O comportamento de Harry preocupa Joe.",
+            "duracao": 42,
+            "diretor": "Hanelle M. Culpepper",
+            "thumb": "https://image.tmdb.org/t/p/original/oMQXVXn9pTLuyvvKYmoIF94g2xP.jpg",
+            "url": ""
+          },
+          {
+            "numero": 19,
+            "titulo": "Criminosa em Fúria",
+            "sinopse": "Precisando de ajuda para transportar um meta explosivo, Barry e a Equipe Flash pedem ajuda a Leo Snart, também conhecido como Cidadão Frio.",
+            "duracao": 42,
+            "diretor": "Rachel Talalay",
+            "thumb": "https://image.tmdb.org/t/p/original/m8kbPH5w9pPNNDuwtgNUPd9yaWR.jpg",
+            "url": ""
+          },
+          {
+            "numero": 20,
+            "titulo": "Portanto, Ela é",
+            "sinopse": "Gipsy ajuda Barry e a equipe Flash em uma tentativa desesperada de impedir que o plano do Pensador tenha sucesso.",
+            "duracao": 42,
+            "diretor": "Rob J. Greenlea",
+            "thumb": "https://image.tmdb.org/t/p/original/7TvLrH6hyhoLRFWKUpmmytBSg6Q.jpg",
+            "url": ""
+          },
+          {
+            "numero": 21,
+            "titulo": "Harry e os Harrisons",
+            "sinopse": "Barry e a equipe Flash fazem um acordo arriscado com um parceiro improvável. Depois de receber notícias ruins, Harry é aconselhado por Cisco.",
+            "duracao": 42,
+            "diretor": "Kevin Mock",
+            "thumb": "https://image.tmdb.org/t/p/original/bImch9aEquFv3jo0bdKgPSJdKFi.jpg",
+            "url": ""
+          },
+          {
+            "numero": 22,
+            "titulo": "Pensa Rápido",
+            "sinopse": "Com a proximidade da cartada final de DeVoe, Barry enfrenta uma decisão angustiante: lutar sozinho ou pedir ajuda a seus amigos e colocar suas vidas em risco.",
+            "duracao": 41,
+            "diretor": "Viet Nguyen",
+            "thumb": "https://image.tmdb.org/t/p/original/5r6OE4FvkfMll7CPoKlSiH38225.jpg",
+            "url": ""
+          },
+          {
+            "numero": 23,
+            "titulo": "Nós Somos o Flash",
+            "sinopse": "Barry faz uma tentativa ousada de penetrar na consciência de DeVoe. Uma ajuda inesperada chega na hora certa para a equipe Flash.",
+            "duracao": 42,
+            "diretor": "David McWhirter",
+            "thumb": "https://image.tmdb.org/t/p/original/1yGRFdczeYj7LhVNY8KEVQrSuFL.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "sinopse": "Barry e Iris lutam para serem bons pais de uma filha diferente. O casal tenta consertar um problema na linha do tempo.",
+        "poster": "https://image.tmdb.org/t/p/original/obQNEdmAje37VilwIrZ4H630iwr.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Nora",
+            "sinopse": "Enquanto a Equipe Flash persegue um sinistro meta-humano, Barry e Iris lutam para entender seu convidado de uma outra era.",
+            "duracao": 42,
+            "diretor": "David McWhirter",
+            "thumb": "https://image.tmdb.org/t/p/original/z7VM7EfhPeFVR5sgrdYNN4pgmih.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Bloqueado",
+            "sinopse": "Barry ensina a Nora como é ser um velocista. Os membros da Equipe Flash descobrem que seu novo inimigo quer a mesma coisa que eles.",
+            "duracao": 42,
+            "diretor": "C. Kim Miles",
+            "thumb": "https://image.tmdb.org/t/p/original/7FXMf0eNOAHlsMZunkHuUDFPzpY.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "A Morte do Vibro",
+            "sinopse": "Caitlin procura respostas sobre seu passado, e os membros da Equipe Flash se reúnem na esperança de impedir o ataque de Cicada.",
+            "duracao": 42,
+            "diretor": "Andi Armaganian",
+            "thumb": "https://image.tmdb.org/t/p/original/tW4HSTZfnSFzgm16t0PvEB7daXP.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Notícias de Última Hora",
+            "sinopse": "Nora chama a atenção de uma blogueira ambiciosa e perigosa. Ralph precisa de uma massagem no ego.",
+            "duracao": 41,
+            "diretor": "Brent Crowell",
+            "thumb": "https://image.tmdb.org/t/p/original/mWbRwstBeNwjXteNf4lydsCNlRs.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Todo Embonecado",
+            "sinopse": "Um novo meta perigoso e perturbador pega Barry desprevenido. Iris descobre um fato angustiante sobre o futuro.",
+            "duracao": 42,
+            "diretor": "Phil Chipera",
+            "thumb": "https://image.tmdb.org/t/p/original/6vNKPF7mu0zWMyxrdepy9otYuhp.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "A Chegada da Geada",
+            "sinopse": "Caitlin se vê ansiosa para se reconectar com o pai. Iris e Sherloque investigam uma pista sobre Cicada.",
+            "duracao": 41,
+            "diretor": "Chris Peppe",
+            "thumb": "https://image.tmdb.org/t/p/original/67sEwyfBySRvoS2TTKxIr3Rj4Z4.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Sejamos Gratos",
+            "sinopse": "A Equipe Flash se prepara para uma luta tempestuosa contra a poderosa Bruxa do Tempo. Nora tenta se conformar com o desaparecimento de seu pai.",
+            "duracao": 42,
+            "diretor": "Sarah Boyd",
+            "thumb": "https://image.tmdb.org/t/p/original/d5TRIV6x7p4SMdFfSjAc8LbiI1w.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "O Passado é Um Prólogo",
+            "sinopse": "Barry e sua filha precisam voltar no tempo para deter Cicada. Mas será que Barry está pronto para compartilhar seu passado com Nora?",
+            "duracao": 42,
+            "diretor": "Tom Cavanagh",
+            "thumb": "https://image.tmdb.org/t/p/original/pnnLvJd5B7oHVuVDUF2xGn3dzsn.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Outros Mundos (I)",
+            "sinopse": "Oliver Queen, mais conhecido como Arqueiro, acorda e descobre que trocou de corpo com Barry Allen. Mas convencer a Equipe Flash não vai ser fácil.",
+            "duracao": 42,
+            "diretor": "Kevin Tancharoen",
+            "thumb": "https://image.tmdb.org/t/p/original/mBKwMTDUUjFLDuvoAL86AiA9Tkl.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Flash & Furiosos",
+            "sinopse": "Nora lida com uma revelação preocupante, e a Equipe Flash enfrenta uma dupla terrível. Caitlin e Cisco discutem uma possível cura meta-humana.",
+            "duracao": 42,
+            "diretor": "David McWhirter",
+            "thumb": "https://image.tmdb.org/t/p/original/axS2l7oTu0nqx0ldIY14Plwaebr.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "Vendo em Vermelho",
+            "sinopse": "A cura rápida de Nora para de funcionar. Barry sente uma raiva nada familiar. O trabalho de Caitlin para encontrar uma cura sofre interferências.",
+            "duracao": 42,
+            "diretor": "Marcus Stokes",
+            "thumb": "https://image.tmdb.org/t/p/original/zw8pZeJRMWTMWcmhxZBKWuShc5r.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "Memorabilia",
+            "sinopse": "Desesperada para impedir que seus pais descubram seus segredos, Nora toma uma medida drástica. Ralph leva Cisco para passear na cidade.",
+            "duracao": 42,
+            "diretor": "Rebecca Johnson",
+            "thumb": "https://image.tmdb.org/t/p/original/jxd6Ox5pfXynjtYlzYKVRPpDAsQ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "Áureo",
+            "sinopse": "Com esperança de acabar com Cicada, Barry e Ralph se infiltram no submundo do crime onde acabam tendo sua integridade testada.",
+            "duracao": 42,
+            "diretor": "Alexandra La Roche",
+            "thumb": "https://image.tmdb.org/t/p/original/hKMaR6sx8XARdMZohf0eeF1GRGY.jpg",
+            "url": ""
+          },
+          {
+            "numero": 14,
+            "titulo": "Causa e XS",
+            "sinopse": "Nora corre para salvar sua mãe de um perigo. Barry trabalha para finalizar a cura meta-humana. Cisco chega à cidade com Kamilla.",
+            "duracao": 42,
+            "diretor": "Rachel Talalay",
+            "thumb": "https://image.tmdb.org/t/p/original/3KSg8HOC6r0sozBHAhM7TBv7PH6.jpg",
+            "url": ""
+          },
+          {
+            "numero": 15,
+            "titulo": "Tubarão-Rei vs. Gorila Grodd",
+            "sinopse": "Quando Gorilla Grodd lança um ataque a Central City, Barry e a Equipe Flash precisam lutar ao lado de um aliado inesperado.",
+            "duracao": 41,
+            "diretor": "Stefan Pleszczynski",
+            "thumb": "https://image.tmdb.org/t/p/original/yNho0PHX59KJZ8lAFhgvjVTAwB0.jpg",
+            "url": ""
+          },
+          {
+            "numero": 16,
+            "titulo": "A Falha é uma Órfã",
+            "sinopse": "Barry e a Equipe Flash buscam uma maneira de forçar Cicada a provar a cura meta-humana. Joe volta ao trabalho.",
+            "duracao": 42,
+            "diretor": "Viet Nguyen",
+            "thumb": "https://image.tmdb.org/t/p/original/CMQUldLchmhldyKXYKW9lG6j1Y.jpg",
+            "url": ""
+          },
+          {
+            "numero": 17,
+            "titulo": "Bomba Relógio",
+            "sinopse": "Barry e a Equipe Flash encontram uma mulher que guarda um segredo profundo de sua própria família. Nora considera revelar a verdade sobre seu trabalho com Thawne.",
+            "duracao": 42,
+            "diretor": "Rob J. Greenlea",
+            "thumb": "https://image.tmdb.org/t/p/original/kwVhe5Duvy92CrRH2tSpYNxDgwI.jpg",
+            "url": ""
+          },
+          {
+            "numero": 18,
+            "titulo": "Godspeed",
+            "sinopse": "Barry e Iris discutem sobre como lidar com a parceria da filha. A Equipe Flash procura por respostas no diário de Nora.",
+            "duracao": 42,
+            "diretor": "Danielle Panabaker",
+            "thumb": "https://image.tmdb.org/t/p/original/3phKHAtiuq8wXFKbFuHrdqjGlzf.jpg",
+            "url": ""
+          },
+          {
+            "numero": 19,
+            "titulo": "Bando da Neve",
+            "sinopse": "Barry toma uma grande decisão familiar sem a contribuição de Iris e ela decide tomar as rédeas da situação. Caitlin e sua mãe precisam se unir contra um inimigo gelado.",
+            "duracao": 41,
+            "diretor": "Jeff Cassidy",
+            "thumb": "https://image.tmdb.org/t/p/original/fKks2tTcU23q9J686S7Aw5znUWQ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 20,
+            "titulo": "As Vilãs",
+            "sinopse": "Um trio de vilões causa estragos em Central City. Barry luta para aceitar a traição de sua filha.",
+            "duracao": 42,
+            "diretor": "Kristin Windell",
+            "thumb": "https://image.tmdb.org/t/p/original/8MrwZztbuObMuT4xgz3lmdGlK1S.jpg",
+            "url": ""
+          },
+          {
+            "numero": 21,
+            "titulo": "A Garota Com o Raio Vermelho",
+            "sinopse": "Quando descobrem a ameaça de Cicada II de liberar um vírus devastador, Barry e a Equipe Flash precisam se preparar para o pior.",
+            "duracao": 42,
+            "diretor": "Stefan Pleszczynski",
+            "thumb": "https://image.tmdb.org/t/p/original/r4F0XQKvqWYshi3Nyy3rzAMetmj.jpg",
+            "url": ""
+          },
+          {
+            "numero": 22,
+            "titulo": "Legado",
+            "sinopse": "A Equipe Flash decide destruir a adaga do Cicada de uma vez por todas. Cisco se abre para Kamilla e Nora se esforça para se perdoar.",
+            "duracao": 42,
+            "diretor": "Gregory Smith",
+            "thumb": "https://image.tmdb.org/t/p/original/d6WtWykXSTtuy5HjtFLYBqPS7MS.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "sinopse": "Enquanto Barry e Iris lidam com a perda devastadora de sua filha, Nora, a equipe enfrenta sua maior ameaça até agora, um mal que tem a intenção de destruir toda a cidade. Enquanto isso, Nevasca tem um encontro com a morte que resulta em uma nova dinâmica inesperada que mudará seu relacionamento com Caitlin para sempre.",
+        "poster": "https://image.tmdb.org/t/p/original/bJfdgVTpmpIo29B2ih8LceGFgc4.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Salto no Vazio",
+            "sinopse": "Barry e Iris lidam com a perda devastadora de sua filha enquanto a equipe enfrenta sua maior ameaça.",
+            "duracao": 42,
+            "diretor": "Gregory Smith",
+            "thumb": "https://image.tmdb.org/t/p/original/tFmldalDnIh0TX5AhnrJ11ECAa4.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "O Clarão de um Relâmpago",
+            "sinopse": "Barry enfrenta a notícia de sua morte iminente; a carreira de Cecile como D.A. entra em conflito com sua identidade quando ela cruza o caminho de um meta-humano perverso.",
+            "duracao": 42,
+            "diretor": "Chris Peppe",
+            "thumb": "https://image.tmdb.org/t/p/original/yyKwVmRNENYLa3Z3anghP04MRrC.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Um Morto Que Corre",
+            "sinopse": "Sabendo que Crisis está a apenas algumas semanas, Barry prepara um membro do Team Flash para a vida sem ele, enquanto caça um meta-humano aterrorizante com uma sede insaciável. Enquanto isso, Ralph descobre um segredo de família.",
+            "duracao": 42,
+            "diretor": "Sarah Boyd",
+            "thumb": "https://image.tmdb.org/t/p/original/tkTEdvCR61KUvwY1mGHPXOPicWR.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "O Sangue Vai Correr",
+            "sinopse": "Barry quer preparar Cisco para a crise, mas o mesmo planeja salvar a vida do herói; Ramsey Rosso usa suas novas habilidades mortais para salvar sua própria vida, enquanto sacrifica sua humanidade no processo.",
+            "duracao": 42,
+            "diretor": "Marcus Stokes",
+            "thumb": "https://image.tmdb.org/t/p/original/xOiX26Pi9ROAPW1UOSY7uFkTKQB.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Beijo Beijo Brecha Brecha",
+            "sinopse": "Cisco começa a perder a confiança em si mesmo quando descobre um assassinato brutal; Frost está convencida de que só ela pode capturar o perigoso Ramsey Rosso.",
+            "duracao": 42,
+            "diretor": "Menhaj Huda",
+            "thumb": "https://image.tmdb.org/t/p/original/icR9cNcDfApJsYV9EaqPCSJJdH5.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Licença para Alongar",
+            "sinopse": "Barry se concentra em preparar o Homem Elástico para enfrentar a Crise nas Infinitas Terras sem Flash; Cecile ajuda Chester P. Runk a recuperar sua identidade.",
+            "duracao": 42,
+            "diretor": "Danielle Panabaker",
+            "thumb": "https://image.tmdb.org/t/p/original/ox6lB9m2YNo1Fp8FuOcPhUMAm27.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "A Última Tentação de Barry Allen, Parte: 1",
+            "sinopse": "Enquanto Barry Allen está no limiar de sua morte iminente em Crise, suas convicções são testadas quando o monstruoso Dr. Ramsey Rosso infecta o Flash com um misterioso contágio alucinógeno. Enquanto isso, a repórter Iris West-Allen descobre uma vasta conspiração.",
+            "duracao": 42,
+            "diretor": "Chad Lowe",
+            "thumb": "https://image.tmdb.org/t/p/original/qKApNW6c7gAJqI21Dko2gVSsz2f.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "A Última Tentação de Barry Allen, Parte: 2",
+            "sinopse": "Iris e Cisco lutam para ajudar Barry a assumir o controle antes de se perder para sempre; a equipe se esforça para recuperar o comando de Central City.",
+            "duracao": 42,
+            "diretor": "Michael Nankin",
+            "thumb": "https://image.tmdb.org/t/p/original/uc36R3z22fW7SslNHj888CrkJE9.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Crise nas Infinitas Terras - Parte 3",
+            "sinopse": "Pária recruta Raio Negro para ajudar a parar o Anti-Monitor após o Flash-90 compartilhar o que ele aprendeu em sua batalha no Multiverso. Com a ajuda do Raio Negro, Barry Cisco e Nevasca apresentam um plano que pode salvá-los. Iris se aproxima de Ryan Choi, enquanto Oliver e Diggle enfrentam uma situação familiar.",
+            "duracao": 42,
+            "diretor": "David McWhirter",
+            "thumb": "https://image.tmdb.org/t/p/original/18aj6VOd8d7xToR4uCFk5EX1qEB.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Maratona",
+            "sinopse": "Depois que The Citizen imprime uma história explosiva, a vida de Iris é ameaçada. Recusando-se a se esconder daqueles que a estão atacando, Iris decide expor uma organização perigosa. Enquanto isso, Barry deve enfrentar as consequências da crise e cumprir o desejo de Oliver Queen por ele.",
+            "duracao": 42,
+            "diretor": "Stefan Pleszczynski",
+            "thumb": "https://image.tmdb.org/t/p/original/hBqoaRw10NZa38eMPsi015Miu4i.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "O Amor é um Campo de Batalha",
+            "sinopse": "Barry e Iris planejam um jantar romântico para o Dia dos Namorados, mas a noite é interrompida por um velho inimigo Amunet Black. Nevasca entra no espírito do feriado e tenta ajudar Allegra a se reconectar com um antigo amor.",
+            "duracao": 42,
+            "diretor": "Sudz Sutherland",
+            "thumb": "https://image.tmdb.org/t/p/original/aRqczuW7lvqNh8sf3eX90PysgLk.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "A Garota Chamada Sue",
+            "sinopse": "Depois de meses procurando por Sue Dearbon, Ralph descobre a localização de seu paradeiro e finalmente fica cara a cara com seu cliente desaparecido. No entanto, Sue se recusa a voltar para casa e para sua família e, em vez disso, leva Ralph em uma aventura ousada. Iris enfrenta um novo desafio, enquanto Barry considera uma solicitação potencialmente perigosa de uma fonte confiável.",
+            "duracao": 42,
+            "diretor": "Chris Peppe",
+            "thumb": "https://image.tmdb.org/t/p/original/gKwjHB8BCV6GxjfqegIMpXsGnyG.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "Grodd Me Aceitou Como Amigo",
+            "sinopse": "Sentindo-se sobrecarregado com todas as mudanças desde a crise, Barry conduz um experimento que dá errado e o coloca diretamente no caminho do Gorila Grodd. Esperando o pior, Barry fica surpreso quando Grodd pede sua ajuda. Infelizmente para Flash e Grodd, as coisas pioram quando outro vilão aparece Solovar. Enquanto isso, Iris trabalha com Eva para escapar do Mirrorverse.",
+            "duracao": 42,
+            "diretor": "Stefan Pleszczynski",
+            "thumb": "https://image.tmdb.org/t/p/original/mBYqRU2MeiA7rdaSiDvoWQnRlZ8.jpg",
+            "url": ""
+          },
+          {
+            "numero": 14,
+            "titulo": "A Morte da Força de Aceleração",
+            "sinopse": "Kid Flash, Wally West, retorna para a Central City com uma atitude zen e novos truques na manga. Animado por ver sua família novamente, Wally diz a Barry que ele retornou porque acha que tem algo errado com a força de aceleração. Enquanto isso, Cisco retorna de sua pesquisa.",
+            "duracao": 42,
+            "diretor": "Brent Crowell",
+            "thumb": "https://image.tmdb.org/t/p/original/l6Zk6Gd8upZHrGcnzq2i7oO5vhQ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 15,
+            "titulo": "O Exorcismo de Nash Wells",
+            "sinopse": "Flash enfrenta uma nova e perigosa meta chamada Sunshine. Cisco tenta ajudar Nash.",
+            "duracao": 42,
+            "diretor": "Eric Dean Seaton",
+            "thumb": "https://image.tmdb.org/t/p/original/theU0p73PguZckx4sFNbPW9shSr.jpg",
+            "url": ""
+          },
+          {
+            "numero": 16,
+            "titulo": "Até Logo e Boa Noite",
+            "sinopse": "Depois que Black Hole contrata Rag Doll para matar Joe, Singh sugere que ele entre na Proteção a Testemunha, mas Joe se recusa a parar de investigar Carver. Enquanto investiga Carver com a Cisco, Ralph encontra Sue. Iris suspeita de Eva.",
+            "duracao": 42,
+            "diretor": "Alexandra La Roche",
+            "thumb": "https://image.tmdb.org/t/p/original/aAmTUY9uRKp3x2YIuQXNgTYXvzv.jpg",
+            "url": ""
+          },
+          {
+            "numero": 17,
+            "titulo": "Libertação",
+            "sinopse": "Após eventos recentes, Barry olha mais de perto sua vida com Iris. Eva faz uma jogada ousada.",
+            "duracao": 42,
+            "diretor": "Jeffrey W. Byrd",
+            "thumb": "https://image.tmdb.org/t/p/original/mIfue9clionNj3VjILUrrHCuH0T.jpg",
+            "url": ""
+          },
+          {
+            "numero": 18,
+            "titulo": "Pague o Flautista",
+            "sinopse": "Quando Godspeed retorna, Barry pede ajuda a Hartley Rathaway. No entanto, as coisas ficam tensas rapidamente depois que Barry percebe que uma das mudanças de Crisis é que o Flash e o Flautista agora são inimigos. Enquanto isso, Iris tenta escapar do universo espelhado.",
+            "duracao": 41,
+            "diretor": "Amanda Tapping",
+            "thumb": "https://image.tmdb.org/t/p/original/aUuqJio16bVanRd4n9L3o0sOhAA.jpg",
+            "url": ""
+          },
+          {
+            "numero": 19,
+            "titulo": "O Sucesso é Garantido",
+            "sinopse": "Barry considera um plano arriscado para salvar Iris do universo espelhado. Ralph tenta impedir Sue de cometer um erro grave que pode destruir sua vida.",
+            "duracao": 42,
+            "diretor": "Phil Chipera",
+            "thumb": "https://image.tmdb.org/t/p/original/qFFjQHeHl1Yn5C4mV5tZuceDFGH.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/p5dc9coBLf3wgwRvd8tO4dxYzcH.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Tudo Está Bem Quando Termina em Wells",
+            "sinopse": "Quando um experimento para salvar a velocidade de Barry dá errado, Nash Wells procura por um meio de salvar o Flash com um plano perigoso. Enquanto isso, Iris começa a perceber algo dentro da Dimensão Espelhada, e Cecile enfrenta Rosa Dillon.",
+            "duracao": 42,
+            "diretor": "Geoff Wing Shotz",
+            "thumb": "https://image.tmdb.org/t/p/original/48iZ3tFn7rzQkzsVhkrymgpKBEC.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "A Velocidade do Pensamento",
+            "sinopse": "Quando Barry ganha o poder de pensamento rápido, ele tenta usar sua mais nova habilidade para salvar Iris. Enquanto Barry está animado com seu novo poder, Cisco está hesitante em confiar. Enquanto isso, Eva deve enfrentar uma verdade arrasadora.",
+            "duracao": 42,
+            "diretor": "Alexandra La Roche",
+            "thumb": "https://image.tmdb.org/t/p/original/eoITNIDlpHoZA5UTP2Eyj3dy0XD.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Mãe",
+            "sinopse": "Conforme Eva se torna mais poderosa, Barry e o time devem encontrar uma maneira de detê-la. Eles se surpreendem quando uma antiga amiga – Sue Dearbon arrisca sua vida para ajudá-los.",
+            "duracao": 42,
+            "diretor": "David McWhirter",
+            "thumb": "https://image.tmdb.org/t/p/original/jaN7eMGizXp64zlzprigxZP95EA.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Central City Forte",
+            "sinopse": "O Flash deve lidar com o retorno de Abra Kadabra à Central City. O vilão está de volta com uma vingança e uma conta a acertar. Enquanto isso, Allegra lida com uma situação e Caitlin suspeita que algo está errado com Nevasca. Iris é forçada a olhar para um momento sombrio de seu passado.",
+            "duracao": 42,
+            "diretor": "Jeffrey W. Byrd",
+            "thumb": "https://image.tmdb.org/t/p/original/2ty6Y8JwLkcSgIhtI1hGy4wOdYH.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Tenham Medo de Mim",
+            "sinopse": "Quando um novo vilão poderoso, Psych, canaliza e amplifica o medo das pessoas para causar a destruição por Central City, Barry percebe, com a ajuda de Cecile, que ele deve enfrentar seus próprios medos para poder derrotar essa nova ameaça. Enquanto isso, Joe se surpreende quando Kristen Kramer aparece na CCPD para uma visita. Iris aconselha seu pai a investigar mais o motivo da visita de Kristen. Caitlin e Nevasca argumentam sobre como viver suas vidas.",
+            "duracao": 42,
+            "diretor": "David McWhirter",
+            "thumb": "https://image.tmdb.org/t/p/original/lIN1VLNEAwdLpGEmUuqHAZG0WSC.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Aquele com os Anos Noventa",
+            "sinopse": "Cisco e Chester viajam no tempo e ficam presos no 1998, revivendo o mesmo dia repetidamente. A chave para voltar ao seu tempo é a casa de infância de Chester, mas ele recusa a visitá-lo. Enquanto isso, Iris forma uma conexão com a força de aceleração.",
+            "duracao": 42,
+            "diretor": "Jeffrey W. Byrd",
+            "thumb": "https://image.tmdb.org/t/p/original/hfCarUHnQIQkNs8npZsopdK0l6f.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Dores em Crescimento",
+            "sinopse": "Quando um inimigo misterioso com poderes de gelo acusa Nevasca de um crime brutal, ela deve encontrar uma maneira de limpar seu nome. Enquanto isso, Barry e Iris recebem um convidado inesperado, e Joe continua a lidar com Kristen Kramer.",
+            "duracao": 42,
+            "diretor": "Alexandra La Roche",
+            "thumb": "https://image.tmdb.org/t/p/original/fvAxal5HfwOAppNhZ7NWUop3sNQ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "O Povo vs. Nevasca",
+            "sinopse": "Com Nevasca enfrentando uma punição injusta por seus crimes do passado, Caitlin fará de tudo para salvar sua irmã. Enquanto isso, os esforços de Barry para proteger a Força de Aceleração o levam a fazer uma descoberta chocante.",
+            "duracao": 42,
+            "diretor": "Sudz Sutherland",
+            "thumb": "https://image.tmdb.org/t/p/original/nHKU8SY2X1mbuopApTZy7XRZW6L.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Wells Atemporal",
+            "sinopse": "Depois de uma traição devastadora, Barry pede ajuda para Harrison Wells. Enquanto isso, Iris lidera o Time Citizen em um caminho perigoso em busca de respostas e Cisco conta seu maior medo para Kamilla.",
+            "duracao": 42,
+            "diretor": "Menhaj Huda",
+            "thumb": "https://image.tmdb.org/t/p/original/91x7rLL9AvZPtYGHm5ENzNZcoxB.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Assuntos de Família, Parte 1",
+            "sinopse": "Iris é levada ao limite enquanto busca descobrir a misteriosa verdade sobre Psych. Enquanto isso, Barry inicia um novo sistema de treinamento, que pode sair pela culatra, com consequências devastadoras. Joe e Cisco tomam decisões que mudam suas vidas.",
+            "duracao": 42,
+            "diretor": "Phil Chipera",
+            "thumb": "https://image.tmdb.org/t/p/original/y3wIRpTNYVqeO1yZW0Um4jtXmKK.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "Assuntos de Família, Parte 2",
+            "sinopse": "Barry e Iris devem trabalhar juntos para tentar impedir uma força perigosa que ameaça destruir Central City.",
+            "duracao": 42,
+            "diretor": "Chad Lowe",
+            "thumb": "https://image.tmdb.org/t/p/original/2wvZGOncbpBQhcaR13zvlL7Fwzp.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "Adeus Vibrações",
+            "sinopse": "Cisco e Kamilla dizem para a equipe que estão deixando Central City. Porém, quando uma nova versão do Pirata do Arco-íris ataca, Barry, Iris e Caitlin não possuem muito tempo para lidar com essa notícia. A Equipe Flash original deve se unir uma última vez para salvar a cidade.",
+            "duracao": 42,
+            "diretor": "Phil Chipera",
+            "thumb": "https://image.tmdb.org/t/p/original/fXAcF9JfeNk4ngRJIbki4wIZVe.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "Mascarada",
+            "sinopse": "Cecile é forçada a confrontar seu passado para poder se libertar de uma prisão psíquica. Enquanto isso, Chester assume as coisas depois da saída de Cisco, mas um erro coloca a vida de Barry em um grave perigo. Joe investiga o passado militar de Kristen Kramer e descobre uma verdade chocante.",
+            "duracao": 42,
+            "diretor": "Rachel Talalay",
+            "thumb": "https://image.tmdb.org/t/p/original/luj3XHjyg88RcvA60cWwDBAezy8.jpg",
+            "url": ""
+          },
+          {
+            "numero": 14,
+            "titulo": "Raio de Luz",
+            "sinopse": "Quando Ultravioleta retorna à Central City, Allegra está determinada a encontrar sua prima e mudar seu coração. Enquanto isso, Joe encontra evidências de que Kristen Kramer pode não ser a policial boa que parece ser.",
+            "duracao": 41,
+            "diretor": "Danielle Panabaker",
+            "thumb": "https://image.tmdb.org/t/p/original/rImyzS06IyoOaKk7zPAtomZOEBc.jpg",
+            "url": ""
+          },
+          {
+            "numero": 15,
+            "titulo": "Inimigos nos Portões",
+            "sinopse": "Quando um exército de Godspeeds ataca Central City, Barry e Iris devem colocar seus planos de criar uma família de lado para se focarem na mais nova ameaça. Enquanto isso, Chillblaine é libertado da prisão e diz ter mudado, mas Nevasca possuí suas dúvidas.",
+            "duracao": 42,
+            "diretor": "Geoff Wing Shotz",
+            "thumb": "https://image.tmdb.org/t/p/original/gTGgOoj8BhGD8f0S64Xvt1PjKJu.jpg",
+            "url": ""
+          },
+          {
+            "numero": 16,
+            "titulo": "P.O.W.",
+            "sinopse": "John Diggle chega a Central City com uma arma para ajudar Barry parar a Guerra de Godspeed. Enquanto isso, a conexão de Allegra e Ultravioleta é testada, enquanto Joe e Kristen Kramer são caçados por um antigo colega dela.",
+            "duracao": 42,
+            "diretor": "Marcus Stokes",
+            "thumb": "https://image.tmdb.org/t/p/original/wInHr9XhSRuon0bLGPr6IfsNX9y.jpg",
+            "url": ""
+          },
+          {
+            "numero": 17,
+            "titulo": "O Coração da Questão, Parte 1",
+            "sinopse": "Barry e Iris recebem seus filhos do futuro, XS e Bart, apenas para descobrir um segredo chocante que ameaça sua nova harmonia familiar. Enquanto isso, a guerra Godspeed se intensifica e ameaça destruir Central City.",
+            "duracao": 42,
+            "diretor": "Eric Dean Seaton",
+            "thumb": "https://image.tmdb.org/t/p/original/pVNqbB8TcvoJfcLPNx0iEfbZ6YD.jpg",
+            "url": ""
+          },
+          {
+            "numero": 18,
+            "titulo": "O Coração da Questão, Parte 2",
+            "sinopse": "O Flash recruta uma horda de aliados velocistas, incluindo Iris e seus filhos do futuro, Bart e Nora West-Allen – para encerrar a guerra dos velocistas e derrotar um novo adversário letal: o maligno Godpeed.",
+            "duracao": 42,
+            "diretor": "Marcus Stokes",
+            "thumb": "https://image.tmdb.org/t/p/original/Adt18WHSpYkGo2PXxPEWUtn063K.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/uDu0Q92f3Gvch7gXvfDx5nvZ4be.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Armagedom, Parte 1",
+            "sinopse": "Quando uma ameaça alienígena poderosa chega à Terra por circunstâncias misteriosas, Barry, Iris e o restante da Equipe Flash são colocados a seus limites na batalha desesperadora para salvar o mundo. Com o tempo acabando e o destino da humanidade em jogo, Flash e seus companheiros irão precisar da ajuda de antigos amigos caso queiram que a força do bem prevaleça.",
+            "duracao": 43,
+            "diretor": "Eric Dean Seaton",
+            "thumb": "https://image.tmdb.org/t/p/original/btxoq1RGpcnEBmqAra5yFU63VCS.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Armagedom, Parte 2",
+            "sinopse": "Despero alerta ao Flash que grandes tragédias irão cair sobre o velocista, fazendo-o perder sua mente. Quando isso acontecer, o Armagedom começará. Determinado em provar que Despero está errado, Barry tenta provar sua inocência, mas uma revelação devastadora de Iris o coloca em seus limites, fazendo-o procurar por conselhos do Raio Negro.",
+            "duracao": 42,
+            "diretor": "Menhaj Huda",
+            "thumb": "https://image.tmdb.org/t/p/original/pKUydXjSMVLklcwFtvbyZbgxF64.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Armagedom, Parte 3",
+            "sinopse": "Barry se encontra com o Raio Negro na Sala da Justiça depois que as coisas com Despero pioram. Iris suspeita que a visão do futuro de Despero está errado, então ela procura ajuda de um aliado poderoso.",
+            "duracao": 43,
+            "diretor": "Chris Peppe",
+            "thumb": "https://image.tmdb.org/t/p/original/xrgK4eftY5k2k3whdWkUYh9Fg5s.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Armagedom, Parte 4",
+            "sinopse": "Barry fica surpreso quando Eobard Thawne retorna da forma mais inesperada, conectado com alguém que ama. Damien Darhk oferece conselhos a Barry, mas há uma pegadinha. Uma batalha épica começa quando o Flash Reverso enfrenta o Flash, Equipe Flash, Batwoman, Sentinela e Ryan Choi.",
+            "duracao": 43,
+            "diretor": "Chad Lowe",
+            "thumb": "https://image.tmdb.org/t/p/original/rPQtmrYMAT3bSp9RO2CnkMbFEIu.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Armagedom, Parte 5",
+            "sinopse": "A conclusão de Armagedom apresenta a oportunidade para o Flash encerrar sua longa batalha contra o Flash Reverso para sempre, mas as consequências podem ser bastantes para Barry e a equipe lidar. Enquanto isso, Mia Queen aparece do futuro para salvar a vida de um ente querido, e ela não deixará ninguém ficar em seu caminho.",
+            "duracao": 43,
+            "diretor": "Menhaj Huda",
+            "thumb": "https://image.tmdb.org/t/p/original/a60PsRobF9Upa7sM5RV2iUys54j.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Transtorno Excessivo Impulsivo",
+            "sinopse": "Continuando de onde a sétima temporada acabou, retornando para casa após uma visita à renovação de votos de seus pais, Bart e Nora percebem que as coisas não estão exatamente como as deixaram. A dupla corre para consertar quaisquer fissuras na linha do tempo e restaurar tudo ao que elas deveriam ser.",
+            "duracao": 43,
+            "diretor": "David McWhirter",
+            "thumb": "https://image.tmdb.org/t/p/original/xxab511nKBfN1BtpDD3iZZ27QFW.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Confinamento",
+            "sinopse": "Quando um criminoso invade o DPCC, Barry e Kramer devem confiar um no outro caso queiram sair em segurança. Enquanto isso, Caitlin aprende uma lição valiosa com Nevasca e Mark.",
+            "duracao": 43,
+            "diretor": "Stefan Pleszczynski",
+            "thumb": "https://image.tmdb.org/t/p/original/ont9wd9IjHy3JZ0MjMNPMo8Jw2G.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "O Fogo da Próxima Vez",
+            "sinopse": "Barry confia em seus instintos durante uma investigação de assassinato, acreditando no suspeito apesar de toda a evidência contra ele. Enquanto isso, Iris dá para Allegra a oportunidade de ser uma mentora.",
+            "duracao": 43,
+            "diretor": "David McWhirter",
+            "thumb": "https://image.tmdb.org/t/p/original/zyzcQCyCV7BV3c6da31drRfROf8.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Fantasmas",
+            "sinopse": "Barry e a Equipe Flash chegam mais perto de descobrir o meta de fogo, mas não mais perto de encontrá-lo. Enquanto isso, precisando de uma distração, Iris segue uma história até Coast City.",
+            "duracao": 43,
+            "diretor": "Stefan Pleszczynski",
+            "thumb": "https://image.tmdb.org/t/p/original/vMu2sjYygrwmPclxXXeeIxV3mXC.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Irresponsável",
+            "sinopse": "O desejo de Barry de manter a Equipe Flash segura é testado quando Nevasca, imprudentemente, corteja o perigo enquanto tenta parar a \"Chama Negra\". Enquanto isso, Iris tenta ajudar uma adolescente a se reunir com sua mãe, mas sem querer faz mais mal do que bem.",
+            "duracao": 43,
+            "diretor": "Kellie Cyrus",
+            "thumb": "https://image.tmdb.org/t/p/original/uqI4JlIgHCN358WR7aOId9wzJaL.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "Ressurreição",
+            "sinopse": "Barry e Chester podem ter encontrado uma maneira de impedir que a \"Chama Negra\" machuque mais alguém. Enquanto isso, Caitlin decide lidar com a situação por conta própria, possivelmente colocando mais vidas inocentes em perigo.",
+            "duracao": 43,
+            "diretor": "Greg Beeman",
+            "thumb": "https://image.tmdb.org/t/p/original/vQ42N5vAYopQ48w7dnYGdEl1Bvp.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "A Morte Ressurge",
+            "sinopse": "Com um novo meta aterrorizando a cidade, Joe dá uma mão às autoridades locais. Enquanto isso, Barry recebe ajuda de Cecile para localizar o assassino em série.",
+            "duracao": 43,
+            "diretor": "Phil Chipera",
+            "thumb": "https://image.tmdb.org/t/p/original/poSGsqYyzVz6YA5z4Foe57bVoIa.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "A Morte Cai",
+            "sinopse": "A equipe Flash está sob ataque, e cada um deve lutar para salvar não apenas a si mesmos, mas também uns aos outros.",
+            "duracao": 43,
+            "diretor": "Chris Peppe",
+            "thumb": "https://image.tmdb.org/t/p/original/nv6gPuL7AfCLpcHpB8afeiAJqMK.jpg",
+            "url": ""
+          },
+          {
+            "numero": 14,
+            "titulo": "Funeral Para Um Amigo",
+            "sinopse": "A Equipe Flash usa a distração de um banco roubando Meta para diminuir a dor de perder alguém que eles amam.",
+            "duracao": 42,
+            "diretor": "Vanessa Parise",
+            "thumb": "https://image.tmdb.org/t/p/original/jYkzNBYRvYHvzI7vyE9opO9XYP6.jpg",
+            "url": ""
+          },
+          {
+            "numero": 15,
+            "titulo": "Dentro da Força Imóvel",
+            "sinopse": "O Flash recebe uma assistência de XS. Enquanto isso, a CCPD pede ajuda a Chester quando um dispositivo misterioso é encontrado na cena do crime.",
+            "duracao": 43,
+            "diretor": "Eric Wallace",
+            "thumb": "https://image.tmdb.org/t/p/original/pk6zP0geB2A7irzn8tIP0kv0Z0s.jpg",
+            "url": ""
+          },
+          {
+            "numero": 16,
+            "titulo": "O Curioso Caso de Bartholomew Allen",
+            "sinopse": "O Flash é atingido por uma onda de choque forçando seu corpo a envelhecer prematuramente.",
+            "duracao": 42,
+            "diretor": "Caity Lotz",
+            "thumb": "https://image.tmdb.org/t/p/original/oK3kg8CPl85VWZXjvx6NWg74VNi.jpg",
+            "url": ""
+          },
+          {
+            "numero": 17,
+            "titulo": "Mantenha as Escuras",
+            "sinopse": "O Flash desaparece para buscar respostas sobre uma nova meta que surgiu na cidade. Enquanto isso, Allegra puxa as cordas no CC Citizen Mídia, para proteger uma fonte e amiga.",
+            "duracao": 43,
+            "diretor": "Danielle Panabaker",
+            "thumb": "https://image.tmdb.org/t/p/original/d6EWpNtaOMnVbxOnWiRiEpC1kft.jpg",
+            "url": ""
+          },
+          {
+            "numero": 18,
+            "titulo": "O Homem da Gravata Amarela",
+            "sinopse": "Com uma nova velocista na cidade, o Flash acaba recebendo mais do que esperava. Enquanto isso, os poderes de Cecile passam por um surto de crescimento, permitindo-a ajudar a Equipe Flash em um novo nível.",
+            "duracao": 42,
+            "diretor": "Marcus Stokes",
+            "thumb": "https://image.tmdb.org/t/p/original/ofdfY6TLybNbJwzeoG8umbuXXpw.jpg",
+            "url": ""
+          },
+          {
+            "numero": 19,
+            "titulo": "Negativo, Parte 1",
+            "sinopse": "O Flash e a equipe estão na luta por suas vidas. Enquanto isso, Iris descobre a causa de sua doença temporal.",
+            "duracao": 42,
+            "diretor": "Jeffrey W. Byrd",
+            "thumb": "https://image.tmdb.org/t/p/original/cYkfi3ucqScDbKH1CDIIf8PBEby.jpg",
+            "url": ""
+          },
+          {
+            "numero": 20,
+            "titulo": "Negativo, Parte 2",
+            "sinopse": "Com o Flash ainda se recuperando de tudo que aconteceu, o resto da equipe o apoia quando ele mais precisa.",
+            "duracao": 43,
+            "diretor": "Marcus Stokes",
+            "thumb": "https://image.tmdb.org/t/p/original/pWU8oL1KyioOGwMqw9ny8pQ9l1t.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/lFxIoMKqkgTuxpghTPHBjoVstMV.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Quarta-feira, sempre",
+            "sinopse": "Barry tenta definir seu futuro com Iris e coloca os dois em um beco sem saída. O Capitão Bumerangue surge provocando o caos na cidade.",
+            "duracao": 43,
+            "diretor": "Vanessa Parise",
+            "thumb": "https://image.tmdb.org/t/p/original/4S4XAyU71fOqHnL97cB4KueHutf.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Não ouça mal algum",
+            "sinopse": "Após perder Caitlin, Mark e o time conversam sobre o futuro. Cecile tem uma escolha a fazer. Uma vilã musical ameaça Hartley.",
+            "duracao": 43,
+            "diretor": "Eric Wallace",
+            "thumb": "https://image.tmdb.org/t/p/original/4lbqQk2IapF38Z8YYtbPSgQq7RJ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Vilões da Guerra",
+            "sinopse": "Barry e Hartley reúnem uma equipe incomum para se antecipar aos novos inimigos. A investigação de Iris e Chester leva a importantes descobertas.",
+            "duracao": 43,
+            "diretor": "Brenton Spencer",
+            "thumb": "https://image.tmdb.org/t/p/original/jUlIctIEbsg92BJLgtkgLphJsJM.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Máscara da Morte Vermelha - Parte 1",
+            "sinopse": "A Morte Vermelha revela sua fonte de poder e seus verdadeiros planos, mergulhando a cidade na escuridão e colocando Barry diante de uma escolha impossível.",
+            "duracao": 43,
+            "diretor": "Menhaj Huda",
+            "thumb": "https://image.tmdb.org/t/p/original/3nz3u5sOrTxWGWQ1m5ojmJzDQZf.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Máscara da Morte Vermelha - Parte 2",
+            "sinopse": "Central City está sob grande ameaça, e Barry questiona suas escolhas. O Time Flash busca aliados.",
+            "duracao": 43,
+            "diretor": "Rachel Talalay",
+            "thumb": "https://image.tmdb.org/t/p/original/qeUVFYGswpWUqnluvQmCVVwSTOm.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Os bons, os maus e os sortudos",
+            "sinopse": "Cecile e Allegra se arriscam para ajudar uma cliente azarada. Mark acredita que Khione tem poderes que ela desconhece.",
+            "duracao": 42,
+            "diretor": "Chad Lowe",
+            "thumb": "https://image.tmdb.org/t/p/original/g0xY1gF9fQtquuRGQeiBlGAIVaI.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Os sonhos mais loucos",
+            "sinopse": "Os poderes de Nia Nal sofrem uma mudança preocupante, e ela pede ajuda a Iris. Mark e Khione passam o dia juntos.",
+            "duracao": 42,
+            "diretor": "Jesse Warn",
+            "thumb": "https://image.tmdb.org/t/p/original/7rsAFeWUft4q3eq9gqXaZYzbeVs.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Parceiros no crime",
+            "sinopse": "Uma inspeção no laboratório desencadeia uma anomalia temporal, colocando Barry e Iris em perigo. Chester faz uma confissão surpreendente.",
+            "duracao": 43,
+            "diretor": "Ed Fraiman",
+            "thumb": "https://image.tmdb.org/t/p/original/tCJutF1brVERN77ORR3VQNsev0h.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "A festa é minha, e eu morro se eu quiser",
+            "sinopse": "Um intruso ameaça o aniversário de Barry com um plano terrível, que pode colocar todo o multiverso em risco.",
+            "duracao": 43,
+            "diretor": "Danielle Panabaker",
+            "thumb": "https://image.tmdb.org/t/p/original/zDPCrqKSSGpFBZUpuv4CV8bW6wa.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Um novo mundo - Parte 1",
+            "sinopse": "Barry faz uma viagem inesperada, encontrando rostos conhecidos. Iris recebe uma boa notícia, e Khione começa a testar seus poderes.",
+            "duracao": 43,
+            "diretor": "Eric Wallace",
+            "thumb": "https://image.tmdb.org/t/p/original/nhJLhz0JxXMzP1enozw7XR3nW0J.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "Um novo mundo - Parte 2",
+            "sinopse": "Enquanto procura por Barry, o Time Flash descobre uma presença sinistra entre eles. Khione enfrenta sua verdadeira identidade.",
+            "duracao": 42,
+            "diretor": "Kayla Compton",
+            "thumb": "https://image.tmdb.org/t/p/original/lPZFOBpvvvqi47JBAfrb6XYpiyN.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "Um novo mundo - Parte 3",
+            "sinopse": "Transportado para 2049, Barry reencontra um velho amigo. Cecile percebe que seus poderes podem ser a chave para deter a Força de Aceleração Negativa.",
+            "duracao": 42,
+            "diretor": "Stefan Pleszczynski",
+            "thumb": "https://image.tmdb.org/t/p/original/jEqKyagrsoPhjhzze7ckBbwTBAV.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "Um novo mundo - Parte 4",
+            "sinopse": "Numa batalha final épica para preservar a linha do tempo, o Time Flash enfrenta seus inimigos mais poderosos, e Barry tenta o impossível.",
+            "duracao": 43,
+            "diretor": "Vanessa Parise",
+            "thumb": "https://image.tmdb.org/t/p/original/tFhCJhJu6JV93WT9Ew8YdnrbTOR.jpg",
             "url": ""
           }
         ]
