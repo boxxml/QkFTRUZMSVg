@@ -4420,5 +4420,349 @@
         "episodios": []
       }
     ]
+  },
+  {
+    "id": "95557-invencivel",
+    "titulo": "INVENCÍVEL",
+    "sinopse": "Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.",
+    "ano": 2021,
+    "nota": 8.6,
+    "classificacao": "18",
+    "estudio": "Prime Video",
+    "generos": [
+      "Animação e Drama e Sci-Fi & Fantasy e Action & Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+    "banner": "",
+    "elenco": [
+      "Steven Yeun",
+      "Sandra Oh",
+      "J.K. Simmons"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Quando Mark Grayson herda superpoderes ao completar 17 anos, ele se une a seu pai como um dos maiores heróis da Terra. Todos os seus sonhos se tornam realidade - até que um evento chocante muda tudo.",
+        "poster": "https://image.tmdb.org/t/p/original/pP3r5QUbTR5HyagEDmf52JAO7Vv.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "JÁ ESTAVA NA HORA",
+            "sinopse": "O sonho de Mark Grayson se torna realidade após herdar os superpoderes de seu pai. Mas ser um herói é muito mais do que apenas escolher um nome ou um traje.",
+            "duracao": 51,
+            "diretor": "Robert Valley",
+            "thumb": "https://image.tmdb.org/t/p/original/7S9RDiSixGe2miORi1fakQwZhjS.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-01-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "OU VAI OU RACHA",
+            "sinopse": "Com seu pai incapacitado, Mark luta para defender a cidade contra uma invasão de outra dimensão, unindo forças com uma equipe de super-heróis adolescentes.",
+            "duracao": 48,
+            "diretor": "Paul Furminger",
+            "thumb": "https://image.tmdb.org/t/p/original/pkxbaf98mNpxyoZAiNmJo8vHoDD.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-01-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "QUEM VOCÊ CHAMOU DE FEIA?",
+            "sinopse": "Mark fura um encontro para estudar para salvar o Monte Rushmore de um cientista maluco. Já Robô precisa suar para montar uma nova equipe de super-heróis.",
+            "duracao": 45,
+            "diretor": "Jeff Allen",
+            "thumb": "https://image.tmdb.org/t/p/original/h6rJcoDs7tFjLT79RRM3q2ImAuQ.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-01-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "PROBLEMAS EM MARTE",
+            "sinopse": "Mak enfrenta duas situações inéditas: seu primeiro encontro e sua primeira viagem a outro planeta. Enquanto isso, Nolan e Debbie vão ao local de seu primeiro encontro.",
+            "duracao": 48,
+            "diretor": "Cory Evans",
+            "thumb": "https://image.tmdb.org/t/p/original/6gaE4O5tWAkUbjJlGQ8DVyG6q8h.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-01-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "ESSA DOEU DE VERDADE",
+            "sinopse": "Confiante com suas novas habilidades, Mark alia-se a um vilão local para derrubar um senhor do crime, ao mesmo tempo que tenta manter os estudos em dia e um novo relacionamento.",
+            "duracao": 50,
+            "diretor": "Jay Baker",
+            "thumb": "https://image.tmdb.org/t/p/original/1v9aBIzrSwCVzp8SlNBpVqR4K4N.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-01-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "EU SÓ QUERO O PROGRESSO",
+            "sinopse": "Mark junta-se a William e Amber em uma visita ao campus da Universidade Upstate, esperando descobrir um novo futuro para ele próprio. Enquanto isso, Deb descobre algo perturbador.",
+            "duracao": 48,
+            "diretor": "Paul Furminger",
+            "thumb": "https://image.tmdb.org/t/p/original/2FtdRhVTJsdS3pWoIYx9w4yD29F.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-01-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "PRECISAMOS CONVERSAR",
+            "sinopse": "Confuso e perdido, Mark pede conselhos a Eve. Enquanto isso, todos procuram por ele.",
+            "duracao": 52,
+            "diretor": "Vinton Heuck",
+            "thumb": "https://image.tmdb.org/t/p/original/qP3FnggFKbJSeSRMxKkYM8hWymc.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-01-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "A VERDADE",
+            "sinopse": "Mark precisa provar que ele se tornou o herói que sempre quis ser parando uma força imparável.",
+            "duracao": 48,
+            "diretor": "William Ruzicka",
+            "thumb": "https://image.tmdb.org/t/p/original/ijDV8Z23iR5B2ftx0WggiXbfqGi.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-01-08.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Após uma traição devastadora, Mark luta para reconstruir sua vida. Diante de ameaças apocalípticas ele descobre novos aliados e enfrenta seu maior medo - a possibilidade de se tornar igual ao seu pai.",
+        "poster": "https://image.tmdb.org/t/p/original/uZaLC2IxPgGI68m2W0eva8pPvaI.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "UMA LIÇÃO PARA SUA PRÓXIMA VIDA",
+            "sinopse": "Após a traição de seu pai, Mark luta com suas responsabilidades como Invencível e encontra um inimigo inesperado.",
+            "duracao": 49,
+            "diretor": "Sol Choi",
+            "thumb": "https://image.tmdb.org/t/p/original/7668uz2MvZNnHHxc1X8WnF8Qg71.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-02-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "EM CERCA DE SEIS HORAS PERCO MINHA VIRGINDADE PARA UM PEIXE",
+            "sinopse": "Mark e seus amigos estão de férias, mas os supervilões nunca descansam. Mark é forçado a enfrentar as consequências da vida dupla do Omni-Man.",
+            "duracao": 50,
+            "diretor": "Ian Abando",
+            "thumb": "https://image.tmdb.org/t/p/original/86LzgXATHHPbJkQKGZWLKXPHQfY.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-02-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "ESTA MISSIVA, ESTA MAQUINAÇÃO!",
+            "sinopse": "Mark começa a faculdade, Debbie enfrenta dificuldades com seu trauma pessoal, e Allen, o Alien descobre uma nova ameaça contra a Coalizão de Planetas ao voltar para casa.",
+            "duracao": 50,
+            "diretor": "Tanner Johnson",
+            "thumb": "https://image.tmdb.org/t/p/original/hhuAU2n6j5Z5VIQLZh3LjexezRu.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-02-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "JÁ FAZ UM TEMPO",
+            "sinopse": "Mark atende a um chamado para salvar uma espécie alienígena, mas a missão tem consequências pessoais inesperadas.",
+            "duracao": 47,
+            "diretor": "Jason Zurek",
+            "thumb": "https://image.tmdb.org/t/p/original/4OVjqdrakEnlEbstrhQVS4YhBVU.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-02-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "ISSO DEVE SER UM CHOQUE",
+            "sinopse": "A casa dos Grayson fica de pernas para o ar quando Mark volta à Terra com novas responsabilidades surpreendentes. Os Guardiões Globais enfrentam perigos em casa e longe dela.",
+            "duracao": 52,
+            "diretor": "Haylee Herrick",
+            "thumb": "https://image.tmdb.org/t/p/original/7gVrb31GptKLDLR4fzR0Mc3tnJU.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-02-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "NÃO É TÃO SIMPLES",
+            "sinopse": "Após duas missões desafiadoras, os Guardiões Globais não conseguem trabalhar em equipe. Enquanto isso, Mark tenta equilibrar seus deveres de herói, relações pessoais e seu futuro na faculdade.",
+            "duracao": 51,
+            "diretor": "Sol Choi",
+            "thumb": "https://image.tmdb.org/t/p/original/5eXJeZqfEKP8kggTEaPA9CGU7cF.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-02-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "NÃO VOU A LUGAR NENHUM",
+            "sinopse": "Enquanto Mark tenta salvar sua vida pessoal, surge uma nova vilã que representa seu maior desafio até agora. Donald encara seu passado.",
+            "duracao": 52,
+            "diretor": "Ian Abando",
+            "thumb": "https://image.tmdb.org/t/p/original/1mO9XfiKQKEMypiEZ9hmLDzCeK2.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-02-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "ACHEI QUE VOCÊ FOSSE MAIS FORTE",
+            "sinopse": "Um antigo inimigo ameaça tudo que Mark mais ama.",
+            "duracao": 54,
+            "diretor": "Tanner Johnson",
+            "thumb": "https://image.tmdb.org/t/p/original/yasOqypIHTH1ioss7T12LjcIcnG.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-02-08.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "Tudo muda quando Mark é obrigado a encarar seu passado e futuro, descobrindo quão longe ele vai ter de chegar para proteger quem ama.",
+        "poster": "https://image.tmdb.org/t/p/original/xW34b4JjSTocmhROnsjwhamczxs.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "VOCÊS NÃO ESTÃO MAIS RINDO",
+            "sinopse": "Mark Grayson está de volta e mais forte do que nunca - com novos inimigos com sede de sangue e antigos vilões querendo vingança.",
+            "duracao": 49,
+            "diretor": "Jason Zurek",
+            "thumb": "https://image.tmdb.org/t/p/original/z4Hy6lntZDS6sGJGPCjhJ5bcCO.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-03-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "PACTO COM O DIABO",
+            "sinopse": "Mark se posiciona, sem imaginar as consequências para sua família, a ADG e até os Guardiões. Cecil recorda o passado e Eve toma uma decisão importante.",
+            "duracao": 49,
+            "diretor": "Haylee Herrick",
+            "thumb": "https://image.tmdb.org/t/p/original/lmrqdiLq4d2NOi0I7PUGHxjMoHi.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-03-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "VOCÊ QUER UM UNIFORME DE VERDADE, NÉ?",
+            "sinopse": "Mark tem dificuldades para ensinar a Oliver o que significa ser super-herói. Debbie explora uma nova relação e dinâmica familiar.",
+            "duracao": 51,
+            "diretor": "Sol Choi",
+            "thumb": "https://image.tmdb.org/t/p/original/jzOMmcSbr3YzFe90mK5uFYhb220.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-03-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "VOCÊ ERA MEU HERÓI",
+            "sinopse": "Dois estranhos pedem que Mark ajude com um vilão misterioso. Em outra parte da galáxia, Nolan tem uma crise de identidade e Allen encontra um novo aliado inesperado.",
+            "duracao": 50,
+            "diretor": "Ian Abando",
+            "thumb": "https://image.tmdb.org/t/p/original/FWIBME33cC9qRoS6Y2qui0QaWC.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-03-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "ERA PARA ISSO SER FÁCIL",
+            "sinopse": "Mark e Eve abrem um negócio e encontram um conhecido. Debbie teme que Oliver esteja crescendo rápido demais.",
+            "duracao": 49,
+            "diretor": "Tanner Johnson",
+            "thumb": "https://image.tmdb.org/t/p/original/21Eov71SQJV3MESVBityTPVITLc.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-03-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "SÓ POSSO PEDIR DESCULPAS",
+            "sinopse": "Uma nova figura poderosa desafia a noção de Mark do que é certo e errado. Rae propõe uma grande decisão para Rex.",
+            "duracao": 55,
+            "diretor": "Jason Zurek",
+            "thumb": "https://image.tmdb.org/t/p/original/5NMW2Q21EOINDHcFeJvzm1i73xW.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-03-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "O QUE FOI QUE EU FIZ?",
+            "sinopse": "Os maiores heróis da Terra se unem para enfrentar uma ameaça inimaginável.",
+            "duracao": 52,
+            "diretor": "Haylee Herrick",
+            "thumb": "https://image.tmdb.org/t/p/original/ydn7SFlgi8fUP6jQcjr1zJGtVMa.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-03-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "ACHEI QUE NUNCA FOSSE CALAR A BOCA",
+            "sinopse": "Com o mundo ainda abalado, um perigoso estranho surge - testando Mark até o limite e além.",
+            "duracao": 46,
+            "diretor": "Sol Choi",
+            "thumb": "https://image.tmdb.org/t/p/original/6HqCGRpP4BfbPoQ3rQ71ViuWwXk.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-03-08.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "sinopse": "Enquanto o mundo se recupera da catástrofe da última temporada, um Mark mudado enfrenta a culpa enquanto luta para proteger seu lar e quem ele ama, o que o coloca em rota de colisão com uma nova e poderosa ameaça que pode mudar o destino da humanidade para sempre.",
+        "poster": "https://image.tmdb.org/t/p/original/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "TORNANDO O MUNDO MELHOR",
+            "sinopse": "Mark enfrenta inimigos novos e antigos na luta para manter a Terra segura.",
+            "duracao": 53,
+            "diretor": "Sol Choi",
+            "thumb": "https://image.tmdb.org/t/p/original/mbyuhbhBwLE18gMApOf6l7SoJI0.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-04-01.mkv"
+          },
+          {
+            "numero": 2,
+            "titulo": "VOU TE MOSTRAR O LUGAR",
+            "sinopse": "Lealdades são testadas quando um antigo inimigo é revelado.",
+            "duracao": 51,
+            "diretor": "Jason Zurek",
+            "thumb": "https://image.tmdb.org/t/p/original/eZljaDBUuBrKQjm0sRKfKorNFmk.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-04-02.mkv"
+          },
+          {
+            "numero": 3,
+            "titulo": "PRECISO TOMAR UM AR",
+            "sinopse": "Consequências pesam sobre Mark. Oliver arruma um novo trabalho.",
+            "duracao": 49,
+            "diretor": "Stephanie Gonzaga",
+            "thumb": "https://image.tmdb.org/t/p/original/feqa4Ct3uOpMvwWfJkvQet6w1yP.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-04-03.mkv"
+          },
+          {
+            "numero": 4,
+            "titulo": "LAMENTO",
+            "sinopse": "Lamento.",
+            "duracao": 56,
+            "diretor": "Ian Abando",
+            "thumb": "https://image.tmdb.org/t/p/original/jAgbFn1AEBxgUksM1mHuaEBDmAS.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-04-04.mkv"
+          },
+          {
+            "numero": 5,
+            "titulo": "NOS DÊ UM MOMENTO",
+            "sinopse": "Mark parte para uma missão nova e perigosa, deixando Debbie desnorteada e Eve na incerteza.",
+            "duracao": 52,
+            "diretor": "Sol Choi",
+            "thumb": "https://image.tmdb.org/t/p/original/ub7F6sOGlVTyDiqIMQJyAGaMz7E.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-04-05.mkv"
+          },
+          {
+            "numero": 6,
+            "titulo": "VOCÊ ESTÁ HORRÍVEL",
+            "sinopse": "Laços de família são colocados à prova. Sob pressão, Allen faz um novo amigo.",
+            "duracao": 53,
+            "diretor": "Jason Zurek",
+            "thumb": "https://image.tmdb.org/t/p/original/mzWpAJk487mL9usmcRUd9b0axf4.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-04-06.mkv"
+          },
+          {
+            "numero": 7,
+            "titulo": "NÃO FAÇA NENHUMA LOUCURA",
+            "sinopse": "Nada sai como planejado durante um grande confronto.",
+            "duracao": 54,
+            "diretor": "Stephanie Gonzaga",
+            "thumb": "https://image.tmdb.org/t/p/original/sLEh09so84nRctNKqGG8eSobEBb.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-04-07.mkv"
+          },
+          {
+            "numero": 8,
+            "titulo": "NÃO ME DEIXA ESPERANDO",
+            "sinopse": "Mark encara seus medos mais sombrios enquanto sua vida muda para sempre.",
+            "duracao": 52,
+            "diretor": "Ian Abando",
+            "thumb": "https://image.tmdb.org/t/p/original/a103TuPbdItnmw4d4yDFQngJywu.jpg",
+            "url": "https://ia803205.us.archive.org/14/items/s-e-r-i-e-02/95557-04-08.mkv"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "sinopse": "",
+        "poster": "",
+        "episodios": []
+      }
+    ]
   }
 ]
