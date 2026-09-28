@@ -5591,5 +5591,612 @@
         ]
       }
     ]
+  },
+  {
+    "id": "62264-ash-vs-evil-dead",
+    "titulo": "Ash vs Evil Dead",
+    "sinopse": "30 anos depois, o caçador de demônios Ash Williams está de volta para enfrentar uma nova praga Deadite. Ele pode ter perdido a mão, mas não o seu toque.",
+    "ano": 2015,
+    "nota": 7.8,
+    "classificacao": "18",
+    "estudio": "STARZ",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=-Yq3jeOmxSk",
+    "generos": [
+      "Comédia e Action & Adventure e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/9tNtSk46s3f1ePr59p0JG6uacc8.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/bIna9BL7Uny1hM63ntTI9BpRkRJ.jpg",
+    "banner": "",
+    "elenco": [
+      "Bruce Campbell",
+      "Ray Santiago",
+      "Dana DeLorenzo",
+      "Lucy Lawless",
+      "Arielle O'Neill"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Trinta anos depois, o caçador de demônios Ash Williams está de volta para enfrentar uma nova praga Deadite. Ele pode ter perdido a mão, mas não o seu toque.",
+        "poster": "https://image.tmdb.org/t/p/original/bxCjPF2rfxfLQtSpV9riwIoLaaD.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Uma visão perturbadora faz Ash deixar sua vida monótona de lado e reassumir a serra elétrica. A agente Amanda Fisher é apresentada a um novo mundo.",
+            "duracao": 41,
+            "diretor": "Sam Raimi",
+            "thumb": "https://image.tmdb.org/t/p/original/jjn4rqMeqKJpf1PVEGsZeSHLYMZ.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wMS5ta3Y="
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Amanda descobre o envolvimento de Ash nas mortes. Pablo participa de um confronto sangrento. Kelly recebe uma ligação que deixa Ash desconfiado.",
+            "duracao": 28,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/86qwh6frw46DMY2vACACSRCLoGS.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wMi5ta3Y="
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "Ash tenta encontrar um homem que pode acabar com a maldição, mas Ruby está no encalço do grupo.",
+            "duracao": 28,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/kbR1K3A3nl6Km0bb9bSP46cZh4h.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wMy5ta3Y="
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Ash, Kelly e Pablo partem para seguir uma nova pista, mas o trio não está só. Ruby e Amanda unem forças para deter Ash.",
+            "duracao": 29,
+            "diretor": "David Frazee",
+            "thumb": "https://image.tmdb.org/t/p/original/iqGOflN5tGuqRPiQ0xAEwkNpXEI.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wNC5ta3Y="
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Controlada por Eligos, Kelly convence Pablo e seu tio de que Ash é quem está possuído. Amanda e Ruby usam a mão decepada de Ash como pista para procurá-lo.",
+            "duracao": 27,
+            "diretor": "David Frazee",
+            "thumb": "https://image.tmdb.org/t/p/original/quEuKLrnIATUAhwD2Fd4rPBc9Dc.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wNS5ta3Y="
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "Ruby e Amanda são surpreendidas ao chegar à fazenda. O trio tenta conseguir armas com um amigo de Ash.",
+            "duracao": 26,
+            "diretor": "Michael Hurst",
+            "thumb": "https://image.tmdb.org/t/p/original/qmvZYpNcBb6xHofAf3wUNrCpq9e.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wNi5ta3Y="
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "O grupo visita uma milícia armada até os dentes, mas descobre que algo chegou primeiro.",
+            "duracao": 26,
+            "diretor": "Michael Hurst",
+            "thumb": "https://image.tmdb.org/t/p/original/wwxL9nL7Whvns08L9JHfQADLNMH.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wNy5ta3Y="
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "Determinado a pôr um fim em tudo, Ash volta à cabana. Pablo e Kelly se perdem na floresta e pedem ajuda a um grupo.",
+            "duracao": 27,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/tgXx94YHx2jNx9ncTvjekPIAa2L.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wOC5ta3Y="
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "Kelly e Pablo confrontam Ash e o clone. Em seguida, visitas chegam à cabine no momento mais inconveniente possível.",
+            "duracao": 28,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/ka06pRSe84krCyBQGJsdbbEotA0.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wOS5ta3Y="
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "Kelly tenta salvar Pablo do controle do Necronomicon. Ruby faz uma oferta tentadora a Ash.",
+            "duracao": 35,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/bKrPWl7u8T7X8ZMzuLSYTO2b5Kn.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0xMC5ta3Y="
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "sinopse": "Trinta anos depois, o caçador de demônios Ash Williams está de volta para enfrentar uma nova praga Deadite. Ele pode ter perdido a mão, mas não o seu toque.",
+        "poster": "https://image.tmdb.org/t/p/original/bxCjPF2rfxfLQtSpV9riwIoLaaD.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Uma visão perturbadora faz Ash deixar sua vida monótona de lado e reassumir a serra elétrica. A agente Amanda Fisher é apresentada a um novo mundo.",
+            "duracao": 41,
+            "diretor": "Sam Raimi",
+            "thumb": "https://image.tmdb.org/t/p/original/jjn4rqMeqKJpf1PVEGsZeSHLYMZ.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wMS5ta3Y="
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Amanda descobre o envolvimento de Ash nas mortes. Pablo participa de um confronto sangrento. Kelly recebe uma ligação que deixa Ash desconfiado.",
+            "duracao": 28,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/86qwh6frw46DMY2vACACSRCLoGS.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wMi5ta3Y="
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "Ash tenta encontrar um homem que pode acabar com a maldição, mas Ruby está no encalço do grupo.",
+            "duracao": 28,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/kbR1K3A3nl6Km0bb9bSP46cZh4h.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wMy5ta3Y="
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Ash, Kelly e Pablo partem para seguir uma nova pista, mas o trio não está só. Ruby e Amanda unem forças para deter Ash.",
+            "duracao": 29,
+            "diretor": "David Frazee",
+            "thumb": "https://image.tmdb.org/t/p/original/iqGOflN5tGuqRPiQ0xAEwkNpXEI.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wNC5ta3Y="
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Controlada por Eligos, Kelly convence Pablo e seu tio de que Ash é quem está possuído. Amanda e Ruby usam a mão decepada de Ash como pista para procurá-lo.",
+            "duracao": 27,
+            "diretor": "David Frazee",
+            "thumb": "https://image.tmdb.org/t/p/original/quEuKLrnIATUAhwD2Fd4rPBc9Dc.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wNS5ta3Y="
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "Ruby e Amanda são surpreendidas ao chegar à fazenda. O trio tenta conseguir armas com um amigo de Ash.",
+            "duracao": 26,
+            "diretor": "Michael Hurst",
+            "thumb": "https://image.tmdb.org/t/p/original/qmvZYpNcBb6xHofAf3wUNrCpq9e.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wNi5ta3Y="
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "O grupo visita uma milícia armada até os dentes, mas descobre que algo chegou primeiro.",
+            "duracao": 26,
+            "diretor": "Michael Hurst",
+            "thumb": "https://image.tmdb.org/t/p/original/wwxL9nL7Whvns08L9JHfQADLNMH.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wNy5ta3Y="
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "Determinado a pôr um fim em tudo, Ash volta à cabana. Pablo e Kelly se perdem na floresta e pedem ajuda a um grupo.",
+            "duracao": 27,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/tgXx94YHx2jNx9ncTvjekPIAa2L.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wOC5ta3Y="
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "Kelly e Pablo confrontam Ash e o clone. Em seguida, visitas chegam à cabine no momento mais inconveniente possível.",
+            "duracao": 28,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/ka06pRSe84krCyBQGJsdbbEotA0.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0wOS5ta3Y="
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "Kelly tenta salvar Pablo do controle do Necronomicon. Ruby faz uma oferta tentadora a Ash.",
+            "duracao": 35,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/bKrPWl7u8T7X8ZMzuLSYTO2b5Kn.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMS0xMC5ta3Y="
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Ash volta para enfrentar os mortos-vivos em Elk Grove, onde é obrigado a formar uma aliança desconfortável com um antigo inimigo.",
+        "poster": "https://image.tmdb.org/t/p/original/4iOPAUG9vZGAkj6OetZpTUT5jj8.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Ash, Pablo e Kelly recebem um recado de Ruby e vão a Elk Grove, Michigan, um lugar cheio de surpresas.",
+            "duracao": 34,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/vREjbRFJf5qx3bUKb9uewi377nm.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wMS5ta3Y="
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Pablo recebe uma pista surpreendente de Ruby sobre o Necronomicon. Ash descobre que ele e o pai têm algo em comum.",
+            "duracao": 27,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/2xnQLwOESCutqyPcQ19Bcl3uW0i.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wMi5ta3Y="
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "Depois que adolescentes baderneiros roubam o Delta, Ash e Chet tramam um plano para recuperar o carro e o Necronomicon de uma vez por todas.",
+            "duracao": 30,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/mR0sHllcXWrCaMCj1rpjZG2VuCL.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wMy5ta3Y="
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Kelly e Ruby estão em uma enrascada, Pablo vai dar uma volta a contragosto, e Ash se vê obrigado a improvisar.",
+            "duracao": 28,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/4pvZQhr2xtOVNKdWjCh2kUQTkDZ.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wNC5ta3Y="
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Ash vai parar na delegacia depois que policiais encontram uma terrível cena de crime. Enquanto está detido, Ash recebe um telefonema misterioso.",
+            "duracao": 28,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/63QLZmCi6lZvfQt2aHVxEmd5cY1.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wNS5ta3Y="
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "Ash e os comparsas estão encurralados na casa de Brock. Ruby dá tudo de si para invocar um feitiço.",
+            "duracao": 29,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/7yt9EEqzJJNv6iowgiQr9KRA1Ya.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wNi5ta3Y="
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "Ao acordar, Ash descobre que tudo o que ele vivenciou está sendo questionado por um médico estranho.",
+            "duracao": 29,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/2HZpiFAK1yznmVkINm6oOtZiyU4.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wNy5ta3Y="
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "Para socorrer Ash, Ruby, Pablo e Kelly invadem um manicômio abandonado e dão de cara com o xerife Emery e um inimigo que mete medo.",
+            "duracao": 28,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/9BIO2tsdrV5JJBOOpzncxvyXDvm.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wOC5ta3Y="
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "Ao tentar recolocar tudo nos eixos, Ash provoca consequências inesperadas. Ruby e Kelly se metem em uma enrascada na mata.",
+            "duracao": 28,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/uPgVizNFm4VJoo9fl2cHot5Who2.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wOS5ta3Y="
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "Novos eventos causam mudanças profundas no presente. Ash desafia o demônio Baal em um duelo definitivo.",
+            "duracao": 33,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/vzFox17tszap1dvxYAujZmqGjk.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0xMC5ta3Y="
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Ash volta para enfrentar os mortos-vivos em Elk Grove, onde é obrigado a formar uma aliança desconfortável com um antigo inimigo.",
+        "poster": "https://image.tmdb.org/t/p/original/4iOPAUG9vZGAkj6OetZpTUT5jj8.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Ash, Pablo e Kelly recebem um recado de Ruby e vão a Elk Grove, Michigan, um lugar cheio de surpresas.",
+            "duracao": 34,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/vREjbRFJf5qx3bUKb9uewi377nm.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wMS5ta3Y="
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Pablo recebe uma pista surpreendente de Ruby sobre o Necronomicon. Ash descobre que ele e o pai têm algo em comum.",
+            "duracao": 27,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/2xnQLwOESCutqyPcQ19Bcl3uW0i.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wMi5ta3Y="
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "Depois que adolescentes baderneiros roubam o Delta, Ash e Chet tramam um plano para recuperar o carro e o Necronomicon de uma vez por todas.",
+            "duracao": 30,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/mR0sHllcXWrCaMCj1rpjZG2VuCL.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wMy5ta3Y="
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Kelly e Ruby estão em uma enrascada, Pablo vai dar uma volta a contragosto, e Ash se vê obrigado a improvisar.",
+            "duracao": 28,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/4pvZQhr2xtOVNKdWjCh2kUQTkDZ.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wNC5ta3Y="
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Ash vai parar na delegacia depois que policiais encontram uma terrível cena de crime. Enquanto está detido, Ash recebe um telefonema misterioso.",
+            "duracao": 28,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/63QLZmCi6lZvfQt2aHVxEmd5cY1.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wNS5ta3Y="
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "Ash e os comparsas estão encurralados na casa de Brock. Ruby dá tudo de si para invocar um feitiço.",
+            "duracao": 29,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/7yt9EEqzJJNv6iowgiQr9KRA1Ya.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wNi5ta3Y="
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "Ao acordar, Ash descobre que tudo o que ele vivenciou está sendo questionado por um médico estranho.",
+            "duracao": 29,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/2HZpiFAK1yznmVkINm6oOtZiyU4.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wNy5ta3Y="
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "Para socorrer Ash, Ruby, Pablo e Kelly invadem um manicômio abandonado e dão de cara com o xerife Emery e um inimigo que mete medo.",
+            "duracao": 28,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/9BIO2tsdrV5JJBOOpzncxvyXDvm.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wOC5ta3Y="
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "Ao tentar recolocar tudo nos eixos, Ash provoca consequências inesperadas. Ruby e Kelly se metem em uma enrascada na mata.",
+            "duracao": 28,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/uPgVizNFm4VJoo9fl2cHot5Who2.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0wOS5ta3Y="
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "Novos eventos causam mudanças profundas no presente. Ash desafia o demônio Baal em um duelo definitivo.",
+            "duracao": 33,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/vzFox17tszap1dvxYAujZmqGjk.jpg",
+            "url": "aHR0cHM6Ly9pYTgwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS82MjI2NC0wMy0xMC5ta3Y="
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "Ele é um defensor dos vivos, um erradicador dos mortos e um pai que está prestes a conhecer a filha que nunca soube que tinha.",
+        "poster": "https://image.tmdb.org/t/p/original/rPd9jXbgtmq8P4ZMQin2Hcok4nK.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Família",
+            "sinopse": "Enquanto Ash se prepara para a inauguração de sua loja de ferragens/empório de sexo, uma velha paixão aparece com notícias chocantes sobre o passado de ambos.",
+            "duracao": 28,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/oNV1srvQs4MO9CSwJkYcVgVDhNo.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Estande de Três",
+            "sinopse": "O bebê profano de Ruby quer nascer. Ash, também conhecido como “pai legal”, se esforça para se relacionar com Brandy. O novo amigo de Kelly se dá mal com Pablo.",
+            "duracao": 29,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/zZtRskxwOeNF50C84o0eQHb6o16.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Aparentemente Morto",
+            "sinopse": "Uma velha paixão se reaproxima de Ash, mas ele não está exatamente a fim. Dalton, Pablo e Kelly fazem uma viagem. Brandy oferece uma saída a seu pai.",
+            "duracao": 29,
+            "diretor": "Andres Meza-Valdes",
+            "thumb": "https://image.tmdb.org/t/p/original/wrGvPDO1VHWhVyk3o72awYYE0PN.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Assuntos Incompletos",
+            "sinopse": "Enquanto um visitante inesperado faz Ash se lembrar do passado, Kelly e Brandy dão de cara com um velho amigo que não é bem ele mesmo.",
+            "duracao": 28,
+            "diretor": "Daniel Nettheim",
+            "thumb": "https://image.tmdb.org/t/p/original/j0o40WDJHGU8oHHHApooqMAHezA.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Prova do Bebê",
+            "sinopse": "Ash enfrenta uma criança problemática com complexo de pai. Kelly tem que cuidar de uma ferida desagradável enquanto tenta persuadir Pablo a deixar que ela o salve.",
+            "duracao": 28,
+            "diretor": "Daniel Nettheim",
+            "thumb": "https://image.tmdb.org/t/p/original/7x9Ahrf2jbSzj0QYglzgw65VzBZ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Contos da Fenda",
+            "sinopse": "Kelly faz uma visita a Ruby, com armas em punho. Ash e Brandy fazem o possível para se esconder, mas os Cavaleiros da Suméria têm outras ideias.",
+            "duracao": 28,
+            "diretor": "Regan Hall",
+            "thumb": "https://image.tmdb.org/t/p/original/asjkTLAxZCop9mMycTC6CItTXKF.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Agitamos e Gritamos",
+            "sinopse": "Brandy revela seu plano de batalha, mas Ash não está muito interessado na estratégia. Ruby dá as boas-vindas a seu “bebê”, e Pablo tem uma visão.",
+            "duracao": 27,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/tYgWWBMLF8pHOkAMi5cLD8DfURG.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Desmontando-se",
+            "sinopse": "A polícia amplia suas buscas por Ash. Pablo apresenta um plano perigoso. Brandy encontra um rosto familiar em território desconhecido.",
+            "duracao": 28,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/pRkPDhK7FZ6ebYsPzaO71KDAyfi.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Dia do Julgamento",
+            "sinopse": "Enquanto Ruby e Kelly se esforçam para ferir Zoe, Pablo fala sobre a estratégia final com Ash e Brandy.",
+            "duracao": 29,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/620EJmWoYYU3FsKLykkwJvzHK2s.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "A Coragem do Homem",
+            "sinopse": "Enquanto Elk Grove e o mundo vivem o caos, Ash tenta provar sua coragem lutando contra um gigantesco demônio kandariano.",
+            "duracao": 30,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/mkyZYgWiMWtoWCPrdeSuhkqC19G.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "Ele é um defensor dos vivos, um erradicador dos mortos e um pai que está prestes a conhecer a filha que nunca soube que tinha.",
+        "poster": "https://image.tmdb.org/t/p/original/rPd9jXbgtmq8P4ZMQin2Hcok4nK.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Família",
+            "sinopse": "Enquanto Ash se prepara para a inauguração de sua loja de ferragens/empório de sexo, uma velha paixão aparece com notícias chocantes sobre o passado de ambos.",
+            "duracao": 28,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/oNV1srvQs4MO9CSwJkYcVgVDhNo.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Estande de Três",
+            "sinopse": "O bebê profano de Ruby quer nascer. Ash, também conhecido como “pai legal”, se esforça para se relacionar com Brandy. O novo amigo de Kelly se dá mal com Pablo.",
+            "duracao": 29,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/zZtRskxwOeNF50C84o0eQHb6o16.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Aparentemente Morto",
+            "sinopse": "Uma velha paixão se reaproxima de Ash, mas ele não está exatamente a fim. Dalton, Pablo e Kelly fazem uma viagem. Brandy oferece uma saída a seu pai.",
+            "duracao": 29,
+            "diretor": "Andres Meza-Valdes",
+            "thumb": "https://image.tmdb.org/t/p/original/wrGvPDO1VHWhVyk3o72awYYE0PN.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Assuntos Incompletos",
+            "sinopse": "Enquanto um visitante inesperado faz Ash se lembrar do passado, Kelly e Brandy dão de cara com um velho amigo que não é bem ele mesmo.",
+            "duracao": 28,
+            "diretor": "Daniel Nettheim",
+            "thumb": "https://image.tmdb.org/t/p/original/j0o40WDJHGU8oHHHApooqMAHezA.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Prova do Bebê",
+            "sinopse": "Ash enfrenta uma criança problemática com complexo de pai. Kelly tem que cuidar de uma ferida desagradável enquanto tenta persuadir Pablo a deixar que ela o salve.",
+            "duracao": 28,
+            "diretor": "Daniel Nettheim",
+            "thumb": "https://image.tmdb.org/t/p/original/7x9Ahrf2jbSzj0QYglzgw65VzBZ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Contos da Fenda",
+            "sinopse": "Kelly faz uma visita a Ruby, com armas em punho. Ash e Brandy fazem o possível para se esconder, mas os Cavaleiros da Suméria têm outras ideias.",
+            "duracao": 28,
+            "diretor": "Regan Hall",
+            "thumb": "https://image.tmdb.org/t/p/original/asjkTLAxZCop9mMycTC6CItTXKF.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Agitamos e Gritamos",
+            "sinopse": "Brandy revela seu plano de batalha, mas Ash não está muito interessado na estratégia. Ruby dá as boas-vindas a seu “bebê”, e Pablo tem uma visão.",
+            "duracao": 27,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/tYgWWBMLF8pHOkAMi5cLD8DfURG.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Desmontando-se",
+            "sinopse": "A polícia amplia suas buscas por Ash. Pablo apresenta um plano perigoso. Brandy encontra um rosto familiar em território desconhecido.",
+            "duracao": 28,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/pRkPDhK7FZ6ebYsPzaO71KDAyfi.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Dia do Julgamento",
+            "sinopse": "Enquanto Ruby e Kelly se esforçam para ferir Zoe, Pablo fala sobre a estratégia final com Ash e Brandy.",
+            "duracao": 29,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/620EJmWoYYU3FsKLykkwJvzHK2s.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "A Coragem do Homem",
+            "sinopse": "Enquanto Elk Grove e o mundo vivem o caos, Ash tenta provar sua coragem lutando contra um gigantesco demônio kandariano.",
+            "duracao": 30,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/mkyZYgWiMWtoWCPrdeSuhkqC19G.jpg",
+            "url": ""
+          }
+        ]
+      }
+    ]
   }
 ]
