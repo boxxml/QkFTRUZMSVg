@@ -2275,5 +2275,21 @@
     "album_fanart": "https://cdn-academy.akamaized.net/sscdn/tb/326x326/palcomp3-discografia/2/a/d/2/37337d1985fc4b4cbff17d08e1fccc94.jpg",
     "artist_thumb": "https://cdn-academy.akamaized.net/sscdn/tb/326x326/palcomp3-discografia/2/a/d/2/37337d1985fc4b4cbff17d08e1fccc94.jpg",
     "artist_fanart": "https://cdn-academy.akamaized.net/sscdn/tb/326x326/palcomp3-discografia/2/a/d/2/37337d1985fc4b4cbff17d08e1fccc94.jpg"
+  },
+    {
+    "name": "ESSA MORENA DA PANE NO MEU SISTEMA",
+    "artist": "Grego",
+    "album": "Pane no Sistema",
+    "url": "https://www.youtube.com/watch?v=1mld9yw7Wqc",
+    "genre": "Love Funk",
+    "track": "1",
+    "year": "2023",
+    "studio": "",
+    "thumb": "https://i.ytimg.com/vi/1mld9yw7Wqc/maxresdefault.jpg",
+    "album_plot": "",
+    "type": "video",
+    "album_fanart": "https://i.ytimg.com/vi/1mld9yw7Wqc/maxresdefault.jpg",
+    "artist_thumb": "https://i.ytimg.com/vi/1mld9yw7Wqc/maxresdefault.jpg",
+    "artist_fanart": "https://i.ytimg.com/vi/1mld9yw7Wqc/maxresdefault.jpg"
   }
 ]
