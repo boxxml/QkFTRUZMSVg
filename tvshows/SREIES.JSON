@@ -5031,5 +5031,268 @@
         ]
       }
     ]
+  },
+  {
+    "id": "208397-espiritos-na-escola",
+    "titulo": "Espíritos na Escola",
+    "sinopse": "Uma adolescente presa na vida após a morte decide investigar seu desaparecimento com um grupo de outros alunos que também estão presos no limbo em sua escola.",
+    "ano": 2023,
+    "nota": 7.8,
+    "classificacao": "16",
+    "estudio": "Paramount+",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=G4AWWN-93YQ",
+    "generos": [
+      "Mistério e Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/jkcgvKEKF0q2l72uHNhrhbx9DbP.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/A6biiToqBbtL2uDxJDYqCjDOSU2.jpg",
+    "banner": "",
+    "elenco": [
+      "Peyton List",
+      "Milo Manheim",
+      "Kristian Ventura",
+      "Spencer MacPherson",
+      "Kiara Pichardo",
+      "Sarah Yarkin"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/tyauPRW2W7oSB0TrwWOsX5RD8Fa.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Minha Pseudomorte",
+            "sinopse": "Enquanto se acostuma ao purgatório em Split River High, Maddie está determinada a solucionar o mistério de seu desaparecimento.",
+            "duracao": 45,
+            "diretor": "Max Winkler",
+            "thumb": "https://image.tmdb.org/t/p/original/mWrcvysgwLKzF1B53AZcoErlx9k.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAxLTAxLm1rdg=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Cicatrizes Antigas",
+            "sinopse": "À medida que se aproxima dos espíritos do pós-vida, Maddie começa a desvendar os eventos que cercam sua morte, e descobre que há outro suspeito além de Xavier.",
+            "duracao": 49,
+            "diretor": "Max Winkler",
+            "thumb": "https://image.tmdb.org/t/p/original/nw2Vr7peqdkYCsRYotunZtnLfbg.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAxLTAyLm1rdg=="
+          },
+          {
+            "numero": 3,
+            "titulo": "Morta e Confusa",
+            "sinopse": "Com um suspeito inesperado possivelmente envolvido em sua morte, Maddie é forçada a revelar mais sobre a relação entre eles, o que traz consequências inesperadas.",
+            "duracao": 46,
+            "diretor": "Oran Zegman",
+            "thumb": "https://image.tmdb.org/t/p/original/pMfry31QeZpQmkGlst2v3oDxO9r.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAxLTAzLm1rdg=="
+          },
+          {
+            "numero": 4,
+            "titulo": "Intenções Mórbidas",
+            "sinopse": "A busca de Maddie por seu assassino coloca Simon em perigo, o que a força a percorrer sozinha o assustador submundo espectral da escola.",
+            "duracao": 46,
+            "diretor": "Oran Zegman",
+            "thumb": "https://image.tmdb.org/t/p/original/fOaQ0kWG2Oi0jCOJ2pEsZEr26T6.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAxLTA0Lm1rdg=="
+          },
+          {
+            "numero": 5,
+            "titulo": "O Passado Entra em Campo",
+            "sinopse": "Durante a semana de eventos em Split River, Maddie está dividida entre aceitar seu destino no purgatório e participar de um plano para investigar um novo suspeito.",
+            "duracao": 44,
+            "diretor": "Brian Dannelly",
+            "thumb": "https://image.tmdb.org/t/p/original/b6QjIHr7hrPFeAGXWSGQSS61Xno.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAxLTA2Lm1rdg=="
+          },
+          {
+            "numero": 6,
+            "titulo": "Os Fantasmas se Divertem no Baile",
+            "sinopse": "No baile de Split River High, a operação \"Encontrar o Assassino de Maddie\" entra em ação, trazendo revelações surpreendentes.",
+            "duracao": 44,
+            "diretor": "Brian Dannelly",
+            "thumb": "https://image.tmdb.org/t/p/original/lMNVaqchqyA6Us4P9uxVOXyysyD.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAxLTA2Lm1rdg=="
+          },
+          {
+            "numero": 7,
+            "titulo": "A Última Sessão Mediúnica",
+            "sinopse": "Na esperança de relembrar seus últimos momentos de vida, Maddie e seus amigos espíritos realizam uma sessão mediúnica, o que traz à tona uma nova e chocante teoria.",
+            "duracao": 47,
+            "diretor": "Hannah Macpherson",
+            "thumb": "https://image.tmdb.org/t/p/original/pvXOJU3JSR5rUt6dqhChwFrDyPY.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAxLTA3Lm1rdg=="
+          },
+          {
+            "numero": 8,
+            "titulo": "O Corpo de Madison",
+            "sinopse": "Maddie finalmente junta as peças do quebra-cabeça de seu desaparecimento, que tem consequências graves tanto no mundo espiritual quanto no mundo dos vivos.",
+            "duracao": 52,
+            "diretor": "Hannah Macpherson",
+            "thumb": "https://image.tmdb.org/t/p/original/x5kXQNUCNiO9vw5tsUl1ddomYFt.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAxLTA4Lm1rdg=="
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/f19lrpzStW9WucZeWByAeFDTR0u.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "O Que Terá Acontecido a Maddie Nears?",
+            "sinopse": "Maddie confronta o sr. Martin, que foge. Janet, no corpo de Maddie, retorna à fazenda abandonada de sua família, desencadeando memórias. Em conflito, Simon se divide entre seu desejo de ajudar Maddie e o de proteger sua sanidade.",
+            "duracao": 50,
+            "diretor": "Hannah Macpherson",
+            "thumb": "https://image.tmdb.org/t/p/original/lxeo9bCfqPlgLXeiuMAuEXP9kac.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAyLTAxLm1rdg=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Campo dos Gritos",
+            "sinopse": "Fugindo, Janet é assombrada por seu passado enquanto o grupo de fantasmas continua à procura de sr. Martin dentro do colégio Split River. Simon conta aos jovens vivos que Janet sequestrou o corpo de Maddie.",
+            "duracao": 54,
+            "diretor": "Hannah Macpherson",
+            "thumb": "https://image.tmdb.org/t/p/original/bFacD1qr9GYDAofGFciyDY8No9S.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAyLTAyLm1rdg=="
+          },
+          {
+            "numero": 3,
+            "titulo": "Mal Posso Assombrar",
+            "sinopse": "Implacável, Sandra está desesperada para saber o que aconteceu com sua filha. Enquanto isso, no corpo de Maddie, Janet causa estragos no mundo dos vivos. Simon e seus amigos procuram por Janet/Maddie em um lugar improvável.",
+            "duracao": 47,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/pQNQ6i4ng4j7CABBqmW4W90Tszu.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAyLTAzLm1rdg=="
+          },
+          {
+            "numero": 4,
+            "titulo": "Uma Troca de Corpos Para Recordar",
+            "sinopse": "Janet/Maddie retorna para casa, deixando Sandra chocada e aliviada. Os fantasmas descobrem que os objetos que seguravam no momento de suas mortes abrem portais secretos. Um evento escolar obrigatório expõe a tensão entre os jovens vivos.",
+            "duracao": 50,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/jVFXDUpE5i0VTRVYhbcBAMyCpcn.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAyLTA0Lm1rdg=="
+          },
+          {
+            "numero": 5,
+            "titulo": "Adivinhe Quem Vem Para Assombrar",
+            "sinopse": "Janet/Maddie concorda em receber os amigos de Maddie para jantar. Ao final, Janet percebe que seu disfarce foi descoberto. Enquanto isso, Maddie explora as \"cicatrizes\" da escola e descobre informações sobre Janet que abalam sua determinação.",
+            "duracao": 52,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/fWnmF0rRZjFGnRYC68PHTfkzb1k.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAyLTA1Lm1rdg=="
+          },
+          {
+            "numero": 6,
+            "titulo": "Assombração em Conflito",
+            "sinopse": "Maddie e os fantasmas encontram uma ligação entre suas cicatrizes, enquanto a equipe de Simon leva Janet/Maddie para uma cabana remota. As tensões aumentam, e uma visita inesperada chega à procura de Janet.",
+            "duracao": 52,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/prDXv8yLA7viEii1BYfU0bOUH1j.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAyLTA2Lm1rdg=="
+          },
+          {
+            "numero": 7,
+            "titulo": "Anatomia de um Abrigo Nuclear",
+            "sinopse": "Após recorrer à violência para escapar do sr. Martin, Janet exige que Simon a leve de volta à escola. Ela fala aos fantasmas sobre seu trabalho com o sr. Martin, que está usando o corpo do sr. Anderson para aterrorizar os alunos vivos.",
+            "duracao": 51,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/AeDFueaxGdMShA90Vl86pmx2t9v.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAyLTA3Lm1rdg=="
+          },
+          {
+            "numero": 8,
+            "titulo": "Fogo, Fale Comigo",
+            "sinopse": "Maddie e os fantasmas confrontam o sr. Martin, que acaba preso na vida após a morte. Novas informações levam a uma busca pelas cicatrizes da escola, atrasando o retorno de Maddie ao mundo dos vivos e colocando seu corpo em risco.",
+            "duracao": 50,
+            "diretor": "Hannah Macpherson",
+            "thumb": "https://image.tmdb.org/t/p/original/cp7n6yhxdfdCfqFmd6zp5teQqTp.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAyLTA4Lm1rdg=="
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/1iSCU5aoiTjSIT5WG47M6Mbzwu2.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "É uma Maravilhosa Vida Após a Morte",
+            "sinopse": "O retorno de Maddie vira Split River de cabeça para baixo. Simon fica preso do outro lado, enquanto os fantasmas buscam respostas e novos segredos sombrios sobre a escola vêm à tona. Estreia da temporada.",
+            "duracao": 56,
+            "diretor": "Hannah Macpherson",
+            "thumb": "https://image.tmdb.org/t/p/original/hHBCG9WZFSV0cU10iTyLbONeU8Y.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAzLTAxLm1rdg=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Fantasmas Malvados",
+            "sinopse": "Split River High se torna cada vez mais instável à medida que Maddie enfrenta uma pressão crescente. Verdades enterradas e novos perigos vêm à tona e podem mudar tudo para vivos e mortos, forçando alguns a questionar em quem realmente podem confiar.",
+            "duracao": 52,
+            "diretor": "Hannah Macpherson",
+            "thumb": "https://image.tmdb.org/t/p/original/nTWGNHda42ZtDdf439CiAkbxMQC.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAzLTAyLm1rdg=="
+          },
+          {
+            "numero": 3,
+            "titulo": "Olhos nos Corredores",
+            "sinopse": "Novos mistérios em Split River obrigam Maddie, Simon e os fantasmas a escolher entre deixar o passado em paz ou explorá-lo e despertar perigos invisíveis. Simon e Wally dão um salto arriscado em busca de respostas.",
+            "duracao": 55,
+            "diretor": "Brian Dannelly",
+            "thumb": "https://image.tmdb.org/t/p/original/qPl8zQsoPm7SAIy85GHIqQNI0bb.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAzLTAzLm1rdg=="
+          },
+          {
+            "numero": 4,
+            "titulo": "O Clube dos Desamparados",
+            "sinopse": "Um dia de detenção dá início a uma jornada pelo passado secreto da escola. Verdades ocultas vêm à tona, forças sombrias se agitam e Quinn passa por uma transformação poderosa. Maddie e seus amigos descobrem pistas que conectam vivos e mortos.",
+            "duracao": 55,
+            "diretor": "Brian Dannelly",
+            "thumb": "https://image.tmdb.org/t/p/original/jRH3Uii8WjThtB8zsuGngW7AAxb.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAzLTA0Lm1rdg=="
+          },
+          {
+            "numero": 5,
+            "titulo": "Em Busca da Cicatriz Perdida",
+            "sinopse": "A escuridão se espalha por Split River à medida que as visões de Maddie se intensificam e novas verdades vêm à tona. Cada descoberta aprofunda o perigo, deixando o destino de Simon por um fio.",
+            "duracao": 53,
+            "diretor": "Oliver Goldstick",
+            "thumb": "https://image.tmdb.org/t/p/original/c1MM45GOtk0zfwwIOf6lrvSOuWF.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAzLTA1Lm1rdg=="
+          },
+          {
+            "numero": 6,
+            "titulo": "Filhos do Desprezo",
+            "sinopse": "Enquanto a escuridão se espalha por Split River, o destino de Simon se torna cada vez mais perigoso. Maddie enfrenta um adversário poderoso cujos segredos podem ser a única chave para salvá-lo.",
+            "duracao": 57,
+            "diretor": "Nate Trinrud",
+            "thumb": "https://image.tmdb.org/t/p/original/2LcW4NQm1FC8JDEzvSFYeH3gkD0.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAzLTA2Lm1rdg=="
+          },
+          {
+            "numero": 7,
+            "titulo": "Meio do Semestre",
+            "sinopse": "Após um acontecimento chocante, Maddie e Xavier se tornam alvo de suspeitas. Enquanto os vivos investigam um esquema corrupto, os fantasmas vasculham as próprias cicatrizes em busca de pistas, alguém dá um grande salto que pode mudar tudo.",
+            "duracao": 52,
+            "diretor": "Hannah Macpherson",
+            "thumb": "https://image.tmdb.org/t/p/original/lmgKBdbNsl3SBqgs5UaPv8BamUw.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAzLTA3Lm1rdg=="
+          },
+          {
+            "numero": 8,
+            "titulo": "O Despertar da Debutante",
+            "sinopse": "Simon se afunda cada vez mais no perigo, enquanto seus amigos correm contra o tempo para salvá-lo. Aliados vivos e fantasmas se unem contra um adversário misterioso, arriscando tudo para proteger seu mundo e uns aos outros. Final de temporada.",
+            "duracao": 57,
+            "diretor": "Hannah Macpherson",
+            "thumb": "https://image.tmdb.org/t/p/original/w6Iak7OKi87TmeY45FMAyqWW2d7.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8vMjA4Mzk3LTAzLTA4Lm1rdg=="
+          }
+        ]
+      }
+    ]
   }
 ]
