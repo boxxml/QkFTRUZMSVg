@@ -5405,5 +5405,191 @@
         "episodios": []
       }
     ]
+  },
+  {
+    "id": "15655-a-nova-super-maquina",
+    "titulo": "A Nova Super Máquina",
+    "sinopse": "\"A Nova Super Máquina\" é uma versão moderna do clássico dos anos 1980 chamada “A Super Máquina”. Este seriado mostra o filho de Michael Knight, que utilizando o K.I.T.T., o carro mais descolado de todos os tempos, luta contra o crime. A clássica série de velocidade e ação está de volta com mais adrenalina do que nunca. Embarque nas novas aventuras a bordo de um K.I.T.T. modernizado e aperte os cintos nessa corrida contra o crime.",
+    "ano": 2008,
+    "nota": 7.5,
+    "classificacao": "12",
+    "estudio": "NBC",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=aLWoXE_py8Y",
+    "generos": [
+      "Drama e Action & Adventure e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/oV8C2rFIiQCU0dEE4NbB80czIgk.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/vh2ZS4Aome8klUyJH5whPnZbSZe.jpg",
+    "banner": "",
+    "elenco": [
+      "Justin Bruening",
+      "Deanna Russo",
+      "Bruce Davison",
+      "Sydney Tamiia Poitier",
+      "Yancey Arias",
+      "Paul Campbell"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Nesta reinvenção do \"hit cult\" dos anos 80, o filho de Michael Knight, Mike Traceur, é recrutado para proteger a KITT - um super computador inteligente disfarçado como um elegante Ford Mustang.",
+        "poster": "https://image.tmdb.org/t/p/original/4Bp75GGHqdyBrj2Ft7i2reb0Hif.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Cavaleiro Encantado",
+            "sinopse": "A missão de Mike e KITT parece uma simples entrega. Mas, tudo se complica quando uma mulher do passado de Mike sequestra um homem que carrega em seu DNA a chave para um código cobiçado.",
+            "duracao": 43,
+            "diretor": "David Solomon",
+            "thumb": "https://image.tmdb.org/t/p/original/ob4FHSCWwkzrHAkKSECFaH719Ms.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0wMS5ta3Y="
+          },
+          {
+            "numero": 2,
+            "titulo": "Jornada até o Fim da Noite",
+            "sinopse": "Mike busca a ajuda de um antigo companheiro do exército para desarticular uma gangue de pilotos envolvida com tráfico internacional de armas. Apesar da reprovação do pai, Sarah se junta a Mike e KITT na missão.",
+            "duracao": 44,
+            "diretor": "David Straiton",
+            "thumb": "https://image.tmdb.org/t/p/original/vTFET8Ol9uN9CeOOLyDA4ZEPeff.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0wMi5ta3Y="
+          },
+          {
+            "numero": 3,
+            "titulo": "Noite da Iguana",
+            "sinopse": "Mike e Zoe fingem ser um casal em lua de mel no México para impedir que armas de terroristas entrem nos Estados Unidos. Sarah e Billy se juntam à equipe e a missão tem desdobramentos inesperados.",
+            "duracao": 43,
+            "diretor": "Bryan Spicer",
+            "thumb": "https://image.tmdb.org/t/p/original/1uwYyGfu0s5ExghQ2476shtjjR9.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0wMy5ta3Y="
+          },
+          {
+            "numero": 4,
+            "titulo": "Trabalhando Duro",
+            "sinopse": "Mike e KITT precisam correr a uma velocidade acima de 100 km por hora para evitar que uma bomba exploda. Enquanto isso, a SSC trabalha para desarmar a bomba e encontrar o criminoso e seu refém. Enquanto isso, uma mulher do passado de Mike retorna.",
+            "duracao": 43,
+            "diretor": "Allan Kroeker",
+            "thumb": "https://image.tmdb.org/t/p/original/gpBW5ihlPBpq2IYUwi8oV5fppkz.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0wNC5ta3Y="
+          },
+          {
+            "numero": 5,
+            "titulo": "A Noite da Caça",
+            "sinopse": "Mike precisa impedir que um ex-oficial do Exército destrua uma barreira, e, para isso, conta com a ajuda de uma nova amiga. Billy aprende a tomar conta de si mesmo.",
+            "duracao": 44,
+            "diretor": "Jay Chandrasekhar",
+            "thumb": "https://image.tmdb.org/t/p/original/5XXExW2q88K926gYlDeJvjI8EF9.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0wNS5ta3Y="
+          },
+          {
+            "numero": 6,
+            "titulo": "A Noite dos Mortos Vivos",
+            "sinopse": "No dia de Halloween, um técnico é assassinado nas instalações das indústrias Knight; enquanto Mike e Sarah estão presos em um voo por causa de uma tempestade, eles tentam evitar que KITT se autodestrua.",
+            "duracao": 43,
+            "diretor": "Leslie Libman",
+            "thumb": "https://image.tmdb.org/t/p/original/w8lMVUmFbmksbz7gv8y3A8nOYvJ.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0wNi5ta3Y="
+          },
+          {
+            "numero": 7,
+            "titulo": "Rock & Roll a Noite Toda",
+            "sinopse": "A Indústrias Knight está atrás de um casal de criminosos que ameaça revelar seus segredos e descobre que os dois estão ligados à disputa para o Congresso Nacional. Enquanto tudo se complica, Mike e KITT precisam salvar a agente Rivai.",
+            "duracao": 43,
+            "diretor": "Matt Earl Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/msGEGbgFMZ7OAzBMOFmtD1YHdMM.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0wNy5ta3Y="
+          },
+          {
+            "numero": 8,
+            "titulo": "A Noite do Zodíaco",
+            "sinopse": "A equipe tenta desbancar uma operação de lavagem de dinheiro em Las Vegas. Billy junta-se à missão e descobre que está sendo deixado para trás em outras investigações; Dr. Graiman reencontra uma antiga paixão.",
+            "duracao": 44,
+            "diretor": "J. Miller Tobin",
+            "thumb": "https://image.tmdb.org/t/p/original/aEFmhYrLWELWMZOos9CFQX08vU0.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0wOC5ta3Y="
+          },
+          {
+            "numero": 9,
+            "titulo": "Febre Noturna",
+            "sinopse": "Kitt é vítima de um vírus de computador que ameaça causar confusão em escala global. O ciúme de Mike aumenta quando Sarah volta a ter contato com um amor do passado.",
+            "duracao": 43,
+            "diretor": "Milan Cheylov",
+            "thumb": "https://image.tmdb.org/t/p/original/vohEk2jC2qWrZuA3PM5bt1foJYr.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0wOS5ta3Y="
+          },
+          {
+            "numero": 10,
+            "titulo": "A Noite Nunca Termina",
+            "sinopse": "Um grupo terrorista sequestra uma embaixadora estrangeira, e KITT e Michael são enviados ao resgate. Dr. Graiman e Sarah se juntam para consertar um robô danificado.",
+            "duracao": 42,
+            "diretor": "Bryan Spicer",
+            "thumb": "https://image.tmdb.org/t/p/original/wgC3TWEsX7rgXvg4vgUWkRS7RDa.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0xMC5ta3Y="
+          },
+          {
+            "numero": 11,
+            "titulo": "A Noite Vira Dia",
+            "sinopse": "Mike e KITT devem correr em uma velocidade acima de 100 km/h para evitar que uma bomba exploda. Enquanto isso, a SSC trabalha para desarmar a bomba e encontrar o criminoso e seu refém.",
+            "duracao": 44,
+            "diretor": "Allan Kroeker",
+            "thumb": "https://image.tmdb.org/t/p/original/oet69nWoVHjW9WbJ8YqkRDHDR46.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0xMS5ta3Y="
+          },
+          {
+            "numero": 12,
+            "titulo": "Cavalo Contra o Peão do Rei",
+            "sinopse": "Abalada com a morte do pai, Sarah decide sair da cidade. Mike parte em busca de Sarah e descobre respostas sobre seu próprio passado. Com Dr. Graiman morto, a NSA decide reativar KAAR, adversário de KITT.",
+            "duracao": 44,
+            "diretor": "Jeffrey G. Hunt",
+            "thumb": "https://image.tmdb.org/t/p/original/rQlo75KLHVUibspfhDTjhZihkcP.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0xMi5ta3Y="
+          },
+          {
+            "numero": 13,
+            "titulo": "Sem Saída",
+            "sinopse": "Mike tenta impedir um assalto a banco, mas torna-se refém; Mike não pode se comunicar com KITT e sua equipe, e tenta fazer com que outro refém o ajude a evitar a fuga dos assaltantes.",
+            "duracao": 44,
+            "diretor": "Gary Scott Thompson",
+            "thumb": "https://image.tmdb.org/t/p/original/EchQLIS9iU9gJqDZCSRwZtQapl.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0xMy5ta3Y="
+          },
+          {
+            "numero": 14,
+            "titulo": "Noite da Luta",
+            "sinopse": "Quando um velho amigo de Mike é morto, o piloto da Kitt e um de seus companheiros começam a investigar o que aconteceu. Eles descobrem que o falecido fazia parte de um clube de luta e Mike acaba entrando no clube para pegar pistas.",
+            "duracao": 43,
+            "diretor": "Nick Gomez",
+            "thumb": "https://image.tmdb.org/t/p/original/nT0FhPssESP4M4qazMVHSpteQsy.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0xNC5ta3Y="
+          },
+          {
+            "numero": 15,
+            "titulo": "Encenando um Acidente",
+            "sinopse": "Mike tenta ajudar a agente do departamento antidrogas americano Jessie Renning na aparente queda de um avião que transportava uma importante testemunha de apenas 10 anos de idade.",
+            "duracao": 43,
+            "diretor": "Jay Chandrasekhar",
+            "thumb": "https://image.tmdb.org/t/p/original/suKE5R3PrX7yQM6TbbdJjXSNOX7.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0xNS5ta3Y="
+          },
+          {
+            "numero": 16,
+            "titulo": "Cidade Noturna",
+            "sinopse": "Mike investiga a morte prematura de um velho amigo e descobre que seu bar agora é frequentado por delinquentes e a filha dele, Julie, está tomando conta do negócio.",
+            "duracao": 44,
+            "diretor": "Guy Norman Bee",
+            "thumb": "https://image.tmdb.org/t/p/original/fRnZ29iaejkfP3nDgSqzdecxb6m.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0xNi5ta3Y="
+          },
+          {
+            "numero": 17,
+            "titulo": "Eu Amo a Vida Noturna",
+            "sinopse": "Mike e KITT recebem a missão de tentar localizar um soro que foi roubado e que tem o poder de aumentar a força de quem o toma; Sarah se sente esgotada por causa de suas novas tarefas.",
+            "duracao": 43,
+            "diretor": "Alex Zakrzewski",
+            "thumb": "https://image.tmdb.org/t/p/original/bDL43GrV6iI0I4MQwiWmHyTcgZo.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8xNTY1NS0wMS0xNy5ta3Y="
+          }
+        ]
+      }
+    ]
   }
 ]
