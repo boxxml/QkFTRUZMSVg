@@ -5294,5 +5294,116 @@
         ]
       }
     ]
+  },
+  {
+    "id": "200875-it-bem-vindos-a-derry",
+    "titulo": "IT: Bem-Vindos a Derry",
+    "sinopse": "Durante as férias de 1962, em uma pacata cidadezinha chamada Derry, um grupo de sete amigos começa a ver coisas bizarras. Um conta que viu um palhaço, outro que viu uma múmia. Finalmente, acabam descobrindo que estavam todos vendo a mesma coisa: um ser sobrenatural e maligno que pode assumir várias formas. Ele mesmo. O Pennywise.",
+    "ano": 2025,
+    "nota": 8.2,
+    "classificacao": "18",
+    "estudio": "HBO",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=_t4_QgZoyn8",
+    "generos": [
+      "Drama e Mistério"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/gMTfrLvrDaD0zrhpLZ7zXIIpKfJ.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+    "banner": "",
+    "elenco": [
+      "Taylour Paige",
+      "Jovan Adepo",
+      "James Remar",
+      "Stephen Rider",
+      "Matilda Lawler",
+      "Amanda Christine"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/c107TVzzaKER1fJlgRne5TR85en.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "O Piloto",
+            "sinopse": "Enquanto quatro meninos desajustados buscam um colega desaparecido, o major Leroy Hanlon chega à base aérea de Derry.",
+            "duracao": 54,
+            "diretor": "Andy Muschietti",
+            "thumb": "https://image.tmdb.org/t/p/original/uwKrKvprzNW9ACtSB27MlzOpIHL.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8yMDA4NzUtMDEtMDEubWt2"
+          },
+          {
+            "numero": 2,
+            "titulo": "A Coisa na Escuridão",
+            "sinopse": "Enquanto Charlotte e Will se adaptam à nova vida em Derry, Ronnie se preocupa com o destino de seu pai.",
+            "duracao": 66,
+            "diretor": "Andy Muschietti",
+            "thumb": "https://image.tmdb.org/t/p/original/eYjrjLWIwD6qE148NKHKYcdHKjv.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8yMDA4NzUtMDEtMDIubWt2"
+          },
+          {
+            "numero": 3,
+            "titulo": "Agora Você O Vê",
+            "sinopse": "Enquanto Leroy, Pauly e Dick buscam um novo local de escavação, os meninos buscam provas visuais dos fenômenos que vêm enfrentando.",
+            "duracao": 59,
+            "diretor": "Andrew Bernstein",
+            "thumb": "https://image.tmdb.org/t/p/original/n4BGtiqwoFYd5ZX3UmdupeENcq.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8yMDA4NzUtMDEtMDMubWt2"
+          },
+          {
+            "numero": 4,
+            "titulo": "O Grande Aparato Giratório do Funcionamento do Nosso Planeta",
+            "sinopse": "Os meninos enfrentam experiências cada vez mais assustadoras, Charlotte tenta ajudar Hank, e o general Shaw intensifica seus esforços.",
+            "duracao": 63,
+            "diretor": "Andrew Bernstein",
+            "thumb": "https://image.tmdb.org/t/p/original/hBKG3nQJ8NzE9U0U5uKQfQD88XY.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8yMDA4NzUtMDEtMDQubWt2"
+          },
+          {
+            "numero": 5,
+            "titulo": "Rua Neibolt, 29",
+            "sinopse": "Enquanto os militares chegam à rua Neibolt, os meninos descem aos esgotos com uma missão própria.",
+            "duracao": 56,
+            "diretor": "Emmanuel Osei-Kuffour, Jr.",
+            "thumb": "https://image.tmdb.org/t/p/original/wDTjvS7dTnIko5JukSzgYSa3QQW.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8yMDA4NzUtMDEtMDUubWt2"
+          },
+          {
+            "numero": 6,
+            "titulo": "Em Nome do Pai",
+            "sinopse": "Assombrado por visões sombrias, Dick tem uma surpresa no Black Spot. Enquanto isso, os meninos enfrentam seus próprios desafios.",
+            "duracao": 57,
+            "diretor": "Jamie Travis",
+            "thumb": "https://image.tmdb.org/t/p/original/6phQvyEMeX84oeRznxnJWAM91dz.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8yMDA4NzUtMDEtMDYubWt2"
+          },
+          {
+            "numero": 7,
+            "titulo": "O Black Spot",
+            "sinopse": "Um ataque ao Black Spot libera forças adormecidas. Após a tragédia, Dick ajuda a descobrir mais um artefato crucial.",
+            "duracao": 62,
+            "diretor": "Andy Muschietti",
+            "thumb": "https://image.tmdb.org/t/p/original/zOAW0v0WLV7vv636Cx8VfSYSktu.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8yMDA4NzUtMDEtMDcubWt2"
+          },
+          {
+            "numero": 8,
+            "titulo": "Brasas no Inverno",
+            "sinopse": "Com Shaw avançando em sua missão, os Hanlon, Rose, Dick e os meninos percebem que cabe a eles salvar Derry.",
+            "duracao": 69,
+            "diretor": "Andy Muschietti",
+            "thumb": "https://image.tmdb.org/t/p/original/8gqmWZUs4GAH1QfqR2u3aXxX5Q2.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMDUwNi51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL3Qtdi1zLWgtby13LXMwMS8yMDA4NzUtMDEtMDgubWt2"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "",
+        "poster": "",
+        "episodios": []
+      }
+    ]
   }
 ]
