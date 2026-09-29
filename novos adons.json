@@ -1,18 +1,5 @@
 [
   {
-    "name": "[B]Repositorio: [COLOR aquamarine]ONE[/COLOR]PLAY[/B]",
-    "description": "[COLOR aquamarine]ONE[/COLOR]REPO é um agregador de addons. Assim como o Google.com, o OnePlay atua exclusivamente como um indexador e organizador de links de conteúdos disponibilizados publicamente na internet.",
-    "version": "1.16",
-    "icon": "https://github.com/oneplayhd/oneplayhd.github.io/blob/master/One.repo/fanart.jpg?raw=true",
-    "fanart": "https://github.com/oneplayhd/oneplayhd.github.io/blob/master/One.repo/fanart.jpg?raw=true",
-    "url": {
-      "universal": "https://github.com/oneplayhd/oneplayhd.github.io/raw/refs/heads/master/One.repo/One.repo-1.16.zip",
-      "android_arm64": "https://github.com/oneplayhd/oneplayhd.github.io/raw/refs/heads/master/One.repo/One.repo-1.16.zip"
-    },
-    "dependencies": []
-  },
-  [
-  {
     "name": "FLIXBOX",
     "description": "O Flixbox é uma versão do kodi modificado pré-configurado com recursos único",
     "version": "1.6",
