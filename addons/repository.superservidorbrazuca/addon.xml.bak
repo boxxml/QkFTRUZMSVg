@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.superservidorbrazuca" name="[B][COLOR green]**** Super Servido[/COLOR][COLOR yellow]r Brasileiro ****[/COLOR][/B]" version="1.2.4" provider-name="CachorroCaramelo">
+	<extension point="xbmc.addon.repository" name="Super Servidor Brasileiro">
+	<dir>
+		<info compressed="false">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons_matrix.xml</info>
+		<checksum>https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons_matrix.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+		<info compressed="false">https://github.com/OnePlayHD/OneRepo/raw/master/matrix/addons.xml</info>
+		<checksum>https://github.com/OnePlayHD/OneRepo/raw/master/matrix/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/OnePlayHD/OneRepo/raw/master/matrix</datadir>
+	</dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/kodishmediacenter/correcao-repo/main/vk-fix</info>
+		<checksum>https://raw.githubusercontent.com/kodishmediacenter/correcao-repo/main/vk-md5</checksum>
+		<datadir zip="true">https://github.com/vikingskoditeam/vikingskoditeam.github.io/raw/master/matrix</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+		<info compressed="false">http://kodishteam.space/repositorio/addon.xml</info>
+		<checksum>http://kodishteam.space/repositorio/addons.xml.md5</checksum>
+		<datadir zip="true">http://kodishteam.space/repositorio/addons/</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+        <info compressed="false">https://raw.githubusercontent.com/lokimaximus/7PlusREPO/master/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/lokimaximus/7PlusREPO/master/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/lokimaximus/7PlusREPO/master/zips/</datadir>
+    </dir>
+	<dir>
+	    <info compressed="false">https://raw.githubusercontent.com/Masterwine/Luar/master/repor/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Masterwine/Luar/master/repor/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Masterwine/Luar/master/repor/</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+        <info compressed="false">https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/Kodi-vStream/venom-xbmc-addons/raw/master/repo</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Ovni-crea/seleniumzip/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Ovni-crea/seleniumzip/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Ovni-crea/seleniumzip/master</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Arias800/Fichier-divers/master/addon.xml</info>
+        <checksum>https://raw.githubusercontent.com/Arias800/Fichier-divers/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Arias800/script.module.dnspython/master</datadir>
+    </dir>
+	<dir>
+	    <info>https://raw.githubusercontent.com/Palantiraddon/Repo/master/Palantir/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Palantiraddon/Repo/master/Palantir/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Palantiraddon/repo/master/Palantir/</datadir>
+	</dir>
+	<dir>
+        <info compressed="false">https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/master/MATRIX/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/master/MATRIX/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/master/MATRIX/</datadir>
+    </dir>
+	<dir>  
+	  <info compressed="false">https://github.com/euro2000/magellan.github.io/raw/main/matrix/addons.xml</info>
+      <checksum>https://github.com/euro2000/magellan.github.io/raw/main/matrix/addons.xml.md5</checksum>
+      <datadir zip="true">https://github.com/euro2000/magellan.github.io/raw/main/matrix</datadir>
+      <hashes>false</hashes>
+	</dir>
+	<dir>
+      <info compressed="false">https://raw.githubusercontent.com/magusplay/equilibrium/master/zips/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/magusplay/equilibrium/master/zips/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/magusplay/equilibrium/master/zips/</datadir>
+    </dir>
+	<dir>
+	  <info compressed="false">https://raw.githubusercontent.com/luminart506/repoluminartstudio/main/matrix/addons.xml</info>
+	  <checksum>https://raw.githubusercontent.com/luminart506/repoluminartstudio/main/matrix/addons.xml.md5</checksum>
+	  <datadir zip="true">https://raw.githubusercontent.com/luminart506/repoluminartstudio/main/matrix/</datadir>
+	  <hashes>false</hashes>
+    </dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/nemesis668/repository.streamarmy18-19/main/addons.xml</info>
+		<checksum>http://raw.githubusercontent.com/nemesis668/repository.streamarmy18-19/main/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.githubusercontent.com/nemesis668/repository.streamarmy18-19/main/zips/</datadir>
+	</dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+	</dir>
+	<dir maxversion="18.8.9">
+		<info compressed="false">https://raw.githubusercontent.com/nemesis668/repository.streamarmy/master/addons.xml</info>
+		<checksum>http://raw.githubusercontent.com/nemesis668/repository.streamarmy/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.githubusercontent.com/nemesis668/repository.streamarmy/master/zips/</datadir>
+	</dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/kodishmediacenter/kodishcomplementos/main/andreguedes/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/kodishmediacenter/kodishcomplementos/main/andreguedes/controle.txt</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/kodishmediacenter/kodishcomplementos/main/andreguedes/install</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/kodishmediacenter/kodishcomplementos/main/freedocs/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/kodishmediacenter/kodishcomplementos/main/freedocs/controle.txt</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/kodishmediacenter/kodishcomplementos/main/freedocs/install</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+      <info compressed="false">https://raw.githubusercontent.com/tvglorioso/glorioso/master/matrix/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/tvglorioso/glorioso/master/matrix/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/tvglorioso/glorioso/master/matrix</datadir>
+      <hashes>false</hashes>
+    </dir>
+	</extension>
+	
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Super Servidor Brasileiro</summary>
+		<description lang="en">Reunimos os Melhores ou Não no super servidor Brasileiro</description>
+		<disclaimer>Só jack</disclaimer>
+		<platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+	</extension>
+</addon>
