@@ -1,14 +1,14 @@
 [
   {
+    "type": "apk",
     "name": "FLIXBOX",
+    "version": "1.5",
     "description": "Flixbox é uma versão modificada do Kodi com ele você sente mais leveza rapidez para navegar pelos conteúdos dos seus addons favoritos, ele contém alguns recursos que é especialmente para colaborador  para ajudar o desenvolvimento do projeto do flixbox",
-    "version": "1.9",
     "icon": "https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbox1.5.png?raw=true",
     "fanart": "https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbox1.5.png?raw=true",
     "url": {
-      "android_arm64": "https://www.mediafire.com/file/k2cozi8oeorwxf7/Flixbox-1.5.apk",
-      "android_arm": "https://www.mediafire.com/file/k2cozi8oeorwxf7/Flixbox-1.5.apk"
-    },
-    "dependencies": []
+      "android_arm": "https://www.mediafire.com/file/k2cozi8oeorwxf7/Flixbox-1.5.apk",
+      "universal": "https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbox1.5.png?raw=true"
+    }
   }
 ]
