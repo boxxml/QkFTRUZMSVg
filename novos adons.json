@@ -6,8 +6,8 @@
     "icon": "https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbox1.5.png?raw=true",
     "fanart": "https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbox1.5.png?raw=true",
     "url": {
-      "android_arm64": "https://www.mediafire.com/file/k2cozi8oeorwxf7/Flixbox-1.5.apk/file",
-      "android_arm": "https://www.mediafire.com/file/k2cozi8oeorwxf7/Flixbox-1.5.apk/file"
+      "android_arm64": "https://www.mediafire.com/file/k2cozi8oeorwxf7/Flixbox-1.5.apk",
+      "android_arm": "https://www.mediafire.com/file/k2cozi8oeorwxf7/Flixbox-1.5.apk"
     },
     "dependencies": []
   }
