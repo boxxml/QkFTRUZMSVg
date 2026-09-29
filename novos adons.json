@@ -10,5 +10,15 @@
       "android_arm": "https://www.mediafire.com/file/k2cozi8oeorwxf7/Flixbox-1.5.apk",
       "universal": "https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbox1.5.png?raw=true"
     }
+  },
+  {
+    "type": "addon",
+    "name": "[B][COLOR green]**** Super Servido[/COLOR][COLOR yellow]r Brasileiro ****[/COLOR][/B]",
+    "version": "7.7.3.11",
+    "description": "Reunimos os Melhores ou Não no super servidor Brasileiro",
+    "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/repository.superservidorbrazuca/icon.png",
+    "fanart": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/repository.superservidorbrazuca/icon.png",
+    "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/repository.superservidorbrazuca.zip",
+    "dependencies": []
   }
 ]
