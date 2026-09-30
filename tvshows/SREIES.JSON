@@ -6950,5 +6950,110 @@
         ]
       }
     ]
+  },
+     {
+    "id": "250203-brothers",
+    "titulo": "Brothers",
+    "sinopse": "Os atores de Hollywood Matthew McConaughey e Woody Harrelson são melhores amigos há anos, mas um chocante segredo de família sugere que a ligação entre eles pode ser ainda maior.",
+    "ano": 2026,
+    "nota": 8.7,
+    "classificacao": "16",
+    "estudio": "Apple TV",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=_sATiG-Blt8",
+    "generos": [
+      "Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/wlIrFcLK3B4RA84ajR3yCRldEnF.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+    "banner": "",
+    "elenco": [
+      "Matthew McConaughey",
+      "Woody Harrelson",
+      "Natalie Martinez",
+      "Brittany Ishibashi",
+      "Nolan Almeida",
+      "Ella Grace Helton"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/wlIrFcLK3B4RA84ajR3yCRldEnF.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Na estrada",
+            "sinopse": "Uma visita surpresa dos Harrelson toma um rumo inesperado quando a mãe de Matthew solta uma bomba.",
+            "duracao": 32,
+            "diretor": "Trent O'Donnell",
+            "thumb": "https://image.tmdb.org/t/p/original/jx6eXdoKXd80LloPAh9Z59QLIp5.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZWZhZDFmMWU2ZDk1N2ZiMDhhYWJiZTUwMWQ1ZjFmMGNkODY1ODkx"
+          },
+          {
+            "numero": 2,
+            "titulo": "A caçada",
+            "sinopse": "Matthew leva seu filho Wyatt para sua primeira caçada, enquanto Woody segue um tipo diferente de rastro.",
+            "duracao": 28,
+            "diretor": "Trent O'Donnell",
+            "thumb": "https://image.tmdb.org/t/p/original/xnAMUoVX81EqvDEC2Oh3QP7b9kG.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZWZhZDFmMWU2ZDk1N2ZiMDhhYWJiZTUwMWQ1ZjFmMGNkODY1ODkx"
+          },
+          {
+            "numero": 3,
+            "titulo": "Woodyzinho",
+            "sinopse": "Quando a Ma Mac quer expulsar os Harrelson, Woody bola um plano absurdo para ganhar tempo.",
+            "duracao": 30,
+            "diretor": "Trent O'Donnell",
+            "thumb": "https://image.tmdb.org/t/p/original/nuPBwXpcmyxqNpuURh3OVv3wyRB.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZWZhZDFmMWU2ZDk1N2ZiMDhhYWJiZTUwMWQ1ZjFmMGNkODY1ODkx"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "",
+            "duracao": 23,
+            "diretor": "Trent O'Donnell",
+            "thumb": "https://image.tmdb.org/t/p/original/lW0XG1IMoBNGx2YmCkZtQbO2EFj.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZWZhZDFmMWU2ZDk1N2ZiMDhhYWJiZTUwMWQ1ZjFmMGNkODY1ODkx"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 25,
+            "diretor": "Jason Winer",
+            "thumb": "",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZWZhZDFmMWU2ZDk1N2ZiMDhhYWJiZTUwMWQ1ZjFmMGNkODY1ODkx"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 30,
+            "diretor": "Erin O'Malley",
+            "thumb": "https://image.tmdb.org/t/p/original/pa6pfzxlD2TTT0cNNM9UuIFjVGk.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZWZhZDFmMWU2ZDk1N2ZiMDhhYWJiZTUwMWQ1ZjFmMGNkODY1ODkx"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 26,
+            "diretor": "Erin O'Malley",
+            "thumb": "",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZWZhZDFmMWU2ZDk1N2ZiMDhhYWJiZTUwMWQ1ZjFmMGNkODY1ODkx"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 28,
+            "diretor": "Trent O'Donnell",
+            "thumb": "",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZWZhZDFmMWU2ZDk1N2ZiMDhhYWJiZTUwMWQ1ZjFmMGNkODY1ODkx"
+          }
+        ]
+      }
+    ]
   }
 ]
