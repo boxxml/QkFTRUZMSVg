@@ -7178,5 +7178,107 @@
         ]
       }
     ]
+  },
+   {
+    "id": "95350-lanternas",
+    "titulo": "Lanternas",
+    "sinopse": "Dois policiais intergalácticos, o recruta novato John Stewart e o lendário Lanterna Verde Hal Jordan, se veem envolvidos em um mistério sombrio que se passa na Terra enquanto investigam um assassinato no coração dos Estados Unidos.",
+    "ano": 2026,
+    "nota": 8.4,
+    "classificacao": "14",
+    "estudio": "HBO",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=br4P2zreR9I",
+    "generos": [
+      "Drama e Mistério e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/oQkXyLAYO5YWyU6gA99TynguYwL.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+    "banner": "",
+    "elenco": [
+      "Kyle Chandler",
+      "Aaron Pierre",
+      "Kelly Macdonald"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/wiF1C97GuJEOBSKWrtub517THjF.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Piloto",
+            "sinopse": "Após um tiroteio fatal, o Lanterna Verde Hal Jordan e o novo recruta John Stewart partem para provar que se tratou de um evento extraterrestre.",
+            "duracao": 57,
+            "diretor": "James Hawes",
+            "thumb": "https://image.tmdb.org/t/p/original/eamjkYDnuDcvS1MyynI4B9nE6KL.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozNzdhODZiYTRiYTg4MzFhMjdhNTM2MTQyZDExMDFiOTg5ZTA4OWZl"
+          },
+          {
+            "numero": 2,
+            "titulo": "Salto no Escuro",
+            "sinopse": "Enquanto a missão insignificante de John acaba sendo crucial, Hal causa alvoroço em Rushville, o que o leva a investigar mais a fundo.",
+            "duracao": 52,
+            "diretor": "James Hawes",
+            "thumb": "https://image.tmdb.org/t/p/original/kccUM3MF6AmqdcsgPMKoBfcl54a.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozNzdhODZiYTRiYTg4MzFhMjdhNTM2MTQyZDExMDFiOTg5ZTA4OWZl"
+          },
+          {
+            "numero": 3,
+            "titulo": "Isolado",
+            "sinopse": "Após uma vida inteira de preparação, John finalmente tem a oportunidade de ser entrevistado pelos Guardiões.",
+            "duracao": 54,
+            "diretor": "Stephen Williams",
+            "thumb": "https://image.tmdb.org/t/p/original/1SH9BxLQa0jyxWSe0qgDZXVzPR8.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozNzdhODZiYTRiYTg4MzFhMjdhNTM2MTQyZDExMDFiOTg5ZTA4OWZl"
+          },
+          {
+            "numero": 4,
+            "titulo": "O Ícone",
+            "sinopse": "John e Hal apresentam à xerife Kane seu novo plano para desmascarar o Caçador Cósmico. A visita de Hal a Sinestro traz consequências.",
+            "duracao": 53,
+            "diretor": "Geeta Patel",
+            "thumb": "https://image.tmdb.org/t/p/original/i6Wz0LHsnqke3Bw0ZKmVjFfd1du.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozNzdhODZiYTRiYTg4MzFhMjdhNTM2MTQyZDExMDFiOTg5ZTA4OWZl"
+          },
+          {
+            "numero": 5,
+            "titulo": "Luzes Apagadas",
+            "sinopse": "À medida que a história da família Macon vem à tona, Rushville se mobiliza diante da ameaça crescente. Enquanto John é obrigado a enfrentar uma situação impossível, Hal arrisca tudo em uma última tentativa de acabar com o Caçador Cósmico.",
+            "duracao": 54,
+            "diretor": "Geeta Patel",
+            "thumb": "https://image.tmdb.org/t/p/original/gl01bQzjDH93bbMtYeHiHIuQg3r.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozNzdhODZiYTRiYTg4MzFhMjdhNTM2MTQyZDExMDFiOTg5ZTA4OWZl"
+          },
+          {
+            "numero": 6,
+            "titulo": "Pega Mal",
+            "sinopse": "Enquanto John tenta seguir em frente, os mistérios de Rushville se recusam a deixá-lo partir.",
+            "duracao": 54,
+            "diretor": "Stephen Williams",
+            "thumb": "https://image.tmdb.org/t/p/original/lnaPnNgtufzsNjX1V9MbcwlCIqd.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozNzdhODZiYTRiYTg4MzFhMjdhNTM2MTQyZDExMDFiOTg5ZTA4OWZl"
+          },
+          {
+            "numero": 7,
+            "titulo": "O Legado dos Jordan",
+            "sinopse": "Em outro planeta, Hal e John precisam deixar de lado seu passado conturbado para solucionar um assassinato. Ao longo da jornada, ambos são obrigados a enfrentar os fantasmas de seu passado... e a maneira como suas infâncias moldaram quem são hoje.",
+            "duracao": 48,
+            "diretor": "Алик Сахаров",
+            "thumb": "https://image.tmdb.org/t/p/original/sZNpNcHcTSd9qRD1ig7EmO6SsZ8.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozNzdhODZiYTRiYTg4MzFhMjdhNTM2MTQyZDExMDFiOTg5ZTA4OWZl"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozNzdhODZiYTRiYTg4MzFhMjdhNTM2MTQyZDExMDFiOTg5ZTA4OWZl"
+          }
+        ]
+      }
+    ]
   }
 ]
