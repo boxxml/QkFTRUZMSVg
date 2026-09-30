@@ -6845,5 +6845,110 @@
         ]
       }
     ]
+  },
+     {
+    "id": "304842-the-drop-uma-saga-snowfall",
+    "titulo": "The Drop: Uma Saga Snowfall",
+    "sinopse": "Na Los Angeles dos anos 1990, Wanda e Leon lutam para levar o rap da Costa Oeste ao grande público, enquanto guerras de gangues eclodem e gravadoras buscam explorar a cultura hip-hop em benefício próprio.",
+    "ano": 2026,
+    "nota": 7.9,
+    "classificacao": "16",
+    "estudio": "FX",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=3Yy_6OaAk3Q",
+    "generos": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/dMrtbf4hR6f18R1bPQ2Oh5GxVrQ.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
+    "banner": "",
+    "elenco": [
+      "Gail Bean",
+      "Isaiah John",
+      "Asante Blackk",
+      "Peyton Alex Smith",
+      "Simmie Sims III",
+      "Mykelti Williamson"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/dMrtbf4hR6f18R1bPQ2Oh5GxVrQ.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Click Pop",
+            "sinopse": "Wanda quer entrar para a agitada cena do rap de L.A. e aposta tudo no primo Lamar e em Artillery, um rapper em ascensão. Mas Leon a alerta sobre os perigos do mundo da música.",
+            "duracao": 57,
+            "diretor": "Ben Younger",
+            "thumb": "https://image.tmdb.org/t/p/original/nJwOyyxojY6FyFxGE3Xjh5VUvun.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDphNGUwMjY3Yzc0MjQ0ODg3MWY2NzkxNjQwZmNlYzk2MjQ0M2UxYWJl"
+          },
+          {
+            "numero": 2,
+            "titulo": "Matriz das Ruas",
+            "sinopse": "Wanda consegue um emprego novo, mas a violência das ruas ameaça seus sonhos na música. Leon é forçado a resolver um conflito de rua.",
+            "duracao": 41,
+            "diretor": "Alonso Alvarez",
+            "thumb": "https://image.tmdb.org/t/p/original/9ZQT6WLjTOhntf5oHRqOPgwVhlZ.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjZWU0ZGMwYzMzZDhlMTEzYTRiMmFmY2VjNGEyYjc5YTEyNmRhNmI2"
+          },
+          {
+            "numero": 3,
+            "titulo": "Assuntos de Família",
+            "sinopse": "Wanda debate-se entre a lealdade à família e as suas ambições. O novo tema de Lamar ganha uma dimensão que vai além dos planos da editora. James e Leon veem-se obrigados a repensar o futuro.",
+            "duracao": 42,
+            "diretor": "Millicent Shelton",
+            "thumb": "https://image.tmdb.org/t/p/original/uChIBhJMp7RZ9hg1NrO97KwyRfT.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiNjY5OGQ3Nzk3NmM5MGFlNzFlZTFjMzIwNjBhYTZmYTA3YzJhYjk1"
+          },
+          {
+            "numero": 4,
+            "titulo": "O Grande Impulso",
+            "sinopse": "Complicações com a gravadora levam a família de músicos a arriscar tudo com seu novo disco. O plano de James de chegar a Big Daddy e Gerty acaba reabrindo feridas profundas na família.",
+            "duracao": 0,
+            "diretor": "Seith Mann",
+            "thumb": "https://image.tmdb.org/t/p/original/eeuMyjxyLQ2v5KuUsq7sraejsnl.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmMTEwOTNkNzQxMzc2YTkzMjFhNjYxNTdiNWRjMjhjZjJjMWI3YWYx"
+          },
+          {
+            "numero": 5,
+            "titulo": "Volta para casa",
+            "sinopse": "Na esperança de acabar com os sonhos musicais de Lamar, Gerty e Big Daddy convocam uma reunião e revelam um segredo de família chocante que muda tudo.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmMTEwOTNkNzQxMzc2YTkzMjFhNjYxNTdiNWRjMjhjZjJjMWI3YWYx"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmMTEwOTNkNzQxMzc2YTkzMjFhNjYxNTdiNWRjMjhjZjJjMWI3YWYx"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmMTEwOTNkNzQxMzc2YTkzMjFhNjYxNTdiNWRjMjhjZjJjMWI3YWYx"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmMTEwOTNkNzQxMzc2YTkzMjFhNjYxNTdiNWRjMjhjZjJjMWI3YWYx"
+          }
+        ]
+      }
+    ]
   }
 ]
