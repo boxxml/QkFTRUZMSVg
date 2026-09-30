@@ -6674,5 +6674,56 @@
         ]
       }
     ]
+  },
+    {
+    "id": "318918-lego-one-piece-a-serie",
+    "titulo": "LEGO ONE PIECE: A Série",
+    "sinopse": "Os Chapéus de Palha navegam em alto-mar neste especial de LEGO em duas partes! Acompanhe Luffy, Nami, Usopp e a tripulação nessa jornada épica, reinventada peça por peça.",
+    "ano": 2026,
+    "nota": 8.7,
+    "classificacao": "TV-Y7",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=2xrKoQEvKvI",
+    "generos": [
+      "Animação e Action & Adventure e Sci-Fi & Fantasy e Comédia e Família"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/lNEzS2CbwpIwMmhhlj3Utw8MhY7.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
+    "banner": "",
+    "elenco": [
+      "Iñaki Godoy",
+      "Emily Rudd",
+      "Mackenyu",
+      "Jacob Gibson",
+      "Taz Skylar",
+      "Mikaela Hoover"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Prepare-se para zarpar! Neste especial de animação LEGO® dividido em duas partes, Usopp, o narrador mais exagerado dos Chapéus de Palha, conta as aventuras da tripulação pelo East Blue até a Grand Line antes de Chopper se juntar ao bando. Usopp só conta histórias mirabolantes, e este especial repleto de ação não é exceção!",
+        "poster": "https://image.tmdb.org/t/p/original/lNEzS2CbwpIwMmhhlj3Utw8MhY7.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Grandes causos do East Blue",
+            "sinopse": "O atirador Usopp conta como Monkey D. Luffy, Nami, Zoro e a tripulação se uniram para enfrentar inimigos no East Blue e formaram o Bando do Chapéu de Palha.",
+            "duracao": 33,
+            "diretor": "Chelsea Ker",
+            "thumb": "https://image.tmdb.org/t/p/original/fNqYe8hEUbIqmIbraTCQtEA8pAZ.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpyc3puNG5wcXZ3M2xoYW94NG5uYzZ5c2NvM3l1c2R1aA=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Grand Line, grande aventura",
+            "sinopse": "Próxima parada, Grand Line! Ao percorrer as ilhas entre águas traiçoeiras, os Chapéus de Palha encontram novos aliados e inimigos por todos os lados.",
+            "duracao": 34,
+            "diretor": "Chelsea Ker",
+            "thumb": "https://image.tmdb.org/t/p/original/5RaCggGd1zgzaiKUBN6CXkio3cF.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpyc3puNG5wcXZ3M2xoYW94NG5uYzZ5c2NvM3l1c2R1aA=="
+          }
+        ]
+      }
+    ]
   }
 ]
