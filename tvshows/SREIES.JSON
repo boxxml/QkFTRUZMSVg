@@ -7280,5 +7280,207 @@
         ]
       }
     ]
+  },
+    {
+    "id": "224263-stranger-things-historias-de-85",
+    "titulo": "Stranger Things: Histórias de 85",
+    "sinopse": "Hawkins, inverno de 1985. Esta é uma cidade cheia de segredos, e agora nossos queridos heróis terão que enfrentar novos mistérios e monstros inimagináveis.",
+    "ano": 2026,
+    "nota": 7.7,
+    "classificacao": "12",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=EgUNjiuSsaI",
+    "generos": [
+      "Animação e Sci-Fi & Fantasy e Mistério e Action & Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/zUdykEDaQrjGKnVnAAcua3kNiAG.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+    "banner": "",
+    "elenco": [
+      "Brooklyn Davey Norstedt",
+      "Jolie Hoang-Rappaport",
+      "Luca Diaz",
+      "Elisha Williams",
+      "Braxton Quinney",
+      "Benjamin Plessala"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Retorne a Hawkins com Stranger Things: Histórias de 85, a nova série de animação do showrunner Eric Robles com produção executiva dos irmãos Duffer. No inverno de 1985, a cidade está coberta de neve e se recuperando dos horrores do Mundo Invertido. A vida de Onze, Mike, Will, Dustin, Lucas e Max volta ao normal, com direito a partidas de Dungeons & Dragons, guerras de bolas de neve e dias tranquilos. Contudo, algo terrível despertou sob o gelo. Ninguém sabe se sua origem é o Mundo Invertido, as profundezas do Laboratório de Hawkins ou algum outro lugar. Agora, nossos heróis precisam correr contra o tempo para solucionar esse mistério e salvar a cidade nesta nova história ambientada no universo de Stranger Things.",
+        "poster": "https://image.tmdb.org/t/p/original/zUdykEDaQrjGKnVnAAcua3kNiAG.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Capítulo um: Bem-vinda a Hawkins, novata",
+            "sinopse": "Uma ameaça inédita muda os planos do grupo de ganhar um dinheiro extra limpando neve. Com isso, eles ficam cara a cara com o perigo e se aproximam da aluna nova.",
+            "duracao": 31,
+            "diretor": "Eric Robles",
+            "thumb": "https://image.tmdb.org/t/p/original/mPhWhuyQ6ri001Rm7sbwCRXDPp1.jpg",
+            "url": "bWFnbmV0Oj94dD11cm4lM0FidGloJTNBNjgyOGI1NzdlYWIwM2ExMTQ4YWNhNjU0NmRhNjU2ODQzZTkxMjRmZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW5iaXR0b3JyZW50LmNvbSUzQTgwJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5vcGVudHJhY2tyLm9yZyUzQTEzMzclMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmludGVybmV0d2FycmlvcnMubmV0JTNBMTMzNyUyRmFubm91bmNl"
+          },
+          {
+            "numero": 2,
+            "titulo": "Capítulo dois: Colheita ruim",
+            "sinopse": "Nikki entra para a turma e para o Clube de Investigadores de Hawkins. Acontecimentos estranhos tomam conta de uma fazenda nas proximidades e abalam o Festival de Inverno.",
+            "duracao": 33,
+            "diretor": "JJ Conway",
+            "thumb": "https://image.tmdb.org/t/p/original/yr6lUeMUyfeEY11pNyYCI4oXuuu.jpg",
+            "url": "bWFnbmV0Oj94dD11cm4lM0FidGloJTNBNjgyOGI1NzdlYWIwM2ExMTQ4YWNhNjU0NmRhNjU2ODQzZTkxMjRmZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW5iaXR0b3JyZW50LmNvbSUzQTgwJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5vcGVudHJhY2tyLm9yZyUzQTEzMzclMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmludGVybmV0d2FycmlvcnMubmV0JTNBMTMzNyUyRmFubm91bmNl"
+          },
+          {
+            "numero": 3,
+            "titulo": "Capítulo três: Evolução",
+            "sinopse": "Em busca de respostas sobre as criaturas mutantes que invadiram a cidade, a turma aprende uma lição valiosa com a Sra. Baxter, a professora substituta de Ciências.",
+            "duracao": 28,
+            "diretor": "JJ Conway",
+            "thumb": "https://image.tmdb.org/t/p/original/za2tysMuA6sXL9A4XxSe3ZYlqCr.jpg",
+            "url": "bWFnbmV0Oj94dD11cm4lM0FidGloJTNBNjgyOGI1NzdlYWIwM2ExMTQ4YWNhNjU0NmRhNjU2ODQzZTkxMjRmZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW5iaXR0b3JyZW50LmNvbSUzQTgwJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5vcGVudHJhY2tyLm9yZyUzQTEzMzclMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmludGVybmV0d2FycmlvcnMubmV0JTNBMTMzNyUyRmFubm91bmNl"
+          },
+          {
+            "numero": 4,
+            "titulo": "Capítulo quatro: A confissão",
+            "sinopse": "Preocupado, Mike decide abrir o jogo com Hopper. Dustin arrasta Steve para o C.I.H. Nikki recebe Will no antro da anarquia. Lucas e Max vão ao fliperama.",
+            "duracao": 29,
+            "diretor": "JJ Conway",
+            "thumb": "https://image.tmdb.org/t/p/original/8XpHc2QJZbIEXeZNjYFH8qynSI.jpg",
+            "url": "bWFnbmV0Oj94dD11cm4lM0FidGloJTNBNjgyOGI1NzdlYWIwM2ExMTQ4YWNhNjU0NmRhNjU2ODQzZTkxMjRmZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW5iaXR0b3JyZW50LmNvbSUzQTgwJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5vcGVudHJhY2tyLm9yZyUzQTEzMzclMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmludGVybmV0d2FycmlvcnMubmV0JTNBMTMzNyUyRmFubm91bmNl"
+          },
+          {
+            "numero": 5,
+            "titulo": "Capítulo cinco: Tabloide",
+            "sinopse": "Uma foto que pode colocar On em perigo é vendida para um tabloide, levando o grupo a chamar Nancy para ajudar a roubá-la. Se eles não conseguirem, vai ser fim de jogo.",
+            "duracao": 29,
+            "diretor": "Ben Choi",
+            "thumb": "https://image.tmdb.org/t/p/original/w784CqRgjdT4yaNPEn1iSvKvmzl.jpg",
+            "url": "bWFnbmV0Oj94dD11cm4lM0FidGloJTNBNjgyOGI1NzdlYWIwM2ExMTQ4YWNhNjU0NmRhNjU2ODQzZTkxMjRmZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW5iaXR0b3JyZW50LmNvbSUzQTgwJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5vcGVudHJhY2tyLm9yZyUzQTEzMzclMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmludGVybmV0d2FycmlvcnMubmV0JTNBMTMzNyUyRmFubm91bmNl"
+          },
+          {
+            "numero": 6,
+            "titulo": "Capítulo seis: Tempestade a caminho",
+            "sinopse": "Uma nevasca atinge Hawkins. Dustin parte em uma missão paralela. Max e Lucas escutam um pedido de ajuda. Depois de uma atitude ousada, parte da turma termina na detenção.",
+            "duracao": 31,
+            "diretor": "Ashe Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/fu1Hylyo0G1TOIXB2HlXQklLy40.jpg",
+            "url": "bWFnbmV0Oj94dD11cm4lM0FidGloJTNBNjgyOGI1NzdlYWIwM2ExMTQ4YWNhNjU0NmRhNjU2ODQzZTkxMjRmZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW5iaXR0b3JyZW50LmNvbSUzQTgwJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5vcGVudHJhY2tyLm9yZyUzQTEzMzclMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmludGVybmV0d2FycmlvcnMubmV0JTNBMTMzNyUyRmFubm91bmNl"
+          },
+          {
+            "numero": 7,
+            "titulo": "Capítulo sete: No meio da tempestade",
+            "sinopse": "Lucas e Max procuram um lugar alto para enviar um código vermelho. Will, Mike e Nikki ficam presos na escola por causa da neve, mas On nota que eles não estão sozinhos.",
+            "duracao": 29,
+            "diretor": "Philip J. Allora",
+            "thumb": "https://image.tmdb.org/t/p/original/1SMLCJpvNt29JvshWfKNexZnlaw.jpg",
+            "url": "bWFnbmV0Oj94dD11cm4lM0FidGloJTNBNjgyOGI1NzdlYWIwM2ExMTQ4YWNhNjU0NmRhNjU2ODQzZTkxMjRmZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW5iaXR0b3JyZW50LmNvbSUzQTgwJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5vcGVudHJhY2tyLm9yZyUzQTEzMzclMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmludGVybmV0d2FycmlvcnMubmV0JTNBMTMzNyUyRmFubm91bmNl"
+          },
+          {
+            "numero": 8,
+            "titulo": "Capítulo oito: A festa",
+            "sinopse": "Duas criaturas terríveis invadem o Food Mart e Dustin precisa encarar o perigo. A turma se prepara para entrar no esgoto bem no aniversário de Nikki.",
+            "duracao": 29,
+            "diretor": "Ben Choi",
+            "thumb": "https://image.tmdb.org/t/p/original/jseeZyacfmdOhihOYOJRK7xXpI4.jpg",
+            "url": "bWFnbmV0Oj94dD11cm4lM0FidGloJTNBNjgyOGI1NzdlYWIwM2ExMTQ4YWNhNjU0NmRhNjU2ODQzZTkxMjRmZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW5iaXR0b3JyZW50LmNvbSUzQTgwJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5vcGVudHJhY2tyLm9yZyUzQTEzMzclMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmludGVybmV0d2FycmlvcnMubmV0JTNBMTMzNyUyRmFubm91bmNl"
+          },
+          {
+            "numero": 9,
+            "titulo": "Capítulo nove: Pessoa suspeita",
+            "sinopse": "Depois de uma revelação chocante, o C.I.H. se divide em equipes para investigar, procurando mais pistas em busca da verdade.",
+            "duracao": 28,
+            "diretor": "Ashe Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/cFPesk4OybE3zDAF3lv76lY2nfd.jpg",
+            "url": "bWFnbmV0Oj94dD11cm4lM0FidGloJTNBNjgyOGI1NzdlYWIwM2ExMTQ4YWNhNjU0NmRhNjU2ODQzZTkxMjRmZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW5iaXR0b3JyZW50LmNvbSUzQTgwJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5vcGVudHJhY2tyLm9yZyUzQTEzMzclMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmludGVybmV0d2FycmlvcnMubmV0JTNBMTMzNyUyRmFubm91bmNl"
+          },
+          {
+            "numero": 10,
+            "titulo": "Capítulo dez: Contagem regressiva",
+            "sinopse": "Correndo contra o tempo, a turma se reúne e luta para continuar com vida. Amigos precisam ajudar amigos, porque o futuro de Hawkins depende disso.",
+            "duracao": 28,
+            "diretor": "Philip J. Allora",
+            "thumb": "https://image.tmdb.org/t/p/original/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg",
+            "url": "bWFnbmV0Oj94dD11cm4lM0FidGloJTNBNjgyOGI1NzdlYWIwM2ExMTQ4YWNhNjU0NmRhNjU2ODQzZTkxMjRmZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW5iaXR0b3JyZW50LmNvbSUzQTgwJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5vcGVudHJhY2tyLm9yZyUzQTEzMzclMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmludGVybmV0d2FycmlvcnMubmV0JTNBMTMzNyUyRmFubm91bmNl"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Temporada 2: Perto do Dia dos Namorados, a turma precisa descobrir a verdade por trás de aparições fantasmagóricas e uma onda de criaturas estranhas que estão causando o caos na cidade.",
+        "poster": "https://image.tmdb.org/t/p/original/1Lra05ywzbsYEi8OGcOYfUY6bqE.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Capítulo um: Uma assombração em Hawkins",
+            "sinopse": "Parecia que o Clube de Investigadores de Hawkins estava sem casos. Mas, com uma série de acontecimentos estranhos, a turma se envolve em um mistério paranormal.",
+            "duracao": 33,
+            "diretor": "Ben Choi",
+            "thumb": "https://image.tmdb.org/t/p/original/9ULGavTJflaeEHa1qr5CJfxvnMP.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo5MDlhMjVmMzIzMGM1YjYzZWJlNGYyOTQ1OTkxYzAxZTY1ZTAxNGQz"
+          },
+          {
+            "numero": 2,
+            "titulo": "Capítulo dois: A mina",
+            "sinopse": "Depois de ouvir a história de fantasmas de Charlie, os garotos começam as filmagens na floresta. As garotas aproveitam o Dia dos Namorados para faturar.",
+            "duracao": 29,
+            "diretor": "Ashe Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/hZV7vkN8nEk14tnEoeIrEq1FMXC.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo5MDlhMjVmMzIzMGM1YjYzZWJlNGYyOTQ1OTkxYzAxZTY1ZTAxNGQz"
+          },
+          {
+            "numero": 3,
+            "titulo": "Capítulo três: A maldição de Bill Sanguinário",
+            "sinopse": "Flores brilhantes, Pragas Etéreas e um esqueleto em uma mina assustadora. Será que os fantasmas são reais ou é o Mundo Invertido de novo? O C.I.H. vai investigar!",
+            "duracao": 26,
+            "diretor": "Philip J. Allora",
+            "thumb": "https://image.tmdb.org/t/p/original/kASsckX68dbQ912eMwpcvq1ohp2.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo5MDlhMjVmMzIzMGM1YjYzZWJlNGYyOTQ1OTkxYzAxZTY1ZTAxNGQz"
+          },
+          {
+            "numero": 4,
+            "titulo": "Capítulo quatro: A sessão espírita",
+            "sinopse": "A turma planeja invocar o fantasma de Bill Sanguinário. Para isso, eles precisam do tabuleiro Ouija de Nancy e instruções passo a passo.",
+            "duracao": 28,
+            "diretor": "Ben Choi",
+            "thumb": "https://image.tmdb.org/t/p/original/hpjkdNNOyGB2ilLnSbMIECQM5eJ.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo5MDlhMjVmMzIzMGM1YjYzZWJlNGYyOTQ1OTkxYzAxZTY1ZTAxNGQz"
+          },
+          {
+            "numero": 5,
+            "titulo": "Capítulo cinco: O grupo se divide",
+            "sinopse": "Diante do perigo, a turma se divide em grupos menores e corre para sobreviver. Mike bola uma teoria para explicar o brilho sombrio das flores.",
+            "duracao": 29,
+            "diretor": "Philip J. Allora",
+            "thumb": "https://image.tmdb.org/t/p/original/edGv08voWWvGfPj7CEfxUaeQE9J.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo5MDlhMjVmMzIzMGM1YjYzZWJlNGYyOTQ1OTkxYzAxZTY1ZTAxNGQz"
+          },
+          {
+            "numero": 6,
+            "titulo": "Capítulo seis: O Lich",
+            "sinopse": "Nossos heróis nunca viram uma criatura assim antes e agora estão indo direto para o covil dela. Será que On consegue achar o Lich antes que seja tarde demais?",
+            "duracao": 29,
+            "diretor": "Ashe Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/pcjhlXLHrqwTAT9bAtWqeuC3MbW.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo5MDlhMjVmMzIzMGM1YjYzZWJlNGYyOTQ1OTkxYzAxZTY1ZTAxNGQz"
+          },
+          {
+            "numero": 7,
+            "titulo": "Capítulo sete: O Golem",
+            "sinopse": "Uma visão perturbadora revela a verdade sobre o Lich e de onde ele veio, mas é quase impossível de acreditar.",
+            "duracao": 30,
+            "diretor": "Ben Choi",
+            "thumb": "https://image.tmdb.org/t/p/original/iZ3EO5yPanfvZakcHHntjNfPWhq.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo5MDlhMjVmMzIzMGM1YjYzZWJlNGYyOTQ1OTkxYzAxZTY1ZTAxNGQz"
+          },
+          {
+            "numero": 8,
+            "titulo": "Capítulo oito: Conte até cinco",
+            "sinopse": "O Golem aperta o cerco de terror contra Hawkins. Agora, On e o grupo precisam defender a cidade e salvar as pessoas que amam.",
+            "duracao": 32,
+            "diretor": "Philip J. Allora",
+            "thumb": "https://image.tmdb.org/t/p/original/k6A2F6ybY3iQNXocxWt65YhkQqh.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo5MDlhMjVmMzIzMGM1YjYzZWJlNGYyOTQ1OTkxYzAxZTY1ZTAxNGQz"
+          }
+        ]
+      }
+    ]
   }
 ]
