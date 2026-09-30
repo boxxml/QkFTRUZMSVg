@@ -7055,5 +7055,128 @@
         ]
       }
     ]
+  },
+   {
+    "id": "225361-bat-familia",
+    "titulo": "Bat-Família",
+    "sinopse": "Esta animação e comédia de ação, com episódios de 22 minutos, é estrelada por Damian e Bruce Wayne e sua família de desajustados vivendo os desafios da vida comum e protegendo as ruas de Gotham.",
+    "ano": 2025,
+    "nota": 4.2,
+    "classificacao": "14",
+    "estudio": "Prime Video",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=k6sE5jYOFx0",
+    "generos": [
+      "Animação e Família"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/tELm4SVadpetgGj0cczLl2NG6Q2.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/yZJ6ecQCRsXg3rx7hJbwYPHuzD3.jpg",
+    "banner": "",
+    "elenco": [
+      "Luke Wilson",
+      "Yonas Kibreab",
+      "James Cromwell",
+      "Haley Tju",
+      "London Hughes",
+      "Michael Benyaer"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/tELm4SVadpetgGj0cczLl2NG6Q2.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Noite de Jogos",
+            "sinopse": "Os planos de Bruce para uma noite perfeita de jogos em família vão por água abaixo quando Damian e Claire suspeitam do mais novo membro da família.",
+            "duracao": 26,
+            "diretor": "Sam Spina",
+            "thumb": "https://image.tmdb.org/t/p/original/2GxsXlooaYrVFY8Y6zDQuXlT1Xb.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2ODI0NjE0NGRmODBjODk0ZTJlNDBlMTA1MDNkNGQxYWNiMTVkN2Iy"
+          },
+          {
+            "numero": 2,
+            "titulo": "Bat Passeio",
+            "sinopse": "Damian e as gêmeas Dent acidentalmente libertam parademônios quando tentam se livrar de Bruce Wayne, numa excursão escolar aos Laboratórios S.T.A.R.",
+            "duracao": 25,
+            "diretor": "Kat Morris",
+            "thumb": "https://image.tmdb.org/t/p/original/lYhFcNtD4IO2v2xS9YSiHpWxdJY.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2ODI0NjE0NGRmODBjODk0ZTJlNDBlMTA1MDNkNGQxYWNiMTVkN2Iy"
+          },
+          {
+            "numero": 3,
+            "titulo": "Os 90 são os Novos 80",
+            "sinopse": "O Pequeno Batman se vê numa enrascada quando ignora os avisos do pai e força Alfred a usar o Exo-Bat para ajudá-lo a capturar o Chapeleiro Louco.",
+            "duracao": 25,
+            "diretor": "Aleks Sennwald",
+            "thumb": "https://image.tmdb.org/t/p/original/82FmH2bbabu2gNCpCerEazhe5xH.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2ODI0NjE0NGRmODBjODk0ZTJlNDBlMTA1MDNkNGQxYWNiMTVkN2Iy"
+          },
+          {
+            "numero": 4,
+            "titulo": "Tudo em um Bat-dia de Trabalho",
+            "sinopse": "A Bat-Família dá de cara com uma trama sinistra que envolve as Empresas Wayne no dia de \"Trabalho com um Adulto\".",
+            "duracao": 26,
+            "diretor": "Sam Spina",
+            "thumb": "https://image.tmdb.org/t/p/original/AhN47QCnoc7Y4zhX2QgbwMFybGx.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2ODI0NjE0NGRmODBjODk0ZTJlNDBlMTA1MDNkNGQxYWNiMTVkN2Iy"
+          },
+          {
+            "numero": 5,
+            "titulo": "Uma Noite de Cinema",
+            "sinopse": "Bruce decide que é hora de contar seu \"segredinho\" para Alicia. No entanto, Alicia tem seu próprio segredinho.",
+            "duracao": 25,
+            "diretor": "Kat Morris",
+            "thumb": "https://image.tmdb.org/t/p/original/fcpfdruZs1d9zfamvkL0npAzjPO.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2ODI0NjE0NGRmODBjODk0ZTJlNDBlMTA1MDNkNGQxYWNiMTVkN2Iy"
+          },
+          {
+            "numero": 6,
+            "titulo": "A Arte da Claire",
+            "sinopse": "Quando uma ex-amiga/parceira de crimes faz uma oferta irresistível para Claire, ela se vê tendo de escolher entre sua nova vida e a antiga.",
+            "duracao": 26,
+            "diretor": "Aleks Sennwald",
+            "thumb": "https://image.tmdb.org/t/p/original/48r0mzmk3DJWtWJ9MVNS1nsg0s9.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2ODI0NjE0NGRmODBjODk0ZTJlNDBlMTA1MDNkNGQxYWNiMTVkN2Iy"
+          },
+          {
+            "numero": 7,
+            "titulo": "Homem-Morcego Humano",
+            "sinopse": "Depois de Bruce dizer a Damian que a onda de roubos de cartas Goki não é um trabalho para a dupla, Damian se associa ao Dr. Langstrom.",
+            "duracao": 26,
+            "diretor": "Sam Spina",
+            "thumb": "https://image.tmdb.org/t/p/original/immsFPhVhfLsJnOtLCs49iQ3QDe.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2ODI0NjE0NGRmODBjODk0ZTJlNDBlMTA1MDNkNGQxYWNiMTVkN2Iy"
+          },
+          {
+            "numero": 8,
+            "titulo": "Entrevista com o Batman",
+            "sinopse": "Bruce se torna seu pior inimigo quando tenta manter o pessoal da E-Vil fora de sua cuidadosamente planejada entrevista com Vicky Vale.",
+            "duracao": 24,
+            "diretor": "Kat Morris",
+            "thumb": "https://image.tmdb.org/t/p/original/9ISvNbmGULJXD6y6jNkZ7aqwoKH.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2ODI0NjE0NGRmODBjODk0ZTJlNDBlMTA1MDNkNGQxYWNiMTVkN2Iy"
+          },
+          {
+            "numero": 9,
+            "titulo": "Primeiro de Abril (1)",
+            "sinopse": "Quando um plano sinistro é descoberto, será necessário que todos os membros da Bat-Família trabalhem juntos para salvar Gotham e seus cidadãos.",
+            "duracao": 25,
+            "diretor": "Aleks Sennwald",
+            "thumb": "https://image.tmdb.org/t/p/original/4JkXEBRMKmW1MUok5KdS2fO1XRG.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2ODI0NjE0NGRmODBjODk0ZTJlNDBlMTA1MDNkNGQxYWNiMTVkN2Iy"
+          },
+          {
+            "numero": 10,
+            "titulo": "Primeiro de Abril (2)",
+            "sinopse": "Quando um plano sinistro é descoberto, será necessário que todos os membros da Bat-Família trabalhem juntos para salvar Gotham e seus cidadãos.",
+            "duracao": 25,
+            "diretor": "Sam Spina",
+            "thumb": "https://image.tmdb.org/t/p/original/sgHlsyISX7hiO6Q9N5PGPtfd98m.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2ODI0NjE0NGRmODBjODk0ZTJlNDBlMTA1MDNkNGQxYWNiMTVkN2Iy"
+          }
+        ]
+      }
+    ]
   }
 ]
