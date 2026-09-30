@@ -6725,5 +6725,125 @@
         ]
       }
     ]
+  },
+    {
+    "id": "296756-presidente-curtis",
+    "titulo": "Presidente Curtis",
+    "sinopse": "O presidente Curtis e sua equipe enfrentam crises que Rick Sanchez ignoraria, da diplomacia interdimensional a fenômenos paranormais.",
+    "ano": 2026,
+    "nota": 6.8,
+    "classificacao": "16",
+    "estudio": "Adult Swim",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=xnTNFdyQm6M",
+    "generos": [
+      "Animação e Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/bslvJffCHQSJxUKuEEzjkYPNrTn.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+    "banner": "",
+    "elenco": [
+      "Keith David",
+      "Stephanie Beatriz",
+      "Jim Rash"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/eKkxkNGItY1bLpiXYZd9xppJwdc.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Piloto",
+            "sinopse": "O presidente Andre Curtis enfrenta a CIA por uma gravação secreta e é forçado a confrontar segredos do seu próprio passado.",
+            "duracao": 24,
+            "diretor": "Fill Marc Sagadraca",
+            "thumb": "https://image.tmdb.org/t/p/original/rwVTZYqOB0mgsmjEkofjvecepw0.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDptbTJxYzN4MnA1aHpic2F2YnlzcGxzbTc2dXJkYjZpYg=="
+          },
+          {
+            "numero": 2,
+            "titulo": "O Triângulo",
+            "sinopse": "Após um monstro do Lago Ness aparecer morto, Curtis, Banks e O'Doyle investigam uma prisão secreta no Triângulo das Bermudas.",
+            "duracao": 23,
+            "diretor": "Bryan Newton",
+            "thumb": "https://image.tmdb.org/t/p/original/d7JOg1WYqkpjQ3ulXLtMeB9JxS7.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDptbTJxYzN4MnA1aHpic2F2YnlzcGxzbTc2dXJkYjZpYg=="
+          },
+          {
+            "numero": 3,
+            "titulo": "Ex",
+            "sinopse": "Curtis vai à posse da ex-esposa enquanto Banks e O'Doyle enfrentam uma rigorosa avaliação de desempenho.",
+            "duracao": 23,
+            "diretor": "Juan Meza-Leon",
+            "thumb": "https://image.tmdb.org/t/p/original/x9mQZ8bFhbEZrqDw5iRh7xo7fsj.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDppcHh1b2NoZHlpd2N1bGw0YTU0dGpwMmR5dWdmNWdzaw=="
+          },
+          {
+            "numero": 4,
+            "titulo": "Aquisição",
+            "sinopse": "Curtis e sua equipe correm para proteger o território da Compra da Luisiana após descobrirem um adendo oculto ao tratado.",
+            "duracao": 22,
+            "diretor": "Erik Kling",
+            "thumb": "https://image.tmdb.org/t/p/original/3q5zj2cv3mhCHZVSsMOayai7n6m.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpzY29lZ3Z1emFrd3Voam54bnZtZG5rYWh3djVsYXFybQ=="
+          },
+          {
+            "numero": 5,
+            "titulo": "David",
+            "sinopse": "Depois de entrar em conflito com seu próprio partido sob a ameaça de ser substituído, Curtis decide ir a Camp David para passar por um verdadeiro teste de sua capacidade presidencial. Enquanto isso, Banks precisa lidar com a política do acampamento.",
+            "duracao": 22,
+            "diretor": "Mollie Helms",
+            "thumb": "https://image.tmdb.org/t/p/original/mOV7kerRX8EnpkJly1RswN0g6EE.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDptdnEzeHhiZmc1aDVtZGo3Zm5rd2xyM3lodm1iZ3h3ag=="
+          },
+          {
+            "numero": 6,
+            "titulo": "Oco do Mundo",
+            "sinopse": "Durante uma crise energética, Curtis e sua equipe exploram a Terra Oca em busca de uma solução antes do apagão nacional.",
+            "duracao": 23,
+            "diretor": "Juan Meza-Leon",
+            "thumb": "https://image.tmdb.org/t/p/original/sCobPpydoB9AXIW95tRvzCiDzc5.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpqdnlhem54YnJsYXR4YmV2aHV0M3B6YTc0cjVudDVycA=="
+          },
+          {
+            "numero": 7,
+            "titulo": "Fantasmas",
+            "sinopse": "Quando Banks é infectada por um malware, O'Doyle entra em seu cérebro computadorizado para encontrar uma solução. Enquanto isso, Curtis dá ao fantasma do presidente Lincoln um presente que lhe permite resolver assuntos inacabados.",
+            "duracao": 23,
+            "diretor": "Erik Kling",
+            "thumb": "https://image.tmdb.org/t/p/original/fdmpD1672kKbE7RsWVW7J8kPwVA.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDp1YjJ0aDJqZ2htcG82NjN5ZDM2dWhpNDVkNmlwenV4dg=="
+          },
+          {
+            "numero": 8,
+            "titulo": "Knox",
+            "sinopse": "Um roubo em Fort Knox coloca Curtis e o FBI em uma caçada ao culpado, forçando O'Doyle a confrontar figuras do seu passado para desvendar o caso.",
+            "duracao": 23,
+            "diretor": "Juan Meza-Leon",
+            "thumb": "https://image.tmdb.org/t/p/original/eCzLBCcTS0ZPjAgCIOqhRVPBfGx.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDp1ZWYyNHd3c3N4eHVoeGNmd2dqcWdjemt1NGxhY2lzaw=="
+          },
+          {
+            "numero": 9,
+            "titulo": "Sintéticos",
+            "sinopse": "Com o espírito natalino em baixa em todo o país, Curtis tenta encontrar uma solução ao enviar um grupo de seres sintéticos projetados sob medida para espalhar alegria.",
+            "duracao": 23,
+            "diretor": "Mollie Helms",
+            "thumb": "https://image.tmdb.org/t/p/original/kCg7ygwQkHMR3LVmiDJJZqBYrmW.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDprNTdnMjJvN3BieGdzYW9jN3J1c3JjemxuZXpiejIyeg=="
+          },
+          {
+            "numero": 10,
+            "titulo": "Madeira",
+            "sinopse": "Uma lendária figura assassina ressurge, e Curtis enfrenta uma nova missão que coloca sua imagem pública à prova.",
+            "duracao": 23,
+            "diretor": "Erik Kling",
+            "thumb": "https://image.tmdb.org/t/p/original/aUGKzVgRx54M0bD89Y04jouC2L6.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpzdTJobHc3cHhmZHp2YTNubGFuNGY1MnN1ZG5keXczdw=="
+          }
+        ]
+      }
+    ]
   }
 ]
