@@ -7587,5 +7587,110 @@
         ]
       }
     ]
+  },
+   {
+    "id": "259702-a-casa-dos-espiritos",
+    "titulo": "A Casa dos Espíritos",
+    "sinopse": "A Casa dos Espíritos é uma saga familiar de 8 episódios que mostra as vidas de mulheres revolucionárias e resilientes - Clara, a avó; Blanca, a filha; e Alba, a neta - ao longo de meio século em um país sul-americano remoto e conservador forjado por desastres, conflito de classes e magia.",
+    "ano": 2026,
+    "nota": 8.5,
+    "classificacao": "18",
+    "estudio": "Prime Video",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=nLZgEw4fXMI",
+    "generos": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/aX2MN3TweeODXA8xrciMWogL9A2.jpg",
+    "banner": "",
+    "elenco": [
+      "Alfonso Herrera",
+      "Dolores Fonzi",
+      "Nicole Wallace",
+      "Sara Becker",
+      "Nicolás Contreras",
+      "Fernanda Castillo"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "A Casa dos Espíritos é uma saga familiar de 8 episódios que mostra as vidas de mulheres revolucionárias e resilientes - Clara, a avó; Blanca, a filha; e Alba, a neta - ao longo de meio século em um país sul-americano remoto e conservador forjado por desastres, conflito de classes e magia.",
+        "poster": "https://image.tmdb.org/t/p/original/jLDEa4aCP4LJAiIyBfMHEnDPYRi.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Rosa, a Bela",
+            "sinopse": "Alba retorna à casa de sua família e descobre os diários de sua avó Clara. Durante a leitura, ela embarca numa jornada esclarecedora através do tempo, descobrindo as forças que moldaram o destino de Clara, e os ecos que ainda moldam o seu próprio destino.",
+            "duracao": 46,
+            "diretor": "Francisca Alegría",
+            "thumb": "https://image.tmdb.org/t/p/original/xzdqMGtzUc0i5X2Hc3XTuWEHLCy.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjMzQ1MDIyYTc4MGEwOWRhZWI2NDQ4ZTAzZTMyMWIzYzM0MDU1YTM0"
+          },
+          {
+            "numero": 2,
+            "titulo": "Las Tres Marías",
+            "sinopse": "Após a tragédia que se abateu sobre ele na cidade, Esteban Trueba se instala na propriedade rural de Las Tres Marías, ao sul do país, determinado a construir um império. Enquanto isso, Clara del Valle, guiada por sua mãe, Nívea, e seu tio Marcos, começa a despertar para um mundo de presságios e dons ocultos. Dois caminhos opostos se cruzam, dando origem à história de uma única família.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/aXco31lravDUQ26qf0EihyWIjNx.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjMzQ1MDIyYTc4MGEwOWRhZWI2NDQ4ZTAzZTMyMWIzYzM0MDU1YTM0"
+          },
+          {
+            "numero": 3,
+            "titulo": "Clara, Clarividente",
+            "sinopse": "Esteban leva Clara para sua nova casa na capital, \"a casarão de esquina\". Após o nascimento de Blanca, a filha dos dois, a família - incluindo a irmã de Esteban, Férula - viaja para Las Tres Marías, onde Clara descobre o passado sombrio do marido e percebe que seu destino está ligado a Pancha García e seus descendentes.",
+            "duracao": 52,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/6K9SEfzvanGIpOsfVXBdzapN5le.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjMzQ1MDIyYTc4MGEwOWRhZWI2NDQ4ZTAzZTMyMWIzYzM0MDU1YTM0"
+          },
+          {
+            "numero": 4,
+            "titulo": "Os Amantes",
+            "sinopse": "Blanca e Pedro Tercero, filho do capataz, crescem passando os verões juntos em Las Tres Marías. O amor proibido entre eles aumenta a cada ano que passa e acaba virando uma paixão selvagem e perigosa. Quando Trueba descobre o relacionamento, toda a fúria que mantinha reprimida vem à tona, ameaçando a segurança de sua própria esposa e de sua filha.",
+            "duracao": 54,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/oIP5Ym97QfSS7svoPRO07ezHcYW.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4YjRjNGNiNWMwN2NiZjJhYWYxYTczMTg1YjNhY2JmMzIxNmMxYjdj"
+          },
+          {
+            "numero": 5,
+            "titulo": "O Tempo dos Espíritos",
+            "sinopse": "Clara se recupera da violência que sofreu do marido graças ao amor e cuidado de suas irmãs astrais, Luisa, Nora e Marta Mora. Com a ajuda delas, ela transforma a casa grande de esquina, seguindo o conselho dos espíritos, para abrigar os necessitados, artistas e aqueles em busca da espiritualidade. Enquanto isso, Blanca sobrevive à ausência de Pedro, embarcando em uma jornada rumo ao desconhecido.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/nDhxI0RSKhVvGnnHxwR7LnNLAJj.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4YjRjNGNiNWMwN2NiZjJhYWYxYTczMTg1YjNhY2JmMzIxNmMxYjdj"
+          },
+          {
+            "numero": 6,
+            "titulo": "A Menina Alba",
+            "sinopse": "O nascimento de Alba ameniza feridas antigas. Blanca ganha dinheiro com suas criaturas de cerâmica, sem saber que sua tia Rosa já as bordava décadas antes. Clara está no auge de sua mediunidade ao lado das Irmãs Mora e seus anfitriões excêntricos, compartilhando risos e conhecimento espiritual, mas uma visita do passado causa uma reviravolta na vida dela.",
+            "duracao": 46,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/9S7MUxrjMNRfojmqONiaEodBuBF.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMmE3MjU0MjI4NGU5MjI1ZDgxNjZkY2EwNGNkNDk2MWM1MGI5YTc4"
+          },
+          {
+            "numero": 7,
+            "titulo": "O Terror",
+            "sinopse": "Aos dezoito anos, Alba Trueba descobre a paixão e a política através de seu relacionamento com Miguel, enquanto o país se encontra dividido. Em meio a uma crise que atinge sua própria família, a revelação de um segredo guardado por muito tempo a abala profundamente, e a ruptura política da nação determinará para sempre o rumo de sua vida.",
+            "duracao": 56,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/xoVg3pf5AABHSCc40G07sGA3VlB.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMmE3MjU0MjI4NGU5MjI1ZDgxNjZkY2EwNGNkNDk2MWM1MGI5YTc4"
+          },
+          {
+            "numero": 8,
+            "titulo": "A Hora da Verdade",
+            "sinopse": "O país enfrenta uma ditadura violenta enquanto a família se desfaz. Alba usa seus privilégios e faz o que pode para ajudar os mais necessitados, descobrindo que ninguém escapa do próprio destino.",
+            "duracao": 58,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/rluJN7FrmGV1xrjZMX8yzdS3216.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMmE3MjU0MjI4NGU5MjI1ZDgxNjZkY2EwNGNkNDk2MWM1MGI5YTc4"
+          }
+        ]
+      }
+    ]
   }
 ]
