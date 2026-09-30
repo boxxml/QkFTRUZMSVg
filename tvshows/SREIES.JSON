@@ -7482,5 +7482,110 @@
         ]
       }
     ]
+  },
+    {
+    "id": "220102-spider-noir",
+    "titulo": "Spider-Noir",
+    "sinopse": "O detetive particular Ben Reilly é contratado para casos simples... até que gângsteres, monstros e uma misteriosa femme fatale tecem uma teia que o obriga a confrontar seu passado como o único super-herói de Nova York: O Spider.",
+    "ano": 2026,
+    "nota": 8.3,
+    "classificacao": "16",
+    "estudio": "MGM+",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=BqXJdDtOtHk",
+    "generos": [
+      "Drama e Mistério e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/rfrzXSaiuvRMLo8PRQds0TfFrZC.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/reAZlLG6YMkBuxPT1XKuCH97TM1.jpg",
+    "banner": "",
+    "elenco": [
+      "Nicolas Cage",
+      "Lamorne Morris",
+      "Li Jun Li",
+      "Karen Rodriguez",
+      "Abraham Popoola",
+      "Jack Huston"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "O detetive particular Ben Reilly é contratado para casos simples… até que gângsteres, monstros e uma misteriosa femme fatale tecem uma teia que o obriga a confrontar seu passado como o único super-herói de Nova York: O Spider.",
+        "poster": "https://image.tmdb.org/t/p/original/rfrzXSaiuvRMLo8PRQds0TfFrZC.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Entre no meu Escritório",
+            "sinopse": "Não vai acabar bem pra você.",
+            "duracao": 45,
+            "diretor": "Harry Bradbeer",
+            "thumb": "https://image.tmdb.org/t/p/original/avaOuuMGhci0mIR1rQDaS0PEmtZ.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiOGFjYmMxMTM5NGNmNWQ3NGZlM2VkZmE2ZTcxMmRjNGVlNjM2MWI1"
+          },
+          {
+            "numero": 2,
+            "titulo": "Pisando em Ovos",
+            "sinopse": "Você é um investigador. Investigue.",
+            "duracao": 41,
+            "diretor": "Harry Bradbeer",
+            "thumb": "https://image.tmdb.org/t/p/original/jm6IM5Suxd3zKnSyLd7ef1XhF7V.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiOGFjYmMxMTM5NGNmNWQ3NGZlM2VkZmE2ZTcxMmRjNGVlNjM2MWI1"
+          },
+          {
+            "numero": 3,
+            "titulo": "Falsidade",
+            "sinopse": "Quanto mais depressa provar, mais depressa ele vai morrer.",
+            "duracao": 44,
+            "diretor": "Nzingha Stewart",
+            "thumb": "https://image.tmdb.org/t/p/original/pi81YdQAAXOgD4LypoDO76kKwcY.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiOGFjYmMxMTM5NGNmNWQ3NGZlM2VkZmE2ZTcxMmRjNGVlNjM2MWI1"
+          },
+          {
+            "numero": 4,
+            "titulo": "Nunca Repita o Mesmo Erro",
+            "sinopse": "Ele ainda manda bem.",
+            "duracao": 47,
+            "diretor": "Nzingha Stewart",
+            "thumb": "https://image.tmdb.org/t/p/original/mKiPRJrGUdtgOwo6AUV81rr1aNP.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiOGFjYmMxMTM5NGNmNWQ3NGZlM2VkZmE2ZTcxMmRjNGVlNjM2MWI1"
+          },
+          {
+            "numero": 5,
+            "titulo": "Traição",
+            "sinopse": "\"Cuidado\" é pra ações da bolsa e molho picante.",
+            "duracao": 48,
+            "diretor": "Alethea Jones",
+            "thumb": "https://image.tmdb.org/t/p/original/laPPd7YkmXSGey4VyuQFS6ELTT3.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiOGFjYmMxMTM5NGNmNWQ3NGZlM2VkZmE2ZTcxMmRjNGVlNjM2MWI1"
+          },
+          {
+            "numero": 6,
+            "titulo": "Pesadelo na Maca",
+            "sinopse": "Se não achou uma resposta, é porque não existe uma.",
+            "duracao": 41,
+            "diretor": "Alethea Jones",
+            "thumb": "https://image.tmdb.org/t/p/original/yVAh5HmppUTdMqnoxpZVLuFzGWc.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiOGFjYmMxMTM5NGNmNWQ3NGZlM2VkZmE2ZTcxMmRjNGVlNjM2MWI1"
+          },
+          {
+            "numero": 7,
+            "titulo": "Herói de Ninguém",
+            "sinopse": "Não posso te proteger estando morto.",
+            "duracao": 41,
+            "diretor": "Greg Yaitanes",
+            "thumb": "https://image.tmdb.org/t/p/original/ar6dHtsfCb1e0bBXd70Gtu63Ek5.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiOGFjYmMxMTM5NGNmNWQ3NGZlM2VkZmE2ZTcxMmRjNGVlNjM2MWI1"
+          },
+          {
+            "numero": 8,
+            "titulo": "O Homem Mascarado",
+            "sinopse": "O que um detetive azarado pode fazer?",
+            "duracao": 46,
+            "diretor": "Greg Yaitanes",
+            "thumb": "https://image.tmdb.org/t/p/original/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiOGFjYmMxMTM5NGNmNWQ3NGZlM2VkZmE2ZTcxMmRjNGVlNjM2MWI1"
+          }
+        ]
+      }
+    ]
   }
 ]
