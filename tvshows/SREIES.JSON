@@ -7956,5 +7956,101 @@
         ]
       }
     ]
+  },
+  {
+    "id": "258165-a-leste-do-eden",
+    "titulo": "A Leste do Éden",
+    "sinopse": "No início do século 20, uma mulher independente provoca uma briga entre dois irmãos, dando início a uma saga que se desenrola ao longo de duas gerações.",
+    "ano": 2026,
+    "nota": 7.2,
+    "classificacao": "16",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=-kI117KmYB4",
+    "generos": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/8WGq5Q0tmTe30YZetLnU2dkOJZf.jpg",
+    "banner": "",
+    "elenco": [
+      "Florence Pugh",
+      "Christopher Abbott",
+      "Mike Faist",
+      "Joseph Zada",
+      "Joe Anders",
+      "Tracy Letts"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Depois que o acaso coloca Cathy Ames (Florence Pugh) na vida dos irmãos Trask, todos precisam lidar com uma batalha interna entre o bem e o mal.",
+        "poster": "https://image.tmdb.org/t/p/original/3j5f8RkkbHIoBR1W4NwAQo61giR.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Irmãos",
+            "sinopse": "Separados pela figura dominadora do pai, os irmãos Adam e Charles Trask seguem caminhos opostos até a vida adulta. Um vai para longe, o outro fica em casa.",
+            "duracao": 51,
+            "diretor": "Garth Davis",
+            "thumb": "https://image.tmdb.org/t/p/original/PcV0eLgZBtUOn12F0CWfk2pZOm.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4NWM0Njk2YjNjODZjZWYxNmYxYjA3NWRiODcxOGI1MjA0YTk2NDdm"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Cathy revisita seu passado sombrio. No presente, sua presença semeia a discórdia na casa dos irmãos Trask.",
+            "duracao": 61,
+            "diretor": "Garth Davis",
+            "thumb": "https://image.tmdb.org/t/p/original/3qdUZBWjz1thsAFBYt4GlvVySE6.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4NWM0Njk2YjNjODZjZWYxNmYxYjA3NWRiODcxOGI1MjA0YTk2NDdm"
+          },
+          {
+            "numero": 3,
+            "titulo": "No Vale",
+            "sinopse": "Adam corre atrás do sonho de ter um lar e uma família na Califórnia. Mas Cathy tem outros planos.",
+            "duracao": 58,
+            "diretor": "Garth Davis",
+            "thumb": "https://image.tmdb.org/t/p/original/kXpgSPgSRnTpar9MzlSIU3Yzsfz.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4NWM0Njk2YjNjODZjZWYxNmYxYjA3NWRiODcxOGI1MjA0YTk2NDdm"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Cathy recomeça com um novo nome, uma nova vida e um plano implacável para conquistar sua independência financeira.",
+            "duracao": 60,
+            "diretor": "Garth Davis",
+            "thumb": "https://image.tmdb.org/t/p/original/oLrolFotgKQV9cCqofBMFQe8DNl.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4NWM0Njk2YjNjODZjZWYxNmYxYjA3NWRiODcxOGI1MjA0YTk2NDdm"
+          },
+          {
+            "numero": 5,
+            "titulo": "Partida",
+            "sinopse": "Dez anos depois, um encontro com Cathy muda a perspectiva de Adam. Ele e Lee discordam sobre contar ou não aos meninos a verdade sobre a mãe.",
+            "duracao": 57,
+            "diretor": "Laure de Clermont-Tonnerre",
+            "thumb": "https://image.tmdb.org/t/p/original/oLgFfMCiV6OVZQu0dwUJiZJMhRV.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4NWM0Njk2YjNjODZjZWYxNmYxYjA3NWRiODcxOGI1MjA0YTk2NDdm"
+          },
+          {
+            "numero": 6,
+            "titulo": "A Grande Empreitada",
+            "sinopse": "Adam aposta em um novo empreendimento ousado. Cal se interessa pela história de sua família, e Cathy começa a ser assombrada por seu passado.",
+            "duracao": 59,
+            "diretor": "Laure de Clermont-Tonnerre",
+            "thumb": "https://image.tmdb.org/t/p/original/vPT2UMmqhvr6DP8eV0JUVWO4U7h.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4NWM0Njk2YjNjODZjZWYxNmYxYjA3NWRiODcxOGI1MjA0YTk2NDdm"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "Às vésperas da Primeira Guerra Mundial, a família questiona se é possível apagar os pecados do passado. Ou se a nova geração está fadada a repeti-los.",
+            "duracao": 68,
+            "diretor": "Laure de Clermont-Tonnerre",
+            "thumb": "https://image.tmdb.org/t/p/original/8A7JlacVBQPdKrF1t305VMFDICd.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4NWM0Njk2YjNjODZjZWYxNmYxYjA3NWRiODcxOGI1MjA0YTk2NDdm"
+          }
+        ]
+      }
+    ]
   }
 ]
