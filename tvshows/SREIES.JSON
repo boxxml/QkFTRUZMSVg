@@ -8157,5 +8157,74 @@
         ]
       }
     ]
+  },
+     {
+    "id": "298425-a-dama",
+    "titulo": "A Dama",
+    "sinopse": "Camareira real Jane Andrews saiu da pobreza e chegou ao palácio, até que uma condenação por homicídio acabou com seu conto de fadas.",
+    "ano": 2026,
+    "nota": 6.4,
+    "classificacao": "16",
+    "estudio": "ITV1",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=MFGic50-O-0",
+    "generos": [
+      "Drama e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/y1Xg6NPRD8QFbgOVer16ynjGYUp.jpg",
+    "banner": "",
+    "elenco": [
+      "Mia McKenna-Bruce",
+      "Natalie Dormer",
+      "Philip Glenister",
+      "Ophelia Lovibond",
+      "Claire Skinner",
+      "Daniel Ryan"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "A vida de Jane Andrews muda da noite para o dia quando consegue o emprego dos sonhos no Palácio de Buckingham e se aproxima da Duquesa de York.",
+            "duracao": 46,
+            "diretor": "Lee Haven Jones",
+            "thumb": "https://image.tmdb.org/t/p/original/afEhTI4QU1Up3IwKGAtlQjsBoiu.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1MjFiNzEzYmZlYzRmZTQ3YzMxOWQ3MjRhMzM3MDRmNjE0ODYyYjIz"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Com o conto de fadas de Jane ameaçado, surge uma tábua de salvação: o carismático Tommy Cressman. Será ele seu final feliz?",
+            "duracao": 48,
+            "diretor": "Lee Haven Jones",
+            "thumb": "https://image.tmdb.org/t/p/original/6nOyZBbU0XTpn60prpfqbbVDoqp.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1MjFiNzEzYmZlYzRmZTQ3YzMxOWQ3MjRhMzM3MDRmNjE0ODYyYjIz"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "A relação de Jane e Tommy começa a rachar. Férias no sul da França viram desastre.",
+            "duracao": 46,
+            "diretor": "Lee Haven Jones",
+            "thumb": "https://image.tmdb.org/t/p/original/xhP8RQVhiEVQ6bWLBph7CYcNjSy.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1MjFiNzEzYmZlYzRmZTQ3YzMxOWQ3MjRhMzM3MDRmNjE0ODYyYjIz"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "O conto de fadas de Jane desmorona num julgamento por homicídio. É amante desprezada ou mulher que revida? O júri decide.",
+            "duracao": 47,
+            "diretor": "Lee Haven Jones",
+            "thumb": "https://image.tmdb.org/t/p/original/sTQqyMO94IEG6zXr4G4vWxM3WYk.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpkMWU0N2M1ZTFlYjA1Y2VkM2UzZTA4NjA0N2MxZThhNGQzMWRmNmQ5"
+          }
+        ]
+      }
+    ]
   }
 ]
