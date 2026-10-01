@@ -7779,5 +7779,182 @@
         ]
       }
     ]
+  },
+    {
+    "id": "235930-devil-may-cry",
+    "titulo": "Devil May Cry",
+    "sinopse": "Nesta batalha épica do bem contra o mal, as linhas não estão nada claras. E as esperanças de salvação estão nas mãos de um caçador de demônios diabolicamente bonito.",
+    "ano": 2025,
+    "nota": 8.2,
+    "classificacao": "16",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=En9h4d87yTo",
+    "generos": [
+      "Animação e Action & Adventure e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/75KximV3WhtvlWFneTrf1Pw61cu.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/zPO7RC0T1kA79cH3zBXPVNUL1Ge.jpg",
+    "banner": "",
+    "elenco": [],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Um vilão misterioso ameaça abrir os portões do inferno. Agora, as esperanças de salvação caíram todas na mão de um caçador de demônios bonito feito o diabo.",
+        "poster": "https://image.tmdb.org/t/p/original/i9ZQgNaeXsrKKBh6MaSYFxbGkDC.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Inferno",
+            "sinopse": "Um roubo violento em um museu do Vaticano gera uma situação caótica, e o caçador de demônios Dante se vê no meio de uma trama sinistra entre dois mundos.",
+            "duracao": 30,
+            "diretor": "Kim Sun Min",
+            "thumb": "https://image.tmdb.org/t/p/original/3AXTaKtkYwCqtklTNgHLyeFoUyV.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmZDI1YjkwN2IzZTRhY2ZhODMwMjFhZWY4MzMxMGQxNGM5Nzc3NWVj"
+          },
+          {
+            "numero": 2,
+            "titulo": "Nossa Senhora das Dores",
+            "sinopse": "Em Washington, a DARKCOM reúne um grupo de mercenários para oferecer uma recompensa por Dante e pela relíquia de família que ele carrega no pescoço.",
+            "duracao": 30,
+            "diretor": "Han Seung Woo",
+            "thumb": "https://image.tmdb.org/t/p/original/y9wTar4QMczPjqOeAqrBlsODkCv.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmZDI1YjkwN2IzZTRhY2ZhODMwMjFhZWY4MzMxMGQxNGM5Nzc3NWVj"
+          },
+          {
+            "numero": 3,
+            "titulo": "O caminho alto e silvestre",
+            "sinopse": "Um flashback esclarece o passado de Mary. No presente, um comboio com uma carga preciosa enfrenta um obstáculo e os capangas do Coelho Branco se aproximam do alvo.",
+            "duracao": 30,
+            "diretor": "Park So Young",
+            "thumb": "https://image.tmdb.org/t/p/original/8w71FnTTwcGG6S8Rwj2QXLKFqzJ.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmZDI1YjkwN2IzZTRhY2ZhODMwMjFhZWY4MzMxMGQxNGM5Nzc3NWVj"
+          },
+          {
+            "numero": 4,
+            "titulo": "Abandonai toda a esperança",
+            "sinopse": "O sinal do amuleto leva a DARKCOM a um prédio abandonado. Mas será mesmo que é a toca do Coelho? Dante descobre sua verdadeira origem.",
+            "duracao": 32,
+            "diretor": "Han Seung Woo",
+            "thumb": "https://image.tmdb.org/t/p/original/jeSrAQDh9mxqtPK2jqyrkB04VdD.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmZDI1YjkwN2IzZTRhY2ZhODMwMjFhZWY4MzMxMGQxNGM5Nzc3NWVj"
+          },
+          {
+            "numero": 5,
+            "titulo": "Descida",
+            "sinopse": "Descobertas sinistras complicam a missão de Mary. Uma queda livre gera uma transformação épica, obrigando Dante a enfrentar seu lado demoníaco.",
+            "duracao": 31,
+            "diretor": "Park So Young",
+            "thumb": "https://image.tmdb.org/t/p/original/Au1bhII1lTEBSp5Ki1K1hvjOma3.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmZDI1YjkwN2IzZTRhY2ZhODMwMjFhZWY4MzMxMGQxNGM5Nzc3NWVj"
+          },
+          {
+            "numero": 6,
+            "titulo": "O primeiro círculo",
+            "sinopse": "A história assustadora por trás de duas infâncias é finalmente revelada. Seriam duas vidas paralelas, com destinos entrelaçados?",
+            "duracao": 22,
+            "diretor": "Hong Jee Young",
+            "thumb": "https://image.tmdb.org/t/p/original/abKCqXorjOqvzubzh17gzcbVIp9.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmZDI1YjkwN2IzZTRhY2ZhODMwMjFhZWY4MzMxMGQxNGM5Nzc3NWVj"
+          },
+          {
+            "numero": 7,
+            "titulo": "Às portas do Paraíso",
+            "sinopse": "Está tudo pronto para a grande batalha, até porque o Coelho e seu exército aguardam a chegada de Dante. Só que existe outra pessoa disposta a lutar.",
+            "duracao": 31,
+            "diretor": "Han Seung Woo",
+            "thumb": "https://image.tmdb.org/t/p/original/m61gU3gV3LT0w4ogesOsrOFBlK8.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmZDI1YjkwN2IzZTRhY2ZhODMwMjFhZWY4MzMxMGQxNGM5Nzc3NWVj"
+          },
+          {
+            "numero": 8,
+            "titulo": "Um rio de sangue e fogo",
+            "sinopse": "Dante e Mary enfrentam escolhas impossíveis e o inimigo mais poderoso que o mundo já viu. Depois, Baines coloca um plano ousado em prática.",
+            "duracao": 33,
+            "diretor": "Park So Young",
+            "thumb": "https://image.tmdb.org/t/p/original/b4a7be1TBke4CV2AJ0m7xcsloWI.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmZDI1YjkwN2IzZTRhY2ZhODMwMjFhZWY4MzMxMGQxNGM5Nzc3NWVj"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Uma guerra entre mundos se inicia quando Dante precisa lutar contra a única força que espelha a sua: seu irmão gêmeo, Vergil, com quem não tinha contato há anos. Na segunda temporada, Dante precisa confrontar seus próprios demônios e o sentimento de família que perdeu na infância. Com o reaparecimento de Vergil, Dante conseguirá exorcizar seus antigos demônios ou se tornará vítima deles?",
+        "poster": "https://image.tmdb.org/t/p/original/371II9FNiLkzHnJ3Cv7qeKyrEyW.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Os Caídos",
+            "sinopse": "Começa uma guerra no mundo dos demônios, mas Dante está congelado. Lady procura uma arma antiga no covil de Mundus. Vergil recebe um convite da Terra.",
+            "duracao": 40,
+            "diretor": "Han Seung Woo",
+            "thumb": "https://image.tmdb.org/t/p/original/q2BS7upigz8OPZGGbmLpttEcsXg.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTFjMzU4MjMxNGQ5NjFmOWUxYTQ0MjUyZjk1ZjRmMjI4ZTYzNTYz"
+          },
+          {
+            "numero": 2,
+            "titulo": "Sombras",
+            "sinopse": "Arius faz Dante entrar em ação com um plano para colocar os gêmeos um contra o outro. Mas Dante desperta do pesadelo criogênico com visões sombrias e perturbadoras.",
+            "duracao": 34,
+            "diretor": "Park So Young",
+            "thumb": "https://image.tmdb.org/t/p/original/wTfNPwzb9cpXld3ENVz1cjGcKJo.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTFjMzU4MjMxNGQ5NjFmOWUxYTQ0MjUyZjk1ZjRmMjI4ZTYzNTYz"
+          },
+          {
+            "numero": 3,
+            "titulo": "A Pantera, O Leão, O Lobo",
+            "sinopse": "Dante e Vergil caminham rumo a um duelo fatídico no presente, mas as memórias do passado reabrem velhas feridas e revelam a tragédia familiar que os separou.",
+            "duracao": 31,
+            "diretor": "Han Seung Woo",
+            "thumb": "https://image.tmdb.org/t/p/original/4SeuS3lJI9PncTrmPwqH5DJRSN.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTFjMzU4MjMxNGQ5NjFmOWUxYTQ0MjUyZjk1ZjRmMjI4ZTYzNTYz"
+          },
+          {
+            "numero": 4,
+            "titulo": "Um Poço de Serpentes",
+            "sinopse": "Vergil enfrenta um inimigo determinado a trazer o Caos de volta. Ferido, Dante pede a ajuda de Lady. Um plano ousado é colocado em ação antes de um eclipse raro.",
+            "duracao": 40,
+            "diretor": "Han Seung Woo",
+            "thumb": "https://image.tmdb.org/t/p/original/fORUCe0tiKXk7oPr6JCzvnV9FB1.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTFjMzU4MjMxNGQ5NjFmOWUxYTQ0MjUyZjk1ZjRmMjI4ZTYzNTYz"
+          },
+          {
+            "numero": 5,
+            "titulo": "O Jardim dos Pecados Mortais",
+            "sinopse": "Dante e Lady visitam um professor com poderes misteriosos para tentar manter Arius longe da Arcana e evitar o retorno de Argosax.",
+            "duracao": 33,
+            "diretor": "Park So Young",
+            "thumb": "https://image.tmdb.org/t/p/original/xtW5IsKKRbYnawewKUby4vKG7Wa.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTFjMzU4MjMxNGQ5NjFmOWUxYTQ0MjUyZjk1ZjRmMjI4ZTYzNTYz"
+          },
+          {
+            "numero": 6,
+            "titulo": "Purgatório",
+            "sinopse": "Um flashback mostra como Baines e Lady se conheceram. Com Vergil em outra dimensão, Dante é forçado a ver tudo sob uma nova perspectiva.",
+            "duracao": 39,
+            "diretor": "Park So Young",
+            "thumb": "https://image.tmdb.org/t/p/original/vy2PfCfrmunvmoNSToXxLRbQ3aQ.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTFjMzU4MjMxNGQ5NjFmOWUxYTQ0MjUyZjk1ZjRmMjI4ZTYzNTYz"
+          },
+          {
+            "numero": 7,
+            "titulo": "À Cidade do Lamento",
+            "sinopse": "Após uma ressurreição abrasadora, o Caos domina a Terra. Um oráculo mostra a verdade a Vergil. Para salvar o mundo, Dante e Lady precisam se separar.",
+            "duracao": 38,
+            "diretor": "Han Seung Woo",
+            "thumb": "https://image.tmdb.org/t/p/original/fa818prUR6wPyjLkeQ4fFAE42Ty.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTFjMzU4MjMxNGQ5NjFmOWUxYTQ0MjUyZjk1ZjRmMjI4ZTYzNTYz"
+          },
+          {
+            "numero": 8,
+            "titulo": "Vexilla Regis Prodeunt Inferni",
+            "sinopse": "Uma fenda aberta entre os reinos desencadeia um confronto final, em que vingança, poder, destino e lealdade colidem. Agora, cada irmão precisa escolher um lado.",
+            "duracao": 35,
+            "diretor": "Park So Young",
+            "thumb": "https://image.tmdb.org/t/p/original/qJ8Zv1zpa2ErSche6kE3MTrffk5.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTFjMzU4MjMxNGQ5NjFmOWUxYTQ0MjUyZjk1ZjRmMjI4ZTYzNTYz"
+          }
+        ]
+      }
+    ]
   }
 ]
