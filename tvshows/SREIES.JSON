@@ -8226,5 +8226,74 @@
         ]
       }
     ]
+  },
+    {
+    "id": "138505-marvel-zumbis",
+    "titulo": "Marvel Zumbis",
+    "sinopse": "Depois que os Vingadores foram dominados por uma praga zumbi, um grupo desesperado de sobreviventes descobre a chave para acabar com os mortos-vivos superpoderosos, percorrendo uma paisagem distópica e arriscando a vida e os membros para salvarem seu mundo.",
+    "ano": 2025,
+    "nota": 7.3,
+    "classificacao": "16",
+    "estudio": "Disney+",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=82l_6yI9f6A",
+    "generos": [
+      "Sci-Fi & Fantasy e Animação e Action & Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/aTgFMz0CSVCDCgq0e93X0oNT2Dp.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
+    "banner": "",
+    "elenco": [
+      "Iman Vellani",
+      "Todd Williams",
+      "David Harbour",
+      "Simu Liu",
+      "Awkwafina",
+      "Elizabeth Olsen"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/ifJayoMnxGF6Kgfn3xXfNcjtCrM.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Sobreviventes solitários enfrentam um mundo implacável de horrores.",
+            "duracao": 38,
+            "diretor": "Bryan Andrews",
+            "thumb": "https://image.tmdb.org/t/p/original/25QjykMVOADHoKBre3bLovFrz0j.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZDk0OWQ1M2FiMmI1ZGI1NTgxYzZmOTI0NTc5ZDE1Y2YzZTY0M2Iw"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Lá fora na estrada, a fome por carne domina tudo.",
+            "duracao": 34,
+            "diretor": "Bryan Andrews",
+            "thumb": "https://image.tmdb.org/t/p/original/vvbPNdHl8gjuRnrU0YhbHrNXLlS.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZDk0OWQ1M2FiMmI1ZGI1NTgxYzZmOTI0NTc5ZDE1Y2YzZTY0M2Iw"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "Os mortos em decomposição sentirão o gosto do medo.",
+            "duracao": 33,
+            "diretor": "Bryan Andrews",
+            "thumb": "https://image.tmdb.org/t/p/original/8frDsFuOxAVVFzACTMQsk8vDXcP.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZDk0OWQ1M2FiMmI1ZGI1NTgxYzZmOTI0NTc5ZDE1Y2YzZTY0M2Iw"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Um final sangrento.",
+            "duracao": 32,
+            "diretor": "Bryan Andrews",
+            "thumb": "https://image.tmdb.org/t/p/original/qNQjFDAeqMDA3ISOUBYikkaVEI0.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZDk0OWQ1M2FiMmI1ZGI1NTgxYzZmOTI0NTc5ZDE1Y2YzZTY0M2Iw"
+          }
+        ]
+      }
+    ]
   }
 ]
