@@ -8295,5 +8295,236 @@
         ]
       }
     ]
+  },
+   {
+    "id": "207332-sakamoto-days",
+    "titulo": "SAKAMOTO DAYS",
+    "sinopse": "Taro Sakamoto já foi o maior assassino de aluguel de todos os tempos, mas largou tudo por amor. Agora, com o passado à espreita, ele vai ter que lutar como nunca.",
+    "ano": 2025,
+    "nota": 8.1,
+    "classificacao": "16",
+    "estudio": "TV Tokyo",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=ubS0jGnQokw",
+    "generos": [
+      "Animação e Comédia e Action & Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/qTNIxDIzKjLLuS17fxdXjcKAlW7.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
+    "banner": "",
+    "elenco": [
+      "Tomokazu Sugita",
+      "Nobunaga Shimazaki",
+      "Ayane Sakura",
+      "Nao Toyama",
+      "Hina Kino",
+      "Ryota Suzuki"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/mS8Lb5aq8Tphb9utGhnLncsNkYd.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "O assassino lendário",
+            "sinopse": "Sakamoto leva uma vida tranquila de aposentado. Mas, certo dia, um antigo colega aparece exigindo que ele volte à vida de assassino ou enfrente as consequências.",
+            "duracao": 24,
+            "diretor": "渡辺正樹",
+            "thumb": "https://image.tmdb.org/t/p/original/8mzJg0n2ZggznEnTbA6KfjHETMI.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMTUxYjNmNmVjY2VlNzcxMTAxNzA0MGUzOTUyY2M3MDkyODYxYjRl"
+          },
+          {
+            "numero": 2,
+            "titulo": "Contra Son Hee e Bacho",
+            "sinopse": "Durante uma ida ao centro da cidade, Sakamoto e Shin encontram Lu Shaotang, a filha de um chefão da máfia que está fugindo de uma dupla de assassinos gêmeos.",
+            "duracao": 24,
+            "diretor": "齋藤昭裕",
+            "thumb": "https://image.tmdb.org/t/p/original/oEE5uaOpal0SleMPXy8mRxyusgw.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMTUxYjNmNmVjY2VlNzcxMTAxNzA0MGUzOTUyY2M3MDkyODYxYjRl"
+          },
+          {
+            "numero": 3,
+            "titulo": "Bem-vindos ao Parque Sugar!",
+            "sinopse": "Ao descobrir a enorme recompensa pela cabeça de Sakamoto, a turma tenta curtir um dia em família no parque de diversões enquanto enfrenta assassinos determinados.",
+            "duracao": 24,
+            "diretor": "西尾良寛",
+            "thumb": "https://image.tmdb.org/t/p/original/6vtclWDIoHLhrIfZgsygyEPn0rp.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMTUxYjNmNmVjY2VlNzcxMTAxNzA0MGUzOTUyY2M3MDkyODYxYjRl"
+          },
+          {
+            "numero": 4,
+            "titulo": "Durão",
+            "sinopse": "Agora que um assassino notório por usar veneno caiu fora de cena, a família Sakamoto segue para a próxima atração. Só que uma dupla de assassinos está à espreita.",
+            "duracao": 24,
+            "diretor": "井端義秀",
+            "thumb": "https://image.tmdb.org/t/p/original/sDnzwn4t5VCZvvAlc4W9hFjkM3G.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMTUxYjNmNmVjY2VlNzcxMTAxNzA0MGUzOTUyY2M3MDkyODYxYjRl"
+          },
+          {
+            "numero": 5,
+            "titulo": "O motivo da força",
+            "sinopse": "Sakamoto se entrega por completo em um duelo feroz contra Boiled. Enquanto isso, os membros da ORDER investigam uma série de ataques misteriosos.",
+            "duracao": 24,
+            "diretor": "鈴木孝聡",
+            "thumb": "https://image.tmdb.org/t/p/original/ypdUkTA1ENSbdjwfUTCthl9qq5H.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMTUxYjNmNmVjY2VlNzcxMTAxNzA0MGUzOTUyY2M3MDkyODYxYjRl"
+          },
+          {
+            "numero": 6,
+            "titulo": "Heisuke Mashimo",
+            "sinopse": "De olho no prêmio de um milhão de ienes, a equipe Sakamoto entra em um torneio de sobrevivência e se junta a um atirador totalmente sem noção.",
+            "duracao": 24,
+            "diretor": "平向智子",
+            "thumb": "https://image.tmdb.org/t/p/original/b8qiOlRAN8cGHICFwvy7mWcJrrM.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMTUxYjNmNmVjY2VlNzcxMTAxNzA0MGUzOTUyY2M3MDkyODYxYjRl"
+          },
+          {
+            "numero": 7,
+            "titulo": "Jurássico maldito",
+            "sinopse": "Enquanto toma conta da loja sozinha, Lu é sequestrada por um grupo misterioso. Sakamoto e Shin partem em seu resgate, mas precisarão enfrentar um assassino invisível.",
+            "duracao": 24,
+            "diretor": "西尾良寛",
+            "thumb": "https://image.tmdb.org/t/p/original/28ZAdnkljRiN9qq4ILDKKj3dLKF.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMTUxYjNmNmVjY2VlNzcxMTAxNzA0MGUzOTUyY2M3MDkyODYxYjRl"
+          },
+          {
+            "numero": 8,
+            "titulo": "Mercadinho Sakamoto contra Labo",
+            "sinopse": "Sakamoto e Shin se infiltram em um laboratório secreto cheio de assassinos para salvar Lu. Na prisão, Lu conhece uma pessoa da infância de Shin.",
+            "duracao": 24,
+            "diretor": "尾上皓紀",
+            "thumb": "https://image.tmdb.org/t/p/original/sbK6J9MVN7KCDqTd1xTEcqNNWjy.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMTUxYjNmNmVjY2VlNzcxMTAxNzA0MGUzOTUyY2M3MDkyODYxYjRl"
+          },
+          {
+            "numero": 9,
+            "titulo": "Todos a bordo",
+            "sinopse": "Nas profundezas do laboratório, Shin e Heisuke se unem para derrubar o adversário invisível, enquanto Sakamoto trava uma imensa batalha contra Kashima.",
+            "duracao": 24,
+            "diretor": "鈴木孝聡",
+            "thumb": "https://image.tmdb.org/t/p/original/i4okwYuooDi85mwTtuj6Kne29Se.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMTUxYjNmNmVjY2VlNzcxMTAxNzA0MGUzOTUyY2M3MDkyODYxYjRl"
+          },
+          {
+            "numero": 10,
+            "titulo": "Modo combate no banho",
+            "sinopse": "Exausto depois da batalha, o grupo vai a uma casa de banho local, mas acha o ambiente perigoso demais para relaxar. Depois, um homem misterioso procura Lu.",
+            "duracao": 24,
+            "diretor": "滝勇樹",
+            "thumb": "https://image.tmdb.org/t/p/original/7mkGjdPmcnoZyjvhzBTFQ1QmQb6.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMTUxYjNmNmVjY2VlNzcxMTAxNzA0MGUzOTUyY2M3MDkyODYxYjRl"
+          },
+          {
+            "numero": 11,
+            "titulo": "Batalha no Cassino",
+            "sinopse": "O grupo enfrenta Wutang no cassino para descobrir quem pediu a cabeça de Sakamoto. Enquanto isso, X manda um grupo de assassinos para pegá-los.",
+            "duracao": 24,
+            "diretor": "井端義秀",
+            "thumb": "https://image.tmdb.org/t/p/original/iAHih3zBgtj8GVc272L0VrhBB87.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxMTUxYjNmNmVjY2VlNzcxMTAxNzA0MGUzOTUyY2M3MDkyODYxYjRl"
+          },
+          {
+            "numero": 12,
+            "titulo": "Sobrecarga",
+            "sinopse": "Sakamoto busca informações sobre os assassinos que estão atrás dele. A Order começa a caçar prisioneiros condenados à morte. Shin e Lu sofrem um ataque violento.",
+            "duracao": 24,
+            "diretor": "西尾良寛",
+            "thumb": "https://image.tmdb.org/t/p/original/zA7rphvcT49yzDWCbY9YMZUA3Vc.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo0OWMxMTg2YjhjNWM1OTIwNjFjMDY0NTc2NmFmYzc1MDkwNGNjNGI5"
+          },
+          {
+            "numero": 13,
+            "titulo": "Execrável",
+            "sinopse": "Shin e Lu acabam despertando novas habilidades e o jogo vira contra o assassino. Osaragi vai parar em uma emboscada.",
+            "duracao": 24,
+            "diretor": "西尾良寛",
+            "thumb": "https://image.tmdb.org/t/p/original/IxWMRhFC34HSzIizBDdVgPuolp.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo0OWMxMTg2YjhjNWM1OTIwNjFjMDY0NTc2NmFmYzc1MDkwNGNjNGI5"
+          },
+          {
+            "numero": 14,
+            "titulo": "Assalto",
+            "sinopse": "A batalha continua enquanto a turma recebe os tratamentos da vovó Miya. Aoi recebe um cliente inesperado na loja. Heisuke confronta Apart na Torre de Tóquio.",
+            "duracao": 24,
+            "diretor": "滝勇樹",
+            "thumb": "https://image.tmdb.org/t/p/original/8s7ApdfQo1C2qVr0jdiiTeOCvy6.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDphYmYyZjU1N2ZkMzAzMjRjMWZlOTAzMTVkYzIxMDA2Zjk0MTg2YjQ4"
+          },
+          {
+            "numero": 15,
+            "titulo": "Girando e girando na torre",
+            "sinopse": "Mesmo não conseguindo perder peso, Sakamoto enfrenta Apart em uma batalha cruel. Depois, X revela seu plano perigoso para o universo dos assassinos.",
+            "duracao": 24,
+            "diretor": "井端義秀",
+            "thumb": "https://image.tmdb.org/t/p/original/iEwdaWGuH6qxQXv0Cvk7ht9S23v.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoyMzVjMWJiZGM2NWM3YzU3MjY5ZjUzZjFhZmJkYmNlOGYyZjgzNDY1"
+          },
+          {
+            "numero": 16,
+            "titulo": "Dança fatiadora",
+            "sinopse": "X e Gaku invadem a AAJ, mas um assassino da ORDER tenta impedi-los. Em meio ao caos, Sakamoto descobre a verdade chocante sobre a identidade de X.",
+            "duracao": 24,
+            "diretor": "滝勇樹",
+            "thumb": "https://image.tmdb.org/t/p/original/3oImXPZqOsT7fEeB1oqi07l7tMv.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo0OWFlMTVhZGFjNDg4MGE4NzFjODE5N2ZkMzExNWQ4NDUwNWZkMjE5"
+          },
+          {
+            "numero": 17,
+            "titulo": "Tenha um bom combate",
+            "sinopse": "Sakamoto decide se infiltrar na JCC para saber mais sobre X. Mas primeiro ele vai precisar passar no exame.",
+            "duracao": 24,
+            "diretor": "渡辺正樹",
+            "thumb": "https://image.tmdb.org/t/p/original/uL3rICqsyySjvxeYH9gKIVKOMfW.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1ZDY0ODQ5NWVmMmJlOGJhMjRkOWYzMjY0MzMyNzI0Yjc2ZmJmZDc3"
+          },
+          {
+            "numero": 18,
+            "titulo": "Kanaguri",
+            "sinopse": "É cada assassino por si quando o exame os leva até o céu. Enquanto Sakamoto impressiona a também candidata Akira, Shin enfrenta Mafuyu e sua fobia de micróbios.",
+            "duracao": 24,
+            "diretor": "西尾良寛",
+            "thumb": "https://image.tmdb.org/t/p/original/2FWVrjCWw05ARJ0jOTI6q3fa5aO.jpg",
+            "url": ""
+          },
+          {
+            "numero": 19,
+            "titulo": "Terceira fase",
+            "sinopse": "A fase três do exame começa com a chegada de um trio de candidatos especiais. Toramaru, uma grande fã de Sakamoto, enfrenta Shin imediatamente.",
+            "duracao": 24,
+            "diretor": "鈴木孝聡",
+            "thumb": "https://image.tmdb.org/t/p/original/wcBx4ns1zKjdJ96pQwOb3ZYuQcG.jpg",
+            "url": ""
+          },
+          {
+            "numero": 20,
+            "titulo": "Mesmo ídolo",
+            "sinopse": "Sakamoto descobre a ligação de Akira com uma velha amiga. Shin e Toramaru disputam para ver quem é mais fã de Sakamoto. O plano secreto de X transforma o exame em caos.",
+            "duracao": 24,
+            "diretor": "井端義秀",
+            "thumb": "https://image.tmdb.org/t/p/original/ndq3iVT4TviHC5JJx8Om2YnfHk2.jpg",
+            "url": ""
+          },
+          {
+            "numero": 21,
+            "titulo": "Dificuldade máxima",
+            "sinopse": "Shin se une a Mafuyu, Toramaru e Kaji para enfrentar Shinaya, que está descontrolado. Será que esses novos aliados improváveis vão conseguir derrotar o inimigo?",
+            "duracao": 24,
+            "diretor": "渡辺正樹",
+            "thumb": "https://image.tmdb.org/t/p/original/b1wz8H6pe3j6CtjZd1FfAjpIfoS.jpg",
+            "url": ""
+          },
+          {
+            "numero": 22,
+            "titulo": "A missão de cada um",
+            "sinopse": "Depois do exame, Sakamoto e Shin podem seguir com o plano que traçaram: se infiltrar na JCC e saber mais sobre X.",
+            "duracao": 24,
+            "diretor": "中島大輔",
+            "thumb": "https://image.tmdb.org/t/p/original/kLRwFpEIAsv4N3xyKuvspq45vrw.jpg",
+            "url": ""
+          }
+        ]
+      }
+    ]
   }
 ]
