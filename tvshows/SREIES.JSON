@@ -7692,5 +7692,92 @@
         ]
       }
     ]
+  },
+    {
+    "id": "258230-desaparecida",
+    "titulo": "Desaparecida",
+    "sinopse": "Quando o despachante de emergência, Ian Ridley, recebe uma ligação de uma adolescente exasperada que ele acredita ser sua filha desaparecida, nada pode impedi-lo de encontrá-la.",
+    "ano": 2026,
+    "nota": 8.1,
+    "classificacao": "16",
+    "estudio": "Apple TV",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=kMZCzHm8b6k",
+    "generos": [
+      "Crime e Drama e Mistério"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/hWLzO9fUFOaePehHYnCm4y0YnQA.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
+    "banner": "",
+    "elenco": [
+      "Patrick Brammall",
+      "Brendan Cowell",
+      "Maxine Peake",
+      "Daniel Henshall",
+      "Jessica Wren",
+      "Zahra Newman"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Quando o despachante de emergência, Ian Ridley, recebe uma ligação de uma adolescente exasperada que ele acredita ser sua filha desaparecida, nada pode impedi-lo de encontrá-la.",
+        "poster": "https://image.tmdb.org/t/p/original/hWLzO9fUFOaePehHYnCm4y0YnQA.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "O Despachante",
+            "sinopse": "Uma tempestade na pacata cidade de Port McKenna revela uma pista há muito tempo enterrada sobre uma menina desaparecida.",
+            "duracao": 53,
+            "diretor": "Christian Schwochow",
+            "thumb": "https://image.tmdb.org/t/p/original/wTzdfRRHM4LxtIclEuHxB5mWHwX.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1NTFhNTUxMGRkZDczM2RiMGUxNzY2NmQ4OTk1MzRhNjM1ODJkN2Uy"
+          },
+          {
+            "numero": 2,
+            "titulo": "A Ligação",
+            "sinopse": "Convencido de que pode revelar o sequestrador da Maggie, Ian forma um plano.",
+            "duracao": 53,
+            "diretor": "Christian Schwochow",
+            "thumb": "https://image.tmdb.org/t/p/original/gDxEQzKOsUkyY5gC93L9gdLqeAY.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1NTFhNTUxMGRkZDczM2RiMGUxNzY2NmQ4OTk1MzRhNjM1ODJkN2Uy"
+          },
+          {
+            "numero": 3,
+            "titulo": "A Mentira",
+            "sinopse": "Um exame mais profundo da ligação vira o mundo de Ian pelo avesso.",
+            "duracao": 44,
+            "diretor": "Christian Schwochow",
+            "thumb": "https://image.tmdb.org/t/p/original/ye0eIHyQSwyPN9cbGFklaQN7xCn.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjNTgwNmI0NjFlYTM1MGUzNWQ3OGU1YmI3ZTE0NDI3OGUzNDZlNDQw"
+          },
+          {
+            "numero": 4,
+            "titulo": "A Verdade",
+            "sinopse": "A pressão cresce e relacionamentos são testados enquanto Ian leva a polícia até a porta de Henry e Jenna.",
+            "duracao": 47,
+            "diretor": "Christian Schwochow",
+            "thumb": "https://image.tmdb.org/t/p/original/6UrnqOzmIXu3V2WFPwXSRctjCey.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjYmIxMDM2MzE3NzQ0NWY5NjE1YWYyMzI5ZGZkZDMwZGVkZmY2Y2U3"
+          },
+          {
+            "numero": 5,
+            "titulo": "O Profeta",
+            "sinopse": "O passado de Henry e Jenna contém a chave do desaparecimento de Maggie.",
+            "duracao": 47,
+            "diretor": "Christian Schwochow",
+            "thumb": "https://image.tmdb.org/t/p/original/iQAy64gLchuqZTCXVk3U6MbpbGC.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDphM2ZlODRkNjgyMDMxMjQ5ZDg3MTk5YTIwMTFmNmJiYjNlYjFkOTVm"
+          },
+          {
+            "numero": 6,
+            "titulo": "A Escolha",
+            "sinopse": "Fim da temporada. Um confronto explosivo entre Ian e Henry deixa Sarah numa encruzilhada.",
+            "duracao": 52,
+            "diretor": "Christian Schwochow",
+            "thumb": "https://image.tmdb.org/t/p/original/8sExCofTR3HHxhpGCeWNnsswoHI.jpg",
+            "url": ""
+          }
+        ]
+      }
+    ]
   }
 ]
