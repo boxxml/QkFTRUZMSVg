@@ -8052,5 +8052,110 @@
         ]
       }
     ]
+  },
+    {
+    "id": "194764-pinguim",
+    "titulo": "Pinguim",
+    "sinopse": "Após a queda dos Carmines, Oswald “Oz” Cobb está pronto para assumir o controle de Gotham e dar à sua mãe a vida que ele sempre lhe prometeu. Mas primeiro, ele terá de enfrentar inimigos novos e antigos, além do seu tão odiado apelido – O Pinguim – que não tornará o caminho deste gangster tão fácil.",
+    "ano": 2024,
+    "nota": 8.4,
+    "classificacao": "16",
+    "estudio": "HBO",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=O_vPPd6rPqs",
+    "generos": [
+      "Drama e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/pPUNmQZUh7h6w2423VvtzUeg1LD.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/4TdmuuwiIiKw3JOjIuhdgYxRXnN.jpg",
+    "banner": "",
+    "elenco": [
+      "Colin Farrell",
+      "Cristin Milioti",
+      "Rhenzy Feliz",
+      "Deirdre O'Connell",
+      "Clancy Brown",
+      "Carmen Ejogo"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "O próximo capítulo da épica saga Batman de Matt Reeves. Colin Farrell retorna como Oswald \"Oz\" Cobb, vulgo Pinguim, neste eletrizante drama policial que retrata a busca de Oz pelo poder e domínio de Gotham City.",
+        "poster": "https://image.tmdb.org/t/p/original/pPUNmQZUh7h6w2423VvtzUeg1LD.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Tempo Extra",
+            "sinopse": "Após a morte de Carmine Falcone, Oz tenta se legitimar no submundo do crime de Gotham.",
+            "duracao": 67,
+            "diretor": "Craig Zobel",
+            "thumb": "https://image.tmdb.org/t/p/original/ecX4IMGRlKwyq5eZd5sjPxtUTaT.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo0MjhlZWUwMmUyMzZlYTc3MWMwNjQ0MDgyMzRmZTE3ZDg4MGFiYjM0"
+          },
+          {
+            "numero": 2,
+            "titulo": "Infiltrado",
+            "sinopse": "Sofia trabalha para garantir a fortaleza de sua família, enquanto Oz tenta usar ambas as famílias, Falcone e Maroni, a seu favor.",
+            "duracao": 56,
+            "diretor": "Craig Zobel",
+            "thumb": "https://image.tmdb.org/t/p/original/esZEDbBtRJdTex16IR9BIvop852.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDphZWFkODkyOGI5OTQwMjZiZmU0ODNmYmQxYjVhZTRjZTc4NTJhYzFh"
+          },
+          {
+            "numero": 3,
+            "titulo": "Bliss",
+            "sinopse": "Esperando controlar o futuro do tráfico de drogas em Gotham, Oz e Sofia precisam primeiro lidar com seus respectivos segredos obscuros. Enquanto isso, Victor fica dividido entre sua vida nova e o que resta do passado.",
+            "duracao": 60,
+            "diretor": "Craig Zobel",
+            "thumb": "https://image.tmdb.org/t/p/original/d6zLI6V7Iq7B8mA2o9Hh8dUg1Mc.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDoyM2VlNzEyNGJlYmUzOGI4MWFhMDdmNjM3NjZjNjY1NDczNjQ1N2Y1"
+          },
+          {
+            "numero": 4,
+            "titulo": "Cent'anni",
+            "sinopse": "Ao encarar os eventos que a transformaram em “A Carrasco” (e a levaram a uma luta de uma década para sobreviver no Asilo Arkham) Sofia faz planos para um futuro mais esperançoso.",
+            "duracao": 59,
+            "diretor": "Helen Shaver",
+            "thumb": "https://image.tmdb.org/t/p/original/6InFSm29R8xFPZQfSjEuwwg2j4q.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo5NjBkNGY0ZjNiMDhkNGRiMWQ1YjRiYTE4ZGFjYmU2MzAzZTM4ZTdl"
+          },
+          {
+            "numero": 5,
+            "titulo": "Boas-vindas",
+            "sinopse": "Com sua operação incipiente em risco, Oz faz um movimento desesperado para virar o jogo. Enquanto isso, Sofia se esforça para construir um novo legado.",
+            "duracao": 55,
+            "diretor": "Helen Shaver",
+            "thumb": "https://image.tmdb.org/t/p/original/asI0yTDa0LoM3Vnl7yJF4ccn8Re.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpkYTIzOWJkZmM0MTkzYjI0NDIzODBkMmIwMWYwNjBiNDc4NDE1ODEy"
+          },
+          {
+            "numero": 6,
+            "titulo": "Cúpula de Ouro",
+            "sinopse": "Apesar das tentativas de seus inimigos de acabar com ele, Oz procura expandir seu alcance na cidade. Enquanto isso, Victor reencontra um antigo adversário.",
+            "duracao": 53,
+            "diretor": "Kevin Bray",
+            "thumb": "https://image.tmdb.org/t/p/original/wx3MYJjZTadMslXBfVml4x53BiL.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4ZDVhNmZhYWZiNmU4ZGMyZmE5YWJlZDQyNzgzZDc4YTVhOGJhNDg2"
+          },
+          {
+            "numero": 7,
+            "titulo": "Manda-Chuva",
+            "sinopse": "Oz luta para preservar sua família e suas operações, enquanto Sofia faz uma descoberta impressionante.",
+            "duracao": 47,
+            "diretor": "Kevin Bray",
+            "thumb": "https://image.tmdb.org/t/p/original/cdADIQxbtAB47oSOn6mjLtVvjd0.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4NTlmNzdiZTZiMjMwYjY2Nzg4NmJjNTA3MmI3MmM3NDdiY2RlMWQ0"
+          },
+          {
+            "numero": 8,
+            "titulo": "Algo Grave ou Trivial",
+            "sinopse": "As verdades vêm à tona enquanto Oz Cobb se aproxima do final de sua jornada e sua luta pelo poder com Sofia chega a um ponto decisivo.",
+            "duracao": 70,
+            "diretor": "Jennifer Getzinger",
+            "thumb": "https://image.tmdb.org/t/p/original/AmWwlp7XiIJZBbakRVIUNtABVVV.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjNzRjYWY2MGQwZWI1ZGI5MDM0MWMxNWFiMTk5YTk5OGY4OWNmNmU1"
+          }
+        ]
+      }
+    ]
   }
 ]
