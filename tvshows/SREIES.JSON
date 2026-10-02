@@ -10003,5 +10003,119 @@
         ]
       }
     ]
+  },
+    {
+    "id": "298168-estilhacos",
+    "titulo": "Estilhaços",
+    "sinopse": "Los Angeles, anos 80. Em uma escola de elite, jovens privilegiados lidam com identidade, sexo, ciúme e obsessão. Mas a fachada da adolescência americana esconde perigos que eles nem imaginam.",
+    "ano": 2026,
+    "nota": 7.2,
+    "classificacao": "18",
+    "estudio": "FX",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=N6p4mb46AKA",
+    "generos": [
+      "Drama e Mistério"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/hMkkiXVwiGcJ5yF1kcsN7LUEDXu.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg",
+    "banner": "",
+    "elenco": [
+      "Igby Rigney",
+      "Kaia Gerber",
+      "Homer Gere",
+      "Hayes Warner",
+      "Graham Campbell",
+      "Evan Rachel Wood"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "\"Estilhaços\", do FX, é uma série de drama sedutora baseada no aclamado best-seller homônimo. Ambientada na vibrante Los Angeles dos anos 80, a trama segue Bret, um aspirante a escritor de uma escola de elite, e seu glamoroso círculo social. Juntos, eles exploram identidade, sexo, ciúme, obsessão e os perigos da adolescência. Mas seu mundo privilegiado de riqueza, festas e excessos começa a se despedaçar com a chegada de Robert Mallory, um aluno novo, misterioso e magnético. Sua chegada coincide com o terror do Arrastão, um serial killer que ataca adolescentes pela cidade.",
+        "poster": "https://image.tmdb.org/t/p/original/hMkkiXVwiGcJ5yF1kcsN7LUEDXu.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Piloto",
+            "sinopse": "Verão de 1981 em Los Angeles. Uma série de crimes perturbadores coincide com a chegada de um novo aluno misterioso na vida de Bret.",
+            "duracao": 54,
+            "diretor": "Ryan Murphy",
+            "thumb": "https://image.tmdb.org/t/p/original/fhsYQZ0DRCQFd8m9AxmF6wwdXXW.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2NzE2NTY5MDhjNjNjNmM1OTI3MzhmMzU2YTVhZDQ5YWE2MzE0OGIz"
+          },
+          {
+            "numero": 2,
+            "titulo": "Você Não Me Quer?",
+            "sinopse": "Bret investiga mais a fundo o passado sombrio de Robert e descobre provas chocantes.",
+            "duracao": 46,
+            "diretor": "Michael Uppendahl",
+            "thumb": "https://image.tmdb.org/t/p/original/rFxDhh64kvG0opvrJPOvqoofzia.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpwNGlyZmt3enRlc2tlamdobHlsbnZraWc1cGR3Z2Juag=="
+          },
+          {
+            "numero": 3,
+            "titulo": "Me Ajude! Rhonda!",
+            "sinopse": "O sumiço de um aluno querido instaura o caos na turma do último ano.",
+            "duracao": 43,
+            "diretor": "Michael Uppendahl",
+            "thumb": "https://image.tmdb.org/t/p/original/yVVoSxRhxeU0FLspxdRQjqh4QSd.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpwNGlyZmt3enRlc2tlamdobHlsbnZraWc1cGR3Z2Juag=="
+          },
+          {
+            "numero": 4,
+            "titulo": "Festa do Robert",
+            "sinopse": "A festa de boas-vindas de Susan para Robert é ofuscada por um incidente terrível e violento.",
+            "duracao": 46,
+            "diretor": "Max Minghella",
+            "thumb": "https://image.tmdb.org/t/p/original/uQKspEW1rQ6uXVhhO9v18eFeCaR.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpwNGlyZmt3enRlc2tlamdobHlsbnZraWc1cGR3Z2Juag=="
+          },
+          {
+            "numero": 5,
+            "titulo": "Assassinato na Pista de Dança",
+            "sinopse": "Uma competição de dança na TV se transforma em um espetáculo de horror.",
+            "duracao": 55,
+            "diretor": "Ryan Murphy",
+            "thumb": "https://image.tmdb.org/t/p/original/44mX9sUtEvwlNPNbiFI6A0oWLM8.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpwNGlyZmt3enRlc2tlamdobHlsbnZraWc1cGR3Z2Juag=="
+          },
+          {
+            "numero": 6,
+            "titulo": "Baile de Boas-Vindas Parte 1",
+            "sinopse": "A problemática Debbie ganha um novo ânimo com uma nova atividade extracurricular.",
+            "duracao": 38,
+            "diretor": "Crystle Roberson Dorsey",
+            "thumb": "https://image.tmdb.org/t/p/original/bnppcNnvQJ6h5Qr0dNsEn2seqYk.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpwNGlyZmt3enRlc2tlamdobHlsbnZraWc1cGR3Z2Juag=="
+          },
+          {
+            "numero": 7,
+            "titulo": "Baile de Boas-Vindas Parte 2",
+            "sinopse": "Um rei e uma rainha inesperados são coroados, e a matança do Arrastão continua.",
+            "duracao": 25,
+            "diretor": "Crystle Roberson Dorsey",
+            "thumb": "https://image.tmdb.org/t/p/original/kU1s9PeSeFKrGUh4oXRysEkMdGQ.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpwNGlyZmt3enRlc2tlamdobHlsbnZraWc1cGR3Z2Juag=="
+          },
+          {
+            "numero": 8,
+            "titulo": "Hamlet",
+            "sinopse": "Algo podre surge na Califórnia quando dois planos de chantagem revelam dois segredos devastadores.",
+            "duracao": 50,
+            "diretor": "Max Minghella",
+            "thumb": "https://image.tmdb.org/t/p/original/q6LaDnJGu1r7q5DFTslSNAKxQql.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDppcWt4ZTJ1dWtkbHNpcGxrbmhidWFkcHE0czNiNzdwMw=="
+          },
+          {
+            "numero": 9,
+            "titulo": "Caminho Para o Paraíso",
+            "sinopse": "Com a cidade em lockdown, Debbie dá uma festa de Halloween que vai mudar tudo.",
+            "duracao": 54,
+            "diretor": "Michael Uppendahl",
+            "thumb": "https://image.tmdb.org/t/p/original/9qOFFNsIv3TuKNuVWWM9I0K9Stz.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDp5NHZ5eWFjeHJkMjR5b2R0Y2ZpYTUycHo3Z2hpdzd1eA=="
+          }
+        ]
+      }
+    ]
   }
 ]
