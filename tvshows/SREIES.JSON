@@ -10117,5 +10117,100 @@
         ]
       }
     ]
+  },
+   {
+    "id": "278624-lucky",
+    "titulo": "Lucky",
+    "sinopse": "Quando um roubo dá errado, a vigarista Lucky é forçada a cair na estrada. Perseguida pelo FBI e por uma mafiosa implacável, Lucky deve lutar pela sua vida. E por uma saída.",
+    "ano": 2026,
+    "nota": 7.3,
+    "classificacao": "16",
+    "estudio": "Apple TV",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=4m8SR1cgI1g",
+    "generos": [
+      "Drama e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/mKrhRPB7rMvy0bIU1l1NYhgh1eI.jpg",
+    "banner": "",
+    "elenco": [
+      "Anya Taylor-Joy",
+      "Annette Bening",
+      "Clifton Collins Jr.",
+      "Aunjanue Ellis-Taylor",
+      "Timothy Olyphant"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Sem atalhos",
+            "sinopse": "Depois de uma noite de agito em Las Vegas, Lucky acorda e descobre que seu mundo virou de ponta-cabeça.",
+            "duracao": 48,
+            "diretor": "Jonathan van Tulleken",
+            "thumb": "https://image.tmdb.org/t/p/original/v6gwIPY86myKepH040HvqIPReI9.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpudnplaXN0dnJuN3JwM2Yzb3Z4bXBtcHR6NXZoMzNucQ=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Faça eles dançarem",
+            "sinopse": "Buscando abrigo, Lucky se refugia na casa de uma família desavisada. Priscilla visita o pai de Lucky.",
+            "duracao": 48,
+            "diretor": "Greg Yaitanes",
+            "thumb": "https://image.tmdb.org/t/p/original/eR9ffKHOTj5U9gCRZIRLL6ZtYiS.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpudnplaXN0dnJuN3JwM2Yzb3Z4bXBtcHR6NXZoMzNucQ=="
+          },
+          {
+            "numero": 3,
+            "titulo": "Leia o ambiente",
+            "sinopse": "Lucky tenta encontrar Cary—e seu dinheiro. A agente Rand investiga os passos de Lucky.",
+            "duracao": 46,
+            "diretor": "Greg Yaitanes",
+            "thumb": "https://image.tmdb.org/t/p/original/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDp3NDVrdGZwZm82YWR5a3d0YXJocTNrYTJpNXZ6Ynljaw=="
+          },
+          {
+            "numero": 4,
+            "titulo": "Perto demais pra ver",
+            "sinopse": "Lucky encara uma traição. Velhos rancores são adiados mediante uma perseguição mortal.",
+            "duracao": 40,
+            "diretor": "Jet Wilkinson",
+            "thumb": "https://image.tmdb.org/t/p/original/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDppYWxvZHB1aW01bHpxaGhkanQ0NmdtcGxlaTNwcDZrcw=="
+          },
+          {
+            "numero": 5,
+            "titulo": "Somos do mal?",
+            "sinopse": "Novamente em fuga, Lucky faz uma descoberta lucrativa. A agente Rand tem um plano.",
+            "duracao": 42,
+            "diretor": "Jet Wilkinson",
+            "thumb": "https://image.tmdb.org/t/p/original/77ERj6ODOyWtQaHoZt3VW9xSHu8.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDppbnBrdXdjZzZicjZydjQyYm1oY3Fha25ydXZrd3BsYg=="
+          },
+          {
+            "numero": 6,
+            "titulo": "Aonde quer que você vá, lá está você",
+            "sinopse": "Lucky encara o próprio passado enquanto planeja seu futuro.",
+            "duracao": 49,
+            "diretor": "Jonathan van Tulleken",
+            "thumb": "https://image.tmdb.org/t/p/original/ipUpVlpqI7tsDc37Lc3AOM6Bbef.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1cDdvZ3pzYXdrM2I3N2xhMm12bDU3M3A1YnVnbGJleg=="
+          },
+          {
+            "numero": 7,
+            "titulo": "Tudo de bom",
+            "sinopse": "Com tudo em jogo, Lucky encara um confronto explosivo.",
+            "duracao": 45,
+            "diretor": "Jonathan van Tulleken",
+            "thumb": "https://image.tmdb.org/t/p/original/bpoGItVaTVUAl3HonErpJwZ65m0.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDp2eXZwYXAybGs1NGh4c2Z0NDV5MmxteW96ZXRhZGkyYw=="
+          }
+        ]
+      }
+    ]
   }
 ]
