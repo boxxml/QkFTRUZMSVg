@@ -10413,5 +10413,128 @@
         ]
       }
     ]
+  },
+    {
+    "id": "294344-chapolin-e-os-colorados",
+    "titulo": "Chapolin e Os Colorados",
+    "sinopse": "Chapolin Colorado está de volta e agora tem família. Ao lado da esposa, dos filhos e da avó, precisa salvar Cidade Caótica enquanto encara o caos em casa. Dos homens das cavernas aos seres intergalácticos, ninguém escapa da Marreta Biônica.",
+    "ano": 2026,
+    "nota": 7.2,
+    "classificacao": "L",
+    "estudio": "Cartoon Network Latin America",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=yyHnCcYd008",
+    "generos": [
+      "Animação e Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/hxb5sC1ZMXN4bEs1t6RKmLWhqt0.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/ldG4BHBYToWMN6OoUH0DXC2x6dB.jpg",
+    "banner": "",
+    "elenco": [
+      "Jesús Guzmán",
+      "Verónica Bravo",
+      "Regina Carrillo",
+      "Jorge Lemus",
+      "Gabriel Riva Palacio Alatriste",
+      "Claudio Herrera"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Chapolin Colorado está de volta e agora tem família. Ao lado da esposa, dos filhos e da avó, precisa salvar Cidade Caótica enquanto encara o caos em casa. Dos homens das cavernas aos seres intergalácticos, ninguém escapa da Marreta Biônica.",
+        "poster": "https://image.tmdb.org/t/p/original/wlUer97CCYYA0IZzljO2hVOyGHJ.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "A Familia do Chapolin Colorado",
+            "sinopse": "Chapolin Colorado precisa capturar o vilão Tripa Seca, que fugiu da prisão justamente no dia em que os filhos têm eventos na escola e a prefeita exige sua presença em um evento público.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/zYvPRu2fuN7MeZ8vcMQmlM0JSdp.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjNzI4MWM2Mjg3Y2FhNzViMjQzZDVjNjUyODAyZTA3ZTAzNTQ3OWNh"
+          },
+          {
+            "numero": 2,
+            "titulo": "Piratas Não Jogam Futebol",
+            "sinopse": "Tentando prender o pirata Alma Negra e seus comparsas, Chapolin acaba libertando os vilões por engano bem no meio de uma partida de futebol do time \"Os Piratas de Obregón\", em um estádio lotado de fãs fantasiados para a ocasião.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/IDhVRirYvGhhReTLowovSv3TVM.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjNzI4MWM2Mjg3Y2FhNzViMjQzZDVjNjUyODAyZTA3ZTAzNTQ3OWNh"
+          },
+          {
+            "numero": 3,
+            "titulo": "O Homem das Cavernas Escondido no Armário!",
+            "sinopse": "Chapolin procura o homem das cavernas Chimpandolfo, enquanto sua família organiza um jantar com um convidado perigoso.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/6cVBa5hwO2xOn7raUM4ZPeYBqsq.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjNzI4MWM2Mjg3Y2FhNzViMjQzZDVjNjUyODAyZTA3ZTAzNTQ3OWNh"
+          },
+          {
+            "numero": 4,
+            "titulo": "Tem Uma Pinhata Viva!",
+            "sinopse": "O Doutor Lobstein cria pinhatas vivas e \"zumbis\" para a festa de Bobby. Lina terá que enfrentar o Pinhatassauro e salvar o dia.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/bIWlxEF45BpheV08V0vXXZ9khvy.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjNzI4MWM2Mjg3Y2FhNzViMjQzZDVjNjUyODAyZTA3ZTAzNTQ3OWNh"
+          },
+          {
+            "numero": 5,
+            "titulo": "Lina Fica Grandona, Lina Fica Pequenininha",
+            "sinopse": "Ai, que barbaridade! Vovó revela o acidente que Lina sofreu com a fórmula de Nanicolina no laboratório do Professor Inventivo, quando ainda era bebê.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/q1ekIh6vbC4iHsAy1leB2U4r9BE.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjNzI4MWM2Mjg3Y2FhNzViMjQzZDVjNjUyODAyZTA3ZTAzNTQ3OWNh"
+          },
+          {
+            "numero": 6,
+            "titulo": "No Mar a Vida É Mais Gostosa... Até o Tubarão Aparecer!",
+            "sinopse": "A família Colorado viaja para a Praia do Encanto para descansar, mas resgata um cachorrinho que coloca Chapolin em mil encrencas. Enquanto todos enfrentam desventuras, Chapolin precisa deter Seu Trocadeiro, decidido a tomar o porto.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/hTcOH1p3U1pYGBHTZBapnLrYIkQ.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjNzI4MWM2Mjg3Y2FhNzViMjQzZDVjNjUyODAyZTA3ZTAzNTQ3OWNh"
+          },
+          {
+            "numero": 7,
+            "titulo": "Um Conto Encantado do Chapolin Colorado",
+            "sinopse": "A família Colorado cai sob o feitiço de Rinha, que os prende em um conto de fadas. Lá, cada um enfrenta seus medos e, com a ajuda do Senhor Pedrão e dos Churi Churín, Fun Flais, eles precisam derrotar Rinha para conseguir escapar do conto.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/dVL7TPoVmbQT0JAwVZut95ygRua.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjNzI4MWM2Mjg3Y2FhNzViMjQzZDVjNjUyODAyZTA3ZTAzNTQ3OWNh"
+          },
+          {
+            "numero": 8,
+            "titulo": "Procura-se a Mãe do Bebê Jupiteriano",
+            "sinopse": "Seu escudo é um coração. Chapolin quer salvar um Bebê jupiteriano gigante que está causando na cidade, com a ajuda do Professor Inventivo e da família, antes que o exército o ataque. Enquanto isso, Lina tem seu primeiro encontro com Miguel.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/6yPzZRqGt1S8TFngVEqyBeQiCP0.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjNzI4MWM2Mjg3Y2FhNzViMjQzZDVjNjUyODAyZTA3ZTAzNTQ3OWNh"
+          },
+          {
+            "numero": 9,
+            "titulo": "Mais Barriga Que Juízo: A Saga dos Gordicholas",
+            "sinopse": "Durante uma viagem à Ilha Caribosa, a família Colorado é capturada pela tribo ancestral Pança-cola. Chapolin tenta libertá-los, mas, quando sua trapalhada complica tudo, a família precisa conquistar a confiança da tribo.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uwv5Lrd1zkVEC8T9vaZgrm7ILz9.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjNzI4MWM2Mjg3Y2FhNzViMjQzZDVjNjUyODAyZTA3ZTAzNTQ3OWNh"
+          },
+          {
+            "numero": 10,
+            "titulo": "Não Há Clone Que Não Venha Para o Bem",
+            "sinopse": "Chapolin usa a máquina clonadora do Professor Inventivo e cria vários clones que saem de controle. Enquanto centenas de Chapolins invadem a cidade, o Doutor Cerebrok sequestra Lina e a família Colorado enfrenta sua maior ameaça.",
+            "duracao": 24,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/wmdZMhH21rM1T2n3FbFuUHWN0Vz.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjNzI4MWM2Mjg3Y2FhNzViMjQzZDVjNjUyODAyZTA3ZTAzNTQ3OWNh"
+          }
+        ]
+      }
+    ]
   }
 ]
