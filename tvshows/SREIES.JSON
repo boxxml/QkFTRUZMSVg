@@ -9838,5 +9838,65 @@
         ]
       }
     ]
+  },
+    {
+    "id": "279185-o-tormento",
+    "titulo": "O Tormento",
+    "sinopse": "Após voltar à cidade natal, uma jornalista controversa se junta à investigação sobre o desaparecimento de um amigo de infância. Logo, ela descobre que a verdade revela segredos perigosos tanto do passado quanto do presente.",
+    "ano": 2026,
+    "nota": 0,
+    "classificacao": "14",
+    "estudio": "HBO Max",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=_o8olacVeF8",
+    "generos": [
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/32NMmkX5G8vmDXgxJRxKpRmZLVP.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/nnWGAlmimGJBqRLkB4rLdkzlPhH.jpg",
+    "banner": "",
+    "elenco": [
+      "Magdalena Cielecka",
+      "Piotr Żurawski",
+      "Łukasz Simlat",
+      "Piotr Głowacki",
+      "Dorota Kolak",
+      "Piotr Jankowski"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/32NMmkX5G8vmDXgxJRxKpRmZLVP.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "Łukasz Jaworski",
+            "thumb": "",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpvbXE2aXYybnk3cGd1bDJyYWdxdGI3Z3B1bHN2MnI3dQ=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          }
+        ]
+      }
+    ]
   }
 ]
