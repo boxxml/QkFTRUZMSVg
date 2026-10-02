@@ -10299,5 +10299,119 @@
         ]
       }
     ]
+  },
+    {
+    "id": "261145-o-incrivel-circo-digital",
+    "titulo": "O Incrível Circo Digital",
+    "sinopse": "Uma mulher vai parar em um circo virtual bizarro com outras cinco pessoas, onde são forçadas a participar de jogos sob as ordens de uma inteligência artificial bem louca.",
+    "ano": 2023,
+    "nota": 8.7,
+    "classificacao": "12",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=ned09SQH23s",
+    "generos": [
+      "Animação e Comédia e Drama e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/m6IDVi9F5G5ugrGNhKFFBYXZi6B.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+    "banner": "",
+    "elenco": [
+      "Lizzie Freeman",
+      "Alex Rochon",
+      "Michael Kovach",
+      "Amanda Hufford",
+      "Marissa Lenti",
+      "Sean Chiplock"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Uma mulher vai parar em um circo virtual bizarro com outras cinco pessoas, onde são forçadas a participar de jogos sob as ordens de uma inteligência artificial bem louca.",
+        "poster": "https://image.tmdb.org/t/p/original/qEXtr47m3XrF7WnqvrV0m1ECaub.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Piloto",
+            "sinopse": "Presa no Circo Digital e louca para ir embora, Pomni encontra outros humanos transformados em personagens de quadrinhos e Caim, o excêntrico mestre de pista.",
+            "duracao": 26,
+            "diretor": "Gooseworx",
+            "thumb": "https://image.tmdb.org/t/p/original/aoIpwK6Z93dFxgtHTlnFZzamLWk.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpycG9wa2JjNmxwa2p4bzNqdXV6ZWpmaGhvYnFjdWZhZw=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Desespero no Desfiladeiro Doce!",
+            "sinopse": "A turma recebe a missão de perseguir bandidos de xarope em um reino de doces, onde Pomni ajuda um fora da lei digital a lidar com uma complicada crise de identidade.",
+            "duracao": 26,
+            "diretor": "Gooseworx",
+            "thumb": "https://image.tmdb.org/t/p/original/j5TahVbttd9TjCeo5gdzvVIo9lu.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpycG9wa2JjNmxwa2p4bzNqdXV6ZWpmaGhvYnFjdWZhZw=="
+          },
+          {
+            "numero": 3,
+            "titulo": "O Mistério da Mansão Mildenhall",
+            "sinopse": "Kingo e Pomni exploram uma mansão mal-assombrada em uma aventura cheia de monstros, fantasmas e sessões de terapia.",
+            "duracao": 25,
+            "diretor": "Gooseworx",
+            "thumb": "https://image.tmdb.org/t/p/original/4haDAnhTNL6O4jznpuep4uyZxlM.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpycG9wa2JjNmxwa2p4bzNqdXV6ZWpmaGhvYnFjdWZhZw=="
+          },
+          {
+            "numero": 4,
+            "titulo": "Um Dia a Máscara Cai",
+            "sinopse": "A trupe passa o dia trabalhando em uma rede de fast-food. Quais aventuras estarão no cardápio?",
+            "duracao": 24,
+            "diretor": "Gooseworx",
+            "thumb": "https://image.tmdb.org/t/p/original/wduxOxIVsbgVk6fAggtHQpN0SBE.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpycG9wa2JjNmxwa2p4bzNqdXV6ZWpmaGhvYnFjdWZhZw=="
+          },
+          {
+            "numero": 5,
+            "titulo": "Sem Título",
+            "sinopse": "Caim leva o grupo a viver aventuras tiradas da caixa de sugestões. Pomni e Jax se aproximam.",
+            "duracao": 26,
+            "diretor": "Gooseworx",
+            "thumb": "https://image.tmdb.org/t/p/original/p7QToZAtIUrGtR8AfK1Yrt7MiDc.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpycG9wa2JjNmxwa2p4bzNqdXV6ZWpmaGhvYnFjdWZhZw=="
+          },
+          {
+            "numero": 6,
+            "titulo": "Todos Ganham Armas",
+            "sinopse": "Caim prepara a equipe para um jogo de sobrevivência brutal, no qual duplas devem procurar armas e resistir a três “mortes” para ganhar.",
+            "duracao": 34,
+            "diretor": "Gooseworx",
+            "thumb": "https://image.tmdb.org/t/p/original/r3kfaqbwDrhYYG690ix529MJDeE.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpycG9wa2JjNmxwa2p4bzNqdXV6ZWpmaGhvYnFjdWZhZw=="
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio na Praia",
+            "sinopse": "Todos vão à praia, mas revelações perturbadoras começam a expor problemas no circo de Caim.",
+            "duracao": 33,
+            "diretor": "Gooseworx",
+            "thumb": "https://image.tmdb.org/t/p/original/nzFQHkaIEKSlwRpFaZIad5wC9uu.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpycG9wa2JjNmxwa2p4bzNqdXV6ZWpmaGhvYnFjdWZhZw=="
+          },
+          {
+            "numero": 8,
+            "titulo": "hjsakldfhl",
+            "sinopse": "Caim decide aprontar uma palhaçada daquelas, mas dá tudo muito errado.",
+            "duracao": 32,
+            "diretor": "Gooseworx",
+            "thumb": "https://image.tmdb.org/t/p/original/qOB3Ke3h3wqqNV6frzzdjzYRIzI.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpycG9wa2JjNmxwa2p4bzNqdXV6ZWpmaGhvYnFjdWZhZw=="
+          },
+          {
+            "numero": 9,
+            "titulo": "Lembrem-se",
+            "sinopse": "A realidade começa a sair dos trilhos e a trupe acaba descobrindo a verdade por trás do Circo Digital.",
+            "duracao": 59,
+            "diretor": "Gooseworx",
+            "thumb": "https://image.tmdb.org/t/p/original/tjnCf8l4zyqOQoVs5IuyadtyY3o.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpycG9wa2JjNmxwa2p4bzNqdXV6ZWpmaGhvYnFjdWZhZw=="
+          }
+        ]
+      }
+    ]
   }
 ]
