@@ -9736,5 +9736,108 @@
         "episodios": []
       }
     ]
+  },
+    {
+    "id": "289324-star-wars-visions-apresenta-a-nona-jedi",
+    "titulo": "Star Wars: Visions Apresenta — A Nona Jedi",
+    "sinopse": "Kara e sua equipe heterogenia Jedi partem em busca de mais Jedi dignos para lutar contra um senhor da guerra cada vez mais poderoso.",
+    "ano": 2026,
+    "nota": 7.5,
+    "classificacao": "14",
+    "estudio": "Hulu",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=GoyZOG5NSBM",
+    "generos": [
+      "Animação e Sci-Fi & Fantasy e Action & Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/1O3ExMFvf2gUPD6WIyfD3dou9eB.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
+    "banner": "",
+    "elenco": [
+      "Chinatsu Akasaki",
+      "峯田大夢",
+      "Shin-ichiro Miki"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/1O3ExMFvf2gUPD6WIyfD3dou9eB.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Uma nova ameaça",
+            "sinopse": "Perseguido, Juro busca ajuda de um velho amigo, enquanto Kara descobre que seu pai está vivo.",
+            "duracao": 31,
+            "diretor": "多田俊介",
+            "thumb": "https://image.tmdb.org/t/p/original/knHGUz5idx8JyRTVhlGyj3KlA54.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsNGxta2Z4amNleWZjcHVmd2N3ZnRhajNlZmlvbjQ3Yw=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Uma arma escondida",
+            "sinopse": "Kara e os Jedi se unem a uma colônia de mineradores na luta contra um inimigo comum.",
+            "duracao": 30,
+            "diretor": "松澤建一",
+            "thumb": "https://image.tmdb.org/t/p/original/2nNo2b78oJWvynPrU5z61gQJE6k.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsNGxta2Z4amNleWZjcHVmd2N3ZnRhajNlZmlvbjQ3Yw=="
+          },
+          {
+            "numero": 3,
+            "titulo": "Voz do passado",
+            "sinopse": "Ao resgatar civis do ataque de Nawaam, Kara descobre a verdade sobre o passado sombrio de seu pai.",
+            "duracao": 29,
+            "diretor": "多田俊介",
+            "thumb": "https://image.tmdb.org/t/p/original/gVuVkqZyeJLj4UFU0x3v3QWWgZQ.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsNGxta2Z4amNleWZjcHVmd2N3ZnRhajNlZmlvbjQ3Yw=="
+          },
+          {
+            "numero": 4,
+            "titulo": "Nawaam ataca",
+            "sinopse": "Kara finalmente confronta Nawaam, que revela o motivo do sequestro de seu pai.",
+            "duracao": 30,
+            "diretor": "多田俊介",
+            "thumb": "https://image.tmdb.org/t/p/original/28VIpU3jVFnd3e0wfT4HxLgd8AB.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsNGxta2Z4amNleWZjcHVmd2N3ZnRhajNlZmlvbjQ3Yw=="
+          },
+          {
+            "numero": 5,
+            "titulo": "A tempestade de violência",
+            "sinopse": "Após a perda, Kara questiona seu futuro, o domínio de Nawaam sobre a galáxia se intensifica.",
+            "duracao": 30,
+            "diretor": "多田俊介",
+            "thumb": "https://image.tmdb.org/t/p/original/3FxlYYAvM1MD3BuFxaf2VtjP1YG.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsNGxta2Z4amNleWZjcHVmd2N3ZnRhajNlZmlvbjQ3Yw=="
+          },
+          {
+            "numero": 6,
+            "titulo": "Luz da Força",
+            "sinopse": "Aprisionada pelas forças de Nawaam, Kara precisa se unir a um aliado improvável pra escapar.",
+            "duracao": 25,
+            "diretor": "多田俊介",
+            "thumb": "https://image.tmdb.org/t/p/original/aafL2fgKwlFv5bzXrSMSIZ3bfM0.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsNGxta2Z4amNleWZjcHVmd2N3ZnRhajNlZmlvbjQ3Yw=="
+          },
+          {
+            "numero": 7,
+            "titulo": "Os Jedi contra-atacam",
+            "sinopse": "Kara e os Jedi se unem em um esforço para destruir a arma suprema de Nawaam.",
+            "duracao": 23,
+            "diretor": "多田俊介",
+            "thumb": "https://image.tmdb.org/t/p/original/r98nteOqjJkntzqaO8ZBDnjVyTo.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsNGxta2Z4amNleWZjcHVmd2N3ZnRhajNlZmlvbjQ3Yw=="
+          },
+          {
+            "numero": 8,
+            "titulo": "A Nona Jedi",
+            "sinopse": "Kara testa sua crença nos ensinamentos Jedi enquanto enfrenta Nawaam pelo destino da galáxia.",
+            "duracao": 33,
+            "diretor": "多田俊介",
+            "thumb": "https://image.tmdb.org/t/p/original/njbXxyOreIkc1dpP3vlpsjDfD1i.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsNGxta2Z4amNleWZjcHVmd2N3ZnRhajNlZmlvbjQ3Yw=="
+          }
+        ]
+      }
+    ]
   }
+]
 ]
