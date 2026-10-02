@@ -9898,5 +9898,110 @@
         ]
       }
     ]
+  },
+   {
+    "id": "298852-guerra",
+    "titulo": "Guerra",
+    "sinopse": "Série de antologia em que dois dos escritórios de advocacia mais poderosos de Londres se enfrentam em batalhas jurídicas explosivas.",
+    "ano": 2026,
+    "nota": 9,
+    "classificacao": "16",
+    "estudio": "Sky Atlantic",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=-MRQLOVTQZU",
+    "generos": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/47jQlcNUoFhHy3XDviyjmVU7y1A.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
+    "banner": "",
+    "elenco": [
+      "Dominic West",
+      "Sienna Miller",
+      "Phoebe Fox",
+      "James McArdle",
+      "Nina Sosanya",
+      "Pip Torrens"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Acompanhe o confronto entre dois dos escritórios de advocacia mais prestigiados da cidade: Cathcarts & Sons e Taylor & Byrne. As duas firmas entram em guerra ao assumirem o caso de divórcio do século: a escandalosa separação entre o magnata da tecnologia Morgan Henderson e sua esposa, a renomada estrela internacional do cinema Carla Duval.",
+        "poster": "https://image.tmdb.org/t/p/original/47jQlcNUoFhHy3XDviyjmVU7y1A.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "",
+            "duracao": 53,
+            "diretor": "Ben Taylor",
+            "thumb": "https://image.tmdb.org/t/p/original/sGqmd2CUbAJvhkm9YoWdikEMfUW.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpnNGpza2lzaW11ZmNteXNzMzN2NjN6MmJ2YmloY2Fzaw=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "",
+            "duracao": 56,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "",
+            "duracao": 51,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          }
+        ]
+      }
+    ]
   }
 ]
