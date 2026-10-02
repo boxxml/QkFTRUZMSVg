@@ -10212,5 +10212,92 @@
         ]
       }
     ]
+  },
+   {
+    "id": "321291-territorios-sob-o-dominio-do-crime",
+    "titulo": "Territórios - Sob o Domínio do Crime",
+    "sinopse": "Com acesso inédito e relatos impactantes de vítimas, autoridades e ex-chefes do tráfico, a série documental mostra como facções criminosas tomaram o controle de parte do Brasil.",
+    "ano": 2026,
+    "nota": 8,
+    "classificacao": "16",
+    "estudio": "Globoplay",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=-l2cagpMpVA",
+    "generos": [
+      "Documentário e Crime e War & Politics"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/sq5oUBojNNbk97hKMAk0IqGo2Vc.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/vMDlPPk52iBAvWWGB8azT5blr8z.jpg",
+    "banner": "",
+    "elenco": [
+      "Paulo Renato Soares",
+      "Leslie Leitão",
+      "Mahomed Saigg",
+      "Luiz Fernando da Costa",
+      "Delegado Fabrício",
+      "Ivana David"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/r4ClDl5sYE65HBf5r87bNLjyzzH.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Quem Controla o Território?",
+            "sinopse": "Uma megaoperação no Rio de Janeiro retrata todas as dificuldades no enfrentamento às facções criminosas que se espalham pelo Brasil.",
+            "duracao": 54,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/5kBj8OdMQ1GM7mPQOkRJs3sBmBx.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTdmMDgxOTEzN2U2NmMzNTBiNDcxZGJmZTc1NDRlNmFkYzFhMTRl"
+          },
+          {
+            "numero": 2,
+            "titulo": "O Fenômeno do Fuzil",
+            "sinopse": "Traficantes inundam o país com fuzis de guerra. A busca pelo poderio bélico transforma o crime, dita as táticas policiais e espalha a violência nas ruas, cidades e nos hospitais.",
+            "duracao": 51,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/4YSrBkTiHa3mkFAhqku0Z6wr2LT.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTdmMDgxOTEzN2U2NmMzNTBiNDcxZGJmZTc1NDRlNmFkYzFhMTRl"
+          },
+          {
+            "numero": 3,
+            "titulo": "Aqui o Crime se Organiza",
+            "sinopse": "Os presídios como berço das duas maiores facções do Brasil: Comando Vermelho e PCC. O cárcere se transforma no motor de expansão das facções. Os presídios federais são a solução?",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/8MxJJCk9rRf7YEuMC81VunsKBV5.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTdmMDgxOTEzN2U2NmMzNTBiNDcxZGJmZTc1NDRlNmFkYzFhMTRl"
+          },
+          {
+            "numero": 4,
+            "titulo": "O Fio do Crime",
+            "sinopse": "Fortalecido, o crime organizado cruza fronteiras, se espalha por todos os estados do país e se infiltra na economia legal. Das rotas na Amazônia e postos de combustíveis à lavagem de dinheiro, as facções constroem um império corporativo e bilionário.",
+            "duracao": 57,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/fDymQlmqZWxQBXOr6kcml3kOmVE.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTdmMDgxOTEzN2U2NmMzNTBiNDcxZGJmZTc1NDRlNmFkYzFhMTRl"
+          },
+          {
+            "numero": 5,
+            "titulo": "Território é Lucro?",
+            "sinopse": "Agentes do Estado criam milícias e transformam o domínio territorial em negócio. O tráfico aprende com as milícias e passa a monopolizar serviços e extorquir dinheiro de moradores.",
+            "duracao": 38,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uDnZpYXuYckG9NwORcSJ8HavZCR.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTdmMDgxOTEzN2U2NmMzNTBiNDcxZGJmZTc1NDRlNmFkYzFhMTRl"
+          },
+          {
+            "numero": 6,
+            "titulo": "Território da Corrupção",
+            "sinopse": "A simbiose entre crime e política sabota projetos de paz e perpetua a crise na segurança pública, revelando que uma das armas mais poderosa das facções é a corrupção.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/5tvOlEuCKHcDZfvhTWTx2Hi0GE8.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowOTdmMDgxOTEzN2U2NmMzNTBiNDcxZGJmZTc1NDRlNmFkYzFhMTRl"
+          }
+        ]
+      }
+    ]
   }
 ]
