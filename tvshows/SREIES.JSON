@@ -10823,5 +10823,977 @@
         ]
       }
     ]
-  }
+  },
+   {
+    "id": "2085-coragem-o-cao-covarde",
+    "titulo": "Coragem, o Cão Covarde",
+    "sinopse": "Coragem é um cão incrivelmente tímido e muito fácil de assustar que precisa defender um velho casal de aposentados de acontecimentos paranormais que ameaçam a segurança e a estabilidade da sua casa.",
+    "ano": 1999,
+    "nota": 8.2,
+    "classificacao": "L",
+    "estudio": "Cartoon Network",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=hb0snx_0qnI",
+    "generos": [
+      "Animação e Família e Sci-Fi & Fantasy e Comédia e Kids"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/yLn8nI9Ec3LZ1WflYxo9MjF4BBg.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/dugFpakDXxjDjEUloukNqAx3cjK.jpg",
+    "banner": "",
+    "elenco": [
+      "Marty Grabstein",
+      "Thea White",
+      "Simon Prebble",
+      "Billie Lou Watt",
+      "Paul Schoeffler",
+      "Arthur Anderson"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/xBJji2a1lJwXA8hEED7HMoRCRgp.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Uma Noite no Motel Katz",
+            "sinopse": "Coragem, Muriel e Eustace ficam em um motel e ficam assustados com aranhas e um gato louco chamado Katz, que os caça. Muriel vem em socorro e salva Courage de Katz, depois leva todos para casa.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/7dJ7vxgnQqty3yQx3UPqWszUSZp.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0wMS5ta3Y="
+          },
+          {
+            "numero": 2,
+            "titulo": "Ensopado de Vovó",
+            "sinopse": "Muriel e Courage estão alimentando pássaros no parque. Uma raposa cajun passa e decide capturar Muriel, para que ele possa fazer um ensopado de vovó cajun. Coragem e raposa brigam por ela em terra e em um avião. Finalmente, Courage a salva no último minuto.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/tlLLDeIWSNPBQdurXR4GcS05sBG.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0wMi5ta3Y="
+          },
+          {
+            "numero": 3,
+            "titulo": "A Sombra do Coragem",
+            "sinopse": "Um cientista morre e sua sombra assusta a cidade de lugar nenhum e depois a casa dos Bagge.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/158EWXrZZaZUed7K3pA9hjW1NB3.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0wMy5ta3Y="
+          },
+          {
+            "numero": 4,
+            "titulo": "Dr. Le Quack, Especialista em Amnésia",
+            "sinopse": "Muriel e Courage estão alimentando pássaros no parque. Uma raposa cajun passa e decide capturar Muriel, para que ele possa fazer um ensopado de vovó cajun. Coragem e raposa brigam por ela em terra e em um avião. Finalmente, Courage a salva no último minuto.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/kvhza2Qz1tUUhrZGSMNKYMDzT0D.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0wNC5ta3Y="
+          },
+          {
+            "numero": 5,
+            "titulo": "Coragem Encontra o Pé Grande",
+            "sinopse": "Pé Grande chega à casa dos Bagge. Coragem e Pé Grande brigam por comida, dançam com roupas de Carmen Miranda e se divertem. Toda a diversão pára bruscamente assim que uma multidão chega para receber uma recompensa pelo Bigfoot. O pai de Bigfoot aparece e o leva para casa, sem que ninguém se machuque.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/igrnDGWWBy8Dn6Rx1FSbEEwzTfP.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0wNS5ta3Y="
+          },
+          {
+            "numero": 6,
+            "titulo": "Cabeça Quente",
+            "sinopse": "Um cientista morre e sua sombra assusta a cidade de lugar nenhum e depois a casa dos Bagge. A sombra então admite que está cansado de assustar as pessoas e decide se tornar uma estrela no céu, literalmente!",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/cFgu1E1qtp5KbWpDRuwZjLd3KMM.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0wNi5ta3Y="
+          },
+          {
+            "numero": 7,
+            "titulo": "O Demônio do Colchão",
+            "sinopse": "Muriel é atingido na cabeça por um pedaço do telhado e desenvolve amnésia. Eustace tira proveito disso e transforma sua esposa em uma \"escrava\". Coragem entra na internet para encontrar um especialista em amnésia, mas é respondido por Le Quack, um ladrão que se apresenta como médico! Coragem tenta obter ajuda, enquanto Le Quack tortura Muriel por informações sobre seus objetos de valor.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/mjQxkZfACEbVCOG9xLzbdFL4RCi.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0wNy5ta3Y="
+          },
+          {
+            "numero": 8,
+            "titulo": "Fred Esquisitão",
+            "sinopse": "Muriel convida seu parente enlouquecido, Fred, para sua casa. Ele tem um problema, no entanto. Ele não pode parar de dar cortes de cabelo. Ele corta todo o cabelo de Courage e é pego pela polícia, que o envia de volta para um manicômio.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/2EPmkMno1oLMGhXeeKCVuwjF4bA.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0wOC5ta3Y="
+          },
+          {
+            "numero": 9,
+            "titulo": "Noite da Toupeira Lobisomem",
+            "sinopse": "Pé Grande chega à casa dos Bagge. Coragem e Pé Grande brigam por comida, dançam com roupas de Carmen Miranda e se divertem. Toda a diversão pára bruscamente assim que uma multidão chega para receber uma recompensa pelo Bigfoot. O pai de Bigfoot aparece e o leva para casa, sem que ninguém se machuque.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/bih7ilF25HOM0AgsIJHMH7fmge0.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0wOS5ta3Y="
+          },
+          {
+            "numero": 10,
+            "titulo": "Dia das Mães",
+            "sinopse": "Eustace & Courage visitam Ma (mãe de Eustace). Muriel se recusa a vê-la. Quando eles chegam ao trailer, ela recebe Courage em vez de Eustace, porque ele é apenas um \"garoto estúpido\". Quando almoçam, Courage recebe muita comida de cachorro e Eustace mal consegue bacon. Eustace dá a Ma alguns presentes, mas rejeita todos, exceto um, um espelho. Ma então dá a Courage um ursinho de pelúcia. Ela não tem um presente para Eustace. Ma então diz a Eustace como ele sempre foi uma criança assustada. Eustace então prova sua masculinidade por queda de braço. Ela quase vence, mas Courage coloca algumas flores no rosto (que ela é alérgica), fazendo-a espirrar, o que impede a queda de braço. Sua peruca cai e ela reclama de ser feia. Eustace diz: \"\" Não, mãe, você sempre pareceu bem comigo. \"\" Ele então tira o chapéu e mostra a cabeça careca também. Eles acabam se unindo.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/1xHRkNFBFTCNi54pcNTQFm9ylVb.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0xMC5ta3Y="
+          },
+          {
+            "numero": 11,
+            "titulo": "Os Irmãos Patos",
+            "sinopse": "Eustace quer mais cabelos na cabeça e compra esse novo tônico. Mal sabe ele que, quando fica bravo, o efeito do tônico o deixa perigosamente zangado!",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/674AsvAlyjSd6L4juEjhaLU7JA6.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0xMS5ta3Y="
+          },
+          {
+            "numero": 12,
+            "titulo": "Shirley, a Medium",
+            "sinopse": "Eustace contrata Shirley, o médium, para resolver as diferenças entre Eustace e seu irmão morto, Horace. Algumas coisas assustadoras acontecem e Eustace pega a caixa de seu irmão, mas não no bom sentido.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/bXidwAtEAOuYboB6H95Z1EYovAJ.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0xMi5ta3Y="
+          },
+          {
+            "numero": 13,
+            "titulo": "A Maldição do Rei Ramsés",
+            "sinopse": "A coragem encontra uma laje que pertencia a um sujeito morto chamado King Ramses. Um cara chamado Professor Flith vem e diz que a laje pertence ao museu. No entanto, Eustace (sabendo que vale muito) não vai dar a ele. Então, o fantasma do rei Ramsés chega e causa pragas que não param até que Eustace devolva a laje ao museu. O primeiro é um dilúvio, o segundo é música alta e o terceiro é gafanhoto. A laje é finalmente devolvida, mas Eustace agora está possuído pelo rei Ramsés, como punição por sua ganância.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/acxDuercEZnERTPq8LqDaCBTk6N.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0xMy5ta3Y="
+          },
+          {
+            "numero": 14,
+            "titulo": "O Pé Dominador",
+            "sinopse": "Muriel pede um colchão novo e, quando ela deita, um demônio dentro do colchão entra em seu corpo e assume. Coragem se livra do demônio ao encontrar um canto no computador. Ele sai do corpo de Muriel e o colchão é enviado de volta.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/8EYIX2MIID32MPRdjI4Z1AZE1VG.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0xNC5ta3Y="
+          },
+          {
+            "numero": 15,
+            "titulo": "O Corcunda de Lugar Nenhum",
+            "sinopse": "Um corcunda que é rejeitado por todos quer encontrar uma casa para dormir. Ele vai para a casa de Bagge, mas Eustace o rejeita. Está chovendo e Courage pega a capa de chuva de Eustace e encontra o corcunda no celeiro. Ele é muito amigável e juntos se divertem fazendo bonecos de sombra, acrobacias e toques de campainha. Muriel está feliz por ter o corcunda com eles, mas Eustace quer que ele vá.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/w88X6mwbv7G98iyUztulHStLoJb.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0xNS5ta3Y="
+          },
+          {
+            "numero": 16,
+            "titulo": "Os Deuses Estão Virando Patos",
+            "sinopse": "Um Deus ganso quer se casar com Muriel. Ele flerta com ela, mas Courage está com raiva porque acha que o Deus dos Ganso levará Muriel para sempre. Ele tenta agir como se Eustace estivesse sendo gentil com Muriel. Muriel diz que não pode se casar com o deus dos ganso porque \"ela já falou por\". O Deus Ganso tenta sequestrá-la, mas quando Courage faz o caminhão de Eustace buzinar, o Deus Ganso o ama e deixa Muriel. Ele acaba se casando com o caminhão de Eustace!",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/7RvA3z0fi4Tngo57brMJtV1PySN.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0xNi5ta3Y="
+          },
+          {
+            "numero": 17,
+            "titulo": "A Rainha da Poça Negra",
+            "sinopse": "Uma rainha que vive em uma poça no quintal da fazenda se ergue da poça. Eustace vê essa rainha e decide seguir a gostosa. Mal ele sabe que ela é má e planeja comê-lo. Ela o arrasta para a poça, e Courage segue para salvar Eustace. Ela mora em um castelo, onde planeja comê-lo. Coragem o salva e sai da poça, pois eles simplesmente deixam de ser capturados.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/2zmRvFEMVl8drsIBqF7yTHrRJSf.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0xNy5ta3Y="
+          },
+          {
+            "numero": 18,
+            "titulo": "Todo Mundo Quer Dirigir",
+            "sinopse": "Benton Tarentella e Erin Von Volkheim são dois diretores de filmes mortos que pretendem capturar Muriel e comê-la. Eustace adora essa ideia de participar de um filme pelo dinheiro, enquanto Muriel adora estar na câmera. Coragem odeia a idéia. Eustace acaba trancando Courage em um porta-malas porque ele continuou tentando impedir que esse filme real acontecesse. Coragem encontra o script no porta-malas e o reescreve para que Muriel seja salvo. Então, Benton e Erin brigam e afirmam nunca mais trabalhar juntos, desistindo de sua idéia realista de filme e se enterrando de volta onde sempre foram enterrados: embaixo do porão de Bagge! Tudo volta ao normal.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/cg77AAMJIVifQhytF8mj8MYDSSg.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0xOC5ta3Y="
+          },
+          {
+            "numero": 19,
+            "titulo": "O Boneco de Neve",
+            "sinopse": "Coragem, Muriel e Eustace vão de férias ao Pólo Norte. Coragem sai para pegar lenha e volta ao iglu (onde estavam hospedados) e descobre que todo mundo se foi. Coragem sabia que era um boneco de neve, porque ele viu isso antes. Ele descobriu que o boneco de neve estava tomando um líquido do corpo de Eustace e Muriel para poder viver em clima quente e não derreter. Coragem é capturada pelo boneco de neve, mas explode e salva os dois. O boneco de neve cai na água gelada enquanto os persegue e congela em um cubo de gelo gigante. Muriel, Courage e Eustace vão para casa.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/7LDvuVzfCRBzfKNP2O0gwMt1ybb.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0xOS5ta3Y="
+          },
+          {
+            "numero": 20,
+            "titulo": "O Patinho Adorável, Encantador, Lindo e Carinhoso",
+            "sinopse": "A coragem encontra um ovo de pato, leva-o para dentro e entrega-o a Eustace. Eustace acha que vai comer no café da manhã, mas descobre que ainda está vivo. Ele choca e pensa que Eustace é sua mãe. O pato se torna \"escravo de Eustace\" e tem ciúmes de Muriel e Courage, o que faz com que ele faça truques desagradáveis ​​em ambos. A coragem acaba com isso, em que ...",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/oKZRaNTiVikfUrLM2S6h3neAT5m.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0yMC5ta3Y="
+          },
+          {
+            "numero": 21,
+            "titulo": "Hambúrguer com Personalidade",
+            "sinopse": "Muriel está doente, então ela envia Courage e Eustace para ir à padaria para ela. Eustace entra em sua caminhonete e decide ir comer primeiro. Ele vai para um lugar chamado \"Hambúrgueres: Muito Barato!\". O dono é um porco chamado Jonn Bonne. Ele dá hambúrgueres Eustace e Courage. Quando Courage vê um cara entrar em uma sala e não voltar, ele acha que foi transformado em hambúrguer porque o hambúrguer se parece com ele. Ele desce e vê Jonn Bonne e sua esposa conversando sobre uma silhueta da cabeça de uma pessoa em uma mesa! Os Bonnes vão atrás de Courage, mas ele escapa pelo compartimento de correspondência e corre todo o caminho de casa. Muriel ficou melhor. Acontece que as cabeças eram realmente esculturas feitas de carne de hambúrguer que Jonn Bonne faz. Ele, sua esposa, Eustace e aquele cara comem um de Eustace.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/nWbWjtQtprlkIU2BCUWGve4dVa0.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0yMS5ta3Y="
+          },
+          {
+            "numero": 22,
+            "titulo": "Clube Katz",
+            "sinopse": "Dois patos colocam um dispositivo elétrico na cabeça de Muriel e ela fica sob o controle deles por um controle remoto. Os patos fazem isso para que possam salvar o terceiro irmão, que está preso em uma cozinha e pronto para ser comido por humanos. Eventualmente, o mesmo é feito com o Eustace. Coragem fala com os Patos e elabora um plano para salvar seu irmão. Coragem, Eustace e Muriel estabelecem a paz com os irmãos patos. Os patos voltam para casa no espaço.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/r0dRssUU768Sn47cwIFdjWeqKbj.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0yMi5ta3Y="
+          },
+          {
+            "numero": 23,
+            "titulo": "A Vingança do Frango Espacial",
+            "sinopse": "Coragem percebe que um OVNI familiar vem em direção à Casa dos Bagge. Ele vê uma galinha (a mesma galinha do episódio piloto. A coragem disparou na galinha com uma arma de fogo e explodiu a cabeça da galinha). A galinha quer uma vingança, então ele captura Muriel. A coragem a salva antes que qualquer dano seja causado. Ele captura Eustace e tira sua cabeça com um êmbolo! A galinha (com a cabeça de Eustace) persegue Muriel e Courage, mas depois tudo acaba bem, com exceção da cabeça perdida de Eustace.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/tu8ufNS3RxeHmTHlT2D8GIzaw5.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0yMy5ta3Y="
+          },
+          {
+            "numero": 24,
+            "titulo": "Viagem ao Centro de Lugar Nenhum",
+            "sinopse": "Eustace contrata Shirley, o médium, para resolver as diferenças entre Eustace e seu irmão morto, Horace. Algumas coisas assustadoras acontecem e Eustace pega a caixa de seu irmão, mas não no bom sentido.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/tUytW2vq0UOXvuZCXGGyy3yogcU.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0yNC5ta3Y="
+          },
+          {
+            "numero": 25,
+            "titulo": "A Pequena Muriel",
+            "sinopse": "A coragem encontra uma laje que pertencia a um sujeito morto chamado King Ramses. Um cara chamado Professor Flith vem e diz que a laje pertence ao museu. No entanto, Eustace (sabendo que vale muito) não vai dar a ele. Então, o fantasma do rei Ramsés chega e causa pragas que não param até que Eustace devolva a laje ao museu. O primeiro é um dilúvio, o segundo é música alta e o terceiro é gafanhoto. A laje é finalmente devolvida, mas Eustace agora está possuído pelo rei Ramsés, como punição por sua ganância.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/x5uxxdHJLUDbT3h61mJzdnqZhUV.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0yNS5ta3Y="
+          },
+          {
+            "numero": 26,
+            "titulo": "O Grande Fusilli",
+            "sinopse": "O Grande Fusilli: Um trailer de viagem chega. O Grande Fusilli o abriga e decide fazer Eustace, Muriel e Courage atuarem em seu set portátil. Mas Courage descobre um monte de marionetes e vê que Eustace e Muriel se transformaram em marionetes. Coragem deve parar a loucura.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/zqNbuweVCHXvjmkqvG4Mj6T41Fg.jpg",
+            "url": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjA4NS0wMS0yNi5ta3Y="
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/yTFCLjCKaWx3vhl2kLywQH01j1r.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "A Árvore Mágica de Lugar Nenhum",
+            "sinopse": "Eustace cresce uma árvore mágica que pode conceder a ele o que ele quiser. Quando recebe mais atenção do que Eustace, ele decide reduzi-lo. Coragem protege, mas eventualmente é reduzida. No entanto, a árvore tem poder suficiente para dar a Courage a cura para a nova doença de cabeça inchada de Muriel.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/iFYPhK10Ue7OhZKP1ABlPn8nidy.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "O Robô Randy",
+            "sinopse": "Em um planeta distante, havia uma corrida de robôs que viviam para matar coisas. Um robô não-sanguinário chamado Randy foi banido de seu planeta. Para mostrar que vale a pena, ele vai para a Terra e escraviza Muriel, Eustace e Courage. Mais tarde, Courage encontra Randy sozinho falando sobre como ele não quer destruir, e ele realmente gosta de esculpir madeira. Mais tarde, quando os três não seguem as ordens de Randy, Randy está prestes a esmagar Eustace e Muriel. Coragem desafia Randy a uma competição de break dance para definir seus destinos. Coragem vence, fazendo Muriel e Coragem fazer Randy renovar sua fé em esculpir uma rena. Em seu planeta natal, Randy abre uma rena de madeira e m ...",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/sqeve9KNXAjlQ7r7xE47DNBieUw.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "A Maldição de Shirley",
+            "sinopse": "Em um planeta distante, havia uma corrida de robôs que viviam para matar coisas. Um robô não-sanguinário chamado Randy foi banido de seu planeta. Para mostrar que vale a pena, ele vai para a Terra e escraviza Muriel, Eustace e Courage. Mais tarde, Courage encontra Randy sozinho falando sobre como ele não quer destruir, e ele realmente gosta de esculpir madeira. Mais tarde, quando os três não seguem as ordens de Randy, Randy está prestes a esmagar Eustace e Muriel. Coragem desafia Randy a uma competição de break dance para definir seus destinos. Coragem vence, fazendo Muriel e Coragem fazer Randy renovar sua fé em esculpir uma rena. Em seu planeta natal, Randy abre uma rena de madeira e m ...",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/nhy0pnHp455AdtvegKQB0Qyij3M.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Coragem na Cidade Grande",
+            "sinopse": "Muriel está programado para se apresentar na cidade de Nova York. Um inseto obscuro chamado Shwick afirma trabalhar para o show e os leva a uma sala abaixo do palco. O bug envia Courage para pegar um pacote e se ele não o fizer, ele matará Muriel. Coragem traz de volta, mas está quebrado. Coragem agarra Muriel e corre em direção ao palco para pré-forma. Swhwick os persegue no palco, onde a polícia o detém.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/sQHAX2X4PWnsvgykvOltjCWKZfE.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Negócios de Família",
+            "sinopse": "Basil, um burgular confuso, chega à casa de Bagge. Em um minuto, ele tenta levá-los como reféns; no minuto seguinte, ele se convida para jantar com Eustace, Muriel e Courage. Ele renomeia todos eles, ele acha que eles são sua família. Ele chama Coragem de \"Nigel\", Muriel é \"Mama Mash Potatos\" e Eustace é \"\" Tio Twinkle Toes \"\". Após a ceia estranha, o burgular leva os três para o Monte Rushmore. Ele quer remover todas as cabeças dele! A luta da polícia para obter o burgular (no nariz de Lincoln) Courage apenas o salva, e o burgular decide então assumir uma nova profissão ...",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/4ce6dW0pvUUOIgOIickjgVJetsn.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "1000 Anos de Coragem",
+            "sinopse": "Shirley, o médium, amaldiçoa Eustace. A maldição é que uma nuvem de chuva flutua sobre a cabeça de Eustace. Quanto mais cruel ele é, mais extrema é a tempestade. A única maneira de quebrar a maldição é Eustace mostrar bondade. Coragem tem que segurar um espelho no rosto de Eustace, o que faz com que Eustace tenha um flashback e se vê como um garotinho no espelho. Ele mostra bondade, dando ao menininho o chapéu, porque ele está com frio. Na verdade, ele coloca na cabeça de Courage pensando que ele é o garoto. A maldição desaparece, mas depois retorna.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/Ak96xokUffTNIVTZPGdVmBuQ1v0.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Coragem Encontra a Múmia",
+            "sinopse": "Um padeiro nos tempos ocultos foi morto pela rainha porque ela acha que ele roubou os biscoitos que assou para ela e os vendeu. Ele ficou mumificado. Um dia a múmia acorda e sai para encontrar a rainha, ele vem para a casa de Muriel e pensa que Muriel é a rainha (ela se parece muito com ela) e Courage hipnotiza Muriel para ser uma rainha e Eustace para a pumba real. Na verdade, a pumba real nos tempos antigos era o verdadeiro criminoso, e não o padeiro. Eustace deve ser mumificado (não realmente, apenas para deixar a múmia satisfeita ao dizer isso). A rainha (Muriel) diz que o padeiro é inocente, sente muito por ele e diz como ela pode fazer as pazes com ele. Ela dá à múmia um dos lençóis favoritos de Eustace para dormir e ele lhe dá uma receita de biscoito.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/bEj4raDwFDAtaDE2xqTQ4eIPXOj.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Muriel Invisível",
+            "sinopse": "Muriel está programado para se apresentar na cidade de Nova York. Um inseto obscuro chamado Shwick afirma trabalhar para o show e os leva a uma sala abaixo do palco. O bug envia Courage para pegar um pacote e se ele não o fizer, ele matará Muriel. Coragem traz de volta, mas está quebrado. Coragem agarra Muriel e corre em direção ao palco para pré-forma. Swhwick os persegue no palco, onde a polícia o detém.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/5vKlngzvFdln7Uc7qxiMDxBsTPG.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Viveiro Humano",
+            "sinopse": "Basil, um burgular confuso, chega à casa de Bagge. Em um minuto, ele tenta levá-los como reféns; no minuto seguinte, ele se convida para jantar com Eustace, Muriel e Courage. Ele renomeia todos eles, ele acha que eles são sua família. Ele chama Coragem de \"Nigel\", Muriel é \"Mama Mash Potatos\" e Eustace é \"\" Tio Twinkle Toes \"\". Após a ceia estranha, o burgular leva os três para o Monte Rushmore. Ele quer remover todas as cabeças dele! A luta da polícia para obter o burgular (no nariz de Lincoln) Courage apenas o salva, e o burgular decide adotar uma nova profissão ... Massageando Enguias!",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/bh6L7u5Egc0UK4UbVMm86aKKgtf.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Missão para o Sol",
+            "sinopse": "A coragem é ordenada a ir ao sol e fixar a lâmpada nele. Está tudo bem até o cérebro de Muriel ser dominado por um alienígena! Muriel faz mal e tenta jogar Coragem fora da nave espacial. Enquanto isso, o chapéu de Eustace fica preso no toliet e é bombeado para o espaço! Eustace corre atrás dele. Muriel então destrói os fios da nave espacial e a nave perde o controle e mergulha no sol! Felizmente, ok. Coragem conserta a lâmpada e as folhas alienígenas de Muriel. Para voltar para casa, eles vêem Eustace montado em um asteróide segurando seu chapéu! Eles pegam carona e chegam em casa. Mas o Alien diz que ele estará de volta, (quando o episódio termina, o alienígena entra no cérebro de Eustace ...",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/dKv2keY16xSBxDL4Y0frB7dwk6p.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "Uma Mosca Chamada Coragem",
+            "sinopse": "Durante o Bingo, Muriel, Eustace e Courage são enviados 1000 anos no futuro, para um mundo onde as bananas são os habitantes da Terra. Coragem e bananas descobrem que o prefeito das bananas é um macaco. Coragem e bananas, então, derrubam o rei macaco e o exibem em um palco e o fazem pré-forma. O Bagge é enviado ...",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/lhJyONpK2YTx3NJyLu5B97xvkyJ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "A Loja de Doces",
+            "sinopse": "Katz quer uma das receitas de Muriel e quer saber o ingrediente secreto para que ele possa ganhar um concurso anual que Muriel sempre vence.Ele envia um monstro de geléia (feito de geléia real) para capturar Muriel & Courage segue para salvar Muriel. Katz mantém Muriel em cativeiro em seu cand.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/54hFSVAndHsEVsyhZOUwUB6AWj3.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "A TV de Lugar Nenhum",
+            "sinopse": "Eustace e Muriel quebram a TV e chamam Le Quak para consertar, mas Le Quack faz algo na TV para hipnotizar as pessoas.Ele as faz roubar dinheiro e, eventualmente, Courage luta contra Le Quack em uma batalha de televisão em 3D e a polícia vem e capturar Le Quack, Muriel e Eustace se tornam seus eus normais novamente.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/eE5IGxK1wLj5FwFSBNn4DMKiEOI.jpg",
+            "url": ""
+          },
+          {
+            "numero": 14,
+            "titulo": "Mega Muriel, a Magnífica",
+            "sinopse": "Computador da Coragem, que está cansado de responder às perguntas da Coragem sobre sombras, monstros, etc. e acha que não é assustador, então ele faz algo mau ... ele carrega sua memória no corpo de Muriel e o controla. Ele faz acrobacias para fazer Courage ter que resgatar o Computador (que está no corpo de Muriel). Eventualmente ele fica preso e Courage precisa salvá-lo de uma máquina. Até o Nowhere News estava lá para transmitir essas acrobacias de Muriel ou (o Computador). Eventualmente, o computador pede desculpas e volta ao monitor e Muriel volta ao seu estado normal.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/qVf6msQmuMQIZ0HbeffYJZY5TeK.jpg",
+            "url": ""
+          },
+          {
+            "numero": 15,
+            "titulo": "Um Dia Cabeludo",
+            "sinopse": "Descobrimos que Muriel tem um tipo sanguíneo raro de ABXYZ. Pessoas das Indústrias de crescimento a levam para onde seus cabelos são experimentados. Todo o esquema é apoiado por Ma.Courage salva Muriel.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/vKO4l3n5uKgMKtrdnkmXGi2FKMT.jpg",
+            "url": ""
+          },
+          {
+            "numero": 16,
+            "titulo": "O Chapéu Proibido de Ouro",
+            "sinopse": "Coragem desenterra uma estranha pedra brilhante de neon. Ele dá a Muriel como um presente. Acontece que essa é uma pedra da invisibilidade e Muriel começa a desaparecer. As autoridades capturam Muriel e Courage.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/2F8q06Ectem4ukiR1VwWevVHR3A.jpg",
+            "url": ""
+          },
+          {
+            "numero": 17,
+            "titulo": "A Serpente do Rio Malígno",
+            "sinopse": "Doc Gerbil, um falso vendedor de aspiradores, chega a Courage, Eustace e Muriel's House e pega um aspirador de pó e aspira Muriel e Eustace. Ele os leva ao seu laboratório e os coloca em um hábito humano. Ele realiza experimentos neles. Coragem consegue recuperá-los.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/eYkGz8at1Pfido7dbdHKh9uaKvD.jpg",
+            "url": ""
+          },
+          {
+            "numero": 18,
+            "titulo": "O Transplante",
+            "sinopse": "Courage encontra um osso no quintal, que acaba por ser o osso do extinto monstro canguru, como diz o construtor de Courage (aparentemente os cientistas não eram muito criativos no nome). Um esqueleto inteiro é encontrado e Eustace vende ossos para os cientistas. Quando Courage chega, Eustace acidentalmente cai do telhado e seu médico diz que é necessário um transplante de osso. Coragem decide usar o osso do monstro canguru para transplantar.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/cAksLOcO867g9sUEmzYoWMRRpYU.jpg",
+            "url": ""
+          },
+          {
+            "numero": 19,
+            "titulo": "Carro Quebrou, Telefone Sim",
+            "sinopse": "Uma pessoa estranha chega em casa. Muriel mostra boa hospitalidade e a criatura acaba por ser um alienígena disfarçado. O alienígena rouba a bondade de Muriel e Muriel se torna exatamente como Eustace. Coragem vai atrás do alienígena e, eventualmente, recupera a bondade de Muriel.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/5Yd5FJJowEHk0OoFuGqIuegNzgT.jpg",
+            "url": ""
+          },
+          {
+            "numero": 20,
+            "titulo": "Coragem Cowboy",
+            "sinopse": "A coragem é ordenada a ir ao sol e fixar a lâmpada nele. Está tudo bem até o cérebro de Muriel ser dominado por um alienígena! Muriel faz mal e tenta jogar Coragem fora da nave espacial. Enquanto isso, o chapéu de Eustace fica preso no toliet e é bombeado para o espaço! Eustace corre atrás dele. Muriel então destrói os fios da nave espacial e a nave perde o controle e mergulha no sol! Felizmente, ok. Coragem conserta a lâmpada e as folhas alienígenas de Muriel. Para voltar para casa, eles vêem Eustace montado em um asteróide segurando seu chapéu! Eles pegam carona e chegam em casa. Mas o Alien diz que ele estará de volta, (quando o episódio termina, o alienígena entra no cérebro de Eustace ...",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/b1DnG7ECljJZ92ugkva18Rg5tem.jpg",
+            "url": ""
+          },
+          {
+            "numero": 21,
+            "titulo": "O Mordomo Malvado",
+            "sinopse": "A coragem é transformada em mosca por Di Lung do lado de fora de sua casa .ustust tenta bater nele, porque ele odeia moscas. Ele tenta três vezes para pegar a mosca, mas continua atacando Muriel. A coragem então deve impedir que um salalita atinja a casa. Ele cai no quintal. Muriel e Eustace descobrem que Courage se transformou em uma mosca. Eustace entra na casa e quer se livrar da mosca-de-cachorro. Muriel diz como você pode pensar em obter Coragem em um momento como esse, o satélite que quase atingiu a casa. Eustace responde: \"\" Ele nem chegou perto. \"\" De repente, o satélite se levanta do chão e pega Eustace com ele enquanto dispara em direção ao espaço. Muriel e Courage então se sentam em sua cadeira de balanço.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/idT1iZrkh4P85mnIuTrdvgctXWk.jpg",
+            "url": ""
+          },
+          {
+            "numero": 22,
+            "titulo": "O Fantasma de McPherson",
+            "sinopse": "Muriel é culpada sempre que dá a Eustace ou a ajuda, porque algo estranho acontece depois que ela o faz. Coragem não pode descobrir o que é. Eustace culpa Muriel por tentar se livrar dele. Muriel é inocente e não está fazendo nada. Eustace chama sua mãe para resolver esse problema, mas ela é realmente parte desse problema. Enquanto Courage tenta obter Muriel e Eustace por motivos amigáveis, a mãe de Eustace esbarra em um ...",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/i9saRC6mPep8xAzarBwI2TmeBYz.jpg",
+            "url": ""
+          },
+          {
+            "numero": 23,
+            "titulo": "A Casa do Descontentamento",
+            "sinopse": "As plantas de Eustace nunca crescem bem. A lua se cansou de ver Eustace deixar de cultivar apenas uma planta, então ele assombra a casa fazendo objetos como comida, aplausos, etc. ganham vida. Ele diz a Muriel, Eustace e Courage que eles devem sair de casa se não cultivarem 1 planta à meia-noite. Exatamente às 12:00, Courage toma um pouco do suor de Eustace (ele está suando por causa da tortura das luas que está deixando a casa extremamente quente para eles, para que eles saiam de casa) e a coloca na planta, ela cresce! Eles ficam em casa e a lua deixa de ser hostil. Eustace coloca uma posição de planta e é dermited para vender plantas desde que ele cultivou esta planta \"\" sozinho \"\"!",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/jB9IuTcJm0PRXmjDb9Xk69KaWEn.jpg",
+            "url": ""
+          },
+          {
+            "numero": 24,
+            "titulo": "A Revolta da Baleia de Areia",
+            "sinopse": "Katz quer uma das receitas de Muriel e quer saber o ingrediente secreto para que ele possa ganhar um concurso anual que Muriel sempre vence.Ele envia um monstro de geléia (feito de geléia real) para capturar Muriel & Courage segue para salvar Muriel. Katz mantém Muriel em cativeiro.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/dfOlmE032o8MrUyKgoY9A19dvLD.jpg",
+            "url": ""
+          },
+          {
+            "numero": 25,
+            "titulo": "A Torre do Dr. Zalost",
+            "sinopse": "Eustace e Muriel quebram a TV e chamam Le Quak para consertar, mas Le Quack faz algo na TV para hipnotizar as pessoas.Ele as faz roubar dinheiro e, eventualmente, Courage luta contra Le Quack em uma batalha de televisão em 3D e a polícia vem e capturar Le Quack, Muriel e Eustace se tornam seus eus normais novamente.",
+            "duracao": 22,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/b4BeTGpcaUZSLcLN1Hb9ee9r6zK.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/5cwQ91I48l4YTvwLbsbhatMuO.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Muriel Arruma uma Sósia",
+            "sinopse": "Uma criminosa chamada Maria Ladrones e seu marido, que é apenas uma mão, (chamada Milo Ladrones) chegam à casa de Muriel quando a TV precisa ser consertada. Eustace entra na van para assistir TV. Por diversão, Mariah diz, ela faz os cabelos como os de Muriel e se veste como Muriel. Ela rouba o certificado de presente de Muriel e tudo. Quando Mariah e Milo roubam um diamante, a polícia acha que Muriel fez isso porque Mariah parecia Muriel. Coragem deve limpar o nome de Muriel.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/oWXtAXPfR45caTesF2cdZDPaoNi.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "Coragem vs. Mega-Coragem",
+            "sinopse": "O adolescente de ciências (ou Di Lung como alguns o chamam) faz um ultra-robô chamado Mecha-Courage. Toma o lugar de Courage. Muriel e Eustace não podem dizer a diferença e gostam mais de Mecha-Courage. (principalmente Eustace) A coragem desafia a Mecha-Courage a uma batalha no colégio romano! Mecha-Courage é melhor que Courage, mas no final, sua bateria acaba e ele explode. A coragem tem prazer em voltar com Muriel.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/gVP2zhItzOcSORTbiVKXSdDvfeU.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Acampamento do Terror",
+            "sinopse": "O adolescente de ciências (ou Di Lung como alguns o chamam) faz um ultra-robô chamado Mecha-Courage. Toma o lugar de Courage. Muriel e Eustace não podem dizer a diferença e gostam mais de Mecha-Courage. (principalmente Eustace) A coragem desafia a Mecha-Courage a uma batalha no colégio romano! Mecha-Courage é melhor que Courage, mas no final, sua bateria acaba e ele explode. A coragem tem prazer em voltar com Muriel.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/hX5FyLcdocF7OcEtEWOdJRMRs4n.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Um Disco do Outro Mundo",
+            "sinopse": "Enquanto Eustace está dirigindo para casa, Shirley the Medium lança um disco de Velvet Vic ao fazer alguma limpeza de primavera e Eustace toca o disco Velvet Vic sai e Muriel fica preso no disco e Courage precisa tirá-la de lá.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/vUhGnkUBgtT5TQahV3LR5fB2zng.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Tempo Nublado",
+            "sinopse": "Uma deusa da tempestade que sempre tem uma nuvem de chuva ao seu redor, chega à casa de Bagge. Ela está procurando seu cachorro, Duncan, que se parece com Courage. Ela quer um cachorro novo tão desesperado que tenta roubar coragem. Muriel discute com ela, enquanto a nuvem de tempestade destrói a casa. (Charlie) Mouse diz a Courage onde Duncan está. Coragem procura Duncan e finalmente o encontra em um esgoto lambendo o Osso de Deus. Ele o pega de volta, a deusa vai embora e tudo está bem, com a exceção de que a casa ainda está destruída e Eustace foi sugado pela nuvem.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/fGosT1szljOLZ3gtRkGO7oZLozq.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "O Senhor dos Sonhos Dorme",
+            "sinopse": "Courage, Muriel e Eustace estão acampando e dois guaxinins sequestram Muriel porque querem uma mãe. Eustace está tentando capturar os guaxinins para obter uma recompensa. Os raccons acabam capturando-o, para ter companhia e assistir televisão com ele. Coragem e Muriel voltam para casa.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/moKKNY57WK2VH89fjSvTZkk5mqj.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Disco Rígido do Coragem",
+            "sinopse": "Enquanto Eustace está dirigindo para casa, Shirley the Medium lança um disco de Velvet Vic ao fazer alguma limpeza de primavera e Eustace toca o disco Velvet Vic sai e Muriel fica preso no disco e Courage precisa tirá-la de lá.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/42eu7RWOuXfOJgmzQ5L2IPN69OU.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "A Cavalgada das Valquírias",
+            "sinopse": "Durante as férias em um local viking, Muriel é enganado como o líder de um grupo de vikings! A coragem agora precisa recuperá-la antes da batalha contra os trolls. Um dos trolls e as valquírias se casam e a paz é estabelecida entre os dois grupos. Coragem e Muriel participam do casamento.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/dLEoIF1SYz0HL9rbcvI8teJKjgM.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Scubba Scubba Doo",
+            "sinopse": "Uma deusa da tempestade que sempre tem uma nuvem de chuva ao seu redor, chega à casa de Bagge. Ela está procurando seu cachorro, Duncan, que se parece com Courage. Ela quer um cachorro novo tão desesperado que tenta roubar coragem. Muriel discute com ela, enquanto a nuvem de tempestade destrói a casa. (Charlie) Mouse diz a Courage onde Duncan está. Coragem procura Duncan e finalmente o encontra em um esgoto lambendo o Osso de Deus. Ele o pega de volta, a deusa vai embora e tudo está bem, com a exceção de que a casa ainda está destruída e Eustace foi sugado pela nuvem.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/jHwNfvIryBKO0tYs31mnLMt05A3.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Conway, o Contaminador",
+            "sinopse": "Um avião cai na casa de Bagge. Um cara dentro do avião chamado Conway claimes, vivendo em uma casa suja, você pode viver melhor e pagar menos. A casa de Bagge fica cheia de lixo, e Muriel e Eustice ficam realmente magros. A atmosfera suja arruina sua saúde. Coragem transforma o avião de Conway em um grande vácuo e aspira a sujeira em sua casa. Conway sai e Muriel e Eustice retornam à saúde normal.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/16DONYLhEqZPa77kIFEQdNFJmOE.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "Katz no Fundo do Mar",
+            "sinopse": "Coragem e Muriel fazem uma viagem muito necessária para fugir de Eustace. Eles vão a bordo do submarino Katz e Muriel é colocado para trabalhar fazendo chá. A coragem não é realmente permitida no navio, mas ele entra na mala de alguém e finge ser um boneco de ventríloquo. Ele descobre que Katz planeja afundar o navio com todo mundo nele. A coragem lança bolhas e todo mundo flutua para a superfície em segurança, exceto Katz, que é comido por um tubarão.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/20RqqVhNrEvxfR3sM5i5WZQYiZ1.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "A Cortina da Crueldade",
+            "sinopse": "O Sandman não consegue dormir, então rouba a capacidade de dormir de Muriel e Muriel não consegue dormir por dias. Courage a leva para passear de carro e ouve o ronco do sandman e o sandman decide devolver o sono de Muriel porque Courage encontrou seu ursinho de pelúcia, o que o ajuda a dormir.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/4tvtWwDrMBMafy6No4ouox2QGjK.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "O Banquete dos Sapos",
+            "sinopse": "Um grupo de rãs-gigantes sem lago invade a casa de Bagge. O líder deles é chamado Buffo. Eles constroem um lago no chão e Eustace e Muriel têm que agir como sapos e até serão comidos. Coragem enfia abelhas para desdobrar e cola no teto perto do ventilador. Os sapos-boi, achando que são aperitivos, prendem a língua, mas Courage liga o ventilador que gira as línguas e Courage segura a língua e as joga fora. Todos, exceto Buffo, que vai embora e se torna um jogador de beisebol.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/azIMVKeIoVpSARqGPgAkxsKse1P.jpg",
+            "url": ""
+          },
+          {
+            "numero": 14,
+            "titulo": "A Minhoca da Tulipa",
+            "sinopse": "Enquanto o computador baixa o destinatário para uma sopa reminie fria para a doença de Eustace, ele é infectado por um vírus que prende Muriel no computador. A coragem deve ir atrás dela para salvá-la e ao computador. Ele a salva e Eustace se torna saudável novamente.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/npaKq2JUeySThZl5M4WdCtmhKvH.jpg",
+            "url": ""
+          },
+          {
+            "numero": 15,
+            "titulo": "Estamos no Maior Louvre",
+            "sinopse": "Coragem, Muriel e Eustace ganham uma viagem a um museu de arte na Europa. Muriel fala sobre como sua mãe sempre disse que Muriel sempre se parecia com a Mona Lisa. Eles entram no museu logo antes da hora de fechar e ficam trancados. Adormecem e, quando acordam, Muriel caminha até a pintura da Mona Lisa e é puxada para dentro. Então a Mona Lisa sai da pintura ( as planetas se alinham e as pessoas que trocam de lugar com pessoas reais) Eustace troca de lugar com o pensador e Courage precisa perseguir a Mona Lisa para que ele possa recuperar Muriel. O Pensador e a Mona Lisa vão a um encontro em alguns retratos. Coragem e Muriel entram em uma pintura do que eles dizem que parece lá casa (e é) e eles ficam lá em casa imaginando onde fica Eustace?",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/udv57lVc2gLUKDuPTAQZMrjCO1V.jpg",
+            "url": ""
+          },
+          {
+            "numero": 16,
+            "titulo": "Noite do Espantalho",
+            "sinopse": "Courage, Muriel e Eustace estão saindo da feira do condado, e são perseguidos para fora da estrada por um enxame de corvos em um campo de milho. O carro bate em um espantalho. Mur ...",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/RiGpa4bjLtp46OihuJP1eqYf7n.jpg",
+            "url": ""
+          },
+          {
+            "numero": 17,
+            "titulo": "Mondo, o Mágico",
+            "sinopse": "Courage, Muriel e Eustace estão mergulhando durante as férias e Muriel descobre pessoas pequenas. Susan diz a sua mãe sobre isso e sua empresa, a Growth Industries quer levar o coral em que vive para fazer perucas. Corage salva as pessoas pequenas do coral e ele desce para a história.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/6n8tbffGk2n2LjlYj1Mx0guQMNJ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 18,
+            "titulo": "Olha o Passarinho",
+            "sinopse": "Muriel e Courage estão alimentando pássaros fora. De repente Muriel é levado por um abutre gigantesco! O abutre faz Muriel assistir seus filhotes (enquanto ela procura um novo marido) e se as penas dos pássaros são prejudicadas de qualquer maneira, ela come Muriel com uma colher de cereal! Coragem tem que alimentar os pássaros e protegê-lo das abelhas. Então uma cobra vem e começa a perseguir os passarinhos, mas depois vai ...",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/tn7iBUSMdRHQO9VaINpnZPjvgDm.jpg",
+            "url": ""
+          },
+          {
+            "numero": 19,
+            "titulo": "Negócio Suspeito",
+            "sinopse": "Uma dama ou fishonnary vem levar Muriel, Courage e Eustace de volta para \"\" de onde eles vieram \"\". Acontece que eles realmente vão a um bio-domo subaquático porque toda a vida veio originalmente do mar. Esses três juízes de peixes os declaram culpados de comportamento não civilizado (beber chá, usar sapatos etc.). Então eles os colocam em um aquário com brânquias que os deixam respirar debaixo d'água. Eles têm que agir como peixes e até comer comida de peixe! Coragem deve salvar a todos.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/usjw5OOdTGp8Fz1IArOObiXghrD.jpg",
+            "url": ""
+          },
+          {
+            "numero": 20,
+            "titulo": "Gente Nervosa e Má",
+            "sinopse": "Um avião cai na casa de Bagge. Um cara dentro do avião chamado Conway claimes, vivendo em uma casa suja, você pode viver melhor e pagar menos. A casa de Bagge fica cheia de lixo, e Muriel e Eustice ficam realmente magros. A atmosfera suja arruina sua saúde. Coragem transforma o avião de Conway em um grande vácuo e aspira a sujeira em sua casa. Conway sai e Muriel e Eustice retornam à saúde normal.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/iUWRcGPacIlxWRq3M2mDqF03BN9.jpg",
+            "url": ""
+          },
+          {
+            "numero": 21,
+            "titulo": "A Abóbada da Destruição",
+            "sinopse": "Eustace está bravo por ele não poder plantar plantas, então eles compram uma cúpula que cobre a casa. Um vendedor chega à casa de Courage, Muriel e Eustace para montar uma cúpula em cima de sua casa para que os produtos cresçam lá. fora para pegar os produtos, ataca-os e toma conta da casa. Os estoques se acumulam dentro da cúpula. Eventualmente, Courage pensa em um plano para destruir os produtos que comem homens e eles acabam comendo um ao outro. Eustace fica com alguns deles ... e a cúpula é removida.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/20OwkwlN2W0IXbY4Wf7gQfH70Is.jpg",
+            "url": ""
+          },
+          {
+            "numero": 22,
+            "titulo": "A Vingança do Boneco de Neve",
+            "sinopse": "Muriel, Eustace e Coruage voltam para casa para descobrir que tudo está coberto de neve! Eles acham que o boneco de neve voltou !!!! Ele tem um polegar azul que ele usa para congelar as coisas. Ele coloca um poste enorme na casa deles, e isso apaga o sol, fazendo nevar por toda parte. Ele consegue, mas ainda está triste por não ter nenhum amigo de snowpeople. Ele diz que o buraco na camada de ozônio os derreteu e o Polo Norte. Então Coruage entra em um avião e literalmente costura o buraco na camada de ozônio! O sno.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/7cJ8dagEKUENQZ6EIvo9SV4uKTc.jpg",
+            "url": ""
+          },
+          {
+            "numero": 23,
+            "titulo": "Clube da Colcha",
+            "sinopse": "Enquanto comprava suprimentos para acolchoados, Muriel conhece as misteriosas irmãs Stitch siamesas e gêmeas, que a convidam para participar de seu \"\" clube de colcha \"\" ... se ela puder provar que é boa o suficiente! Muriel fica obcecada em provar que ela é o \"material de colcha\", mas quando as irmãs Stitch vêm para iniciá-la, elas usam sua mágica perversa para literalmente transformar Muriel em material de colcha!",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/91Rx7c3V0IBH3wk1iGvCiefJTz4.jpg",
+            "url": ""
+          },
+          {
+            "numero": 24,
+            "titulo": "Vento Enganador",
+            "sinopse": "Floyd, o careca (do segmento Hothead) decide enviar uma onda de crueldade ou \"\" cortina \"\" para a cidade e deixar todo mundo malvado. Enquanto Eustace, Muriel e Courage estão comprando carnes no mercado. A onda bate. É ineficaz em Eustace porque ele já é mau. Muriel e Courage usam tecido mais macio nas camisas, então é por isso que elas não são más porque são \"macias\". Muriel e Courage são levadas para um campo de treinamento de prisioneiros por serem agradáveis e Eustace é eleita canadense para prefeito. máquina que envia o ...",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/3TjiPNdZdJcVg3IgWvwmdOIGnD7.jpg",
+            "url": ""
+          },
+          {
+            "numero": 25,
+            "titulo": "O Rei do Flan",
+            "sinopse": "Muriel e Eustace são hipnotizados por um Flan Infomercial. A cidade inteira de Nowhere fica hipnotizada. Eles comem o produto alimentar de Flan e engordam. Coragem deve parar Flan para que ele não deixe mais pessoas gordas e hipnotizadas. Coragem faz Flan comer seu próprio produto e ele fica hipnotizado e gordo.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/yslDYYFTnkMJnCkHpTNDMXAuMpC.jpg",
+            "url": ""
+          },
+          {
+            "numero": 26,
+            "titulo": "Coragem Dentro do Vulcão",
+            "sinopse": "Um grupo de rãs-gigantes sem lago invade a casa de Bagge. O líder deles é chamado Buffo. Eles constroem um lago no chão e Eustace e Muriel têm que agir como sapos e até serão comidos. Coragem enfia abelhas para desdobrar e cola no teto perto do ventilador. Os sapos-boi, achando que são aperitivos, prendem a língua, mas Courage liga o ventilador que gira as línguas e Courage segura a língua e as joga fora. Todos, exceto Buffo, que vai embora e se torna um jogador de beisebol.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/dCDBzhwyDXrjltwDsMgtQ9Df5mn.jpg",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/yatgFOhMjK6nqvR72jS5X47QGgZ.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "História de um Castor",
+            "sinopse": "O quintal do Bagge fica lotado, Eustace e Muriel vão nadar. Está tudo bem até a água subir muito e entrar na casa deles. Coragem rema na água para a cidade de Nowhere e para quando vê um castor colocando uma represa. A coragem tenta pedir-lhe que pare de construí-lo porque está arruinando a casa, mas o castor o acerta com o rabo. A coragem descobre que o verdadeiro amor do castor é pela música e não pela construção. O castor começa a bater em seu rabo como um ritmo na represa. Coragem pega a corda no ioiô, como um instrumento. O conto do castor constantemente atingindo a barragem eventualmente a quebra. O nível da água da casa de Courage seca até nada. Muriel e Eustace então assistem a um concerto em um local local do tipo karaokê para assistir Courage e o castor tocarem seus instrumentos.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/AjcTNeTXgYbroVJaSBK1sxrnNUX.jpg",
+            "url": ""
+          },
+          {
+            "numero": 2,
+            "titulo": "O Quebra-Nozes",
+            "sinopse": "Muriel, Courage e Eustace vão até o lixão local para procurar coisas que possam querer.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/izN4OqoKC7UlkWNe0rmFNkbmn0J.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Bom Velho Kiltskin",
+            "sinopse": "Muriel, Courage e Eustace vão até o lixão local para procurar coisas que possam querer. A maior parte é apenas lixo puro, exceto esse quebra-nozes que eles encontram.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/eJrcr510VrFyhujrKJsLjBfh5Aq.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Visitas",
+            "sinopse": "Um médico solitário chamado Gerheart se cansa de ficar sozinho em sua antiga casa. Ele inventa",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/munrWu77JIdlA4lWNSAFf5gdUhz.jpg",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Le Quack Balão",
+            "sinopse": "Muriel recebe um telegrama de seu tio Agnes, dizendo que todos os seus parentes morreram que conheciam um padrão de kilt. Muriel é o único membro da família que sabe como fazê-lo. Ele quer que ela venha para a Escócia e faça um kilt para ele.Eustace se recusa a ir para a Escócia, porque ele odeia a Escócia. Muriel e Courage vão até a Escócia para ajudá-lo. Ele os leva a um castelo e diz a Muriel para fazer alguns milhares de kilts para sua fábrica. Ela diz que não. Tio Agnes, de repente, admite que ele não é seu tio, depois avisa que ele a transformará em uma torta se ela não ouvir. Courage ouve uma conversa de \"\" Agnes \"\" e sua mãe.Ele a expulsou por dizer seu nome real muitas vezes. A coragem então joga um jogo de charadas com Muriel na frente dele, para que ela diga seu nome. Ela descobre e Rumplekiltskin (o nome verdadeiro dele) não a força a fazer alguns milhares de kilts.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/5gohnXeFBfm3xGI64UajNzDbF1Q.jpg",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Vândalos do Moinho",
+            "sinopse": "O moinho de vento está quebrado. A coragem descobre que sempre que o moinho de vento para ... quatro esqueletos blindados a cavalo vêm em sua direção! Ele encontra placas nas pás do moinho de vento e seu computador diz que são placas místicas feitas pelo primeiro proprietário da fazenda. Os vândalos que tinham uma roda de pás quebrada precisavam de energia, então tentaram roubar o moinho de vento, mas o proprietário colocou sinais místicos neles para mantê-los afastados. Sempre que para, os fantasmas dos vândalos voltam ... e eles querem cortar a cabeça de todos! O moinho acaba sendo consertado e os esqueletos vão embora.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/cGEqRmYj1LkFz02DNiM2baOFGDm.jpg",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "A Gripe Incomum",
+            "sinopse": "Muriel está com um resfriado terrível e, depois de um tempo, ela vê uma lesma falante que quer ajuda. Seguindo as instruções, Courage e Muriel vão para um pântano onde há lesmas que são governadas por uma cobra chamada Big Bayou. Ele tira a pele e faz com que as lesmas façam estátuas com elas. Eles dizem que Bayou tem um livro de mágica que os libertará e curará Muriel. Coragem pega o livro e cura Muriel. Bayou então vem atrás dele, e ele morde o livro, e seu veneno faz magicamente as estátuas de pele de cobra o atacarem. Muriel usa sua lixa de unha para libertar as lesmas.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/A5LKbvkCtojhv74WNWwDE0zRfQ0.jpg",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Fazendeiro Caçador é Fazendeiro Caçado",
+            "sinopse": "É o primeiro dia da temporada de caça, e Eustace vai caçar para provar que é melhor que seu irmão morto, Horace. Ele usa a arma antiga de Horace, uma arma laser! Coragem vai com ele para garantir que ele esteja seguro. Eustace vê um bando de cervos e falha em matá-los. O cervo pai, então, pega sua própria arma laser e vai atrás de Eustace! Courage diz que pode resolver isso fazendo um game show com o cervo e Eustace chamado \"Hunt For Knowledge\". O cervo vence. Eustace tenta matá-lo, mas ele atinge o pirulito de um urso. Quando ele pergunta quem atirou, Eustace pega os chifres do cervo e diz que é um cervo. Mas então os caçadores passam e pensam que ele é um cervo e o matam. Sua cabeça é montada em um carro.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/wV6IwFSAl2TvQAkkFzN4EQnCuQD.jpg",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "A Noiva do Monstro do Pântano",
+            "sinopse": "Le Quack está de volta, mais uma vez, desta vez em um balão de ar quente. Muriel está se preparando para assar biscoitos quando ele chega e está usando um livro de receitas. Le Quack muda o livro de receitas para um livro de receitas sueco quando ela não está olhando, a receita de biscoitos agora exige vinagre apenas na Suécia. Le Quack diz que levará Muriel para a Suécia em seu balão de ar quente. É tudo realmente um truque. Ele prende Muriel a uma corda elástica e a faz roubar coisas quando ela desce e desce. Coragem vai, amarrada com Eustace e descobre que o grande plano de Le Quack é fazer Muriel roubar o cofrinho sueco.Infelizmente, para Le Quack, ele é guardado por um general e canhões que atiram no balão.Eustace fica preso em um canhão e lança, ele cai no banheiro de sua casa e sua cabeça fica presa no toliet quando ele cai! Ele encontra seus óculos lá. Muriel e Courage escapam de Le Quack e encontram o vinagre sueco.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/oX3SpWRs5swzVwxGazwC9p8JrAC.jpg",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Dor Cabra-da-Peste",
+            "sinopse": "As costas de Muriel começam a doer, então Eustace a leva ao Dr. Vindaloo porque ela não pode fazer comida para ele nessa condição. Ele diz que eles devem ir ao topo do Monte Nowhere, onde uma fonte quente está localizada para curá-la. Coragem, Muriel e Eustace se dirigem para a montanha. No topo mora uma cabra, que foi negligenciada pelos humanos, destruindo seu habitat e drenando a primavera. Eventualmente, ele era o único que restava, e agora, ele persegue as pessoas da ilha, atingindo-as com seus chifres. Depois que a cabra conta sua história, ele faz Muriel e Courage sustentarem rochas gigantescas para tortura. A coragem reabriu acidentalmente a primavera quente e ele limpou o lixo. A cabra e Muriel retornam à saúde normal relaxando na primavera.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/w5i121DNhW6w3uebxMVVCB1xIGp.jpg",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "Muriel Explode",
+            "sinopse": "Depois que um míssil explode na casa da fazenda, Muriel encontra uma cenoura gigante crescendo em seu jardim. Depois de comer, Muriel começa a se expandir. Na TV, o general adverte Nowhere sobre o míssil e diz que apenas ele pode desarmá-lo. Usando uma câmera de computador, Courage vê um robô de cenoura. Coragem entra e come, depois é arrotada. Quando a coragem começa a se expandir, ele vai para o General, que entra em Courage e desarma a cenoura. Coragem arrota-los, apenas para Eustace comê-lo. Como a cenoura não foi adequadamente desativada, Eustace explode.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/scwSKAlUfWWOSK1E44PGdxnFb2c.jpg",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "Perfis de Coragem",
+            "sinopse": "O moinho de vento está quebrado. A coragem descobre que sempre que o moinho de vento para ... quatro esqueletos blindados a cavalo vêm em sua direção! Ele encontra placas nas pás do moinho de vento e seu computador diz que são placas místicas feitas pelo primeiro proprietário da fazenda. Os vândalos que tinham uma roda de pás quebrada precisavam de energia, então tentaram roubar o moinho de vento, mas o proprietário colocou sinais místicos neles para mantê-los afastados. Sempre que para, os fantasmas dos vândalos voltam ... e eles querem cortar a cabeça de todos! O moinho acaba sendo consertado e os esqueletos vão embora.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/jXIs6viORxLZDUq2PGgvfNcBsuW.jpg",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "A Máscara",
+            "sinopse": "Muriel está com um resfriado terrível e, depois de um tempo, ela vê uma lesma falante que quer ajuda. Seguindo as instruções, Courage e Muriel vão para um pântano onde há lesmas que são governadas por uma cobra chamada Big Bayou. Ele tira a pele e faz com que as lesmas façam estátuas com elas. Eles dizem que Bayou tem um livro de mágica que os libertará e curará Muriel. Coragem pega o livro e cura Muriel. Bayou então vem atrás dele, e ele morde o livro, e seu veneno faz magicamente as estátuas de pele de cobra o atacarem. Muriel usa sua lixa de unha para libertar as lesmas.",
+            "duracao": 22,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/BfF2Z0bJJUFjXmCRT75ZcfOfzZ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 14,
+            "titulo": "O Tigre e o Cão",
+            "sinopse": "É o primeiro dia da temporada de caça, e Eustace vai caçar para provar que é melhor que seu irmão morto, Horace. Ele usa a arma antiga de Horace, uma arma laser! Coragem vai com ele para garantir que ele esteja seguro. Eustace vê um bando de cervos e falha em matá-los. O cervo pai, então, pega sua própria arma laser e vai atrás de Eustace! Courage diz que pode resolver isso fazendo um game show com o cervo e Eustace chamado \"Hunt For Knowledge\". O cervo vence. Eustace tenta matá-lo, mas ele atinge o pirulito de um urso. Quando ele pergunta quem atirou, Eustace pega os chifres do cervo e diz que é um cervo. Mas então os caçadores passam e pensam que ele é um cervo e o matam. Sua cabeça é montada em um carro.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/wrmqZVq1aCUMJp7pwGFZBCK0BFg.jpg",
+            "url": ""
+          },
+          {
+            "numero": 15,
+            "titulo": "Muriel Muda",
+            "sinopse": "Muriel se recusa a falar depois que Eustace a ignora, então Shirley faz um ataque gigante de estrela do mar e só pode ser parado ao som da voz de Muriel.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/mjdrPYPu6z5yrxZEMfaUkRqi2Vt.jpg",
+            "url": ""
+          },
+          {
+            "numero": 16,
+            "titulo": "Fazendeiro Aquático",
+            "sinopse": "Muriel compra um colar em uma loja onde duas fotos cabem dentro. Ela coloca uma foto sua e de Courage de um lado, e Eustace do outro lado. Depois que eles saem da loja, o caminhão de Eustace colide com um pântano. Muriel e Courage precisam ajudar a empurrar o caminhão de Eustace para fora da lama. Muriel perde o colar no pântano enquanto empurra o caminhão. Um monstro do pântano encontra, abre e olha para a foto de Muriel. Ele acha que é o seu monstro do pântano perdido há muito tempo. Ele vai para a casa de Bagge e a seqüestra. Ele leva Muriel ao pântano em um vestido de noiva. Coragem encontra a verdadeira noiva do pântano e a traz de volta para ele. Coragem resgata Muriel.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/5bGim0iyYaoQaDTNTi19fVxHo7S.jpg",
+            "url": ""
+          },
+          {
+            "numero": 17,
+            "titulo": "Comida de Dragão",
+            "sinopse": "Muriel e Courage fazem a casa parecer um tema de pirata, Eustace não está muito emocionado com isso. Muriel e Courage estão vestidos com roupas de pirata. Os três comem frutos do mar, e de repente vem um dragão. Ele come Eustace e persegue Muriel e Courage. O dragão diz que ele deseja poder voar, e se Courage pudesse ensiná-lo a voar, ele não os comeria. Coragem, depois de muitas tentativas, tenta fazê-lo voar, mas falha. O dragão não quer comê-los, mas não tem escolha, então ele continua a persegui-los pela cidade de Nowhere e pela selva. Quando Courage e Muriel chegam a um corpo de água na selva, outro dragão aparece, que é amigável porque é um dragão de água que apenas come frutos do mar.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/60QGhrOwyWEqnYpa7w7VtZJZaTi.jpg",
+            "url": ""
+          },
+          {
+            "numero": 18,
+            "titulo": "O Último Fazedor de Estrelas",
+            "sinopse": "As costas de Muriel começam a doer, então Eustace a leva ao Dr. Vindaloo porque ela não pode fazer comida para ele nessa condição. Ele diz que eles devem ir ao topo do Monte Nowhere, onde uma fonte quente está localizada para curá-la. Coragem, Muriel e Eustace se dirigem para a montanha. No topo mora uma cabra, que foi negligenciada pelos humanos, destruindo seu habitat e drenando a primavera. Eventualmente, ele era o único que restava, e agora, ele persegue as pessoas da ilha, atingindo-as com seus chifres. Depois que a cabra conta sua história, ele faz Muriel e Courage sustentarem rochas gigantescas para tortura. A coragem reabriu acidentalmente a primavera quente e ele limpou o lixo. A cabra e Muriel retornam à saúde normal relaxando na primavera.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/lYoWzbxqTcFLtXjifySkzOAKUQT.jpg",
+            "url": ""
+          },
+          {
+            "numero": 19,
+            "titulo": "O Filho da Galinha do Espaço",
+            "sinopse": "Envergonhada com o que aconteceu com o marido, a esposa do Frango do Espaço sideral envia seu filho de três cabeças para destruir a Coragem. Quando eles pousam, eles tentam simplesmente dar um tapa nele, mas atingem Eustace. Então eles tentaram uma bomba disfarçada de ovo, mas Courage a coloca no banheiro e explode Eustace. E eles finalmente tentam amarrar Courage e atropelar ele com um trem. A galinha de três cabeças falha e começa a brigar consigo mesma. Eles começam a chorar porque é mãe disse que se eles não matam Courage, eles não podem voltar para casa. A cabeça do meio sempre carrega uma câmera, então o Courage faz com que eles tirem fotos do Courage sendo torturado. Com isso, o frango se despede, mas Eustace, Muriel e Courage acabam parecendo um frango de três cabeças.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/uLGZ1Q2pHXmgz6iH3pILm9BxuvG.jpg",
+            "url": ""
+          },
+          {
+            "numero": 20,
+            "titulo": "Cura Corajosa",
+            "sinopse": "Dois alienígenas de várias armas vêm à Terra para encontrar um antídoto para uma doença que faz com que todos em seu planeta se batam com os braços. Eles experimentam Eustace e Muriel, apenas para descobrir que não têm os anticorpos para obter a cura. Coragem tinha a cura nele o tempo todo, e os alienígenas a pegavam.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/6mgNwtNTc1MzzIpcyM66PAoacHU.jpg",
+            "url": ""
+          },
+          {
+            "numero": 21,
+            "titulo": "A Festa da Vingança",
+            "sinopse": "Depois que um míssil explode na casa da fazenda, Muriel encontra uma cenoura gigante crescendo em seu jardim. Depois de comer, Muriel começa a se expandir. Na TV, o general adverte Nowhere sobre o míssil e diz que apenas ele pode desarmá-lo. Usando uma câmera de computador, Courage vê um robô de cenoura. Coragem entra e come, depois é arrotada. Quando a coragem começa a se expandir, ele vai para o General, que entra em Courage e desarma a cenoura. Coragem arrota-los, apenas para Eustace comê-lo. Como a cenoura não foi adequadamente desativada, Eustace explode.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/xoIrGVG8rBQeMcBmmrQQ739Eefg.jpg",
+            "url": ""
+          },
+          {
+            "numero": 22,
+            "titulo": "Cabaré Coragem",
+            "sinopse": "Eustace e Muriel nunca devolveram um livro chamado 'O duende e o pirata espinhoso', então eles se tornam personagens do livro até Courage pagar a multa.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/agpOE69qTw72UpeYhZSUiIwfRZO.jpg",
+            "url": ""
+          },
+          {
+            "numero": 23,
+            "titulo": "A Fúria da Bibliotecária",
+            "sinopse": "Eustace e Muriel nunca devolveram um livro chamado \"The Pixie and the Prickle Pirate\", então eles se tornam personagens do livro até Courage pagar a multa. Então Courage tenta encontrar maneiras de ganhar dinheiro, até fazendo uma performance de Eustace e Muriel como personagens.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/3DyILRgoJOowvtSh3CuJ62UhC5j.jpg",
+            "url": ""
+          },
+          {
+            "numero": 24,
+            "titulo": "Lembranças do Passado do Coragem",
+            "sinopse": "Uma estranha máscara vestindo mulheres chega à fazenda e diz que os cães são maus. Com isso, ela bate em Courage. Muriel acha que eles estão apenas brincando e a convida para o chá. Enquanto ela está lá, ela diz que há muito tempo sua melhor amiga Bunny se apaixonou por um cachorro horrível. Depois de tentar convencê-la a sair, o cachorro a ameaçou e ela teve que sair. Depois disso, ela machuca de novo a Courage. No jantar, ela diz que usa sua máscara para se esconder da realidade. Muriel diz que tem que enfrentar a realidade, mas ela revela que Muriel está escondendo comida e Eustace não pode consertar tudo o que ele diz que pode. Isso causa uma briga entre Eustace e Muriel. Coragem espia a mulher naquela noite e a vê brincar com um rato de brinquedo.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/zVpxrj5vSnjodpSVwyq64jKJMtZ.jpg",
+            "url": ""
+          },
+          {
+            "numero": 25,
+            "titulo": "Perfeito",
+            "sinopse": "Eustácio está cansado de ver como Coragem constantemente faz coisas erradas. Um professor rigoroso chega e tenta tornar Coragem \"perfeito\", mas continua falhando.",
+            "duracao": 11,
+            "diretor": "John R. Dilworth",
+            "thumb": "https://image.tmdb.org/t/p/original/jfeaESI2sLbIDhwiH7p3vtWtKtJ.jpg",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  } 
 ]
