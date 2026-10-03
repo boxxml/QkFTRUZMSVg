@@ -10718,5 +10718,110 @@
         ]
       }
     ]
+  },
+   {
+    "id": "273207-neagley-detetive-particular",
+    "titulo": "Neagley: Detetive Particular",
+    "sinopse": "Um novo capítulo começa no universo de REACHER. Frances Neagley é uma investigadora particular em Chicago e ex-colega de Jack Reacher na 110ª Unidade de Investigações Especiais do Exército. Ao saber que um amigo querido de seu passado morreu em um acidente suspeito, ela fica determinada a obter justiça.",
+    "ano": 2026,
+    "nota": 8.1,
+    "classificacao": "16",
+    "estudio": "Prime Video",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=8YsDVCQs024",
+    "generos": [
+      "Drama e Mistério e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/kdERESUYePDvSrJ1kTNV8PiLOqJ.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+    "banner": "",
+    "elenco": [
+      "Maria Sten",
+      "Greyston Holt",
+      "Adeline Rudolph",
+      "Matthew Del Negro",
+      "Damon Herriman",
+      "Jasper Jones"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Um novo capítulo começa no universo de REACHER. Frances Neagley é uma investigadora particular em Chicago e ex-colega de Jack Reacher na 110ª Unidade de Investigações Especiais do Exército. Ao saber que um amigo querido de seu passado morreu em um acidente suspeito, ela fica determinada a obter justiça.",
+        "poster": "https://image.tmdb.org/t/p/original/kdERESUYePDvSrJ1kTNV8PiLOqJ.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "O Metrô",
+            "sinopse": "Quando Tommy, amigo de infância de Neagley, morre após caminhar em direção a um trem, a polícia se apressa em classificar o caso como um mero acidente. No entanto, após receber uma mensagem misteriosa do falecido, Neagley tem certeza de que há algo estranho por trás disso.",
+            "duracao": 57,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/xkr1SLWz53eVPO8FOF9aD8qbvih.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiYjdjYWU0NTkyYWFmYjZhMmU1NzE3ODk4NWYwODhjZDUxMTU3YTY3"
+          },
+          {
+            "numero": 2,
+            "titulo": "Dinâmica de Grupo",
+            "sinopse": "Com a investigação de Neagley sobre a morte suspeita de seu amigo de infância, Tommy Crane, enfrentando inúmeros obstáculos, um segredo que havia ficado enterrado no passado ameaça revirar tudo o que ela sabia sobre sua infância.",
+            "duracao": 47,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/5cZzudEmBxSypcp3pePoKdoh3TW.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiYjdjYWU0NTkyYWFmYjZhMmU1NzE3ODk4NWYwODhjZDUxMTU3YTY3"
+          },
+          {
+            "numero": 3,
+            "titulo": "É Hora do Show",
+            "sinopse": "Após uma emboscada render a melhor pista no caso até agora, Neagley é pega de surpresa pelas tentativas da polícia local de tirá-la do caminho.",
+            "duracao": 53,
+            "diretor": "Gary Fleder",
+            "thumb": "https://image.tmdb.org/t/p/original/iJL6mZlA9gsXFxsLvhoa1lhMANb.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiYjdjYWU0NTkyYWFmYjZhMmU1NzE3ODk4NWYwODhjZDUxMTU3YTY3"
+          },
+          {
+            "numero": 4,
+            "titulo": "Invasão de Propriedade",
+            "sinopse": "Ao investigar a morte de Tommy, Neagley atrai a atenção de inimigos poderosos, colocando a si mesma e a sua equipe em risco.",
+            "duracao": 52,
+            "diretor": "Gary Fleder",
+            "thumb": "https://image.tmdb.org/t/p/original/kNijBiFiDXMN2OMAQFL8FtqM12O.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiYjdjYWU0NTkyYWFmYjZhMmU1NzE3ODk4NWYwODhjZDUxMTU3YTY3"
+          },
+          {
+            "numero": 5,
+            "titulo": "A Viagem",
+            "sinopse": "Verdades ocultas do passado de Neagley vêm à tona de uma só vez, forçando-a a confiar em sua nova equipe mais do que nunca.",
+            "duracao": 41,
+            "diretor": "Phil Abraham",
+            "thumb": "https://image.tmdb.org/t/p/original/bp023I82NtpeObr4Of7yXraRJI2.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiYjdjYWU0NTkyYWFmYjZhMmU1NzE3ODk4NWYwODhjZDUxMTU3YTY3"
+          },
+          {
+            "numero": 6,
+            "titulo": "Abalados",
+            "sinopse": "Com novas provas vindo à tona, Neagley descobre que não é responsável apenas por solucionar o assassinato de Tommy, mas também o de inúmeros outros.",
+            "duracao": 46,
+            "diretor": "Phil Abraham",
+            "thumb": "https://image.tmdb.org/t/p/original/te7toAuRc6AnFQb72fFYtDJ0PVn.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiYjdjYWU0NTkyYWFmYjZhMmU1NzE3ODk4NWYwODhjZDUxMTU3YTY3"
+          },
+          {
+            "numero": 7,
+            "titulo": "LeBron não é o Jordan",
+            "sinopse": "Sem novas pistas, Hudson se vê forçado para fazer um acordo perigoso para evitar que o caso esfrie.",
+            "duracao": 46,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/oFpVyEULRD6rAXLwoEU8jhMYxxa.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiYjdjYWU0NTkyYWFmYjZhMmU1NzE3ODk4NWYwODhjZDUxMTU3YTY3"
+          },
+          {
+            "numero": 8,
+            "titulo": "Tocados",
+            "sinopse": "Com o legado de seu amigo em jogo e a vida de sua equipe sob ameaça, Neagley organiza uma última resistência para levar os assassinos à justiça.",
+            "duracao": 53,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/g9oiwVozajHyUaCSABoDj7FSh6v.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiYjdjYWU0NTkyYWFmYjZhMmU1NzE3ODk4NWYwODhjZDUxMTU3YTY3"
+          }
+        ]
+      }
+    ]
   }
 ]
