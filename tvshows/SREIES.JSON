@@ -10535,6 +10535,188 @@
           }
         ]
       }
+    ],
+	  {
+    "id": "213249-festa-da-salsicha-comilandia",
+    "titulo": "Festa da Salsicha: Comilândia",
+    "sinopse": "Depois de matar toda a huminadade, as comidas buscam criar sua própria utopia.",
+    "ano": 2024,
+    "nota": 6.8,
+    "classificacao": "18",
+    "estudio": "Prime Video",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=IhLr-zdgF14",
+    "generos": [
+      "Animação e Comédia e Action & Adventure e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/l8XFkTzWxObRLFqYlgZ1UBgvw5r.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/c0T9qkw2mMGPcl4SVS7AeSChgrh.jpg",
+    "banner": "",
+    "elenco": [
+      "Seth Rogen",
+      "Kristen Wiig",
+      "Edward Norton",
+      "Michael Cera"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/6kSblgQfbqDSo5gRIQ4vp706KTe.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Primeiro Prato",
+            "sinopse": "A grande Guerra das Comidas chegou ao fim. As Comidas saíram vitoriosas sobre a humanidade. Elas estão livres para criar sua própria Comilândia, mas nem tudo é tão simples.",
+            "duracao": 25,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/lj1ScrW1UFOk6zhLQHgv5VVmibH.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpLNzNWR1VNTkNOTkM2R1dJVTQ1SlZZQkVEV1BHMjVRRg=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Segundo Prato",
+            "sinopse": "Frank, Brenda e Barry embarcam em uma missão para salvar comidas reféns antes que elas MORRAM!! Sammy preenche seu vazio com uma nova forma de arte: Comédia Stand-Up. Mas nem tudo é tão simples...",
+            "duracao": 25,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/8L78jJFKHrPfwl75U22zP5muC4K.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpLNzNWR1VNTkNOTkM2R1dJVTQ1SlZZQkVEV1BHMjVRRg=="
+          },
+          {
+            "numero": 3,
+            "titulo": "Terceiro Prato",
+            "sinopse": "As comidas estão empolgadas e decidem comemorar com um festival. Frank e Brenda devem esconder um segredo de Barry, mas infelizmente, nem tudo é tão simples...",
+            "duracao": 23,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/13SnmweFElCA0i9HzDLXM7OT1wB.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpLNzNWR1VNTkNOTkM2R1dJVTQ1SlZZQkVEV1BHMjVRRg=="
+          },
+          {
+            "numero": 4,
+            "titulo": "Quarto Prato",
+            "sinopse": "Uma nova moeda forma um sistema de classes na Comilândia. Frank e Brenda planejam consertá-lo. No entanto, nem tudo é tão simples...",
+            "duracao": 26,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/u3sfwkcEEGnsw2YfporQijlJjLx.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpLNzNWR1VNTkNOTkM2R1dJVTQ1SlZZQkVEV1BHMjVRRg=="
+          },
+          {
+            "numero": 5,
+            "titulo": "Quinto Prato",
+            "sinopse": "Uma laranja maquiavélica, Julius, ganha popularidade na Comilândia. Frank e Brenda se esforçam para manter o controle, mas nem tudo é tão simples...",
+            "duracao": 28,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/mPfoJnrRBmgGEKoYrAJQRR3Knmx.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpLNzNWR1VNTkNOTkM2R1dJVTQ1SlZZQkVEV1BHMjVRRg=="
+          },
+          {
+            "numero": 6,
+            "titulo": "Sexto Prato",
+            "sinopse": "O dia da eleição chega na Comilândia: Julius contra Frank e Brenda. Porém, problemas no relacionamento ameaçam suas chances. E nem tudo é tão simples...",
+            "duracao": 24,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/h6ehZ9J8TglfotajrOF8IOZWuIn.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpLNzNWR1VNTkNOTkM2R1dJVTQ1SlZZQkVEV1BHMjVRRg=="
+          },
+          {
+            "numero": 7,
+            "titulo": "Sétimo Prato",
+            "sinopse": "Brenda sai na esperança de encontrar o lado bom da laranja ditadora, Julius. Frank esclarece algumas questões. E nem tudo é tão simples...",
+            "duracao": 28,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/aREritbMoOjWBK8JH0SPtTNwfF3.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpLNzNWR1VNTkNOTkM2R1dJVTQ1SlZZQkVEV1BHMjVRRg=="
+          },
+          {
+            "numero": 8,
+            "titulo": "Oitavo Prato",
+            "sinopse": "Barry e Sammy precisam limpar o nome de Frank e salvar a Comilândia! Julius deve ser impedido! Mas nem tudo é tão simples assim...",
+            "duracao": 28,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/asywjC6DU6iHValCoukI9U10YhW.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpLNzNWR1VNTkNOTkM2R1dJVTQ1SlZZQkVEV1BHMjVRRg=="
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/l8XFkTzWxObRLFqYlgZ1UBgvw5r.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "",
+            "duracao": 28,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/d5eIvoJlHJM3U1QOiughOdDeHnC.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMTQwNi51cy5hcmNoaXZlLm9yZy8xMi9pdGVtcy90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTAxLm1rdg=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "",
+            "duracao": 22,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/9Wc4STWof3dJ7htrVCKsFQUXWqq.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMTQwNi51cy5hcmNoaXZlLm9yZy8xMi9pdGVtcy90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTAyLm1rdg=="
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "",
+            "duracao": 25,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/99DrGMR2G6ImnAYsAamqKhpSGhu.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMTQwNi51cy5hcmNoaXZlLm9yZy8xMi9pdGVtcy90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTAzLm1rdg=="
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "",
+            "duracao": 29,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/o0H2dcST5DDxkBjq0mx2hlUOXX8.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMTQwNi51cy5hcmNoaXZlLm9yZy8xMi9pdGVtcy90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTA0Lm1rdg=="
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 26,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/cwpP0bPSYXf2BzYlrfP31rCTIcs.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMTQwNi51cy5hcmNoaXZlLm9yZy8xMi9pdGVtcy90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTA1Lm1rdg=="
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 28,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/hS2ySu7ynk8mdY8V2qmOaGCvB3R.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMTQwNi51cy5hcmNoaXZlLm9yZy8xMi9pdGVtcy90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTA2Lm1rdg=="
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 29,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/e6Jp0yRQZpRZAWXKOOPtjslq7Jg.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMTQwNi51cy5hcmNoaXZlLm9yZy8xMi9pdGVtcy90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTA3Lm1rdg=="
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 30,
+            "diretor": "Conrad Vernon",
+            "thumb": "https://image.tmdb.org/t/p/original/3IAde1JliMbzqeymM8CtuYPRuPt.jpg",
+            "url": "aHR0cHM6Ly9pYTYwMTQwNi51cy5hcmNoaXZlLm9yZy8xMi9pdGVtcy90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTA4Lm1rdg=="
+          }
+        ]
+      }
     ]
+  }
   }
 ]
