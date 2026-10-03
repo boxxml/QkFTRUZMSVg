@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2026-07-26 13:47:22 by tinyMediaManager 5.2.12 for KODI-->
+<movie>
+  <title>Viagem Insólita</title>
+  <originaltitle>Innerspace</originaltitle>
+  <sorttitle/>
+  <epbookmark/>
+  <year>1987</year>
+  <ratings>
+    <rating default="true" max="10" name="imdb">
+      <value>6.8</value>
+      <votes>70422</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <set/>
+  <plot>Jack Putter se sente muito bem hoje, pelo menos para um hipocondríaco. Mas algo novo está acontecendo, ele começa a ouvir vozes. "Estou possuído!", ele diz. A voz que Jack ouve é do piloto da Marinha Tuck Pendleton que foi submetido a uma miniaturização, para um projeto secreto, e acidentalmente injetado em Jack. Antes que possa dizer alguma coisa seu improvável companheiro realizará a mais incrível fuga da sua vida.</plot>
+  <outline>Jack Putter se sente muito bem hoje, pelo menos para um hipocondríaco. Mas algo novo está acontecendo, ele começa a ouvir vozes. "Estou possuído!", ele diz. A voz que Jack ouve é do piloto da Marinha Tuck Pendleton que foi submetido a uma miniaturização, para um projeto secreto, e acidentalmente injetado em Jack. Antes que possa dizer alguma coisa seu improvável companheiro realizará a mais incrível fuga da sua vida.</outline>
+  <tagline>Este verão faça uma viagem que você nunca vai esquecer.</tagline>
+  <runtime>120</runtime>
+  <thumb aspect="poster">https://image.tmdb.org/t/p/original/4OGOyx3D86UvQr4drIpNzjlNlfr.jpg</thumb>
+  <thumb aspect="clearlogo">https://image.tmdb.org/t/p/original/zcZ1GrP6h1iggfzKY740cmKw1xd.png</thumb>
+  <fanart>
+    <thumb>https://image.tmdb.org/t/p/original/pM4tWr37Y2cOB0mVGmvbshKpvmP.jpg</thumb>
+  </fanart>
+  <mpaa>BR:L / BR:BR-L</mpaa>
+  <certification>BR:L / BR:BR-L</certification>
+  <id>tt0093260</id>
+  <tmdbid>2614</tmdbid>
+  <uniqueid default="false" type="tmdb">2614</uniqueid>
+  <uniqueid default="true" type="imdb">tt0093260</uniqueid>
+  <uniqueid default="false" type="wikidata">Q506390</uniqueid>
+  <country>Estados Unidos</country>
+  <status/>
+  <code/>
+  <premiered>1987-07-01</premiered>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <genre>Ação</genre>
+  <genre>Comédia</genre>
+  <genre>Ficção científica</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <credits tmdbid="737">Jeffrey Boam</credits>
+  <credits tmdbid="27485">Chip Proser</credits>
+  <director tmdbid="4600">Joe Dante</director>
+  <tag>clássicos</tag>
+  <actor>
+    <name>Dennis Quaid</name>
+    <role>Lt. Tuck Pendleton</role>
+    <thumb>https://image.tmdb.org/t/p/h632/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/6065</profile>
+    <tmdbid>6065</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Short</name>
+    <role>Jack Putter</role>
+    <thumb>https://image.tmdb.org/t/p/h632/vWoZIOk7K8TSKu1IN90akswsWjZ.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/519</profile>
+    <tmdbid>519</tmdbid>
+  </actor>
+  <actor>
+    <name>Meg Ryan</name>
+    <role>Lydia Maxwell</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pxfTSfJ4yJWq52uomSWKzigngOa.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/5344</profile>
+    <tmdbid>5344</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin McCarthy</name>
+    <role>Victor Eugene Scrimshaw</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nKKwlz1tvDABTIrxK6oH4zdQPPB.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/34597</profile>
+    <tmdbid>34597</tmdbid>
+  </actor>
+  <actor>
+    <name>Fiona Lewis</name>
+    <role>Dr. Margaret Canker</role>
+    <thumb>https://image.tmdb.org/t/p/h632/ccmXgL2LP0tpwGUQyU5aZmiptud.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/26490</profile>
+    <tmdbid>26490</tmdbid>
+  </actor>
+  <actor>
+    <name>Vernon Wells</name>
+    <role>Mr. Igoe</role>
+    <thumb>https://image.tmdb.org/t/p/h632/rpKjskAbftBMFi1HWZ0Jo6lZgod.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/26491</profile>
+    <tmdbid>26491</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Picardo</name>
+    <role>The Cowboy</role>
+    <thumb>https://image.tmdb.org/t/p/h632/9TOY0mhWRMlU5Ur8QHMoDecWs2n.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/16180</profile>
+    <tmdbid>16180</tmdbid>
+  </actor>
+  <actor>
+    <name>Wendy Schaal</name>
+    <role>Wendy</role>
+    <thumb>https://image.tmdb.org/t/p/h632/qq9Jc77KD24FxxJrR7O2F3E6c8A.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/37600</profile>
+    <tmdbid>37600</tmdbid>
+  </actor>
+  <actor>
+    <name>Harold Sylvester</name>
+    <role>Pete Blanchard</role>
+    <thumb>https://image.tmdb.org/t/p/h632/s2DpaxOxSt2H1SpVwJFXGbWg6wr.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/27540</profile>
+    <tmdbid>27540</tmdbid>
+  </actor>
+  <actor>
+    <name>William Schallert</name>
+    <role>Dr. Greenbush</role>
+    <thumb>https://image.tmdb.org/t/p/h632/cWwLO0UxvKupMFqu4jyMnycSE1o.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/15992</profile>
+    <tmdbid>15992</tmdbid>
+  </actor>
+  <actor>
+    <name>Henry Gibson</name>
+    <role>Mr. Wormwood</role>
+    <thumb>https://image.tmdb.org/t/p/h632/2Py2ZzFfTobPIHEKRYuWHhxRDqF.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/19439</profile>
+    <tmdbid>19439</tmdbid>
+  </actor>
+  <actor>
+    <name>John Hora</name>
+    <role>Ozzie Wexler</role>
+    <thumb>https://image.tmdb.org/t/p/h632/urKx3dfefkHZW18MMsCF0RcmpxU.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/16156</profile>
+    <tmdbid>16156</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark L. Taylor</name>
+    <role>Dr. Niles</role>
+    <thumb>https://image.tmdb.org/t/p/h632/aUeetSgCWR3tOrJ6RoD77zkPHdO.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/78003</profile>
+    <tmdbid>78003</tmdbid>
+  </actor>
+  <actor>
+    <name>Orson Bean</name>
+    <role>Lydia's Editor</role>
+    <thumb>https://image.tmdb.org/t/p/h632/2iz769YdycczgnGPZyXNsaN3TGR.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/863</profile>
+    <tmdbid>863</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Hooks</name>
+    <role>Duane</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zQIkzw1QsQvnjgLb5TMO4jyoqFY.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/40230</profile>
+    <tmdbid>40230</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Freeman</name>
+    <role>Dream Lady</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pAlKHL8sshImJPCN45iQ5PGuURZ.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/7210</profile>
+    <tmdbid>7210</tmdbid>
+  </actor>
+  <actor>
+    <name>Archie Hahn</name>
+    <role>Messenger</role>
+    <thumb>https://image.tmdb.org/t/p/h632/tz7GYtvLFVekyL1rt5uG0jCrART.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/93670</profile>
+    <tmdbid>93670</tmdbid>
+  </actor>
+  <actor>
+    <name>Dick Miller</name>
+    <role>Cab Driver</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zyQXh8BkLg0DDo23pxJN2dy6Bqj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/102441</profile>
+    <tmdbid>102441</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Tobey</name>
+    <role>Man in Restroom</role>
+    <thumb>https://image.tmdb.org/t/p/h632/gCTbpGtA0UB4HkcqrkEUw5O094k.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/103069</profile>
+    <tmdbid>103069</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Flaherty</name>
+    <role>Waiting Room Patient</role>
+    <thumb>https://image.tmdb.org/t/p/h632/bIDIkEBUrSZb4UBhqOpJBf3xbBb.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/59196</profile>
+    <tmdbid>59196</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Martin</name>
+    <role>Waiting Room Patient</role>
+    <thumb>https://image.tmdb.org/t/p/h632/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/8263</profile>
+    <tmdbid>8263</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Laskay</name>
+    <role>Scrimshaw's Henchman</role>
+    <profile>https://www.themoviedb.org/person/1392678</profile>
+    <tmdbid>1392678</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Miller</name>
+    <role>Scrimshaw's Henchman</role>
+    <profile>https://www.themoviedb.org/person/102573</profile>
+    <tmdbid>102573</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawn Nelson</name>
+    <role>Wendell</role>
+    <profile>https://www.themoviedb.org/person/16186</profile>
+    <tmdbid>16186</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Avila</name>
+    <role>Lab Technician</role>
+    <thumb>https://image.tmdb.org/t/p/h632/34eUCMR25XVKTQqTTkhWbSbXhUg.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1377370</profile>
+    <tmdbid>1377370</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Borrie</name>
+    <role>Lab Technician</role>
+    <profile>https://www.themoviedb.org/person/1392683</profile>
+    <tmdbid>1392683</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenny Gago</name>
+    <role>Lab Technician</role>
+    <thumb>https://image.tmdb.org/t/p/h632/usYVMd4GvrvWrMXjAOFOZgGB8ZR.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/129872</profile>
+    <tmdbid>129872</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Gounley</name>
+    <role>Lab Technician</role>
+    <profile>https://www.themoviedb.org/person/1392685</profile>
+    <tmdbid>1392685</tmdbid>
+  </actor>
+  <actor>
+    <name>Grainger Hines</name>
+    <role>Rusty</role>
+    <thumb>https://image.tmdb.org/t/p/h632/76yr0UTlb72dWWbfCIGaYkWMyWR.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/169839</profile>
+    <tmdbid>169839</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Garibaldi</name>
+    <role>Cop</role>
+    <profile>https://www.themoviedb.org/person/1392686</profile>
+    <tmdbid>1392686</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard McGonagle</name>
+    <role>Cop</role>
+    <thumb>https://image.tmdb.org/t/p/h632/eso1WgiZiqwOb1vp2sOF6uJyJn1.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/80416</profile>
+    <tmdbid>80416</tmdbid>
+  </actor>
+  <actor>
+    <name>Terence McGovern</name>
+    <role>Travel Agent</role>
+    <thumb>https://image.tmdb.org/t/p/h632/85ceNcXJd4XE0elNSxzHVCCKwuV.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/162323</profile>
+    <tmdbid>162323</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Neches</name>
+    <role>Lab Guard</role>
+    <profile>https://www.themoviedb.org/person/162092</profile>
+    <tmdbid>162092</tmdbid>
+  </actor>
+  <actor>
+    <name>Rance Howard</name>
+    <role>Supermarket Customer</role>
+    <thumb>https://image.tmdb.org/t/p/h632/rYejoZAvgvy0jyRu9fMH9PBKOWM.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/22250</profile>
+    <tmdbid>22250</tmdbid>
+  </actor>
+  <actor>
+    <name>Chuck Jones</name>
+    <role>Supermarket Customer</role>
+    <thumb>https://image.tmdb.org/t/p/h632/6LaYJXpfX6hry3mT8QTEGCPIUdi.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/100888</profile>
+    <tmdbid>100888</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Waterbury</name>
+    <role>Supermarket Customer</role>
+    <profile>https://www.themoviedb.org/person/182416</profile>
+    <tmdbid>182416</tmdbid>
+  </actor>
+  <actor>
+    <name>Kurt Braunreiter</name>
+    <role>Lab Assault Henchman</role>
+    <profile>https://www.themoviedb.org/person/1392687</profile>
+    <tmdbid>1392687</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Gray</name>
+    <role>Lab Assault Henchman</role>
+    <thumb>https://image.tmdb.org/t/p/h632/26boYEftVjDFUB4pW5ejcx1FZVo.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/51186</profile>
+    <tmdbid>51186</tmdbid>
+  </actor>
+  <actor>
+    <name>Brewster Sears</name>
+    <role>Lab Assault Henchman</role>
+    <profile>https://www.themoviedb.org/person/1392691</profile>
+    <tmdbid>1392691</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Blumenfeld</name>
+    <role>Man with Camera</role>
+    <thumb>https://image.tmdb.org/t/p/h632/lee2RTmaaX7ik9ClXLf3ReZEoJS.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/22053</profile>
+    <tmdbid>22053</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Boam</name>
+    <role>Lydia's Interviewee</role>
+    <thumb>https://image.tmdb.org/t/p/h632/wHNcauJim5V1Y2IKGXVoOHjhc1i.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/737</profile>
+    <tmdbid>737</tmdbid>
+  </actor>
+  <actor>
+    <name>Sydne Squire</name>
+    <role>Stewardess</role>
+    <profile>https://www.themoviedb.org/person/1392693</profile>
+    <tmdbid>1392693</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Barselou</name>
+    <role>Man on Plane</role>
+    <thumb>https://image.tmdb.org/t/p/h632/8EQ9ukp9HXTRzcmaJCBqJ08Yqv0.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1392694</profile>
+    <tmdbid>1392694</tmdbid>
+  </actor>
+  <actor>
+    <name>John Miranda</name>
+    <role>Man in Elevator</role>
+    <profile>https://www.themoviedb.org/person/166387</profile>
+    <tmdbid>166387</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Benjamin</name>
+    <role>Little Kid in Mall</role>
+    <profile>https://www.themoviedb.org/person/1392695</profile>
+    <tmdbid>1392695</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberto Ramirez</name>
+    <role>Chef</role>
+    <profile>https://www.themoviedb.org/person/1392696</profile>
+    <tmdbid>1392696</tmdbid>
+  </actor>
+  <actor>
+    <name>Virginia Boyle</name>
+    <role>Shopping Lady</role>
+    <profile>https://www.themoviedb.org/person/1392697</profile>
+    <tmdbid>1392697</tmdbid>
+  </actor>
+  <actor>
+    <name>Herb Mitchell</name>
+    <role>Camera Store Clerk</role>
+    <thumb>https://image.tmdb.org/t/p/h632/sGb5gk3Hm6nxkDvS04NJyO2P3yC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/81903</profile>
+    <tmdbid>81903</tmdbid>
+  </actor>
+  <actor>
+    <name>John Harwood</name>
+    <role>Lab Henchman</role>
+    <profile>https://www.themoviedb.org/person/95971</profile>
+    <tmdbid>95971</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Ross</name>
+    <role>Pod Computer (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pNgkQKw5k6z9kscDnOAwstcmNnt.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/64951</profile>
+    <tmdbid>64951</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Aidman</name>
+    <role>Speaker at Banquet</role>
+    <thumb>https://image.tmdb.org/t/p/h632/nZ24x2V9OjgGBgHVHP26deX67NE.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/61150</profile>
+    <tmdbid>61150</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Dante</name>
+    <role>Vectorscope Employee (uncredited)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/2Aev68oWboAC31dj8eJnEUzH41x.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/4600</profile>
+    <tmdbid>4600</tmdbid>
+  </actor>
+  <producer tmdbid="3805">
+    <name>Jon Peters</name>
+    <role>Executive Producer</role>
+    <thumb>https://image.tmdb.org/t/p/h632/ts4JBYG2LEbquRzExGHer1122AI.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3805</profile>
+  </producer>
+  <producer tmdbid="488">
+    <name>Steven Spielberg</name>
+    <role>Executive Producer</role>
+    <thumb>https://image.tmdb.org/t/p/h632/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/488</profile>
+  </producer>
+  <producer tmdbid="664">
+    <name>Frank Marshall</name>
+    <role>Co-Executive Producer</role>
+    <thumb>https://image.tmdb.org/t/p/h632/fgEuoFGqnIWWH8RSb3PJJmPQvnu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/664</profile>
+  </producer>
+  <producer tmdbid="3804">
+    <name>Peter Guber</name>
+    <role>Executive Producer</role>
+    <thumb>https://image.tmdb.org/t/p/h632/6QILn3KDqoJrRMz8rRzTYS3igCc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3804</profile>
+  </producer>
+  <producer tmdbid="27485">
+    <name>Chip Proser</name>
+    <role>Co-Producer</role>
+    <profile>https://www.themoviedb.org/person/27485</profile>
+  </producer>
+  <producer tmdbid="16154">
+    <name>Michael Finnell</name>
+    <role>Producer</role>
+    <thumb>https://image.tmdb.org/t/p/h632/iVKOtioYuV9rLCbrBt8JRGTILE1.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/16154</profile>
+  </producer>
+  <producer tmdbid="489">
+    <name>Kathleen Kennedy</name>
+    <role>Co-Executive Producer</role>
+    <thumb>https://image.tmdb.org/t/p/h632/ndgYlie0PHkyqEiEBGM8SqrPOkr.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/489</profile>
+  </producer>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=SPs3e07OeO0</trailer>
+  <languages>inglês</languages>
+  <dateadded>2026-07-26 13:44:00</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <resolution>1080</resolution>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>BLURAY</source>
+  <edition>NONE</edition>
+  <original_filename>Viagem Insólita (1987).strm</original_filename>
+  <user_note/>
+  <english_title>Innerspace</english_title>
+  <crew>
+    <name>Jon Peters</name>
+    <role subrole="Executive Producer">PRODUCER</role>
+    <thumb>https://image.tmdb.org/t/p/h632/ts4JBYG2LEbquRzExGHer1122AI.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3805</profile>
+    <tmdbid>3805</tmdbid>
+  </crew>
+  <crew>
+    <name>Steven Spielberg</name>
+    <role subrole="Executive Producer">PRODUCER</role>
+    <thumb>https://image.tmdb.org/t/p/h632/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/488</profile>
+    <tmdbid>488</tmdbid>
+  </crew>
+  <crew>
+    <name>Frank Marshall</name>
+    <role subrole="Co-Executive Producer">PRODUCER</role>
+    <thumb>https://image.tmdb.org/t/p/h632/fgEuoFGqnIWWH8RSb3PJJmPQvnu.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/664</profile>
+    <tmdbid>664</tmdbid>
+  </crew>
+  <crew>
+    <name>Peter Guber</name>
+    <role subrole="Executive Producer">PRODUCER</role>
+    <thumb>https://image.tmdb.org/t/p/h632/6QILn3KDqoJrRMz8rRzTYS3igCc.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3804</profile>
+    <tmdbid>3804</tmdbid>
+  </crew>
+  <crew>
+    <name>Chip Proser</name>
+    <role subrole="Co-Producer">PRODUCER</role>
+    <profile>https://www.themoviedb.org/person/27485</profile>
+    <tmdbid>27485</tmdbid>
+  </crew>
+  <crew>
+    <name>Michael Finnell</name>
+    <role subrole="Producer">PRODUCER</role>
+    <thumb>https://image.tmdb.org/t/p/h632/iVKOtioYuV9rLCbrBt8JRGTILE1.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/16154</profile>
+    <tmdbid>16154</tmdbid>
+  </crew>
+  <crew>
+    <name>Kathleen Kennedy</name>
+    <role subrole="Co-Executive Producer">PRODUCER</role>
+    <thumb>https://image.tmdb.org/t/p/h632/ndgYlie0PHkyqEiEBGM8SqrPOkr.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/489</profile>
+    <tmdbid>489</tmdbid>
+  </crew>
+  <crew>
+    <name>Jeffrey Boam</name>
+    <role subrole="Screenplay">WRITER</role>
+    <thumb>https://image.tmdb.org/t/p/h632/wHNcauJim5V1Y2IKGXVoOHjhc1i.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/737</profile>
+    <tmdbid>737</tmdbid>
+  </crew>
+  <crew>
+    <name>Joe Dante</name>
+    <role subrole="Director">DIRECTOR</role>
+    <thumb>https://image.tmdb.org/t/p/h632/2Aev68oWboAC31dj8eJnEUzH41x.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/4600</profile>
+    <tmdbid>4600</tmdbid>
+  </crew>
+  <crew>
+    <name>Chip Proser</name>
+    <role subrole="Screenplay">WRITER</role>
+    <profile>https://www.themoviedb.org/person/27485</profile>
+    <tmdbid>27485</tmdbid>
+  </crew>
+  <tmm_locked/>
+</movie>
