@@ -11795,5 +11795,110 @@
         ]
       }
     ]
-  } 
+  },
+  {
+    "id": "299939-monstro-a-historia-de-lizzie-borden",
+    "titulo": "Monstro: A História de Lizzie Borden",
+    "sinopse": "Presa em um lar cruel da era vitoriana, Lizzie Borden mata os pais em um crime sangrento que abala o país.",
+    "ano": 2026,
+    "nota": 7.1,
+    "classificacao": "18",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=LnUNkApuiEo",
+    "generos": [
+      "Drama e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/cLP2z0O78DLiMqH8pvtB8EYq8KY.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+    "banner": "",
+    "elenco": [
+      "Ella Beatty",
+      "Vicky Krieps",
+      "Sarah Paulson",
+      "Charlie Hunnam",
+      "Rebecca Hall",
+      "Billie Lourd"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Baseada na história real de Lizzie Borden, esta série de terror histórica conta como foram os assassinatos a machadadas que deram origem a um ícone da vingança feminina.",
+        "poster": "https://image.tmdb.org/t/p/original/cLP2z0O78DLiMqH8pvtB8EYq8KY.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Banho de Sangue",
+            "sinopse": "Atormentada pela madrasta de língua afiada, Lizzie Borden vê como seu mundo se abre com a chegada de uma criada diferente e provocativa.",
+            "duracao": 57,
+            "diretor": "Max Winkler",
+            "thumb": "https://image.tmdb.org/t/p/original/h6vT3PRrtnAN0rUL4u86DSyWWWE.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozYWI2OTgwZTZkYzg5YzYwM2UyZDkyOTY3MDRiNWYwN2Y0OWNiMDk0"
+          },
+          {
+            "numero": 2,
+            "titulo": "Flor Forte",
+            "sinopse": "Ao se aproximar de Lizzie, Maggie fica sobrecarregada com uma realidade dolorosa. Abby comete um ato de crueldade grotesco, que leva Lizzie ao limite.",
+            "duracao": 56,
+            "diretor": "Max Winkler",
+            "thumb": "https://image.tmdb.org/t/p/original/pzrLQsTeZGrK5f5aUkzqU12uN4j.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozYWI2OTgwZTZkYzg5YzYwM2UyZDkyOTY3MDRiNWYwN2Y0OWNiMDk0"
+          },
+          {
+            "numero": 3,
+            "titulo": "Que Golpe!",
+            "sinopse": "Um familiar aparece depois de muito tempo e pede um favor a Andrew. Depois de suportar um castigo sádico, Maggie planeja sua vingança com Lizzie.",
+            "duracao": 49,
+            "diretor": "Max Winkler",
+            "thumb": "https://image.tmdb.org/t/p/original/ffUTZCzufufokCbK1TRTgLOxyWe.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozYWI2OTgwZTZkYzg5YzYwM2UyZDkyOTY3MDRiNWYwN2Y0OWNiMDk0"
+          },
+          {
+            "numero": 4,
+            "titulo": "R.I.P (Descanse na Pestilência), Abby Borden",
+            "sinopse": "Abby busca um antídoto para sua profunda insatisfação. Ao colocar seu terrível plano em ação, Lizzie libera décadas de frustração.",
+            "duracao": 46,
+            "diretor": "Sarah Adina Smith",
+            "thumb": "https://image.tmdb.org/t/p/original/kCpfjPkIDIxD0OBh5oWLMJhp0BN.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozYWI2OTgwZTZkYzg5YzYwM2UyZDkyOTY3MDRiNWYwN2Y0OWNiMDk0"
+          },
+          {
+            "numero": 5,
+            "titulo": "41",
+            "sinopse": "Andrew relembra o passado enquanto lida com os problemas do casamento no presente. Depois de uma noite de esbórnia, ele se depara com um novo tipo de raiva feminina.",
+            "duracao": 40,
+            "diretor": "Max Winkler",
+            "thumb": "https://image.tmdb.org/t/p/original/i1QaRAp7TjewR2eG5C8r55J5Mpv.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozYWI2OTgwZTZkYzg5YzYwM2UyZDkyOTY3MDRiNWYwN2Y0OWNiMDk0"
+          },
+          {
+            "numero": 6,
+            "titulo": "Hospedagem",
+            "sinopse": "Lizzie e Maggie correm contra o tempo para limpar a cena antes que seu crime macabro seja descoberto. Um depoimento sem convicção faz a polícia investigar mais.",
+            "duracao": 47,
+            "diretor": "Sarah Adina Smith",
+            "thumb": "https://image.tmdb.org/t/p/original/9ld3JoMg7ESavhWl5kQERY2bBF6.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozYWI2OTgwZTZkYzg5YzYwM2UyZDkyOTY3MDRiNWYwN2Y0OWNiMDk0"
+          },
+          {
+            "numero": 7,
+            "titulo": "O Julgamento do Século",
+            "sinopse": "O público está fascinado pelo escândalo sórdido, e Lizzie precisa de uma performance de vida ou morte, com a ajuda de uma aliada inesperada.",
+            "duracao": 46,
+            "diretor": "Max Winkler",
+            "thumb": "https://image.tmdb.org/t/p/original/PO7agTCN5vnoEh0uzhB5pGHKQf.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozYWI2OTgwZTZkYzg5YzYwM2UyZDkyOTY3MDRiNWYwN2Y0OWNiMDk0"
+          },
+          {
+            "numero": 8,
+            "titulo": "Carnival",
+            "sinopse": "Ameaçada pelo peso de seu legado monstruoso, Lizzie busca o sentido de tudo e uma maneira de seguir em frente.",
+            "duracao": 66,
+            "diretor": "Max Winkler",
+            "thumb": "https://image.tmdb.org/t/p/original/5Lxg9bKya1K89hh7MUYC2uVqNzc.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDozYWI2OTgwZTZkYzg5YzYwM2UyZDkyOTY3MDRiNWYwN2Y0OWNiMDk0"
+          }
+        ]
+      }
+    ]
+  }  
 ]
