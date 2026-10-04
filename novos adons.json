@@ -36,5 +36,15 @@
       "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.requests.zip",
       "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.urllib3.zip"
     ]
+  },
+  {
+    "type": "addon",
+    "name": "Super Servidor Brasileiro",
+    "version": "7.7.3.11",
+    "description": "Super Servidor Brasileiro",
+    "icon": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/addons/repository.superservidorbrazuca/icon.png?raw=true",
+    "fanart": "https://imgur.com",
+    "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/repository.superservidorbrazuca.zip",
+    "dependencies": []
   }
 ]
