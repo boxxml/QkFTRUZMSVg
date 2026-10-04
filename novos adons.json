@@ -8,13 +8,9 @@
     "fanart": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/addons/aresfast/Fanart.gif?raw=true",
     "url": "https://www.mediafire.com/file/abnjqvix3zuwot9/plugin.video.aresfast-3.1.8.zip",
     "dependencies": [
-      "https://www.mediafire.com/file/p5eocxk7n3qtdqv/script.module.certifi-2023.5.7.zip",
-      "https://www.mediafire.com/file/98b6fgdeprpkhd7/script.module.chardet-5.1.0.zip",
-      "https://www.mediafire.com/file/yhebym323aqggoq/script.module.idna-3.10.0.zip",
       "https://www.mediafire.com/file/ktao4grjeajkt3x/script.module.kodi-six-0.1.3.1.zip",
       "https://www.mediafire.com/file/hifedqd27pgu5v1/script.module.requests-2.31.0.zip",
-      "https://www.mediafire.com/file/mhudauxv90vut05/script.module.simplejson-3.19.1_matrix.1.zip",
-      "https://www.mediafire.com/file/s9yzzjtvhlk21u0/script.module.urllib3-2.2.3.zip"
+      "https://www.mediafire.com/file/mhudauxv90vut05/script.module.simplejson-3.19.1_matrix.1.zip"
     ]
   }
 ]
