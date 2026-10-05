@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "user": "usuario123",
+      "pass": "senha456",
+      "data_expiracao": "04/10/2026"
+    },
+    {
+      "user": "teste",
+      "pass": "1234",
+      "data_expiracao": "04/10/2026"
+    }
+  ]
+}
