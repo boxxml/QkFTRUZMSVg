@@ -1,13 +1,13 @@
 {
   "usuarios": [
     {
-      "user": "usuario123",
-      "pass": "senha456",
+      "user": "admin",
+      "pass": "12345",
       "data_expiracao": "04/10/2026"
     },
     {
-      "user": "teste",
-      "pass": "1234",
+      "user": "cliente1",
+      "pass": "flix2026",
       "data_expiracao": "04/10/2026"
     }
   ]
