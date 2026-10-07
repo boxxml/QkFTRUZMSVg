@@ -11900,5 +11900,371 @@
         ]
       }
     ]
+  },
+  {
+    "id": "13916-death-note",
+    "titulo": "Death Note",
+    "sinopse": "O jovem estudante Light Yagami acha um caderno com poderes sobrenaturais, chamado Death Note, no qual é possível matar uma pessoa apenas escrevendo seu nome no caderno. Quando o descobre, Light tenta eliminar todos os criminosos do mundo e dar à sociedade um mundo livre do mal. Mas seus planos começam a sair de rumo quando o detetive L resolve contrariar Light.",
+    "ano": 2006,
+    "nota": 8.6,
+    "classificacao": "16",
+    "estudio": "Nippon TV",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=NlJZ-YgAt-c",
+    "generos": [
+      "Animação e Mistério e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/iigTJJskR1PcjjXqxdyJwVB3BoU.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/z8IPicmEKXUO4I2UDdMEqw7RqOE.jpg",
+    "banner": "",
+    "elenco": [
+      "Mamoru Miyano",
+      "Kappei Yamaguchi",
+      "Shido Nakamura",
+      "Aya Hirano",
+      "Noriko Hidaka",
+      "佐々木望"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/aLSi3JEHHB6CpUusWa2gQ4Q8B1k.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Renascimento",
+            "sinopse": "Brilhante e entediado, o estudante Light Yagami encontra o Death Note, um caderno capaz de matar qualquer pessoa cujo nome seja escrito nele. Com ele, Light decide livrar o mundo do mal, matando criminosos um a um. Mas quando os assassinatos começam a se acumular, o genial detetive L assume o caso, dando início a uma épica batalha de intelectos.",
+            "duracao": 21,
+            "diretor": "恒松圭",
+            "thumb": "https://image.tmdb.org/t/p/original/3DBzrTd2ZUleqKlGOBfMklDySRH.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 2,
+            "titulo": "Confronto",
+            "sinopse": "Com criminosos do mundo todo morrendo, L atende aos apelos dos representantes das Nações Unidas, e estabelece uma força-tarefa com sede no Japão, sob o comando de ninguém menos que Soichiro Yagami, pai de Light.",
+            "duracao": 21,
+            "diretor": "伊藤智彦",
+            "thumb": "https://image.tmdb.org/t/p/original/63fCP6HZf5EbP6muq2mcYh6Lvc8.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 3,
+            "titulo": "Negociações",
+            "sinopse": "Ryuk, o Shinigami que deixou o Death Note cair no mundo humano, avisa a Light que há alguém em seu encalço. Ao saber que Light está interessado em descobrir a identidade de seu perseguidor, Ryuk oferece uma oferta irrecusável...",
+            "duracao": 22,
+            "diretor": "土屋浩幸",
+            "thumb": "https://image.tmdb.org/t/p/original/k0g0yiL74LSp8JodQVjted6YMJf.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 4,
+            "titulo": "Perseguição",
+            "sinopse": "Light, mundialmente conhecido como o infame Kira, testa os limites do poder do Death Note, executando seis prisioneiros de maneiras distintas e controlando seus movimentos antes de morrer.",
+            "duracao": 22,
+            "diretor": "羽生尚靖",
+            "thumb": "https://image.tmdb.org/t/p/original/bisms0qgIVV8Qa9vGlFnfP9briJ.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 5,
+            "titulo": "Táticas",
+            "sinopse": "Ao descobrir que L trouxe agentes do FBI para o Japão, Soichiro Yagami solicita uma reunião em pessoa com ele. Enquanto isso, Light maquina um ardil para removê-los permanentemente do caso.",
+            "duracao": 22,
+            "diretor": "米田光宏",
+            "thumb": "https://image.tmdb.org/t/p/original/m4aiPObgEBrb3w6TPejqX5sg8Nm.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 6,
+            "titulo": "Desenrolando",
+            "sinopse": "Light encontra uma mulher no departamento de polícia que carrega uma importante pista sobre o caso Kira. Como filho do líder da investigação, Light se oferece para ouvir sua história, e descobre que ela carrega provas suficientes para levá-lo para a prisão!",
+            "duracao": 22,
+            "diretor": "おゆなむ",
+            "thumb": "https://image.tmdb.org/t/p/original/5J62ABo9G1OrTYbLeShozI5uBwg.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 7,
+            "titulo": "Encoberto",
+            "sinopse": "Light usa o Death Note para matar uma mulher que poderia levá-lo para a prisão, mas o caderno não funciona, apontando que a mulher deve ter dado um nome falso. Restam-lhe apenas alguns minutos para descobrir o nome verdadeiro, antes que ela conte tudo para a polícia.",
+            "duracao": 22,
+            "diretor": "伊藤智彦",
+            "thumb": "https://image.tmdb.org/t/p/original/sYCqCMvO2stQIJewetuUNP78MmG.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 8,
+            "titulo": "Ofuscação",
+            "sinopse": "L insiste em grampear as casas das famílias investigadas por Raye Penbar, incluindo a casa do comissário Yagami - mas Light antecipou-se a esse movimento e já tem tudo planejado.",
+            "duracao": 22,
+            "diretor": "別所誠人",
+            "thumb": "https://image.tmdb.org/t/p/original/smXhV1fvWJrDtGB1MV8N3lIt5JY.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 9,
+            "titulo": "Encontro",
+            "sinopse": "Os assassinatos continuam, e L começa a suspeitar do comportamento impecável de Light. Para averiguá-lo mais de perto, L se matricula na mesma universidade que Light.",
+            "duracao": 22,
+            "diretor": "岡崎幸男",
+            "thumb": "https://image.tmdb.org/t/p/original/iBRK6viH6YPlD81p6kD7yZlTIrZ.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 10,
+            "titulo": "Dúvida",
+            "sinopse": "L suspeita cada vez mais de Light, que o convence a deixar que participe das investigações. Entretanto, ambos são surpreendidos por um telefonema: Soichiro Yagami sofreu um ataque cardíaco.",
+            "duracao": 22,
+            "diretor": "Shinji Nagamura",
+            "thumb": "https://image.tmdb.org/t/p/original/iaXRsMzritInUDbQGUXG3ej3sTS.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 11,
+            "titulo": "Assalto",
+            "sinopse": "Como previam as fitas enviadas à Sakura TV, todos os âncoras jornalísticos que duvidaram dos poderes de Kira morreram um a um. Ao observar isso, L conclui que essas mortes só podem ser obra de um segundo Kira.",
+            "duracao": 22,
+            "diretor": "羽生尚靖",
+            "thumb": "https://image.tmdb.org/t/p/original/lgNB5KSLGYHrNgZeb0dYkDseqZX.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 12,
+            "titulo": "Amor",
+            "sinopse": "Com um segundo Kira a solta, L convida Light a participar da caçada pelo impostor, fingindo ser o Kira verdadeiro. Light aceita, a fim de espantar as suspeitas que recaem sobre si, mas logo percebe que este outro Kira possui um poder que nem mesmo ele tem.",
+            "duracao": 22,
+            "diretor": "土屋浩幸",
+            "thumb": "https://image.tmdb.org/t/p/original/nXhKdqsD4TZb83ZVkqNyYqkRMOX.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 13,
+            "titulo": "Confissões",
+            "sinopse": "Light viaja a Aoyama para descobrir a identidade do segundo Kira. Contudo, Misa Amane lança mão de seu dom para identificar Light sem que os dois se encontrem.",
+            "duracao": 22,
+            "diretor": "米田光宏",
+            "thumb": "https://image.tmdb.org/t/p/original/peEBI9p36VCBgDp6XW8JRjO7Vdt.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 14,
+            "titulo": "Amigo",
+            "sinopse": "Após mostrarem seus Death Notes e comprovarem suas identidades, Light pede a Misa que use sua Shinigami Rem para se livrar de L. A garota aceita com uma condição: a de que Light torne-se namorado dela.",
+            "duracao": 22,
+            "diretor": "伊藤智彦",
+            "thumb": "https://image.tmdb.org/t/p/original/ztpKA5qn2eggXEH7xVsQPI2wYCW.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 15,
+            "titulo": "Aposta",
+            "sinopse": "Provas concretas apontam Misa Amane como a segunda Kira. Para inocentar a garota das acusações, Light convence-a a abrir mão da posse de seu Death Note.",
+            "duracao": 21,
+            "diretor": "おゆなむ",
+            "thumb": "https://image.tmdb.org/t/p/original/haM3evWcGOKlm2vb4mMiIuOOcqs.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 16,
+            "titulo": "Decisão",
+            "sinopse": "Apesar de não se recordar de nada, Misa segue confinada. Light se oferece para também ficar sob vigilância, mas quando os assassinatos param de acontecer, as suspeitas recaem ainda mais fortes sobre ele.",
+            "duracao": 22,
+            "diretor": "別所誠人",
+            "thumb": "https://image.tmdb.org/t/p/original/hjCoHx1bUBWefQpfCbrqGMf3OBU.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 17,
+            "titulo": "Execução",
+            "sinopse": "Depois de 50 dias de confinamento, os assassinatos voltam a acontecer, mas Misa e Light ainda não estão inocentados. Quando Soichiro Yagami aparece para buscá-los na prisão, eles entram em uma viagem que pode muito bem ser sua última.",
+            "duracao": 22,
+            "diretor": "中村亮介",
+            "thumb": "https://image.tmdb.org/t/p/original/1FUuh3vBS6nHQrwyo9Mp8uJ7gSm.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 18,
+            "titulo": "Aliado",
+            "sinopse": "Ainda sob suspeita de L, Light e Misa (alheios aos cadernos) voltam ao quartel-general da força-tarefa, e Light nota uma interessante conexão entre os recentes assassinatos de Kira e o Grupo Yotsuba.",
+            "duracao": 22,
+            "diretor": "Shinji Nagamura",
+            "thumb": "https://image.tmdb.org/t/p/original/4TKRHj64fOaPynNP9tX635rqBQq.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 19,
+            "titulo": "Matsuda",
+            "sinopse": "Ansioso por provar seu valor e não ser um peso morto, Matsuda, que está designado como agente da Misa, resolve invadir por conta própria o prédio do Grupo Yotsuba em busca de provas.",
+            "duracao": 22,
+            "diretor": "西映子",
+            "thumb": "https://image.tmdb.org/t/p/original/sF4lBqyCA7XUFnw3GcNyfreTlI4.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 20,
+            "titulo": "Artifício",
+            "sinopse": "L e sua equipe descobrem que o Grupo Yotsuba se reúne em segredo para discutir a realização de assassinatos que possam favorecer o grupo financeiramente, e concluem que Kira deve estar entre os membros da reunião.",
+            "duracao": 22,
+            "diretor": "土屋浩幸",
+            "thumb": "https://image.tmdb.org/t/p/original/b92CjZHibPwxHPp4ID6vvaD5WZD.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 21,
+            "titulo": "Performance",
+            "sinopse": "O Grupo Yotsuba contrata Misa Amane para ser a nova cara dos comerciais da empresa, e ela aproveita a oportunidade para acompanhar os executivos mais de perto. Durante a entrevista, a Shinigami Rem entra em contato com Misa e lhe revela o passado que ela havia esquecido.",
+            "duracao": 22,
+            "diretor": "米田光宏",
+            "thumb": "https://image.tmdb.org/t/p/original/bRPNU2tc41D44L5C3wuVRq7iYZH.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 22,
+            "titulo": "Direção",
+            "sinopse": "Após uma operação de sucesso, Misa aponta que Higuchi é o executivo responsável pelos assassinatos. L traça um plano para atrair Higuchi para a TV Sakura, promovendo um programa especial onde uma testemunha anônima revelará a verdadeira identidade de Kira.",
+            "duracao": 21,
+            "diretor": "はしもとなおと",
+            "thumb": "https://image.tmdb.org/t/p/original/k8XdLNTPvIOVpXn8OXV8pOxksw3.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 23,
+            "titulo": "Frenesi",
+            "sinopse": "Higuchi, um dos executivos do Grupo Yotsuba, se surpreende quando não consegue matar Matsuda, e firma um contrato de última hora com Rem para obter os olhos de Shinigami.",
+            "duracao": 21,
+            "diretor": "伊藤智彦",
+            "thumb": "https://image.tmdb.org/t/p/original/zbhauM0ivv4b2IkA20QPuQhEQ7N.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 24,
+            "titulo": "Revival",
+            "sinopse": "Higuchi é capturado e confessa tudo o que sabe sobre o Death Note. Com a possibilidade de existência de mais cadernos, L declara que o caso está longe de ser encerrado. E quando Light encosta no caderno apreendido...",
+            "duracao": 22,
+            "diretor": "下田久人",
+            "thumb": "https://image.tmdb.org/t/p/original/vXoBIHI5u4jn8tieqMtbIPWtu1L.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 25,
+            "titulo": "Silêncio",
+            "sinopse": "Novamente de posse de suas memórias, Light ordena a Misa que volte a realizar assassinatos em nome de Kira. Rem se dá conta do plano de Light, e percebe que Misa será presa a menos que a Shinigami entre em ação.",
+            "duracao": 22,
+            "diretor": "増原光幸",
+            "thumb": "https://image.tmdb.org/t/p/original/hKsiCNb6cUUmgFPfA5nbZW3Tlpq.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 26,
+            "titulo": "Renovação",
+            "sinopse": "Light removeu todos os empecilhos em seu caminho, e está prestes a concretizar o seu mundo ideal. Por insistência da força-tarefa, ele assume o papel de L, e o mundo se dirige a uma nova era sob o jugo de Kira.",
+            "duracao": 21,
+            "diretor": "伊藤智彦",
+            "thumb": "https://image.tmdb.org/t/p/original/znx2F672Ng1QqqVc3EtC5xrm9h9.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 27,
+            "titulo": "Abdução",
+            "sinopse": "Surge um novo investigador: Near, líder da SPK, uma força-tarefa estadunidense independente da operação de L. Near está ciente da existência dos Death Notes e busca obter um para si.",
+            "duracao": 22,
+            "diretor": "山内東生雄",
+            "thumb": "https://image.tmdb.org/t/p/original/5Nj7ueMx7zQyIC9WjLqAGcIVygW.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 28,
+            "titulo": "Impaciência",
+            "sinopse": "Atuando como L, Light revela a Near que sua irmã Sayu foi sequestrada, e que os responsáveis querem trocar a vida dela por um Death Note em um endereço de Los Angeles.",
+            "duracao": 22,
+            "diretor": "西映子",
+            "thumb": "https://image.tmdb.org/t/p/original/kDCYenlI22Fjzw7a5pR9cUy3ByI.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 29,
+            "titulo": "Pai",
+            "sinopse": "Light usa Misa e seus olhos de Shinigami para descobrir qual é o chefe da máfia que está de posse do Death Note, e usa os poderes do caderno para matá-lo e forçá-lo a revelar o paradeiro do bando.",
+            "duracao": 22,
+            "diretor": "伊藤智彦",
+            "thumb": "https://image.tmdb.org/t/p/original/lg9llxpONn5t5GYR2pyIQNpYyPt.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 30,
+            "titulo": "Justiça",
+            "sinopse": "Mello invade o quartel da SPK para recuperar uma foto sua e garantir que não será assassinado por Kira. Em troca, ele revela uma importante informação: algumas das regras são falsas.",
+            "duracao": 22,
+            "diretor": "伊藤秀樹",
+            "thumb": "https://image.tmdb.org/t/p/original/hhNecHn6UEcvGIXaWaSqKfGOBIM.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 31,
+            "titulo": "Transferência",
+            "sinopse": "Near contata o novo QG da força-tarefa e anuncia que Kira é um de seus integrantes, convidando os outros membros a realizar denúncias anônimas. Sua suspeita é de que tanto L quanto Kira sejam Light Yagami.",
+            "duracao": 22,
+            "diretor": "下田久人",
+            "thumb": "https://image.tmdb.org/t/p/original/sXEJqLQvNEAGUJNDHJzfiMK0qV4.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 32,
+            "titulo": "Seleção",
+            "sinopse": "A famosa apresentadora de telejornal Kiyomi Takada é escolhida como a porta-voz de Kira. Ciente de que ela fora namorada de Light na universidade, as suspeitas de Aizawa aumentam ainda mais.",
+            "duracao": 22,
+            "diretor": "青柳宏宜",
+            "thumb": "https://image.tmdb.org/t/p/original/A4v49zTK59PCExMM5tQJUqj0231.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 33,
+            "titulo": "Desprezo",
+            "sinopse": "Light passa a realizar encontros regulares com Kiyomi, monitoradas via áudio pelo resto da força-tarefa. Nelas, Light entrega instruções por escrito sobre o que ela deve fazer.",
+            "duracao": 22,
+            "diretor": "斉藤哲人",
+            "thumb": "https://image.tmdb.org/t/p/original/lsPwoKFZ7u5BuUOdVc6LAK6RRKf.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 34,
+            "titulo": "Vigilância",
+            "sinopse": "Ao perceber o que está acontecendo, Aizawa decide abrir o jogo com Near, que já estava ciente das notas. Near pede a Aizawa que continue vigiando Light e inicia um plano para separá-lo de Misa.",
+            "duracao": 22,
+            "diretor": "西映子",
+            "thumb": "https://image.tmdb.org/t/p/original/pJgzs8RJXFI1TD6Jp5kwbz65kqV.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 35,
+            "titulo": "Malícia",
+            "sinopse": "Light dá a Kiyomi a ordem de acabar com Near. Quando estava prestes a vencer, Kiyomi é então sequestrada.",
+            "duracao": 21,
+            "diretor": "伊藤智彦",
+            "thumb": "https://image.tmdb.org/t/p/original/2Zb7s6RZ6uvEL8YJ4R7KhEQBCuk.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 36,
+            "titulo": "1.28",
+            "sinopse": "Como combinado, Near e a SPK se encontram com Light e a força-tarefa em um armazém abandonado. Para surpresa de todos, Near revela que Mikami, um fervoroso seguidor de Kira, está no armazém, escrevendo o nome de todos no Death Note.",
+            "duracao": 22,
+            "diretor": "平尾隆之",
+            "thumb": "https://image.tmdb.org/t/p/original/5jnmAdjOpeCHN4v4R5XquLICPt5.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          },
+          {
+            "numero": 37,
+            "titulo": "Novo Mundo",
+            "sinopse": "Um minuto após Mikami escrever o nome de todos no caderno, ninguém morreu. Tudo é enfim revelado.",
+            "duracao": 22,
+            "diretor": "荒木哲郎",
+            "thumb": "https://image.tmdb.org/t/p/original/85nG6sUrczzZVATIXP9JJvNMuSo.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNjVjNDY5MWRlODRmOTY0ZTE0MzEwM2IzYmQwZGUxN2JlNWJmZDBh"
+          }
+        ]
+      }
+    ]
   }  
 ]
