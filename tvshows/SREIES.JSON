@@ -12266,5 +12266,110 @@
         ]
       }
     ]
+  },
+  {
+    "id": "288673-carrie-a-estranha",
+    "titulo": "Carrie, a Estranha",
+    "sinopse": "Após a morte abrupta e inesperada de seu pai arremessá-la no ecossistema implacável de um colégio público, Carrie é forçada a lidar com um escândalo de cyberbullying que destrói sua comunidade, a pressão implacável e a crueldade casual da era das redes sociais, e o despertar de misteriosos poderes telecinéticos que surgem com a chegada de sua adolescência.",
+    "ano": 2026,
+    "nota": 8.4,
+    "classificacao": "18",
+    "estudio": "Prime Video",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=OL1SKztQWjg",
+    "generos": [
+      "Mistério e Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/pgi67D7ERtedbywBHXY9Tj2vk2L.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
+    "banner": "",
+    "elenco": [
+      "Summer H. Howell",
+      "Samantha Sloyan",
+      "Siena Agudong",
+      "Alison Thornton",
+      "Joel Oulette",
+      "Josie Totah"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Depois que a morte repentina do pai acaba fazendo com que Carrie tenha que enfrentar o ambiente hostil de uma escola pública de ensino médio, ela precisa lidar com um escândalo de bullying que viraliza e abala a comunidade, com a pressão e a crueldade da era das redes sociais e com o despertar de misteriosos poderes telecinéticos que surgem em meio a tudo isso.",
+        "poster": "https://image.tmdb.org/t/p/original/pgi67D7ERtedbywBHXY9Tj2vk2L.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "PRIMEIRO PERÍODO",
+            "sinopse": "Começa um novo dia.",
+            "duracao": 55,
+            "diretor": "Mike Flanagan",
+            "thumb": "https://image.tmdb.org/t/p/original/q6K86iDYMr8G0xQC5OxDHi34OWo.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjYzhkN2ZmNjVkYzE4MzdmZjMwYjMxMTcwM2QxZTZjZDhiOGVkMzZi"
+          },
+          {
+            "numero": 2,
+            "titulo": "LÍNGUA ESTRANGEIRA",
+            "sinopse": "Novas habilidades de comunicação de uma cultura estranha.",
+            "duracao": 52,
+            "diretor": "Mike Flanagan",
+            "thumb": "https://image.tmdb.org/t/p/original/2BAJUukstdRp5JdJL4KgB1oFXEj.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjYzhkN2ZmNjVkYzE4MzdmZjMwYjMxMTcwM2QxZTZjZDhiOGVkMzZi"
+          },
+          {
+            "numero": 3,
+            "titulo": "ESTUDOS SOCIAIS",
+            "sinopse": "Como pessoas, comunidades e sociedades interagem.",
+            "duracao": 49,
+            "diretor": "Kate Siegel",
+            "thumb": "https://image.tmdb.org/t/p/original/rCayKt9PSctLY3Oo85nBvm1ibnq.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjYzhkN2ZmNjVkYzE4MzdmZjMwYjMxMTcwM2QxZTZjZDhiOGVkMzZi"
+          },
+          {
+            "numero": 4,
+            "titulo": "ARTES CÊNICAS",
+            "sinopse": "Voz, movimento e improviso.",
+            "duracao": 52,
+            "diretor": "Axelle Carolyn",
+            "thumb": "https://image.tmdb.org/t/p/original/br1jADm12G7gdN9rSlj3dn0VB4i.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjYzhkN2ZmNjVkYzE4MzdmZjMwYjMxMTcwM2QxZTZjZDhiOGVkMzZi"
+          },
+          {
+            "numero": 5,
+            "titulo": "EDUCAÇÃO FÍSICA",
+            "sinopse": "Saúde, boa forma e exercício.",
+            "duracao": 48,
+            "diretor": "Kyra Sedgwick",
+            "thumb": "https://image.tmdb.org/t/p/original/aosEmangiVoqjUIgCcTz8pEUFuS.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjYzhkN2ZmNjVkYzE4MzdmZjMwYjMxMTcwM2QxZTZjZDhiOGVkMzZi"
+          },
+          {
+            "numero": 6,
+            "titulo": "ECONOMIA BÁSICA",
+            "sinopse": "Habilidades práticas para levar uma vida independente.",
+            "duracao": 59,
+            "diretor": "Hiromi Kamata",
+            "thumb": "https://image.tmdb.org/t/p/original/ggtBh6ZtP3LQL6iHAt3FpT2y0j2.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjYzhkN2ZmNjVkYzE4MzdmZjMwYjMxMTcwM2QxZTZjZDhiOGVkMzZi"
+          },
+          {
+            "numero": 7,
+            "titulo": "LITERATURA ROMÂNTICA",
+            "sinopse": "O poder da emoção e da experiência individual.",
+            "duracao": 53,
+            "diretor": "Mike Flanagan",
+            "thumb": "https://image.tmdb.org/t/p/original/eQRCwK89aL7C0qEfEGrpkqfB2as.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjYzhkN2ZmNjVkYzE4MzdmZjMwYjMxMTcwM2QxZTZjZDhiOGVkMzZi"
+          },
+          {
+            "numero": 8,
+            "titulo": "FÍSICA AVANÇADA",
+            "sinopse": "Para cada ação, há uma reação oposta de igual intensidade.",
+            "duracao": 49,
+            "diretor": "Mike Flanagan",
+            "thumb": "https://image.tmdb.org/t/p/original/wcCBQrz9zvQkaxlfFyClGGJGFEO.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjYzhkN2ZmNjVkYzE4MzdmZjMwYjMxMTcwM2QxZTZjZDhiOGVkMzZi"
+          }
+        ]
+      }
+    ]
   }  
 ]
