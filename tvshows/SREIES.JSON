@@ -12371,5 +12371,92 @@
         ]
       }
     ]
+  },
+ {
+    "id": "285322-profundezas",
+    "titulo": "Profundezas",
+    "sinopse": "Quando uma misteriosa criatura marinha aterroriza uma pequena cidade, um pescador durão e sua família lutam para proteger a comunidade.",
+    "ano": 2026,
+    "nota": 7.3,
+    "classificacao": "16",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=GtOXeZD-r-0",
+    "generos": [
+      "Mistério e Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/zhaLAbSzPQchEzDGUoJoQFQaxPI.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+    "banner": "",
+    "elenco": [
+      "Josh Hartnett",
+      "Mackenzie Davis",
+      "Charlie Heaton",
+      "Ruby Stokes",
+      "Kaleb Horn",
+      "Rohan Campbell"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Calvin Penney (Josh Hartnett) é um pescador teimoso e de bom coração que mora em uma cidadezinha de Newfoundland e ainda sofre com a morte misteriosa do pai, que ocorreu há várias décadas. Ao ver sua cidade aterrorizada por uma estranha criatura marinha, Calvin tem que lutar para manter a comunidade unida. Disposto a garantir a segurança do filho Wade (Charlie Heaton) e do resto da família, ele se une a uma cientista (Mackenzie Davis) para enfrentar a criatura a revelar os segredos da ilha antes que seja tarde demais. Misturando lendas locais, suspense de tirar o fôlego e uma boa dose de humor, esta minissérie em seis partes fala de família, comunidade, e mudanças assustadoras e inevitáveis.",
+        "poster": "https://image.tmdb.org/t/p/original/zhaLAbSzPQchEzDGUoJoQFQaxPI.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Ano do Retorno",
+            "sinopse": "Calvin Penney recebe a família em casa para um reencontro muito aguardado, mas um acontecimento inesperado agita a pequena cidade costeira de Snooks Arm.",
+            "duracao": 47,
+            "diretor": "Jamie Childs",
+            "thumb": "https://image.tmdb.org/t/p/original/s7jZsND51grOCtkXMiLvyNR1Ue6.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4ZWQ5M2YxNjUwOWM2ODE5MDRhODI1N2FlNzBlNWE0ODcxNzFjNDc4"
+          },
+          {
+            "numero": 2,
+            "titulo": "Crown and Anchor",
+            "sinopse": "Calvin se une à cientista dra. Fonda Howander para investigar acontecimentos estranhos. Seu filho Wade tenta decifrar os sonhos que o atormentam.",
+            "duracao": 37,
+            "diretor": "Jamie Childs",
+            "thumb": "https://image.tmdb.org/t/p/original/8OakXwrVcz9EfA9O0wSW6BGjf83.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4ZWQ5M2YxNjUwOWM2ODE5MDRhODI1N2FlNzBlNWE0ODcxNzFjNDc4"
+          },
+          {
+            "numero": 3,
+            "titulo": "Sir John Franklin",
+            "sinopse": "Wade e Calvin se deparam com pessoas misteriosas. Fonda alerta os moradores sobre uma ameaça marinha, e a tensão se espalha pela comunidade.",
+            "duracao": 40,
+            "diretor": "Helen Shaver",
+            "thumb": "https://image.tmdb.org/t/p/original/5yMl70GufDi19y69fEdYKfKo7wN.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4ZWQ5M2YxNjUwOWM2ODE5MDRhODI1N2FlNzBlNWE0ODcxNzFjNDc4"
+          },
+          {
+            "numero": 4,
+            "titulo": "O oceano vai nos engolir",
+            "sinopse": "Forasteiros arrastam Calvin para uma perigosa caçada à criatura. E uma ameaça invisível começa a se aproximar de sua família e de todos na cidade.",
+            "duracao": 39,
+            "diretor": "Helen Shaver",
+            "thumb": "https://image.tmdb.org/t/p/original/7NPEWtVHa0YqdFL8rFt75RKZQm1.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4ZWQ5M2YxNjUwOWM2ODE5MDRhODI1N2FlNzBlNWE0ODcxNzFjNDc4"
+          },
+          {
+            "numero": 5,
+            "titulo": "Little Pot Rock",
+            "sinopse": "Calvin confronta verdades chocantes sobre seu passado. Após a chegada inesperada de uma pessoa, Fonda descobre algo surpreendente.",
+            "duracao": 41,
+            "diretor": "Stephen Dunn",
+            "thumb": "https://image.tmdb.org/t/p/original/7eoSmnHUiEkConnsbimZPbfhGba.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4ZWQ5M2YxNjUwOWM2ODE5MDRhODI1N2FlNzBlNWE0ODcxNzFjNDc4"
+          },
+          {
+            "numero": 6,
+            "titulo": "As profundezas que deixam órfãos",
+            "sinopse": "Os motivos reais por trás da crise são revelados, e uma evacuação começa. Fonda, Calvin e a família dele bolam um plano arriscado para salvar a cidade.",
+            "duracao": 37,
+            "diretor": "Jamie Childs",
+            "thumb": "https://image.tmdb.org/t/p/original/hTwvypom5WQB6yKO9DbJkz2rs0N.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4ZWQ5M2YxNjUwOWM2ODE5MDRhODI1N2FlNzBlNWE0ODcxNzFjNDc4"
+          }
+        ]
+      }
+    ]
   }  
 ]
