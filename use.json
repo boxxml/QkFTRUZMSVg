@@ -1,17 +1,7 @@
 [
   {
-    "username": "TESTE",
-    "password": "TESTE.COM",
-    "validade": "2025-12-31"
-  },
-  {
-    "username": "outro_usuario@email.com",
-    "password": "minhasenha456",
-    "validade": "2026-11-15"
-  },
-  {
-    "username": "conta_vencida",
-    "password": "999",
-    "validade": "2025-01-01"
+    "username": "FELIPE",
+    "password": "BOXHD",
+    "validade": "2026-11-08"
   }
 ]
