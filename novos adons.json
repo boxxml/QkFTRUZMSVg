@@ -74,9 +74,9 @@
   {
     "type": "apk",
     "name": "FLIXBOX",
-    "version": "1.6",
+    "version": "1.6.2",
     "description": "Flixbox é uma versão modificada do Kodi com ele você sente mais leveza rapidez para navegar pelos conteúdos dos seus addons favoritos, ele contém alguns recursos que é especialmente para colaborador  para ajudar o desenvolvimento do projeto do flixbox",
-    "icon": "https://raw.githubusercontent.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/refs/heads/main/Flixbox%20pro.png",
+    "icon": "https://www.mediafire.com/file/qyrsvaao97q6r4a/FLIXBOX+1.6-BETA02.apk/file",
     "fanart": "https://imgur.com",
     "url": {
       "android_arm": "https://www.mediafire.com/file/gcycxdrejkhc2l6/FLIXBOX+1.6-Beta.apk/file"
