@@ -12459,5 +12459,154 @@
         ]
       }
     ]
+  },
+ {
+    "id": "284833-avatar-os-sete-refugios",
+    "titulo": "Avatar: Os Sete Refúgios",
+    "sinopse": "Após um cataclismo global, uma jovem descobre ser o novo Avatar - agora rotulada como a Destruidora, não uma salvadora. Caçada por humanos e espíritos, ela e sua gêmea há muito perdida precisam descobrir suas origens e salvar a humanidade do colapso.",
+    "ano": 2026,
+    "nota": 9.2,
+    "classificacao": "12",
+    "estudio": "Paramount+",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=UpsSqZHA1xI",
+    "generos": [
+      "Animação e Action & Adventure e Sci-Fi & Fantasy e Família"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/l8qbsNAr1CZK2tZ60l5lrJdT5mW.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+    "banner": "",
+    "elenco": [
+      "Saheli Khan",
+      "Aishwarya 'Aishu' Devan",
+      "Major Curda",
+      "Akshay Khanna",
+      "Sakina Jaffrey"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Após um cataclismo global, uma jovem descobre ser o novo Avatar - agora rotulada como a Destruidora, não uma salvadora. Caçada por humanos e espíritos, ela e sua gêmea há muito perdida precisam descobrir suas origens e salvar a humanidade do colapso.",
+        "poster": "https://image.tmdb.org/t/p/original/l8qbsNAr1CZK2tZ60l5lrJdT5mW.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "No horizonte",
+            "sinopse": "Durante um festival que celebra o fim do Avatar, uma órfã luta para se manter escondida até cruzar o caminho de um dedicado dobrador de ar.",
+            "duracao": 23,
+            "diretor": "Kenji Ono",
+            "thumb": "https://image.tmdb.org/t/p/original/eV3fNdJAynMicVhbjfaK0Shu1Yk.jpg",
+            "url": "bWFnbmV0Oj94dD11cm46YnRpaDphaDYyYTI1am9yc3BjdHhzN21kbmRyaWlyc2Z2aWdzaw=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Na tempestade",
+            "sinopse": "Quando uma grande tempestade atinge Ellora, a Equipe Avatar se une para salvar seu lar e confronta uma entidade estranha.",
+            "duracao": 23,
+            "diretor": "Jen Bennett",
+            "thumb": "https://image.tmdb.org/t/p/original/6HJWVFR8VW5k2wHaRYyOTJqXieT.jpg",
+            "url": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "A ordem",
+            "sinopse": "Ser a Avatar é muita responsabilidade! Pavi está sobrecarregada e sente falta dos amigos. Jae depara-se com uma organização secreta e precisa tomar uma decisão que mudará sua vida.",
+            "duracao": 23,
+            "diretor": "Jasmine Goggins",
+            "thumb": "https://image.tmdb.org/t/p/original/6mDwOsOfCmkLx4YTWqoovnNActE.jpg",
+            "url": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "Episódio 11",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "Episódio 12",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "Episódio 13",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url": ""
+          }
+        ]
+      }
+    ]
   }  
 ]
