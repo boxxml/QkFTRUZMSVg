@@ -72,6 +72,20 @@
     "dependencies": []
   },
   {
+    "type": "addon",
+    "name": "Inputstream FFmpeg Direct",
+    "version": "21.3.8",
+    "description": "Cliente nputStream para fluxos que podem ser abertos tanto pelo libavformat do FFmpeg quanto pelo cURL do Kodi. Formatos de fluxo comuns, como TS puro, HLS e DASH (sem DRM), são suportados, além de muitos outros.\n\nO complemento também oferece suporte a serviços de arquivamento/reprodução com janelas de replay (geralmente em dias) e permite a reprodução em intervalos regulares.\n\nPara obter a documentação, visite: https://github.com/xbmc/inputstream.ffmpegdirect/blob/Matrix/README.md",
+    "icon": "https://kodi.tv/images/addons/omega/inputstream.ffmpegdirect/icon.png",
+    "fanart": "https://imgur.com",
+    "url": {
+      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/inputstream.ffmpegdirect-21.3.8-windows-x86_64.zip",
+      "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/inputstream.ffmpegdirect-21.3.8-android-aarch64.zip",
+      "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/inputstream.ffmpegdirect-21.3.8-android-armv7.zip"
+    },
+    "dependencies": []
+  },
+  {
     "type": "apk",
     "name": "FLIXBOX",
     "version": "1.6.2",
