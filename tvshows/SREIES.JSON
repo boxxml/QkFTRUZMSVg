@@ -160,5 +160,98 @@
         ]
       }
     ]
+  },
+  {
+    "id": "279185-o-tormento",
+    "titulo": "O Tormento",
+    "sinopse": "Após voltar à cidade natal, uma jornalista controversa se junta à investigação sobre o desaparecimento de um amigo de infância. Logo, ela descobre que a verdade revela segredos perigosos tanto do passado quanto do presente.",
+    "ano": 2026,
+    "nota": 6,
+    "classificacao": "16",
+    "estudio": "HBO Max",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=_o8olacVeF8",
+    "generos": [
+      "Crime e Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/igjMnbKo4x9rKgjv7xTv1pUlqhz.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/uqlqU7IOOrJBLSdxe3VQlO6OXy0.jpg",
+    "banner": "",
+    "elenco": [
+      "Magdalena Cielecka",
+      "Piotr Żurawski",
+      "Łukasz Simlat",
+      "Piotr Głowacki",
+      "Dorota Kolak",
+      "Piotr Jankowski"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Após voltar à cidade natal, uma jornalista controversa se junta à investigação sobre o desaparecimento de um amigo de infância. Logo, ela descobre que a verdade revela segredos perigosos tanto do passado quanto do presente.",
+        "poster": "https://image.tmdb.org/t/p/original/t7C6KkXpcGuSj4q8bleG9njSJze.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "A jornalista Kama Kosowska retorna à sua cidade natal, onde a reabertura de uma investigação e uma nova tragédia a obrigam a buscar a verdade.",
+            "duracao": 43,
+            "diretor": "Łukasz Jaworski",
+            "thumb": "https://image.tmdb.org/t/p/original/z1t6stB8n52dwshpmx4paOtKhAe.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpvbXE2aXYybnk3cGd1bDJyYWdxdGI3Z3B1bHN2MnI3dQ=="
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "À medida que o caso de Piotrek faz novas vítimas, Kama recebe uma inquietante mensagem anônima, e a lista de possíveis suspeitos diminui.",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/xM2QZZoJTY4hmHUA00k54b2Z7Zd.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDoyeXU3d202eXdmYzNuY2ZtZmhkbXpsc294ZGJ1bWhicw=="
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          }
+        ]
+      }
+    ]
   }
 ]
