@@ -51,13 +51,13 @@
     "type": "addon",
     "name": "InputStream Adaptive",
     "version": "21.5.25",
-    "description": "Cliente nputStream para fluxos adaptativos. Suporta protocolos de streaming comuns como MPEG-DASH, HLS e Microsoft Smooth Streaming.\n\nO complemento também oferece suporte a fluxos protegidos por DRM, como Google Widevine, Microsoft PlayReady e outros.",
+    "description": "Cliente InputStream para fluxos adaptativos. Suporta protocolos de streaming comuns como MPEG-DASH, HLS e Microsoft Smooth Streaming.\n\nO complemento também oferece suporte a fluxos protegidos por DRM, como Google Widevine, Microsoft PlayReady e outros.",
     "icon": "https://kodi.tv/images/addons/omega/inputstream.adaptive/icon.png",
     "fanart": "https://imgur.com",
     "url": {
-      "windows_x86_64": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/inputstream.adaptive+windows-x86_64/inputstream.adaptive-21.5.25.zip",
-      "android_arm64": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/inputstream.adaptive+android-aarch64/inputstream.adaptive-21.5.25.zip",
-      "android_arm": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/inputstream.adaptive+android-armv7/inputstream.adaptive-21.5.25.zip"
+      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/inputstream.adaptive-21.5.25-windows-x86_64.zip",
+      "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/inputstream.adaptive-21.5.25-android-aarch64.zip",
+      "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/inputstream.adaptive-21.5.25-android-armv7.zip"
     },
     "dependencies": []
   },
