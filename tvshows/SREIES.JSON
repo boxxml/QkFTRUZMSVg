@@ -253,5 +253,227 @@
         ]
       }
     ]
+  },
+  {
+    "id": "312359-dragon-ball-super-beerus",
+    "titulo": "Dragon Ball Super: Beerus",
+    "sinopse": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e seus amigos enfrentam uma batalha épica para impedi-lo de destruir a Terra.",
+    "ano": 2026,
+    "nota": 9.8,
+    "classificacao": "12",
+    "estudio": "Fuji TV",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=4GYtota67go",
+    "generos": [
+      "Animação e Action & Adventure e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/w5ai45092PIlV1Vbt7kswry2C03.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+    "banner": "",
+    "elenco": [
+      "Masako Nozawa",
+      "Ryo Horikawa",
+      "渡辺菜生子",
+      "Unsho Ishizuka",
+      "Koichi Yamadera"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Vários anos se passaram desde a batalha feroz contra Majin Boo, e a Terra finalmente desfruta de um breve momento de paz. Paralelamente, Beerus, o Deus da Destruição, desperta de seu longo e profundo sono. Até mesmo o Senhor Kaioh e o Supremo Senhor Kaioh, cientes do poder avassalador de Beerus — capaz de destruir planetas inteiros —, observam seu despertar com grande temor... Enquanto isso, Beerus ouve rumores sobre um Saiyajin que derrotou Freeza e surge repentinamente diante de Goku. Com a Terra na mira de Beerus — o ser mais poderoso do universo —, o planeta corre um perigo imenso. Assim tem início uma batalha cósmica avassaladora entre o Deus da Destruição, Goku e seus aliados; um conflito que abalará todo o universo.",
+        "poster": "https://image.tmdb.org/t/p/original/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "O Deus que Destrói",
+            "sinopse": "Em um planeta distante, o Deus da Destruição Beerus desperta de seu longo sono!",
+            "duracao": 24,
+            "diretor": "朝倉舞彩",
+            "thumb": "https://image.tmdb.org/t/p/original/rtf7gQIFXmMteFyR3EYWfEpe1rG.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiNTdhNmUzZTE0YjNhNjA4MzZiMWMwNDk4NzYxMWQxZTUwZGNjYjAx"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 11,
+            "titulo": "Episódio 11",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 12,
+            "titulo": "Episódio 12",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 13,
+            "titulo": "Episódio 13",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 14,
+            "titulo": "Episódio 14",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 15,
+            "titulo": "Episódio 15",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 16,
+            "titulo": "Episódio 16",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 17,
+            "titulo": "Episódio 17",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 18,
+            "titulo": "Episódio 18",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          },
+          {
+            "numero": 19,
+            "titulo": "Episódio 19",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": ""
+          }
+        ]
+      }
+    ]
   }
 ]
