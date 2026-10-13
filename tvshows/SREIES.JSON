@@ -475,5 +475,231 @@
         ]
       }
     ]
+  },
+  {
+    "id": "236994-dragon-ball-daima",
+    "titulo": "Dragon Ball Daima",
+    "sinopse": "Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no \"Mundo dos Demônios\", um misterioso Majin chamado Glorio aparece para eles.",
+    "ano": 2024,
+    "nota": 8.2,
+    "classificacao": "12",
+    "estudio": "Fuji TV",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=HjyZVgGuuYU",
+    "generos": [
+      "Animação e Action & Adventure e Comédia e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/qlLJvJO8rsltmnWWbKgT13hP90I.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+    "banner": "",
+    "elenco": [],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/pc9jW4KdhGfJ7go74VTOq3qWxk5.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Conspiração",
+            "sinopse": "Um castelo em um mundo misterioso. Dois Majins suspeitos observam uma tela. Eles se chamam Gomah e Degesu. A tela mostra Goku e os outros em uma luta contra Majin Boo. Gomah e Degesu partem rumo à Terra para executar uma certa conspiração.",
+            "duracao": 33,
+            "diretor": "Aya Komaki",
+            "thumb": "https://image.tmdb.org/t/p/original/pjXeHfeyHoYG8DX3YvvYd1hATgL.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTAxLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 2,
+            "titulo": "Glorio",
+            "sinopse": "Goku e seus amigos viram crianças devido ao esquema de Gomah. Eles começam a se preparar para ir ao mundo dos demônios. Goku pega seu Bastão Mágico e se anima com uma nova aventura. É aí que o misterioso Majin, Glorio, aparece!",
+            "duracao": 24,
+            "diretor": "Kazuya Karasawa",
+            "thumb": "https://image.tmdb.org/t/p/original/giQ1sfpyPvnxcfJCXiHidPVYAyb.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTAyLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 3,
+            "titulo": "Daima",
+            "sinopse": "Goku, Supremo Senhor Kaioh e Glorio partem para o Reino dos Demônios. A nave deles atravessa o espaço e uma dimensão misteriosa. Eles chegam à entrada do Reino dos Demônios, o Terceiro Mundo dos Demônios!",
+            "duracao": 24,
+            "diretor": "Takao Kiriyama",
+            "thumb": "https://image.tmdb.org/t/p/original/j4E7fEAPaVlM9u4P90I2Q3BtogF.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTAzLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 4,
+            "titulo": "Tagarela",
+            "sinopse": "Forçados a atravessar o Terceiro Mundo dos Demônios a pé, Goku e seus companheiros fazem uma parada em uma loja. Lá, eles encontram souvenirs bizarros e conhecem uma Majin muito tagarela e excêntrica, junto de seu marido!",
+            "duracao": 24,
+            "diretor": "村上漢",
+            "thumb": "https://image.tmdb.org/t/p/original/cig3XdGMpGWUQkajoGSQU9Fry1W.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTA0Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 5,
+            "titulo": "Panzy",
+            "sinopse": "O Majin mascarado que apareceu diante de Goku e seus amigos é, na verdade, uma jovem chamada Panzy! Enquanto Glorio a ignora, Panzy insiste em ser a guia deles. O grupo chega a um castelo suspeito!",
+            "duracao": 24,
+            "diretor": "都築悠一",
+            "thumb": "https://image.tmdb.org/t/p/original/oxkBT8aiQWEEQhLHUIqYCpcU7dP.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTA1Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 6,
+            "titulo": "Raio",
+            "sinopse": "Após se depararem com a Polícia Militar, guardiã do Reino dos Demônios, os quatro são forçados a acampar em uma caverna, onde enfrentam outro problema! O enigmático Glorio lança uma magia de raios contra Goku para resolver a situação!",
+            "duracao": 24,
+            "diretor": "Gaku Yano",
+            "thumb": "https://image.tmdb.org/t/p/original/sqrlnH3tLl3JMUJHlCAUUQ8lVt5.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTA2Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 7,
+            "titulo": "Colar",
+            "sinopse": "Goku e seus amigos seguem viagem, mas são mais uma vez impedidos pela Polícia Militar, possivelmente por terem localizado o Colar Mágico de Panzy. Será que essa amizade conseguirá salvar Panzy do perigo?",
+            "duracao": 24,
+            "diretor": "河原龍太",
+            "thumb": "https://image.tmdb.org/t/p/original/pRXR1zSSIbiDKpBNulx7lZCtT3t.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTA3Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 8,
+            "titulo": "Tamagami",
+            "sinopse": "Começa a batalha contra o Tamagami! Os Tamagamis são os guardiões das Esferas do Dragão. Panzy e os outros ficam boquiabertos quando veem Goku enfrentando um deles. Como será o fim dessa batalha?",
+            "duracao": 23,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/3KbtT3bWqcQieS71dLBtpxeZLL2.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTA4Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 9,
+            "titulo": "Ladrões",
+            "sinopse": "Os rumores sobre o que Goku fez no Terceiro Mundo dos Demônios se espalharam. Para evitar confusão, Goku se disfarça, mas ladrões descobrem sua identidade!",
+            "duracao": 24,
+            "diretor": "Takao Kiriyama",
+            "thumb": "https://image.tmdb.org/t/p/original/2d3UZpI07m03dL68tlKzjFTyiwb.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTA5Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 10,
+            "titulo": "Oceano",
+            "sinopse": "Goku e seus amigos chegam ao místico Segundo Mundo dos Demônios, onde um vasto oceano se estende até onde a vista alcança. Eles ficam maravilhados, mas logo são atacados pela Polícia Militar.",
+            "duracao": 24,
+            "diretor": "村上漢",
+            "thumb": "https://image.tmdb.org/t/p/original/pF73h1gpZX0x887ph38IfDsQRkc.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTEwLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 11,
+            "titulo": "Lenda",
+            "sinopse": "Após encontrar Vegeta e os outros, Goku e seus amigos chegam a um planeta familiar. Enquanto se preparam para partir, uma figura misteriosa se aproxima. É o Lendário Namekujin que ficou isolado no Reino dos Demônios!",
+            "duracao": 24,
+            "diretor": "都築悠一",
+            "thumb": "https://image.tmdb.org/t/p/original/mj7AqhBGWB1b7zfdUVA46R6wHX2.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTExLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 12,
+            "titulo": "A Verdadeira Força",
+            "sinopse": "A batalha entre Vegeta e o Tamagami está acirrada, mas a situação complica quando a disputa é levada para debaixo d'água. Sem saída, Vegeta acaba afundando. Até que finalmente libera sua verdadeira força!",
+            "duracao": 24,
+            "diretor": "Kazuya Karasawa",
+            "thumb": "https://image.tmdb.org/t/p/original/5T5ipgDLvQbyFQZy7zsOFtuu2U6.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTEyLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 13,
+            "titulo": "Surpresa",
+            "sinopse": "Enquanto Goku e seus amigos seguem em direção a Gomah, um problema no motor os faz parar em um planeta misterioso. Para surpresa de todos, o lugar é tão cheio de perigos que até mesmo os Reis Supremos dos Demônios preferem ficar longe!",
+            "duracao": 24,
+            "diretor": "Aya Komaki",
+            "thumb": "https://image.tmdb.org/t/p/original/40GXfVsXABfU3q8kONqIh5tfyO6.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTEzLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 14,
+            "titulo": "Tabu",
+            "sinopse": "Para deter Goku, Gomah faz algo inacreditável. Goku e seus amigos não têm mais como continuar. Quando tudo parece perdido, uma certa pessoa revela seu verdadeiro poder!",
+            "duracao": 24,
+            "diretor": "Gaku Yano",
+            "thumb": "https://image.tmdb.org/t/p/original/8yiYCV4sKI7DKipRAXScjn0TPiW.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTE0Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 15,
+            "titulo": "Terceiro Olho",
+            "sinopse": "O Terceiro Olho Demoníaco concede poder absoluto no Reino dos Demônios. O Rei Gomah descobre onde ele está e toma medidas para pôr as mãos nele. Será que o Terceiro Olho vai se abrir na testa de Gomah?",
+            "duracao": 24,
+            "diretor": "Takao Kiriyama",
+            "thumb": "https://image.tmdb.org/t/p/original/vDZ4dJ59cw2Nltf2Dci1DXCfE4j.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTE1Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 16,
+            "titulo": "Degesu",
+            "sinopse": "Goku e seus amigos finalmente chegam ao palácio de Gomah, mas Kadem e as poderosas Forças da Polícia Militar barram a entrada. Enquanto isso, no palácio, Degesu dá início aos próprios planos ambiciosos.",
+            "duracao": 24,
+            "diretor": "河原龍太",
+            "thumb": "https://image.tmdb.org/t/p/original/zR2cUCEX14BoilmnByOL0GVq3Fs.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTE2Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 17,
+            "titulo": "Gomah",
+            "sinopse": "Goku e seus amigos enfrentam Arinsu. A luta decisiva começa, mas, de repente, o Rei Gomah aparece completamente transformado bem no meio do confronto!",
+            "duracao": 24,
+            "diretor": "Kazuya Karasawa",
+            "thumb": "https://image.tmdb.org/t/p/original/vSGMCrxd788k585aLxiTDiFaUs9.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTE3Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 18,
+            "titulo": "Despertar",
+            "sinopse": "A batalha começa com a chegada do Rei Gomah. Goku e seus amigos sofrem diante do poder do Terceiro Olho. Quando tudo parece perdido, um poder surpreendente desperta em Goku.",
+            "duracao": 24,
+            "diretor": "村上漢",
+            "thumb": "https://image.tmdb.org/t/p/original/PeyYcVcYOADRyf9HUtaGnL3gxh.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTE4Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 19,
+            "titulo": "Traição",
+            "sinopse": "A luta segue mal para Goku e seus amigos. Após muita indecisão, Glorio resolve colocar em prática o plano secreto de Arinsu, deixando todos incrédulos. Quais serão as consequências dessa traição?",
+            "duracao": 24,
+            "diretor": "Kazuya Karasawa",
+            "thumb": "https://image.tmdb.org/t/p/original/imJl2fb8m65L4u7UWsaHkYMt1HY.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTE5Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          },
+          {
+            "numero": 20,
+            "titulo": "Máximo",
+            "sinopse": "Recuperado, Goku finalmente supera os próprios limites! Para derrotar o poderoso Gigante Gomah, que se regenera com o poder do Terceiro Olho, todos dão o máximo de si em uma batalha épica!",
+            "duracao": 24,
+            "diretor": "Aya Komaki",
+            "thumb": "https://image.tmdb.org/t/p/original/A2l4sFZp3Tcgg9jKBXbpiJBGt5n.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTkwMzIwNS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9zLWUtci1pLWUtMDIvMjM2OTk0LTAxLTIwLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiN2E3YzQwODFhM2U1ZGQwZWFiOThiN2QyM2E0YzZkNGU0MWI1YTY1"
+          }
+        ]
+      }
+    ]
   }
 ]
