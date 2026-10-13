@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2026-07-14 13:34:05 by tinyMediaManager 5.2.12 for KODI-->
+<tvshow>
+  <title>Dragon Ball DAIMA</title>
+  <originaltitle>ドラゴンボールDAIMA</originaltitle>
+  <showtitle>Dragon Ball DAIMA</showtitle>
+  <sorttitle/>
+  <year>2024</year>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.2</value>
+      <votes>601</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <outline/>
+  <plot>Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles.</plot>
+  <tagline>Bem-vindo ao Reino dos Demônios!</tagline>
+  <runtime>25</runtime>
+  <thumb aspect="poster">https://image.tmdb.org/t/p/original/pc9jW4KdhGfJ7go74VTOq3qWxk5.jpg</thumb>
+  <namedseason number="1">Temporada 1</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://image.tmdb.org/t/p/original/pc9jW4KdhGfJ7go74VTOq3qWxk5.jpg</thumb>
+  <fanart>
+    <thumb>https://image.tmdb.org/t/p/original/jd0UJBrusmiNqLLP7Jxk1mmCWHS.jpg</thumb>
+  </fanart>
+  <mpaa>BR:12 / BR:BR-12</mpaa>
+  <certification>BR:12 / BR:BR-12</certification>
+  <episodeguide>{"tmdb":"236994","imdb":"tt29485149","wikidata":"Q123022503","tvdb":"440820"}</episodeguide>
+  <id>440820</id>
+  <imdbid>tt29485149</imdbid>
+  <tmdbid>236994</tmdbid>
+  <uniqueid default="false" type="tmdb">236994</uniqueid>
+  <uniqueid default="false" type="imdb">tt29485149</uniqueid>
+  <uniqueid default="false" type="wikidata">Q123022503</uniqueid>
+  <uniqueid default="true" type="tvdb">440820</uniqueid>
+  <premiered>2024-10-11</premiered>
+  <status>Ended</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Animação</genre>
+  <genre>Ação</genre>
+  <genre>Comédia</genre>
+  <genre>Ficção científica</genre>
+  <studio>Fuji TV</studio>
+  <studio>Tokai Television Broadcasting</studio>
+  <studio>Kansai TV</studio>
+  <studio>Fukui TV</studio>
+  <studio>Hokkaido Cultural Broadcasting</studio>
+  <studio>Iwate Menkoi Television</studio>
+  <studio>TOS</studio>
+  <studio>Sendai Television</studio>
+  <studio>SAGA TV</studio>
+  <studio>Ishikawa TV</studio>
+  <studio>TNC</studio>
+  <studio>OHK</studio>
+  <studio>Kochi Sun Sun Broadcasting</studio>
+  <studio>Television Shin Hiroshima System</studio>
+  <studio>TV Shizuoka</studio>
+  <studio>UMK TV Miyazaki</studio>
+  <studio>NST</studio>
+  <studio>NBS</studio>
+  <studio>Sakuranbo TV</studio>
+  <studio>TSK</studio>
+  <studio>Ehime Broadcasting</studio>
+  <studio>KTS</studio>
+  <studio>Fukushima TV</studio>
+  <studio>AKT</studio>
+  <studio>Toyama Television</studio>
+  <studio>TV Kumamoto</studio>
+  <studio>Okinawa Television Broadcasting</studio>
+  <studio>KTN</studio>
+  <studio>Toei Animation</studio>
+  <country>Japão</country>
+  <tag>anime</tag>
+  <credits tmdbid="78322">鳥山明</credits>
+  <trailer/>
+  <dateadded>2026-07-13 23:16:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+  <episode_groups>
+    <group active="true" id="AIRED" name=""/>
+  </episode_groups>
+  <english_title>Dragon Ball DAIMA</english_title>
+  <crew>
+    <name>内藤桂</name>
+    <role subrole="Executive Producer">PRODUCER</role>
+    <profile>https://www.themoviedb.org/person/4996305</profile>
+    <tmdbid>4996305</tmdbid>
+  </crew>
+  <crew>
+    <name>小山弘起</name>
+    <role subrole="Executive Producer">PRODUCER</role>
+    <profile>https://www.themoviedb.org/person/3423500</profile>
+    <tmdbid>3423500</tmdbid>
+  </crew>
+  <crew>
+    <name>廣川拓</name>
+    <role subrole="Producer">PRODUCER</role>
+    <profile>https://www.themoviedb.org/person/4996309</profile>
+    <tmdbid>4996309</tmdbid>
+  </crew>
+  <crew>
+    <name>国広守</name>
+    <role subrole="Producer">PRODUCER</role>
+    <profile>https://www.themoviedb.org/person/4996310</profile>
+    <tmdbid>4996310</tmdbid>
+  </crew>
+  <crew>
+    <name>浅田竜</name>
+    <role subrole="Associate Producer">PRODUCER</role>
+    <profile>https://www.themoviedb.org/person/4996319</profile>
+    <tmdbid>4996319</tmdbid>
+  </crew>
+  <crew>
+    <name>鳥山明</name>
+    <role subrole="Story">WRITER</role>
+    <thumb>https://image.tmdb.org/t/p/h632/9YorJMvF6DgfJcpATHbGyivZpS5.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/78322</profile>
+    <tmdbid>78322</tmdbid>
+  </crew>
+  <tmm_locked/>
+</tvshow>

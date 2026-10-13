@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2026-07-14 13:32:50 by tinyMediaManager 5.2.12 for KODI-->
+<episodedetails>
+  <title>Colar</title>
+  <originaltitle>クビワ</originaltitle>
+  <showtitle>Dragon Ball DAIMA</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <id>10750338</id>
+  <uniqueid default="false" type="tmdb">5668722</uniqueid>
+  <uniqueid default="true" type="imdb">tt34632960</uniqueid>
+  <uniqueid default="false" type="tvdb">10750338</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>6.8</value>
+      <votes>6</votes>
+    </rating>
+  </ratings>
+  <userrating>0</userrating>
+  <plot>Goku e seus amigos seguem viagem, mas são mais uma vez impedidos pela Polícia Militar, possivelmente por terem localizado o Colar Mágico de Panzy. Será que essa amizade conseguirá salvar Panzy do perigo?</plot>
+  <runtime>24</runtime>
+  <thumb>https://image.tmdb.org/t/p/w1280/pRXR1zSSIbiDKpBNulx7lZCtT3t.jpg</thumb>
+  <mpaa/>
+  <premiered>2024-11-22</premiered>
+  <aired>2024-11-22</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Fuji TV</studio>
+  <studio>Tokai Television Broadcasting</studio>
+  <studio>Kansai TV</studio>
+  <studio>Fukui TV</studio>
+  <studio>Hokkaido Cultural Broadcasting</studio>
+  <studio>Iwate Menkoi Television</studio>
+  <studio>TOS</studio>
+  <studio>Sendai Television</studio>
+  <studio>SAGA TV</studio>
+  <studio>Ishikawa TV</studio>
+  <studio>TNC</studio>
+  <studio>OHK</studio>
+  <studio>Kochi Sun Sun Broadcasting</studio>
+  <studio>Television Shin Hiroshima System</studio>
+  <studio>TV Shizuoka</studio>
+  <studio>UMK TV Miyazaki</studio>
+  <studio>NST</studio>
+  <studio>NBS</studio>
+  <studio>Sakuranbo TV</studio>
+  <studio>TSK</studio>
+  <studio>Ehime Broadcasting</studio>
+  <studio>KTS</studio>
+  <studio>Fukushima TV</studio>
+  <studio>AKT</studio>
+  <studio>Toyama Television</studio>
+  <studio>TV Kumamoto</studio>
+  <studio>Okinawa Television Broadcasting</studio>
+  <studio>KTN</studio>
+  <studio>Toei Animation</studio>
+  <credits tmdbid="78322">鳥山明</credits>
+  <credits tmdbid="1254074">柿原優子</credits>
+  <director tmdbid="2382964">河原龍太</director>
+  <actor>
+    <name>Mai Nakahara</name>
+    <role>Bulma (mini) (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/s8DBmM540SRlRzUplaapMaDo8vV.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/220709</profile>
+    <type>GuestStar</type>
+    <tmdbid>220709</tmdbid>
+  </actor>
+  <actor>
+    <name>三野雄大</name>
+    <role>Vegeta (mini) (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/ndM2zeVSLsb80JUBRCMF1BOUgai.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3290539</profile>
+    <type>GuestStar</type>
+    <tmdbid>3290539</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomohiro Yamaguchi</name>
+    <role>Piccolo (mini) (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/vj0zpzYm2wMuBR9pYfSs06HN6T5.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1691564</profile>
+    <type>GuestStar</type>
+    <tmdbid>1691564</tmdbid>
+  </actor>
+  <actor>
+    <name>半田裕典</name>
+    <role>Kibito (mini) (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/2d9PpE8u3UaOEBfmfu7fsOSrzI3.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2871303</profile>
+    <type>GuestStar</type>
+    <tmdbid>2871303</tmdbid>
+  </actor>
+  <actor>
+    <name>楠見尚己</name>
+    <role>King Kadan (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/uxRwh4kUUBOe4fSFEHEEmk9Yc4j.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1243811</profile>
+    <type>GuestStar</type>
+    <tmdbid>1243811</tmdbid>
+  </actor>
+  <actor>
+    <name>れいみ</name>
+    <role>Hybis (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/rXoURgLsmneKuaQxtaL0klZPWGi.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3037731</profile>
+    <type>GuestStar</type>
+    <tmdbid>3037731</tmdbid>
+  </actor>
+  <actor>
+    <name>森下由樹子</name>
+    <role>Peral (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/zqAjvHaRLExteld2UxGy4t7liHC.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1769320</profile>
+    <type>GuestStar</type>
+    <tmdbid>1769320</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenta Miyake</name>
+    <role>Tamagami Number Three (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/225603</profile>
+    <type>GuestStar</type>
+    <tmdbid>225603</tmdbid>
+  </actor>
+  <actor>
+    <name>掛川裕彦</name>
+    <role>Teahouse Owner (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/pxJkFvRC0risMx0NUdWf5CQFiiI.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1241536</profile>
+    <type>GuestStar</type>
+    <tmdbid>1241536</tmdbid>
+  </actor>
+  <actor>
+    <name>蟹江俊介</name>
+    <role>Gendarmerie (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/vg1iXLtfNl2SySHxIhfrpfnX9Vr.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2724026</profile>
+    <type>GuestStar</type>
+    <tmdbid>2724026</tmdbid>
+  </actor>
+  <actor>
+    <name>浅野良介</name>
+    <role>Gendarmerie (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/2W9xSfqU2HR9yDDq8f48Cfomqx7.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/3201773</profile>
+    <type>GuestStar</type>
+    <tmdbid>3201773</tmdbid>
+  </actor>
+  <actor>
+    <name>Yumiko Kobayashi</name>
+    <role>Kaiohshin (mini) (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/83IuLRuKivjifdFwfsKhmhTJKzd.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/126485</profile>
+    <type>GuestStar</type>
+    <tmdbid>126485</tmdbid>
+  </actor>
+  <actor>
+    <name>Masako Nozawa</name>
+    <role>Son Goku (mini) (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/90496</profile>
+    <type>GuestStar</type>
+    <tmdbid>90496</tmdbid>
+  </actor>
+  <actor>
+    <name>Koki Uchiyama</name>
+    <role>Glorio (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/1254052</profile>
+    <type>GuestStar</type>
+    <tmdbid>1254052</tmdbid>
+  </actor>
+  <actor>
+    <name>Fairouz Ai</name>
+    <role>Panzy (voice)</role>
+    <thumb>https://image.tmdb.org/t/p/h632/coFu6WOVBZvqd1fw89vbHkiC0zB.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/2359492</profile>
+    <type>GuestStar</type>
+    <tmdbid>2359492</tmdbid>
+  </actor>
+  <dateadded>2026-07-13 23:16:06</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec/>
+        <aspect>0.00</aspect>
+        <width>0</width>
+        <height>0</height>
+        <resolution/>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark/>
+  <code/>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>S01E07.strm</original_filename>
+  <user_note/>
+  <episode_groups>
+    <group episode="7" id="AIRED" name="" season="1"/>
+  </episode_groups>
+  <english_title>Collar</english_title>
+  <crew>
+    <name>内藤桂</name>
+    <role subrole="Executive Producer">PRODUCER</role>
+    <profile>https://www.themoviedb.org/person/4996305</profile>
+    <tmdbid>4996305</tmdbid>
+  </crew>
+  <crew>
+    <name>小山弘起</name>
+    <role subrole="Executive Producer">PRODUCER</role>
+    <profile>https://www.themoviedb.org/person/3423500</profile>
+    <tmdbid>3423500</tmdbid>
+  </crew>
+  <crew>
+    <name>廣川拓</name>
+    <role subrole="Producer">PRODUCER</role>
+    <profile>https://www.themoviedb.org/person/4996309</profile>
+    <tmdbid>4996309</tmdbid>
+  </crew>
+  <crew>
+    <name>国広守</name>
+    <role subrole="Producer">PRODUCER</role>
+    <profile>https://www.themoviedb.org/person/4996310</profile>
+    <tmdbid>4996310</tmdbid>
+  </crew>
+  <crew>
+    <name>浅田竜</name>
+    <role subrole="Associate Producer">PRODUCER</role>
+    <profile>https://www.themoviedb.org/person/4996319</profile>
+    <tmdbid>4996319</tmdbid>
+  </crew>
+  <crew>
+    <name>鳥山明</name>
+    <role subrole="Story">WRITER</role>
+    <thumb>https://image.tmdb.org/t/p/h632/9YorJMvF6DgfJcpATHbGyivZpS5.jpg</thumb>
+    <profile>https://www.themoviedb.org/person/78322</profile>
+    <tmdbid>78322</tmdbid>
+  </crew>
+  <crew>
+    <name>柿原優子</name>
+    <role subrole="Writer">WRITER</role>
+    <profile>https://www.themoviedb.org/person/1254074</profile>
+    <tmdbid>1254074</tmdbid>
+  </crew>
+  <crew>
+    <name>河原龍太</name>
+    <role subrole="Director">DIRECTOR</role>
+    <profile>https://www.themoviedb.org/person/2382964</profile>
+    <tmdbid>2382964</tmdbid>
+  </crew>
+</episodedetails>
