@@ -186,5 +186,36 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "A Forja – O Poder da Transformação",
+  "ano": "2024",
+  "url": "",
+  "genero": "Drama, Família",
+  "versoes_disponiveis": [
+    {
+      "label": "1080P FHD",
+      "url": "aHR0cHM6Ly9pYTYwMDYwOC51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL20tZS1uLXUtZi1pLWwtbS1lLXMtMC0xLzExODY1MzIubWt2",
+      "legenda": ""
+    },
+    {
+      "label": "HD",
+      "url": "aHR0cHM6Ly9pYTYwMDYwOC51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL20tZS1uLXUtZi1pLWwtbS1lLXMtMC0xLzExODY1MzJIRC5ta3Y=",
+      "legenda": ""
+    }
+  ],
+  "tags": "Gospel",
+  "elenco": "Aspen Kennedy Wilson, Priscilla C. Shirer, Cameron Arnett, Karen Abercrombie, T.C. Stallings, B.J. Arnett",
+  "sinopse": "Um ano depois de encerrar o ensino médio, o jovem Isaías Wright não tem planos para o futuro e é desafiado por sua mãe solo e um empresário de sucesso a começar a traçar um rumo melhor para sua vida. Ele passa a ser discipulado pelo seu novo mentor, conta com orações de sua mãe e de uma guerreira de orações, Dona Clara, e começa a descobrir o propósito de Deus para sua vida.",
+  "nota": "8.2",
+  "classificacao": "L",
+  "trailer": "",
+  "poster": "https://image.tmdb.org/t/p/original/uMM2o08s3BFUic2nWIEdHgQsG8Z.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/18X5mXS1SpQy5rygEcpbmzUdkVP.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/su7Ly9DkLAWha7BFs6jTsMY5SbJ.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
