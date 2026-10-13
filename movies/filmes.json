@@ -1,39 +1,36 @@
 [
-  {
+    {
     "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
     "ano": "2026",
     "url": "bWFnbmV0Oj94dD11cm46YnRpaDppbmoyd2Q0dXR0N2c2dHh0MzJ6bzQzd3Fpcm0yMmJ1bw==",
     "genero": "Animação, Comédia, Família",
-    "versao": "TORRENT",
+    "versao": "4K",
+    "versoes_disponiveis": [
+      {
+        "label": "4K Ultra HD - Dublado Premium",
+        "url": "bWFnbmV0Oj94dD11cm46YnRpaDppbmoyd2Q0dXR0N2c2dHh0MzJ6bzQzd3Fpcm0yMmJ1bw==",
+        "legenda": ""
+      },
+      {
+        "label": "1080p FHD - Dublado",
+        "url": "YUhSMGNEb3ZMMU5sY25abFpHOXlhV0psZEc5NExuTnZkWEpsY3k1amIyMHZabWxzYldVdE1UQTROWDAlM0Q=",
+        "legenda": ""
+      },
+      {
+        "label": "1080p FHD - Legendado",
+        "url": "YUhSMGNEb3ZMMU5sY25abFpHOXlhV0psZEc5NExuTnZkWEpsY3k1amIyMHZabWxzYldVdE1UQTROWm1V",
+        "legenda": "YUhSMGNEb3ZMMU5sY25abFpHOXlhV0psZEc5NExuTnZkWEpsY3k1amIyMHZMMlJsYm1semFXNWxMbk55ZEE9PQ=="
+      }
+    ],
     "tags": "",
     "elenco": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
     "sinopse": "Tadeo, sua namorada Sara e seus amigos Múmia, Jeff e Belzoni embarcam em uma aventura depois que ele acidentalmente desencadeia um feitiço antigo.",
     "nota": "6.6",
     "classificacao": "10",
     "trailer": "plugin://plugin.video.youtube/play/?video_id=X87R3e54M9w",
-    "poster": "https://image.tmdb.org/t/p/original/3TYvITZ5spd4Z0LE74XrKAsInb6.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
-    "clearart": "https://image.tmdb.org/t/p/original/o4rPsw2wEmqyzRNVZqlMTlw4Heq.png",
-    "coletanea": "",
-    "sinopse_coletanea": "",
-    "poster_coletanea": "",
-    "fanart_coletanea": ""
-  },
-  {
-    "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
-    "ano": "2026",
-    "url": "aHR0cHM6Ly9pYTYwMDYwOC51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL20tZS1uLXUtZi1pLWwtbS1lLXMtMC0xLzExODczMjYubWt2",
-    "genero": "Animação, Comédia, Família",
-    "versao": "DIRETO",
-    "tags": "",
-    "elenco": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
-    "sinopse": "Tadeo, sua namorada Sara e seus amigos Múmia, Jeff e Belzoni embarcam em uma aventura depois que ele acidentalmente desencadeia um feitiço antigo.",
-    "nota": "6.6",
-    "classificacao": "10",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=X87R3e54M9w",
-    "poster": "https://image.tmdb.org/t/p/original/3TYvITZ5spd4Z0LE74XrKAsInb6.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
-    "clearart": "https://image.tmdb.org/t/p/original/o4rPsw2wEmqyzRNVZqlMTlw4Heq.png",
+    "poster": "https://tmdb.org",
+    "fanart": "https://tmdb.org",
+    "clearart": "https://tmdb.org",
     "coletanea": "",
     "sinopse_coletanea": "",
     "poster_coletanea": "",
