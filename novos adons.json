@@ -74,7 +74,7 @@
   {
     "type": "addon",
     "name": "Kodi Add-on repository",
-    "version": "3.4.0",
+    "version": "3.6.0",
     "description": "Transfira e instale add-ons a partir do repositório oficial do Kodi.tv.[CR]|Ao utilizar o repositório oficial, você será capaz de tirar proveito do nosso serviço de espelhamento de arquivos, auxiliando em downloads mais rápidos a partir de uma região perto de você.[CR]|Todos os add-ons neste repositório passam por testes básicos, se você encontrar algum quebrado ou que não esteja funcionando, por favor reporte para a equipe do Kodi, para que possamos tomar as ações necessárias.",
     "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/repository.xbmc.org/icon.png",
     "fanart": "https://imgur.com",
