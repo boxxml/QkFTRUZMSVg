@@ -58,44 +58,6 @@
     "dependencies": []
   },
   {
-    "type": "addon",
-    "name": "InputStream Adaptive",
-    "version": "21.5.25",
-    "description": "Cliente InputStream para fluxos adaptativos. Suporta protocolos de streaming comuns como MPEG-DASH, HLS e Microsoft Smooth Streaming.\n\nO complemento também oferece suporte a fluxos protegidos por DRM, como Google Widevine, Microsoft PlayReady e outros.",
-    "icon": "https://kodi.tv/images/addons/omega/inputstream.adaptive/icon.png",
-    "fanart": "https://imgur.com",
-    "url": {
-      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/inputstream.adaptive-21.5.25-windows-x86_64.zip",
-      "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/inputstream.adaptive-21.5.25-android-aarch64.zip",
-      "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/inputstream.adaptive-21.5.25-android-armv7.zip"
-    },
-    "dependencies": []
-  },
-  {
-    "type": "addon",
-    "name": "Kodi Add-on repository",
-    "version": "3.6.0",
-    "description": "Transfira e instale add-ons a partir do repositório oficial do Kodi.tv.[CR]|Ao utilizar o repositório oficial, você será capaz de tirar proveito do nosso serviço de espelhamento de arquivos, auxiliando em downloads mais rápidos a partir de uma região perto de você.[CR]|Todos os add-ons neste repositório passam por testes básicos, se você encontrar algum quebrado ou que não esteja funcionando, por favor reporte para a equipe do Kodi, para que possamos tomar as ações necessárias.",
-    "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/repository.xbmc.org/icon.png",
-    "fanart": "https://imgur.com",
-    "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/repository.xbmc.org.zip",
-    "dependencies": []
-  },
-  {
-    "type": "addon",
-    "name": "Inputstream FFmpeg Direct",
-    "version": "21.3.8",
-    "description": "Cliente nputStream para fluxos que podem ser abertos tanto pelo libavformat do FFmpeg quanto pelo cURL do Kodi. Formatos de fluxo comuns, como TS puro, HLS e DASH (sem DRM), são suportados, além de muitos outros.\n\nO complemento também oferece suporte a serviços de arquivamento/reprodução com janelas de replay (geralmente em dias) e permite a reprodução em intervalos regulares.\n\nPara obter a documentação, visite: https://github.com/xbmc/inputstream.ffmpegdirect/blob/Matrix/README.md",
-    "icon": "https://kodi.tv/images/addons/omega/inputstream.ffmpegdirect/icon.png",
-    "fanart": "https://imgur.com",
-    "url": {
-      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/inputstream.ffmpegdirect-21.3.8-windows-x86_64.zip",
-      "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/inputstream.ffmpegdirect-21.3.8-android-aarch64.zip",
-      "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/inputstream.ffmpegdirect-21.3.8-android-armv7.zip"
-    },
-    "dependencies": []
-  },
-  {
     "type": "apk",
     "name": "FLIXBOX",
     "version": "1.6.4",
