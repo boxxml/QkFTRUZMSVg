@@ -2874,5 +2874,104 @@
         ]
       }
     ]
+  },
+  {
+    "id": "312693-pequenos-profetas",
+    "titulo": "Pequenos Profetas",
+    "sinopse": "Desde que sua namorada desapareceu, há sete anos, a vida de Michael está em suspenso. Mas uma receita mística num diário antigo promete dar as respostas que ele tanto deseja.",
+    "ano": 2026,
+    "nota": 8.2,
+    "classificacao": "14",
+    "estudio": "BBC Two",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=W7vdQWnaZts",
+    "generos": [
+      "Comédia e Drama e Mistério"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/rKrnWZQ1p6Oh6dVuX921TL4vgaf.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
+    "banner": "",
+    "elenco": [
+      "Pearce Quigley",
+      "Michael Palin",
+      "Lauren Patel",
+      "Mackenzie Crook",
+      "Shola Adewusi",
+      "Paul Kaye"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/rKrnWZQ1p6Oh6dVuX921TL4vgaf.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Lá no beco sem saída.",
+            "sinopse": "Preso na mesmice desde o sumiço de Clea, a vida de Michael muda quando um diário antigo traz uma nova esperança.",
+            "duracao": 30,
+            "diretor": "Mackenzie Crook",
+            "thumb": "https://image.tmdb.org/t/p/original/hFhF3s7Bg9aJDJ7GDQbIbMit5UV.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo0Y2ZlZmh1NzU1YW82b21kdW11enhvZXZtYngyN2syYg==",
+            "data_lancamento": "2026-02-09"
+          },
+          {
+            "numero": 2,
+            "titulo": "Isso é legal?",
+            "sinopse": "Michael transforma seu galpão em um laboratório. Kacey convida Michael para ir ao bar.",
+            "duracao": 30,
+            "diretor": "Mackenzie Crook",
+            "thumb": "https://image.tmdb.org/t/p/original/mySSdIPSFeieRkGSx4Y5hmMO1YY.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo0Y2ZlZmh1NzU1YW82b21kdW11enhvZXZtYngyN2syYg==",
+            "data_lancamento": "2026-02-16"
+          },
+          {
+            "numero": 3,
+            "titulo": "Devo ficar com medo?",
+            "sinopse": "Michael testemunha um crime. A obsessão de Clive se intensifica. Kacey visita Marvin Gardens.",
+            "duracao": 31,
+            "diretor": "Mackenzie Crook",
+            "thumb": "https://image.tmdb.org/t/p/original/5ASru0Vt3OV1QaOMjIDDZv0UWo.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo0Y2ZlZmh1NzU1YW82b21kdW11enhvZXZtYngyN2syYg==",
+            "data_lancamento": "2026-02-23"
+          },
+          {
+            "numero": 4,
+            "titulo": "Os pássaros da América",
+            "sinopse": "Uma entrega de esterco de cavalo leva Clive ao limite, enquanto Kacey ajuda Michael a enterrar os potes.",
+            "duracao": 30,
+            "diretor": "Mackenzie Crook",
+            "thumb": "https://image.tmdb.org/t/p/original/kGfboGUJQ3bwOfTBvZlWwkmi47e.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo0Y2ZlZmh1NzU1YW82b21kdW11enhvZXZtYngyN2syYg==",
+            "data_lancamento": "2026-03-02"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 29,
+            "diretor": "Mackenzie Crook",
+            "thumb": "https://image.tmdb.org/t/p/original/yjxISy2qBNliifZaM06LJ5JDv1k.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo0Y2ZlZmh1NzU1YW82b21kdW11enhvZXZtYngyN2syYg==",
+            "data_lancamento": "2026-03-09"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 30,
+            "diretor": "Mackenzie Crook",
+            "thumb": "https://image.tmdb.org/t/p/original/AguZ6UK0R8NSegGzvHt9Tx2749h.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo0Y2ZlZmh1NzU1YW82b21kdW11enhvZXZtYngyN2syYg==",
+            "data_lancamento": "2026-03-16"
+          }
+        ]
+      }
+    ]
   }
 ]
