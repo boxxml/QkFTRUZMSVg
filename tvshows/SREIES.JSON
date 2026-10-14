@@ -2681,5 +2681,77 @@
         "episodios": []
       }
     ]
+  },
+  {
+    "id": "335536-tyson",
+    "titulo": "TYSON",
+    "sinopse": "Esta série documental dividida em quatro partes analisa a vida explosiva de Mike Tyson, uma das figuras mais temidas e fascinantes da história do esporte.",
+    "ano": 2026,
+    "nota": 0,
+    "classificacao": "16",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=ePlbPWdMOCk",
+    "generos": [
+      "Documentário"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
+    "banner": "",
+    "elenco": [
+      "Mike Tyson"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "“TYSON” é uma envolvente série documental dividida em quatro partes que explora a vida explosiva de Mike Tyson, uma das figuras mais temidas e fascinantes da história do esporte. Desde sua infância conturbada no Brooklyn até o estrelato global, a produção traça sua ascensão meteórica como o campeão mundial dos pesos-pesados mais jovem de todos os tempos e seu histórico turbulento de fama, influência e controvérsia que quase o destruiu. Com uma sinceridade brutal, o astro confronta as escolhas, as pressões e o preço de seu legado. Sem filtros e profundamente pessoal, “TYSON” é um retrato poderoso da grandeza, queda e redenção.",
+        "poster": "https://image.tmdb.org/t/p/original/ujwzis6M25VEGkzRlVWtF9o9Bdw.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Poder",
+            "sinopse": "Detido várias vezes antes mesmo de completar 13 anos, Mike Tyson já tinha perdido as esperanças. Mas o técnico de boxe Cus D'Amato mudou a vida dele.",
+            "duracao": 64,
+            "diretor": "Floyd Russ",
+            "thumb": "https://image.tmdb.org/t/p/original/j7vbkGnomlYGv94ovQ6ry3khNB7.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo0c2ZoNTJyaG43eHA2dGV6NXp3MmlmYXh3czJla3h3aQ==",
+            "data_lancamento": "2026-10-13"
+          },
+          {
+            "numero": 2,
+            "titulo": "Ganância",
+            "sinopse": "Depois de um feito histórico no ringue, Tyson está no topo do mundo. Até que um casamento turbulento, um promotor mal-intencionado e os vícios colocam tudo a perder.",
+            "duracao": 60,
+            "diretor": "Floyd Russ",
+            "thumb": "https://image.tmdb.org/t/p/original/cgTi6kLPU2rvKzPIpo3qWqe3Ppp.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo0c2ZoNTJyaG43eHA2dGV6NXp3MmlmYXh3czJla3h3aQ==",
+            "data_lancamento": "2026-10-13"
+          },
+          {
+            "numero": 3,
+            "titulo": "Confiança",
+            "sinopse": "Após a derrota, Tyson tenta recuperar seu título de recordista, mas uma condenação criminal e uma pena de prisão acabam com esses planos.",
+            "duracao": 67,
+            "diretor": "Floyd Russ",
+            "thumb": "https://image.tmdb.org/t/p/original/oKs5bDnuC3sLr5XgUie9WuZ0gGq.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo0c2ZoNTJyaG43eHA2dGV6NXp3MmlmYXh3czJla3h3aQ==",
+            "data_lancamento": "2026-10-13"
+          },
+          {
+            "numero": 4,
+            "titulo": "Humano",
+            "sinopse": "A vida após a infame \"luta da mordida na orelha\" faz Tyson encarar o mundo fora do boxe, levando a uma jornada de aposentadoria, reinvenção e recuperação.",
+            "duracao": 74,
+            "diretor": "Floyd Russ",
+            "thumb": "https://image.tmdb.org/t/p/original/thlahessR1egBUhru7q4VvZFnRz.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo0c2ZoNTJyaG43eHA2dGV6NXp3MmlmYXh3czJla3h3aQ==",
+            "data_lancamento": "2026-10-13"
+          }
+        ]
+      }
+    ]
   }
 ]
