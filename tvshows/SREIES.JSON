@@ -2973,5 +2973,104 @@
         ]
       }
     ]
+  },
+  {
+    "id": "283371-armadilha",
+    "titulo": "Armadilha",
+    "sinopse": "A escritora Lisa Konrad ficou 10 anos sem sair de casa depois do assassinato da irmã. Mas, quando vê o assassino na TV, ela bola um plano arriscado.",
+    "ano": 2026,
+    "nota": 7,
+    "classificacao": "14",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=qogZ7f7irz8",
+    "generos": [
+      "Drama e Mistério"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/xfvQkIldbPq2NPZUXHwTz5a76T8.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+    "banner": "",
+    "elenco": [
+      "Friederike Becht",
+      "Hans Löw",
+      "Alexander Schubert",
+      "Katja Ponickau",
+      "Naila Schuberth",
+      "Josephine Thiesen"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "A escritora de sucesso Lisa Konrad (Friederike Becht) não sai de casa há quase dez anos, desde que testemunhou o assassinato da irmã, Anna. Mas, ao reconhecer o suposto assassino na televisão, ela decide atraí-lo para uma armadilha, usando a si mesma como isca.",
+        "poster": "https://image.tmdb.org/t/p/original/xfvQkIldbPq2NPZUXHwTz5a76T8.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "O monstro",
+            "sinopse": "A reclusa escritora Lisa Konrad acha que viu o assassino da irmã na TV. Então, ela bola um plano perigoso para fazer justiça.",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/ndGKadK9nUP1dg39xk13rn5DdPu.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpxajczajdzMnJvb2l2dDI2NGFnaW1oN3J6bWZ5cGpwbg==",
+            "data_lancamento": "2026-10-13"
+          },
+          {
+            "numero": 2,
+            "titulo": "O romance",
+            "sinopse": "Apesar da preocupação de seu editor, Lisa vai ainda mais longe com o livro e suas memórias. Robert Lenzen pesquisa sua entrevistada.",
+            "duracao": 46,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/l40MHXPj2NHyNyaaVsL24p8Ihz.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpxajczajdzMnJvb2l2dDI2NGFnaW1oN3J6bWZ5cGpwbg==",
+            "data_lancamento": "2026-10-13"
+          },
+          {
+            "numero": 3,
+            "titulo": "O treinamento",
+            "sinopse": "Lisa se prepara para encontrar Robert, sem saber que ele está fazendo a mesma coisa. Norbert consulta a terapeuta de Lisa sobre o comportamento dela.",
+            "duracao": 49,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/81t0vps6KE8Ori2kS9XBUh3mwda.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpxajczajdzMnJvb2l2dDI2NGFnaW1oN3J6bWZ5cGpwbg==",
+            "data_lancamento": "2026-10-13"
+          },
+          {
+            "numero": 4,
+            "titulo": "A entrevista",
+            "sinopse": "Robert chega para a entrevista. Lisa confia em seu treinamento para manter o controle da situação, mas ele não deixa.",
+            "duracao": 50,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/5sSkvzO13ZMi4BowsWVRqdhN4KH.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpxajczajdzMnJvb2l2dDI2NGFnaW1oN3J6bWZ5cGpwbg==",
+            "data_lancamento": "2026-10-13"
+          },
+          {
+            "numero": 5,
+            "titulo": "A confissão",
+            "sinopse": "Arrasada, Lisa busca respostas desesperadamente. Uma confissão de Norbert sugere que o assassino de Anna está mais perto do que ela imagina.",
+            "duracao": 53,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/b0H03Hb7zaKrWlNdNRk3k83PcZ0.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpxajczajdzMnJvb2l2dDI2NGFnaW1oN3J6bWZ5cGpwbg==",
+            "data_lancamento": "2026-10-13"
+          },
+          {
+            "numero": 6,
+            "titulo": "A verdade",
+            "sinopse": "A linha entre realidade e ficção se torna cada vez mais tênue, e Lisa tenta enfrentar seu maior medo para conseguir as respostas que tanto procura.",
+            "duracao": 53,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uIrUXm6jn338ltR2lQtBrRogqBX.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpxajczajdzMnJvb2l2dDI2NGFnaW1oN3J6bWZ5cGpwbg==",
+            "data_lancamento": "2026-10-13"
+          }
+        ]
+      }
+    ]
   }
 ]
