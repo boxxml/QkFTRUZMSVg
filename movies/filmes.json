@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "Matchbox - O Filme",
+  "ano": "2026",
+  "url": "",
+  "genero": "Ação, Comédia, Aventura",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDp2eXdndzRuNG93anV0Y3AyNGg3MnhkbHVvdW1weXhhag==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "John Cena, Jessica Biel, Arturo Castro, Sam Richardson, Teyonah Parris, Danai Gurira",
+  "sinopse": "Quando um grupo de antigos amigos de infância se reencontra, o encontro toma um rumo inesperado ao se depararem com uma perigosa trama internacional e precisarem salvar o mundo.",
+  "nota": "7.9",
+  "classificacao": "14",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=ayRffYn4SQE",
+  "poster": "https://image.tmdb.org/t/p/original/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/lD1qfcg2mfpCiztgOBVItiqbIVM.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Toy Story 5",
   "ano": "2026",
   "url": "bWFnbmV0Oj94dD11cm46YnRpaDpzZ2FmdzZlenRnbzI2ZzUzNGc1bXN2bTNqeGNmZHdkcw==",
