@@ -1,5 +1,36 @@
 [
 {
+  "titulo": "Supergirl",
+  "ano": "2026",
+  "url": "",
+  "genero": "Ação, Aventura, Ficção científica",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT (4K ULTRA HD)",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDp6Y2Y1aXYyc2RxdjVvNWZ6ZXRxNm4yYjZobXRuYmk2Zg==",
+      "legenda": ""
+    },
+    {
+      "label": "TORRENT (FHD)",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmYWE0MzI1MTk4YWZkMGU0YWVkODMxMzZjMzhhMGMyMmMxOGZlNTI3",
+      "legenda": ""
+    }
+  ],
+  "tags": "Super-heróis",
+  "elenco": "Milly Alcock, Eve Ridley, Matthias Schoenaerts, Jason Momoa, David Krumholtz, Emily Beecham",
+  "sinopse": "Quando um adversário implacável atinge alguém muito próximo dela, Kara Zor-El relutantemente une forças com uma companheira improvável em uma épica jornada interestelar de vingança e justiça.",
+  "nota": "6.7",
+  "classificacao": "14",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=2OnuW2nW8DE",
+  "poster": "https://image.tmdb.org/t/p/original/pgKFmJ4mvohpI6LUdRj6uIn6wQR.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/meaS9BFxMDY334YWKpMKoZDNBFO.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Matchbox - O Filme",
   "ano": "2026",
   "url": "",
