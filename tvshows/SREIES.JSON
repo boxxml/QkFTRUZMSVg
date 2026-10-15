@@ -3398,5 +3398,126 @@
         ]
       }
     ]
+  },
+  {
+    "id": "250203-brothers",
+    "titulo": "Brothers",
+    "sinopse": "Os atores de Hollywood Matthew McConaughey e Woody Harrelson são melhores amigos há anos, mas um chocante segredo de família sugere que a ligação entre eles pode ser ainda maior.",
+    "ano": 2026,
+    "nota": 7.6,
+    "classificacao": "16",
+    "estudio": "Apple TV",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=_sATiG-Blt8",
+    "generos": [
+      "Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/wlIrFcLK3B4RA84ajR3yCRldEnF.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+    "banner": "",
+    "elenco": [
+      "Matthew McConaughey",
+      "Woody Harrelson",
+      "Natalie Martinez",
+      "Brittany Ishibashi",
+      "Nolan Almeida",
+      "Ella Grace Helton"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/wlIrFcLK3B4RA84ajR3yCRldEnF.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Na estrada",
+            "sinopse": "Uma visita surpresa dos Harrelson toma um rumo inesperado quando a mãe de Matthew solta uma bomba.",
+            "duracao": 32,
+            "diretor": "Trent O'Donnell",
+            "thumb": "https://image.tmdb.org/t/p/original/jx6eXdoKXd80LloPAh9Z59QLIp5.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo0MDdhNTc0ODY3N2IxYmRkMDUxOWY0MTBlZDdiMThmNjc1NjUwNGNi",
+            "data_lancamento": "2026-09-22"
+          },
+          {
+            "numero": 2,
+            "titulo": "A caçada",
+            "sinopse": "Matthew leva seu filho Wyatt para sua primeira caçada, enquanto Woody segue um tipo diferente de rastro.",
+            "duracao": 28,
+            "diretor": "Trent O'Donnell",
+            "thumb": "https://image.tmdb.org/t/p/original/xnAMUoVX81EqvDEC2Oh3QP7b9kG.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo0MDdhNTc0ODY3N2IxYmRkMDUxOWY0MTBlZDdiMThmNjc1NjUwNGNi",
+            "data_lancamento": "2026-09-22"
+          },
+          {
+            "numero": 3,
+            "titulo": "Woodyzinho",
+            "sinopse": "Quando a Ma Mac quer expulsar os Harrelson, Woody bola um plano absurdo para ganhar tempo.",
+            "duracao": 30,
+            "diretor": "Trent O'Donnell",
+            "thumb": "https://image.tmdb.org/t/p/original/nuPBwXpcmyxqNpuURh3OVv3wyRB.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiZTVkZjQ1ZTIyODliZjAxNmM1YmY4ZWUwYWI2YTgxMDIyNzYxNmUy",
+            "data_lancamento": "2026-09-29"
+          },
+          {
+            "numero": 4,
+            "titulo": "A banda",
+            "sinopse": "Woody e Matthew colocam seus talentos musicais à prova enquanto a investigação de Olive se intensifica.",
+            "duracao": 23,
+            "diretor": "Trent O'Donnell",
+            "thumb": "https://image.tmdb.org/t/p/original/lW0XG1IMoBNGx2YmCkZtQbO2EFj.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDowMjU4ZTMyZWI3ZDI2YzRkMjFlOGI2NzgxMWU0ZGJjOWZlODJkYTA4",
+            "data_lancamento": "2026-10-06"
+          },
+          {
+            "numero": 5,
+            "titulo": "Dia dos namorados",
+            "sinopse": "A situação rapidamente sai do controle para Matthew e Woody depois que eles esquecem o Dia dos Namorados.",
+            "duracao": 25,
+            "diretor": "Jason Winer",
+            "thumb": "https://image.tmdb.org/t/p/original/mpXHBFmNAAt3DfX4xDF5BET15fi.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDplODgyNmI0ZDFiNTMxYTI3YTQ4NjFmY2UyZWIyYzczODk0YmFjYTQ1",
+            "data_lancamento": "2026-10-13"
+          },
+          {
+            "numero": 6,
+            "titulo": "O baile",
+            "sinopse": "Wyatt convida Kai para o baile da escola, onde Matthew e Woody tentam manter a pose como acompanhantes adultos.",
+            "duracao": 30,
+            "diretor": "Erin O'Malley",
+            "thumb": "https://image.tmdb.org/t/p/original/3325hvMGbj11VXMstIjyn9rdycF.jpg",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-10-20"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 26,
+            "diretor": "Erin O'Malley",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-10-27"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 28,
+            "diretor": "Trent O'Donnell",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-03"
+          }
+        ]
+      }
+    ]
   }
 ]
