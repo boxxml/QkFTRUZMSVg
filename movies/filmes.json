@@ -430,7 +430,7 @@
 {
   "titulo": "Um Ato de Fé",
   "ano": "2021",
-  "url": "aHR0cHM6Ly9pYTYwMDYwOC51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL20tZS1uLXUtZi1pLWwtbS1lLXMtMC0xLzUxNDQzOS5ta3Y=",
+  "url": "bWFnbmV0Oj94dD11cm46YnRpaDowMGNjOTA4MWZlZWQ2OGVlZjlhODg5MzM2OGY5ZTE5OGYwMjA0NDgz",
   "genero": "Drama",
   "versoes_disponiveis": [],
   "tags": "Gospel",
@@ -439,12 +439,43 @@
   "nota": "4.5",
   "classificacao": "L",
   "trailer": "plugin://plugin.video.youtube/play/?video_id=cRKa3DEp2-U",
-  "poster": "https://image.tmdb.org/t/p/original/uMTHUzecoJgAlekqBu6EQDFzZ8E.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/zieMsrUQghlAuheMu8ZWTXaxZKs.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/wZhxtK387ZLFQQ38l1Z3ELdszVa.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
   "clearart": "",
   "coletanea": "",
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Homem-Aranha: Um Novo Dia",
+  "ano": "2026",
+  "url": "",
+  "genero": "Ficção científica, Ação, Aventura",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT 4K ULTRA HD",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1YzBlMzkzY2M0NTg1YWYyMWNiZjJkMWExYTYzYzFlNDkwNjE2MWRh",
+      "legenda": ""
+    },
+    {
+      "label": "TORRENT FHD",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2MzI1OTU0NmU3YmEzYzg3NmE2Mjg3ZDRjZDg0OTMyOTMxNWEwZmEx",
+      "legenda": ""
+    }
+  ],
+  "tags": "Super-heróis",
+  "elenco": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon, Jon Bernthal",
+  "sinopse": "É um novo dia para Peter Parker. Combatendo o crime em tempo integral como Homem-Aranha em um mundo que não se lembra mais dele e lidando com a pressão de ver seus antigos amigos seguirem em frente sem sua presença, Peter passa por uma mudança que talvez nem ele tenha o poder de controlar. Mas essa transformação também pode ser a única coisa capaz de deter uma surpreendente nova ameaça à cidade e às pessoas que ele ama: um poderoso vilão que ninguém sequer consegue enxergar.",
+  "nota": "8.5",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=bwt2-nyEP0A",
+  "poster": "https://image.tmdb.org/t/p/original/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+  "coletanea": "Homem-Aranha (Vingadores) Coleção",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/dRedUPyBaPxPBNKJTsSr3qkdA9j.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/AvnqpRwlEaYNVL6wzC4RN94EdSd.jpg"
 }
 ]
