@@ -3072,5 +3072,103 @@
         ]
       }
     ]
+  },
+  {
+    "id": "333101-a-ilha-do-tesouro",
+    "titulo": "A Ilha do Tesouro",
+    "sinopse": "O jovem Jim Hawkins e sua mãe, Bess, encontram um lendário mapa do tesouro pirata e são arrastados para uma perigosa viagem através do Atlântico. Jim precisa enfrentar motins, violência e traição, experiências que o transformarão para sempre.",
+    "ano": 2026,
+    "nota": 6.3,
+    "classificacao": "14",
+    "estudio": "MGM+",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=ChpfACFzjOg",
+    "generos": [
+      "Action & Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/f8kNFg3QjReMX32geTbWfzMegAM.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
+    "banner": "",
+    "elenco": [
+      "Tom Sweet",
+      "David Oyelowo",
+      "Hayley Atwell",
+      "Jack Huston",
+      "Tomer Capone"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "O jovem Jim Hawkins e sua mãe, Bess, encontram um lendário mapa do tesouro pirata e são arrastados para uma perigosa viagem através do Atlântico. Jim precisa enfrentar motins, violência e traição, experiências que o transformarão para sempre.",
+        "poster": "https://image.tmdb.org/t/p/original/f8kNFg3QjReMX32geTbWfzMegAM.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Capítulo 1: O Almirante Benbow",
+            "sinopse": "Jim Hawkins e sua mãe, Bess, são arrastados para um mundo perigoso quando um marinheiro é levado à costa com o mapa do tesouro de um pirata. Decididos a buscar o tesouro por conta própria, eles embarcam no Hispaniola, sem saber do perigo a bordo. Estreia da série.",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/72JK3w67KpJkSeEFsHUQzz9yY3x.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpjc3FuYzZ6dGI2cGtvemNicXU2cGRiamtrM2ljMm1zeQ==",
+            "data_lancamento": "2026-10-11"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/rAUIKPwoX7PVTNpzpKrXPiWJFWn.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpjc3FuYzZ6dGI2cGtvemNicXU2cGRiamtrM2ljMm1zeQ==",
+            "data_lancamento": "2026-10-18"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/24cxbvEbn8xKSUNNW1Zc1rNEQ9x.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpjc3FuYzZ6dGI2cGtvemNicXU2cGRiamtrM2ljMm1zeQ==",
+            "data_lancamento": "2026-10-25"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/mEPJ9aUD8qFOpiwhNpbvWOoReJa.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpjc3FuYzZ6dGI2cGtvemNicXU2cGRiamtrM2ljMm1zeQ==",
+            "data_lancamento": "2026-11-01"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/dc6UgNmdva5ymmqA6vvRlx0DVLT.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpjc3FuYzZ6dGI2cGtvemNicXU2cGRiamtrM2ljMm1zeQ==",
+            "data_lancamento": "2026-11-08"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/1VM9sH9hMeMdWEtrQQl9ljzeRU4.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpjc3FuYzZ6dGI2cGtvemNicXU2cGRiamtrM2ljMm1zeQ==",
+            "data_lancamento": "2026-11-15"
+          }
+        ]
+      }
+    ]
   }
 ]
