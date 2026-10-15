@@ -1,5 +1,36 @@
 [
 {
+  "titulo": "Super Mario Galaxy: O Filme",
+  "ano": "2026",
+  "url": "",
+  "genero": "Família, Comédia, Aventura, Fantasia, Animação",
+  "versoes_disponiveis": [
+    {
+      "label": "DIRETO (4K ULTRA HD)",
+      "url": "aHR0cHM6Ly9pYTYwMDYwOC51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL20tZS1uLXUtZi1pLWwtbS1lLXMtMC0xLzEyMjY4NjM0ay5ta3Y=",
+      "legenda": ""
+    },
+    {
+      "label": "TORRENT (FHD)",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpkYzZjYzFiMzMzZjY2MDkxN2YxYThjNGMxMDMyNjIwZGVjYTY0YWYy",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Chris Pratt, Charlie Day, Anya Taylor-Joy, Jack Black, Keegan-Michael Key, Benny Safdie",
+  "sinopse": "Depois de salvar o Reino dos Cogumelos, Mario e seus amigos se encontram em uma missão intergaláctica para deter um novo vilão ameaçador.",
+  "nota": "8.2",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=HRyy_FdyieU",
+  "poster": "https://image.tmdb.org/t/p/original/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/pwZhO2AYoZfq9pwxahTTSuxbVhn.png",
+  "coletanea": "Super Mario: Coleção",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/jvntZuQBsvODH1YcEiIzOz4ZKFy.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/mCF47RnRN8alhxCmFJzJRoEEPIe.jpg"
+},
+{
   "titulo": "Michael",
   "ano": "2026",
   "url": "",
