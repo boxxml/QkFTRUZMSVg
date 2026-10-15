@@ -1,4 +1,66 @@
 [
+{
+  "titulo": "Homem-Aranha: Um Novo Dia",
+  "ano": "2026",
+  "url": "bWFnbmV0Oj94dD11cm46YnRpaDowMGNjOTA4MWZlZWQ2OGVlZjlhODg5MzM2OGY5ZTE5OGYwMjA0NDgz",
+  "genero": "Ficção científica, Ação, Aventura",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT (4K ULTRA HD)",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1YzBlMzkzY2M0NTg1YWYyMWNiZjJkMWExYTYzYzFlNDkwNjE2MWRh",
+      "legenda": ""
+    },
+    {
+      "label": "TORRENT (FHD)",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2MzI1OTU0NmU3YmEzYzg3NmE2Mjg3ZDRjZDg0OTMyOTMxNWEwZmEx",
+      "legenda": ""
+    }
+  ],
+  "tags": "Super-heróis",
+  "elenco": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon, Jon Bernthal",
+  "sinopse": "É um novo dia para Peter Parker. Combatendo o crime em tempo integral como Homem-Aranha em um mundo que não se lembra mais dele e lidando com a pressão de ver seus antigos amigos seguirem em frente sem sua presença, Peter passa por uma mudança que talvez nem ele tenha o poder de controlar. Mas essa transformação também pode ser a única coisa capaz de deter uma surpreendente nova ameaça à cidade e às pessoas que ele ama: um poderoso vilão que ninguém sequer consegue enxergar.",
+  "nota": "8.5",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=bwt2-nyEP0A",
+  "poster": "https://image.tmdb.org/t/p/original/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+  "coletanea": "Homem-Aranha (Vingadores) Coleção",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/dRedUPyBaPxPBNKJTsSr3qkdA9j.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/AvnqpRwlEaYNVL6wzC4RN94EdSd.jpg"
+},
+  {
+  "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+  "ano": "2026",
+  "url": "",
+  "genero": "Animação, Comédia, Família",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT 1080P",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDppbmoyd2Q0dXR0N2c2dHh0MzJ6bzQzd3Fpcm0yMmJ1bw==",
+      "legenda": ""
+    },
+    {
+      "label": "DIRETO 1080P",
+      "url": "aHR0cHM6Ly9pYTgwMDYwOC51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL20tZS1uLXUtZi1pLWwtbS1lLXMtMC0xLzExODczMjYubWt2",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
+  "sinopse": "Tadeo, sua namorada Sara e seus amigos Múmia, Jeff e Belzoni embarcam em uma aventura depois que ele acidentalmente desencadeia um feitiço antigo.",
+  "nota": "6.6",
+  "classificacao": "10",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=X87R3e54M9w",
+  "poster": "https://image.tmdb.org/t/p/original/3TYvITZ5spd4Z0LE74XrKAsInb6.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/o4rPsw2wEmqyzRNVZqlMTlw4Heq.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
   {
   "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
   "ano": "2026",
@@ -430,7 +492,7 @@
 {
   "titulo": "Um Ato de Fé",
   "ano": "2021",
-  "url": "bWFnbmV0Oj94dD11cm46YnRpaDowMGNjOTA4MWZlZWQ2OGVlZjlhODg5MzM2OGY5ZTE5OGYwMjA0NDgz",
+  "url": "aHR0cHM6Ly9pYTYwMDYwOC51cy5hcmNoaXZlLm9yZy8wL2l0ZW1zL20tZS1uLXUtZi1pLWwtbS1lLXMtMC0xLzUxNDQzOS5ta3Y=",
   "genero": "Drama",
   "versoes_disponiveis": [],
   "tags": "Gospel",
@@ -439,43 +501,12 @@
   "nota": "4.5",
   "classificacao": "L",
   "trailer": "plugin://plugin.video.youtube/play/?video_id=cRKa3DEp2-U",
-  "poster": "https://image.tmdb.org/t/p/original/wZhxtK387ZLFQQ38l1Z3ELdszVa.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/uMTHUzecoJgAlekqBu6EQDFzZ8E.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/zieMsrUQghlAuheMu8ZWTXaxZKs.jpg",
   "clearart": "",
   "coletanea": "",
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
-},
-{
-  "titulo": "Homem-Aranha: Um Novo Dia",
-  "ano": "2026",
-  "url": "",
-  "genero": "Ficção científica, Ação, Aventura",
-  "versoes_disponiveis": [
-    {
-      "label": "TORRENT 4K ULTRA HD",
-      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1YzBlMzkzY2M0NTg1YWYyMWNiZjJkMWExYTYzYzFlNDkwNjE2MWRh",
-      "legenda": ""
-    },
-    {
-      "label": "TORRENT FHD",
-      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2MzI1OTU0NmU3YmEzYzg3NmE2Mjg3ZDRjZDg0OTMyOTMxNWEwZmEx",
-      "legenda": ""
-    }
-  ],
-  "tags": "Super-heróis",
-  "elenco": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon, Jon Bernthal",
-  "sinopse": "É um novo dia para Peter Parker. Combatendo o crime em tempo integral como Homem-Aranha em um mundo que não se lembra mais dele e lidando com a pressão de ver seus antigos amigos seguirem em frente sem sua presença, Peter passa por uma mudança que talvez nem ele tenha o poder de controlar. Mas essa transformação também pode ser a única coisa capaz de deter uma surpreendente nova ameaça à cidade e às pessoas que ele ama: um poderoso vilão que ninguém sequer consegue enxergar.",
-  "nota": "8.5",
-  "classificacao": "12",
-  "trailer": "plugin://plugin.video.youtube/play/?video_id=bwt2-nyEP0A",
-  "poster": "https://image.tmdb.org/t/p/original/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-  "clearart": "https://image.tmdb.org/t/p/original/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
-  "coletanea": "Homem-Aranha (Vingadores) Coleção",
-  "sinopse_coletanea": "",
-  "poster_coletanea": "https://image.tmdb.org/t/p/original/dRedUPyBaPxPBNKJTsSr3qkdA9j.jpg",
-  "fanart_coletanea": "https://image.tmdb.org/t/p/original/AvnqpRwlEaYNVL6wzC4RN94EdSd.jpg"
 }
 ]
