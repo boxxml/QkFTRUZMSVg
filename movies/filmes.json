@@ -1,5 +1,36 @@
 [
 {
+  "titulo": "Michael",
+  "ano": "2026",
+  "url": "",
+  "genero": "Música, Drama",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT (4K ULTRA HD)",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpiYWQxOWY3Y2Y5MmEzODFjNjlkOWY2YmIzYWU1ZTI5NDNlNjg4YzIw",
+      "legenda": ""
+    },
+    {
+      "label": "TORRENT (FHD)",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo0MzM2NjBlYjAzMTJlNjc2ZDk4ZDQyNTA4ODMzNzQwODdkY2RiMTU5",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Jaafar Jackson, Colman Domingo, Nia Long, Juliano Krue Valdi, KeiLyn Durrel Jones, Miles Teller",
+  "sinopse": "A história da vida de Michael Jackson além da música, traçando sua jornada desde a descoberta de seu talento extraordinário como líder dos Jackson Five até o artista visionário cuja ambição criativa impulsionou uma busca implacável para se tornar o maior artista do mundo.",
+  "nota": "8.6",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=14YXeHKOBUY",
+  "poster": "https://image.tmdb.org/t/p/original/gKWVxVJ5Q0JcQKj2Z8Hu5Qwo7s2.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/wJHlHY0t6iBq6JRyCZNCH7cKzl1.png",
+  "coletanea": "Michael: Coleção",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/52UT6g6mLSJMm2khc0ZwWpQx4gU.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/91BJtboK7dhZIzzmUUMDu4Ca9cW.jpg"
+},
+{
   "titulo": "As Ovelhas Detetives",
   "ano": "2026",
   "url": "",
