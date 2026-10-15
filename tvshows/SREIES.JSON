@@ -3640,5 +3640,126 @@
         ]
       }
     ]
+  },
+  {
+    "id": "157239-alien-earth",
+    "titulo": "Alien: Earth",
+    "sinopse": "Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta.",
+    "ano": 2025,
+    "nota": 7.3,
+    "classificacao": "16",
+    "estudio": "FX",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=IxTYXVyNOfk",
+    "generos": [
+      "Sci-Fi & Fantasy e Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/wEMJxkaVw5hIHax9raBLd82TLAR.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/sVxit4vKQZnrHejeQupBYadP22g.jpg",
+    "banner": "",
+    "elenco": [
+      "Sydney Chandler",
+      "Alex Lawther",
+      "Essie Davis",
+      "Samuel Blenkin",
+      "Babou Ceesay",
+      "Adarsh Gourav"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta. Quando os membros da equipe de resgate procuram sobreviventes entre os destroços, eles encontram misteriosas formas de vida predatórias mais aterrorizantes do que jamais poderiam ter imaginado. Com a descoberta dessa nova ameaça, a equipe de busca precisa lutar para sobreviver e decidir o que fazer com esse achado que pode mudar o planeta Terra para sempre.",
+        "poster": "https://image.tmdb.org/t/p/original/xRs6NpJl14r8gXB29nh4uPgmOyu.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Terra do Nunca",
+            "sinopse": "Nave cai na Terra, e uma irmã sai em busca do irmão desaparecido.",
+            "duracao": 65,
+            "diretor": "Noah Hawley",
+            "thumb": "https://image.tmdb.org/t/p/original/d4cydmliyqDZyBWkxkliiED4B0G.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo2NjdmNDdmYTNkYjBjYzg4MDlkNjU2NjY2NTEyMDg3MzcyMmZkNDcx",
+            "data_lancamento": "2025-08-12"
+          },
+          {
+            "numero": 2,
+            "titulo": "Mr. October",
+            "sinopse": "Corporações em conflito, um reencontro emocionante e uma revelação bombástica.",
+            "duracao": 56,
+            "diretor": "Dana Gonzales",
+            "thumb": "https://image.tmdb.org/t/p/original/cdajiwi3frAqI0XIwsCH5q9P8Hu.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo2NjdmNDdmYTNkYjBjYzg4MDlkNjU2NjY2NTEyMDg3MzcyMmZkNDcx",
+            "data_lancamento": "2025-08-12"
+          },
+          {
+            "numero": 3,
+            "titulo": "Metamorfose",
+            "sinopse": "A equipe retorna com uma carga inesperada e um experimento perturbador acontece.",
+            "duracao": 55,
+            "diretor": "Dana Gonzales",
+            "thumb": "https://image.tmdb.org/t/p/original/4pLJcZUh73j8wSQfB5vAX3jtORj.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpkMTI0ZmRkMTMyYzMzYzcwNWMyN2QwYjQ4MDJkYzhkMDIyYWIwZTE3",
+            "data_lancamento": "2025-08-19"
+          },
+          {
+            "numero": 4,
+            "titulo": "Observação",
+            "sinopse": "Uma ligação inesperada surge enquanto uma trama secreta coloca todos em perigo.",
+            "duracao": 60,
+            "diretor": "Ugla Hauksdóttir",
+            "thumb": "https://image.tmdb.org/t/p/original/hzE6VJ37veL4p54IicLcI5pDDSJ.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo5YTEwMDgxMjk1ODE4MzU3Y2U2NDk0MjMxMjRhZTZiMzE0NWZlN2Vk",
+            "data_lancamento": "2025-08-26"
+          },
+          {
+            "numero": 5,
+            "titulo": "No Espaço, Ninguém...",
+            "sinopse": "Uma nave espacial em perigo desencadeia uma situação crítica.",
+            "duracao": 66,
+            "diretor": "Noah Hawley",
+            "thumb": "https://image.tmdb.org/t/p/original/hkLVUpJ8HWSAowCxazGDcUOpxLS.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo4MWQ5YzU1NTg2NjhhNjc2NmZhYzE3OTQ0MzZiYjg1OTc1MTI2ZTI3",
+            "data_lancamento": "2025-09-02"
+          },
+          {
+            "numero": 6,
+            "titulo": "Voe",
+            "sinopse": "A tensão aumenta quando inimigos se enfrentam e a curiosidade leva a consequências mortais.",
+            "duracao": 58,
+            "diretor": "Ugla Hauksdóttir",
+            "thumb": "https://image.tmdb.org/t/p/original/ppYjI7rPvsZznQr59XzysFUZTsY.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo1NDY4NWU4ZGFmMTI1ZGI4OTNjNGY5MWU5ZTQ2ZDc4MGFkZWU4ZmM0",
+            "data_lancamento": "2025-09-09"
+          },
+          {
+            "numero": 7,
+            "titulo": "Emersão",
+            "sinopse": "Um plano de fuga leva ao rompimento de facções, traições e um confronto chocante.",
+            "duracao": 46,
+            "diretor": "Dana Gonzales",
+            "thumb": "https://image.tmdb.org/t/p/original/7DLRyfODm9aii0aLgYiuA6r2zwI.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpkZjM5NjMzZGIxNzQ2YzRiZDg1YmEzOTQwNmNkMmEyN2IyMjFkYjk3",
+            "data_lancamento": "2025-09-16"
+          },
+          {
+            "numero": 8,
+            "titulo": "Os Monstros de Verdade",
+            "sinopse": "Uma nova dinâmica de poder surge.",
+            "duracao": 48,
+            "diretor": "Dana Gonzales",
+            "thumb": "https://image.tmdb.org/t/p/original/tssL6QBaKUkdXtmPUidrsREIEX5.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo2ZjNiYmUxYmRlMjQzYWQ1ZDJhNDU1ZWFkMDUwMTQ3NzBmYjY2MTBk",
+            "data_lancamento": "2025-09-23"
+          }
+        ]
+      }
+    ]
   }
 ]
