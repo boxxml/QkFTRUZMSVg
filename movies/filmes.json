@@ -1,5 +1,36 @@
 [
 {
+  "titulo": "Toy Story 5",
+  "ano": "2026",
+  "url": "bWFnbmV0Oj94dD11cm46YnRpaDpzZ2FmdzZlenRnbzI2ZzUzNGc1bXN2bTNqeGNmZHdkcw==",
+  "genero": "Animação, Família, Comédia, Aventura",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT (4K ULTRA HD)",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpkMTBiNWU5ZDMxNmVlN2Y5MjNlNDU4ZjY3NzI3YTE5NTg4NmM5MTYw",
+      "legenda": ""
+    },
+    {
+      "label": "TORRENT (FHD)",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDphazRvZTJla2F5cmdwN2JoZ3JreDRrNWNrNDU2Yndwaw==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Joan Cusack, Tom Hanks, Tim Allen, Conan O'Brien, Scarlett Spears, Greta Lee",
+  "sinopse": "O trabalho de Buzz, Woody, Jessie e do resto da gangue fica exponencialmente mais difícil quando eles enfrentam uma nova ameaça à diversão: a tecnologia.",
+  "nota": "8.3",
+  "classificacao": "10",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=-YbiBclEEgo",
+  "poster": "https://image.tmdb.org/t/p/original/jTN1hdfP88Km63waezqIN1uUqT3.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
+  "coletanea": "Toy Story: Coleção",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/vgloOQGIDJJkIq1nTv9y3n2TokC.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/hApclyB9NEZEQujAVajzi5iWE4a.jpg"
+},
+{
   "titulo": "Homem-Aranha: Um Novo Dia",
   "ano": "2026",
   "url": "bWFnbmV0Oj94dD11cm46YnRpaDowMGNjOTA4MWZlZWQ2OGVlZjlhODg5MzM2OGY5ZTE5OGYwMjA0NDgz",
