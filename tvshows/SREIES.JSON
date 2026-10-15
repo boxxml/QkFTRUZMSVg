@@ -3901,5 +3901,165 @@
         ]
       }
     ]
+  },
+  {
+    "id": "228878-efeitos-colaterais",
+    "titulo": "Efeitos Colaterais",
+    "sinopse": "Marshall e Frances, dois ex-colegas que compartilham um segredo: eles descobriram o melhor remédio do mundo, um cogumelo que cura quase tudo.",
+    "ano": 2025,
+    "nota": 8.5,
+    "classificacao": "16",
+    "estudio": "Adult Swim",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=20DN-E61GYM",
+    "generos": [
+      "Animação e Drama e Comédia e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/kNRixn2I02msqH7x0nmNwMg6pez.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/4drV6iluttgjZmU1Q0xDqjrBQ1.jpg",
+    "banner": "",
+    "elenco": [
+      "Dave King",
+      "Emily Pendergast",
+      "Mike Judge",
+      "Martha Kelly",
+      "Joseph Lee Anderson"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/4ZC2DWtpoJadOGVefTnqTT92wWg.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Piloto",
+            "sinopse": "Marshall Cuso aparece em Nova York com um cogumelo que cura qualquer doença ou machucado.",
+            "duracao": 22,
+            "diretor": "Camille Bozec",
+            "thumb": "https://image.tmdb.org/t/p/original/eFGd9Qsx8iS4uPeQawOWEZ26Nr0.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo1YTIxOGYyMmFmNzg5ZTI5Y2NhYTcyMTVkMzZlNmM5MmRmOTg2NzQ2",
+            "data_lancamento": "2025-02-02"
+          },
+          {
+            "numero": 2,
+            "titulo": "Lakeshore Limitada",
+            "sinopse": "Marshall está fugindo, tentando sair de Nova York. Frances conta para sua chefe sobre o cogumelo.",
+            "duracao": 23,
+            "diretor": "Sean Buckelew",
+            "thumb": "https://image.tmdb.org/t/p/original/6i3kHqtLoPUXgkyd6ohGq1cssSG.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo1YTIxOGYyMmFmNzg5ZTI5Y2NhYTcyMTVkMzZlNmM5MmRmOTg2NzQ2",
+            "data_lancamento": "2025-02-02"
+          },
+          {
+            "numero": 3,
+            "titulo": "Hildy",
+            "sinopse": "Marshall pede ajuda da sua antiga professora e mentora, Hildy. Copano e Harrington vão cada vez mais fundo no mistério do cogumelo obtido na batida.",
+            "duracao": 23,
+            "diretor": "Vincent Tsui",
+            "thumb": "https://image.tmdb.org/t/p/original/c2l9dERwqGQW9XJcF48ZcQTZrlJ.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo1YTIxOGYyMmFmNzg5ZTI5Y2NhYTcyMTVkMzZlNmM5MmRmOTg2NzQ2",
+            "data_lancamento": "2025-02-09"
+          },
+          {
+            "numero": 4,
+            "titulo": "Aterro de Resíduos",
+            "sinopse": "Marshall compra um terreno perto de um local de processamento de resíduos químicos para cultivar mais cogumelos.",
+            "duracao": 23,
+            "diretor": "Camille Bozec",
+            "thumb": "https://image.tmdb.org/t/p/original/gyvOMUlVWygPm8zoXMz6OqNeQb7.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo1YTIxOGYyMmFmNzg5ZTI5Y2NhYTcyMTVkMzZlNmM5MmRmOTg2NzQ2",
+            "data_lancamento": "2025-02-16"
+          },
+          {
+            "numero": 5,
+            "titulo": "Star-Télite",
+            "sinopse": "Marshall, Frances e seus vizinhos malucos lidam com as consequências de um incidente perigoso.",
+            "duracao": 22,
+            "diretor": "Sean Buckelew",
+            "thumb": "https://image.tmdb.org/t/p/original/5EMaxIPubNvPDOlQvT9GNmJf8FN.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo1YTIxOGYyMmFmNzg5ZTI5Y2NhYTcyMTVkMzZlNmM5MmRmOTg2NzQ2",
+            "data_lancamento": "2025-02-23"
+          },
+          {
+            "numero": 6,
+            "titulo": "No Sistema",
+            "sinopse": "Marshall é preso e descobre que pessoas muito importantes não querem que ele seja liberado, enquanto o perigo o aguarda em cada esquina.",
+            "duracao": 23,
+            "diretor": "Vincent Tsui",
+            "thumb": "https://image.tmdb.org/t/p/original/5BvQclkPWptroWcImSAXGoaJ4Bl.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo1YTIxOGYyMmFmNzg5ZTI5Y2NhYTcyMTVkMzZlNmM5MmRmOTg2NzQ2",
+            "data_lancamento": "2025-03-02"
+          },
+          {
+            "numero": 7,
+            "titulo": "Baiacu",
+            "sinopse": "Marshall é salvo por um outro preso, mas agora Marshall deve um favor a ele. Desesperado para sair da cadeia, ele cria um plano arriscado.",
+            "duracao": 23,
+            "diretor": "Camille Bozec",
+            "thumb": "https://image.tmdb.org/t/p/original/yddWGjtnzJ92kW04IsqYJkoyTBm.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo1YTIxOGYyMmFmNzg5ZTI5Y2NhYTcyMTVkMzZlNmM5MmRmOTg2NzQ2",
+            "data_lancamento": "2025-03-09"
+          },
+          {
+            "numero": 8,
+            "titulo": "Amelia e Wyatt",
+            "sinopse": "Marshall se encontra em uma nova situação que muda tudo, resultando no seu reencontro com um antigo amigo e um novo plano.",
+            "duracao": 22,
+            "diretor": "Sean Buckelew",
+            "thumb": "https://image.tmdb.org/t/p/original/mQJu9zn6jfcJJJytd7Ju3Ijuh5q.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo1YTIxOGYyMmFmNzg5ZTI5Y2NhYTcyMTVkMzZlNmM5MmRmOTg2NzQ2",
+            "data_lancamento": "2025-03-16"
+          },
+          {
+            "numero": 9,
+            "titulo": "Borda do Penhasco",
+            "sinopse": "Marshall descobre o que Hildy estava fazendo, mas os obstáculos continuam. Copano e Harrington encontram a localização de Marshall.",
+            "duracao": 23,
+            "diretor": "Vincent Tsui",
+            "thumb": "https://image.tmdb.org/t/p/original/7q6bSjhhDKMRVXibUeQcClqVBe0.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo1YTIxOGYyMmFmNzg5ZTI5Y2NhYTcyMTVkMzZlNmM5MmRmOTg2NzQ2",
+            "data_lancamento": "2025-03-23"
+          },
+          {
+            "numero": 10,
+            "titulo": "A Batida",
+            "sinopse": "O FBI/DEA fazem uma batida no local, resultando em péssimas consequências. O destino do cogumelo é decidido.",
+            "duracao": 23,
+            "diretor": "Camille Bozec",
+            "thumb": "https://image.tmdb.org/t/p/original/jll8K701PBSicbQwAGnsHhjKAll.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo1YTIxOGYyMmFmNzg5ZTI5Y2NhYTcyMTVkMzZlNmM5MmRmOTg2NzQ2",
+            "data_lancamento": "2025-03-30"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/v3oZoQeDlNStyTTkvV2tZlvzlEE.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2027-01-24"
+          }
+        ]
+      }
+    ]
   }
 ]
