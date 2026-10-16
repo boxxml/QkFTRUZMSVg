@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "Moana",
+  "ano": "2026",
+  "url": "",
+  "genero": "Família, Fantasia, Comédia, Aventura",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT (FHD)",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpBNzlFMUM3QTFBNTAwN0Y5NTBCRjQyNjJFM0E2MjZFNTIyNDM3QzM2",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams, Jemaine Clement",
+  "sinopse": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
+  "nota": "7.5",
+  "classificacao": "10",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=hvAHPpdMXcw",
+  "poster": "https://image.tmdb.org/t/p/original/wjAdEJoqcmyjBj8jxb3lrUN0PLJ.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/pRHIM8liJBYy1Z4wNgAizqCOuOU.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Sobrenatural: Agora Entre Nós",
   "ano": "2026",
   "url": "",
