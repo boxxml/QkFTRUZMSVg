@@ -4443,5 +4443,125 @@
         ]
       }
     ]
+  },
+  {
+    "id": "213562-crystal-lake",
+    "titulo": "Crystal Lake",
+    "sinopse": "A mãe solo Pam Voorhees não consegue superar o luto pela trágica morte de seu filho pequeno e doente, Jason, que se afogou no lago da cidade quase um ano antes. Quando dois estranhos surgem à sua porta investigando seu passado, desencadeia-se uma sequência perturbadora de acontecimentos, levando os moradores de Crystal Lake a se perguntarem: afinal, quem é Pam Voorhees?",
+    "ano": 2026,
+    "nota": 7.8,
+    "classificacao": "16",
+    "estudio": "Peacock",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=tvKstpjI-HM",
+    "generos": [
+      "Mistério e Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+    "banner": "",
+    "elenco": [
+      "Linda Cardellini",
+      "William Catlett",
+      "Gwendolyn Sundstrom",
+      "Cameron Scoggins",
+      "Devin Kessler"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "A mãe solo Pam Voorhees não consegue superar o luto pela trágica morte de seu filho pequeno e doente, Jason, que se afogou no lago da cidade quase um ano antes. Quando dois estranhos surgem à sua porta investigando seu passado, desencadeia-se uma sequência perturbadora de acontecimentos, levando os moradores de Crystal Lake a se perguntarem: afinal, quem é Pam Voorhees?",
+        "poster": "https://image.tmdb.org/t/p/original/hsESHRHtwIQ1OU5ck8fDmuGJkXM.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Acampamento Crystal",
+            "sinopse": "O verão idílico no Acampamento Crystal é interrompido pela morte de Jason; enquanto a cidade segue em frente, Pam continua à procura dele. Levon a convida para o Dia dos Fundadores, mas isso apenas desperta a dor de Pam; ao tentar fugir de seu presente, ela acaba se deparando com o seu passado.",
+            "duracao": 56,
+            "diretor": "Michael Lennox",
+            "thumb": "https://image.tmdb.org/t/p/original/wuLsZH6uOEWPvONDknNtpZN6zI9.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDoydWR2bTdra2FzNGxxZ3d5bmRrZW1sYXBnZ2F0aWlkNw==",
+            "data_lancamento": "2026-10-15"
+          },
+          {
+            "numero": 2,
+            "titulo": "Parte 2",
+            "sinopse": "Durante um encontro com Levon, Pam esbarra em Rita e é convidada para um seminário de fim de semana com um guru de autoajuda; Grace vai a uma festa de ensino médio, mas acaba sendo expulsa por Claudette; algo sinistro se vinga em nome de Grace.",
+            "duracao": 53,
+            "diretor": "Michael Lennox",
+            "thumb": "https://image.tmdb.org/t/p/original/jdca2sQl0LhPTRskDXhGNpuKGiU.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDoydWR2bTdra2FzNGxxZ3d5bmRrZW1sYXBnZ2F0aWlkNw==",
+            "data_lancamento": "2026-10-15"
+          },
+          {
+            "numero": 3,
+            "titulo": "Parte 3",
+            "sinopse": "Os moradores da cidade saem para caçar um urso, contrariando as ordens de Levon; Pam e Levon criam um vínculo ao compartilharem a dor pela perda de seus entes queridos; Pam visita Grace em seu apartamento e suspeita que ela esteja sofrendo abusos, o que leva a um confronto com a mãe dela, Valerie.",
+            "duracao": 48,
+            "diretor": "Michael Lennox",
+            "thumb": "https://image.tmdb.org/t/p/original/aGDRiyI9iCHlx68g0sFZdaqKEh6.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDoydWR2bTdra2FzNGxxZ3d5bmRrZW1sYXBnZ2F0aWlkNw==",
+            "data_lancamento": "2026-10-15"
+          },
+          {
+            "numero": 4,
+            "titulo": "Um novo começo",
+            "sinopse": "Pam visita Levon no meio da noite; Willow chega à cidade à procura de seus amigos, mas logo teme estar sendo seguida; Pam pede seu emprego de volta no acampamento, onde agora trabalha um novo grupo de monitores; a pesquisa de Briana toma um rumo inesperado.",
+            "duracao": 53,
+            "diretor": "Celine Held",
+            "thumb": "https://image.tmdb.org/t/p/original/lu5kaZmrFqQdapZChhk3FPqxoQF.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDoydWR2bTdra2FzNGxxZ3d5bmRrZW1sYXBnZ2F0aWlkNw==",
+            "data_lancamento": "2026-10-15"
+          },
+          {
+            "numero": 5,
+            "titulo": "O Sangue Novo",
+            "sinopse": "O Acampamento Crystal Lake reabre para o verão, apesar do número crescente de mortes; a tensão aumenta à medida que Levon e Dorf entram em conflito a respeito dos suspeitos do assassinato; Pam, preocupada em perder Grace para a nova equipe, descobre uma notícia inquietante que muda tudo.",
+            "duracao": 49,
+            "diretor": "Celine Held",
+            "thumb": "https://image.tmdb.org/t/p/original/9V0FW5xmbWCmFNjaRULWrQfZdHp.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDoydWR2bTdra2FzNGxxZ3d5bmRrZW1sYXBnZ2F0aWlkNw==",
+            "data_lancamento": "2026-10-15"
+          },
+          {
+            "numero": 6,
+            "titulo": "Mate-os, mamãe",
+            "sinopse": "Pam acredita que Jason está vivo; os monitores lamentam a morte de Willow, mas a cerimônia logo toma um rumo sombrio com a chegada de um convidado inesperado; Briana recebe um envelope misterioso justamente no momento em que a polícia estadual intervém e assume o caso em Crystal Lake.",
+            "duracao": 44,
+            "diretor": "Celine Held",
+            "thumb": "https://image.tmdb.org/t/p/original/1odrjhiy0UolvdCNoxhetYrD5Ya.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDoydWR2bTdra2FzNGxxZ3d5bmRrZW1sYXBnZ2F0aWlkNw==",
+            "data_lancamento": "2026-10-15"
+          },
+          {
+            "numero": 7,
+            "titulo": "Sexta-feira…",
+            "sinopse": "Uma jovem Pam dá à luz Jason após uma gravidez complicada; Elias ascende na carreira enquanto Jason cresce; durante a festa de seu quarto aniversário, Jason apresenta sintomas alarmantes que levam Pam a questionar sua própria vida.",
+            "duracao": 52,
+            "diretor": "Quyen Tran",
+            "thumb": "https://image.tmdb.org/t/p/original/pfoH6GszgTLRJMwSPkgLxk0a6b3.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDoydWR2bTdra2FzNGxxZ3d5bmRrZW1sYXBnZ2F0aWlkNw==",
+            "data_lancamento": "2026-10-15"
+          },
+          {
+            "numero": 8,
+            "titulo": "O Capítulo Final",
+            "sinopse": "Elias chega a Crystal Lake determinado a encontrar Pam e Jason; Levon enfrenta Elias em uma interação tensa, na tentativa de proteger Pam; o mundo de Pam desmorona à medida que seu passado finalmente a alcança.",
+            "duracao": 43,
+            "diretor": "Quyen Tran",
+            "thumb": "https://image.tmdb.org/t/p/original/puMm9bzDsfrJVdXVX0Yhy7ACkCj.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDoydWR2bTdra2FzNGxxZ3d5bmRrZW1sYXBnZ2F0aWlkNw==",
+            "data_lancamento": "2026-10-15"
+          }
+        ]
+      }
+    ]
   }
 ]
