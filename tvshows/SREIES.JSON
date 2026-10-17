@@ -4563,5 +4563,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "296466-marilia-mendonca-sentimento-louco",
+    "titulo": "Marília Mendonça: Sentimento Louco",
+    "sinopse": "A produção retrata a trajetória de vida e a carreira meteórica de uma das maiores vozes do sertanejo brasileiro: Marília Mendonça — a artista feminina mais ouvida do país. O projeto revisita os passos de uma cantora que marcou uma geração e transformou, para sempre, o cenário da música nacional. Com acesso exclusivo a arquivos pessoais e depoimentos de amigos, familiares e parceiros de estrada, a produção revela os bastidores de uma carreira construída com verdade, talento e emoção. Marília conquistou uma legião de fãs com seu carisma e seu amor incondicional pela música.",
+    "ano": 2026,
+    "nota": 0,
+    "classificacao": "12",
+    "estudio": "Prime Video",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=cnP0s8A1z8c",
+    "generos": [
+      "Documentário"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/g4XB3hmoPC75AtjsRtFhRdbDxhe.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/kqmeuOwL0Wcq0Th7bz9M3EgsYMR.jpg",
+    "banner": "",
+    "elenco": [
+      "Marília Mendonça",
+      "Zezé di Camargo",
+      "Paula Fernandes",
+      "Maraísa"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "O que torna uma garota comum do coração do Brasil, um fenômeno? Através de imagens, áudios e entrevistas inéditas, a série acompanha a ascensão meteórica de Marília Mendonça, que começa sua carreira cantando em um posto de gasolina e se torna uma das maiores artistas da atualidade.",
+        "poster": "https://image.tmdb.org/t/p/original/g4XB3hmoPC75AtjsRtFhRdbDxhe.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Versos Para Corações Partidos",
+            "sinopse": "Através de composições inéditas e músicas gravadas de forma caseira, acompanhamos Marília Mendonça em busca do sonho de ser uma cantora. Crescida entre dificuldades financeiras e tensões familiares, encontra na composição uma maneira de expressar seus sentimentos, abrindo caminho num mercado sertanejo que ainda subestima os talentos das mulheres. Mas isso é suficiente para se tornar uma estrela?",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/pVUenIB5mGfgPaUJzpZ0CAVR5PF.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpueGFpemJ3b2pwZ2p3Z3l3c29oYnN1ZHNzbHY0MzZzYg==",
+            "data_lancamento": "2026-10-16"
+          },
+          {
+            "numero": 2,
+            "titulo": "O Peso da Coroa",
+            "sinopse": "Aos 19 anos, Marília Mendonça grava seu primeiro disco, ao vivo e sem plateia, apostando em canções de traição e sofrência, com forte influência do Nordeste do país. Após o inesperado primeiro show da carreira e uma agenda lotada de shows, grava seu segundo disco para 45 mil pessoas, se tornando uma das maiores artistas do país. Mas o ritmo frenético de shows parece insustentável.",
+            "duracao": 49,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/6Rjpv3bmGPXXm8I07JYwaADOZ7q.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpueGFpemJ3b2pwZ2p3Z3l3c29oYnN1ZHNzbHY0MzZzYg==",
+            "data_lancamento": "2026-10-16"
+          },
+          {
+            "numero": 3,
+            "titulo": "⁠⁠Em Todos Os Cantos",
+            "sinopse": "Marília Mendonça vive uma carreira meteórica e a rotina desregrada de shows cobra seu preço. Adoecida, Marília precisa se reinventar e após um disco não tão bem sucedido, grava o ambicioso projeto Todos os Cantos, alcançando um público de mais de um milhão de pessoas. Porém uma gravidez inesperada pode mudar os rumos de sua carreira.",
+            "duracao": 42,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/1aZLr66tiJCEvzZgTInDyyZOcvr.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpueGFpemJ3b2pwZ2p3Z3l3c29oYnN1ZHNzbHY0MzZzYg==",
+            "data_lancamento": "2026-10-16"
+          },
+          {
+            "numero": 4,
+            "titulo": "⁠⁠Nossa Herança",
+            "sinopse": "O nascimento de Léo renova Marília Mendonça. Mesmo com a pandemia e os shows cancelados, conquista recordes na internet e com as amigas Maiara e Maraisa, dá início à mais um projeto ambicioso: As Patroas. Porém, ser um sucesso e cantar em todos os cantos do país requer uma intensa agenda de viagens. Um trágico acidente interrompe sua vida e Marília deixa um raro legado para a música brasileira.",
+            "duracao": 50,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/rUIKqsGGWFV7pEfEYC9YKBOCI5k.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpueGFpemJ3b2pwZ2p3Z3l3c29oYnN1ZHNzbHY0MzZzYg==",
+            "data_lancamento": "2026-10-16"
+          }
+        ]
+      }
+    ]
   }
 ]
