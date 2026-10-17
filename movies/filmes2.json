@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Sintel",
+    "plot": "A história de uma jovem solitária chamada Sintel, que resgata e cuida de um pequeno dragão ferido. Quando a criatura é capturada por um dragão adulto, ela inicia uma longa e perigosa jornada através de terras áridas para salvar seu companheiro, enfrentando perigos e segredos dolorosos.",
+    "poster": "https://wikimedia.org",
+    "fanart": "https://blender.org",
+    "url": "https://googleapis.com",
+    "year": 2010,
+    "rating": 7.6,
+    "duration": 15,
+    "genre": "Animação, Fantasia",
+    "director": "Colin Levy",
+    "studio": "Blender Foundation"
+  },
+  {
+    "title": "Big Buck Bunny",
+    "plot": "Um coelho gigante e de bom coração acorda em sua toca apenas para ver seu dia ser arruinado por três roedores maliciosos (Frank, Rinky e Gamera). Após os valentões maltratarem uma borboleta inocente, o pacífico coelho decide bolar um plano de vingança hilário e repleto de armadilhas complexas.",
+    "poster": "https://wikimedia.org",
+    "fanart": "https://blender.org",
+    "url": "https://googleapis.com",
+    "year": 2008,
+    "rating": 8.1,
+    "duration": 10,
+    "genre": "Comédia, Família",
+    "director": "Sacha Goedegebure",
+    "studio": "Peach Open Movie"
+  },
+  {
+    "title": "Tears of Steel",
+    "plot": "Situado em uma Amsterdã futurista e distópica, um grupo de cientistas e combatentes usa tecnologia de ponta para tentar reescrever o passado. Eles precisam recriar um antigo evento romântico malsucedido na esperança de salvar o mundo de uma horda de robôs militares gigantescos que destruíram a civilização.",
+    "poster": "https://blender.org",
+    "fanart": "https://blender.org",
+    "url": "https://googleapis.com",
+    "year": 2012,
+    "rating": 6.9,
+    "duration": 12,
+    "genre": "Ficção Científica, Ação",
+    "director": "Ian Hubert",
+    "studio": "Mango Open Movie Project"
+  }
+]
