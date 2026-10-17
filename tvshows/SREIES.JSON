@@ -4638,5 +4638,574 @@
         ]
       }
     ]
+  },
+  {
+    "id": "85077-the-chosen-os-escolhidos",
+    "titulo": "The Chosen: Os Escolhidos",
+    "sinopse": "Aprofundando-se nas histórias de fundo e no contexto das pessoas e eventos dos evangelhos, a Primeira Temporada do projeto de mídia de maior financiamento coletivo pelo público de todos os tempos apresenta pessoas como Simão Pedro, Nicodemos, Maria Madalena, Mateus e, claro, Jesus de uma forma nunca antes vista em filme.",
+    "ano": 2019,
+    "nota": 8.8,
+    "classificacao": "12",
+    "estudio": "Prime Video",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=2Y9Wc_waDNs",
+    "generos": [
+      "Action & Adventure e Família e Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/9Um6qPWSWHP8cl60fTtOU15uXqb.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+    "banner": "",
+    "elenco": [
+      "Elizabeth Tabish"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Com seus ensinamentos e milagres, Jesus de Nazaré atrai seguidores e discípulos de todas as origens. E as autoridades romanas estão em estado de alerta.",
+        "poster": "https://image.tmdb.org/t/p/original/ycV0AQul4pxe31cnchWFK69mVi7.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Eu Te Chamei Pelo Nome",
+            "sinopse": "Na Cidade de Cafarnaum, no mar da Galileia, os romanos pedem que Nicodemos exorcize Lilith e ele se assusta com o que vê.",
+            "duracao": 55,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/eOJOHuAVF8n01jZGKuD8e5f3otL.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAxRTAxLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpOUkVTRkNMSldYNFBaRVBMVzdLMlY0V1M2T1RLUkRXSA==",
+            "data_lancamento": "2019-04-21"
+          },
+          {
+            "numero": 2,
+            "titulo": "Shabbat",
+            "sinopse": "Jesus esconjura os demônios de Lilith, que revela sua verdadeira identidade: Maria Madalena. Simão se prepara para trair seus amigos por dinheiro.",
+            "duracao": 38,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/4eSOVXHLoBRukvkedJn4gb83FCO.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAxRTAyLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpOUkVTRkNMSldYNFBaRVBMVzdLMlY0V1M2T1RLUkRXSA==",
+            "data_lancamento": "2019-04-21"
+          },
+          {
+            "numero": 3,
+            "titulo": "Jesus Ama as Criancinhas",
+            "sinopse": "Os pequenos Josué, Abigail e amigos encontram Jesus no campo e escutam os ensinamentos dele.",
+            "duracao": 29,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/vakhgGj5qIPoBz30DHBAsGpdTrh.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAxRTAzLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpOUkVTRkNMSldYNFBaRVBMVzdLMlY0V1M2T1RLUkRXSA==",
+            "data_lancamento": "2019-04-21"
+          },
+          {
+            "numero": 4,
+            "titulo": "Sobre Esta Pedra",
+            "sinopse": "Com medo de ser traído, Quintus recruta Mateus para vigiar o pescador Simão, que duvida de sua fé até testemunhar um milagre.",
+            "duracao": 47,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/7nr0gddCMIYTIT6OtAETG0HkEs2.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAxRTA0Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpOUkVTRkNMSldYNFBaRVBMVzdLMlY0V1M2T1RLUkRXSA==",
+            "data_lancamento": "2019-04-21"
+          },
+          {
+            "numero": 5,
+            "titulo": "O Presente de Casamento",
+            "sinopse": "Jesus e seus seguidores seguem para um casamento em Caná. Mas, quando o vinho acaba, só um milagre pode salvar a festa.",
+            "duracao": 53,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/xxLuinhtXhvYKriS5F4KGbmj5TF.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAxRTA1Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpOUkVTRkNMSldYNFBaRVBMVzdLMlY0V1M2T1RLUkRXSA==",
+            "data_lancamento": "2019-11-26"
+          },
+          {
+            "numero": 6,
+            "titulo": "Compaixão Indescritível",
+            "sinopse": "Jesus pede a Simão que retorne a Cafarnaum para cuidar da família. O Messias cura um leproso e a notícia de seus milagres começa a circular.",
+            "duracao": 50,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uv3UvEDfLB0PomuBQBRB493z1SH.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAxRTA2Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpOUkVTRkNMSldYNFBaRVBMVzdLMlY0V1M2T1RLUkRXSA==",
+            "data_lancamento": "2019-11-26"
+          },
+          {
+            "numero": 7,
+            "titulo": "Convites",
+            "sinopse": "Quintus se sente ameaçado pelo novo pregador e pede a Nicodemos para encontrar Jesus e contar o que descobriu.",
+            "duracao": 36,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/endRXmg12QtiuoB4O70LzZLXNMi.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAxRTA3Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpOUkVTRkNMSldYNFBaRVBMVzdLMlY0V1M2T1RLUkRXSA==",
+            "data_lancamento": "2019-11-26"
+          },
+          {
+            "numero": 8,
+            "titulo": "Eu Sou Ele",
+            "sinopse": "Mateus leva Jesus e os outros discípulos para jantar em sua casa. Nicodemos tem dúvidas sobre o caminho que deve seguir.",
+            "duracao": 56,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/3Zp4mSEZ51sGRdaS0TZUmfizcn1.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAxRTA4Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpOUkVTRkNMSldYNFBaRVBMVzdLMlY0V1M2T1RLUkRXSA==",
+            "data_lancamento": "2019-11-26"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/kMYaHKJ9q9ylEGq8XGk9MYSU6Rt.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Trovão",
+            "sinopse": "A tensão aumenta entre os discípulos enquanto eles lutam com a crescente fama de Jesus em Samaria. Jesus repreende Tiagão e João por seu preconceito e, após um encontro quase violento, dá a eles um novo apelido.",
+            "duracao": 65,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/veYGGZcBkrrJ73WFtfjPVxmlm3t.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAyRTAxLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpCVjdGNU1CRldNVUNVTVEzSFZQTU5INUFTWlQ1RlZPUQ==",
+            "data_lancamento": "2021-04-04"
+          },
+          {
+            "numero": 2,
+            "titulo": "Eu Vi Você",
+            "sinopse": "Um visitante misterioso procura encontrar Jesus, mas os discípulos hesitam. A tensão aumenta entre Simão e Mateus. Enquanto o grupo se dirige para uma nova cidade, chega a notícia de que a fama de Jesus está crescendo.",
+            "duracao": 53,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/97LTcBNO5myOVy5tmtO2eXOLBgs.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAyRTAyLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpCVjdGNU1CRldNVUNVTVEzSFZQTU5INUFTWlQ1RlZPUQ==",
+            "data_lancamento": "2021-04-13"
+          },
+          {
+            "numero": 3,
+            "titulo": "Mateus 4:24",
+            "sinopse": "Um dia longo e cansativo se transforma em noite enquanto os discípulos ajudam Jesus a lidar com uma grande multidão que espera ser curada. Ao redor da fogueira, durante o jantar, o grupo procura se conhecer melhor. Mas as tensões começam.",
+            "duracao": 36,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/xZzug3qFNJdz5vo8YnQdRe8V7cs.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAyRTAzLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpCVjdGNU1CRldNVUNVTVEzSFZQTU5INUFTWlQ1RlZPUQ==",
+            "data_lancamento": "2021-04-13"
+          },
+          {
+            "numero": 4,
+            "titulo": "A Oportunidade Perfeita",
+            "sinopse": "Enquanto Jesus e os discípulos se dirigem a Jerusalém para celebrar a Festa dos Tabernáculos, um novo inimigo os segue, enquanto um inimigo familiar os aguarda.",
+            "duracao": 59,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/bGfgX3nX5xgWOWzmvHcItyCXbtX.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAyRTA0Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpCVjdGNU1CRldNVUNVTVEzSFZQTU5INUFTWlQ1RlZPUQ==",
+            "data_lancamento": "2021-05-11"
+          },
+          {
+            "numero": 5,
+            "titulo": "Espírito",
+            "sinopse": "Após mexer a água, Jesus agora é perseguido por Simão, o Zelote, Atticus e Shmuel. João Batista visita o grupo e conta a Jesus sua perigosa missão. Enquanto isso, no acampamento, Maria Madalena fica arrasada com o encontro com um estranho misterioso e perigoso.",
+            "duracao": 48,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/qglp6jovceCGncL6vPfF1d4Dvei.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAyRTA1Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpCVjdGNU1CRldNVUNVTVEzSFZQTU5INUFTWlQ1RlZPUQ==",
+            "data_lancamento": "2021-05-23"
+          },
+          {
+            "numero": 6,
+            "titulo": "Ilícito",
+            "sinopse": "Mateus e Simão tentam se dar bem enquanto procuram Maria em lugares escuros. O grupo teme por Maria enquanto luta com a falta de comida e as más notícias sobre João Batista. Enquanto isso, Jesus continua irritando Fariseus em várias regiões.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/zsdnjukB2Qm52odGXE8DcrYqwOK.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAyRTA2Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpCVjdGNU1CRldNVUNVTVEzSFZQTU5INUFTWlQ1RlZPUQ==",
+            "data_lancamento": "2021-06-23"
+          },
+          {
+            "numero": 7,
+            "titulo": "Acerto de Contas",
+            "sinopse": "Ao saber do paradeiro de Jesus, Quintus manda Gaius prendê-lo. Os discípulos perdem o controle enquanto discutem sobre como responder. Enquanto buscam informações sobre para onde Jesus foi levado, André e Filipe encontram velhos amigos.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/r3tZUs2inkBLofPHh6Da8JKQ6yt.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAyRTA3Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpCVjdGNU1CRldNVUNVTVEzSFZQTU5INUFTWlQ1RlZPUQ==",
+            "data_lancamento": "2021-06-30"
+          },
+          {
+            "numero": 8,
+            "titulo": "Além das Montanhas",
+            "sinopse": "Enquanto Jesus e Mateus preparam o conteúdo do grande sermão, os discípulos espalham a palavra enquanto lutam entre si. Um membro do alto escalão do Sinédrio fica chocado com os relatos de Shmuel sobre Jesus. Milhares chegam para o sermão, incluindo rostos familiares.",
+            "duracao": 56,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/oXVWhQzhrbnFnotQfn4xNPRUyym.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAyRTA4Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpCVjdGNU1CRldNVUNVTVEzSFZQTU5INUFTWlQ1RlZPUQ==",
+            "data_lancamento": "2021-07-11"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/6EqQSAuoTXMxb5AaU2HHp9S2gwE.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "De Volta Para Casa",
+            "sinopse": "Jesus oferece o sermão que mais mudou vidas na história. O resultado? Mais seguidores, mais inimigos e discípulos prontos para seguir Jesus em qualquer lugar. Simon e Eden se reencontram, Matthew enfrenta seu passado e Andrew visita João Batista na prisão.",
+            "duracao": 61,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/gPCVrcf8wBKfezwkYZp2hIUmDDn.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAzRTAxLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpDRTczOERFQjJERUJDQkYwNzEzMzdBMTczMkQ2NEVFN0RGOEEyN0Ex",
+            "data_lancamento": "2022-12-11"
+          },
+          {
+            "numero": 2,
+            "titulo": "Dois em Dois",
+            "sinopse": "Jesus é um problema para os romanos. Com peregrinos de todos os lugares montando uma cidade de tendas nos portões de Cafarnaum para ver Jesus, as tensões aumentam. Jesus envia oficialmente os doze apóstolos em uma missão emocionante, mas perigosa, fazendo com que o pequeno Tiago pergunte por que ele não foi curado.",
+            "duracao": 70,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/ttoqt6Ts7NyKCHkAdm8K3VO7Ufe.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAzRTAyLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpDRTczOERFQjJERUJDQkYwNzEzMzdBMTczMkQ2NEVFN0RGOEEyN0Ex",
+            "data_lancamento": "2022-12-18"
+          },
+          {
+            "numero": 3,
+            "titulo": "Médico, Cure-se",
+            "sinopse": "Jesus retorna à casa de sua infância para a grande celebração do ano novo judaico. Seus amigos de infância e familiares estão todos entusiasmados com o que ouviram sobre Jesus... até que ele lhes conta a verdade sobre quem Ele é.",
+            "duracao": 53,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/lim4Tl18XCoZeiR5zaI9NrjxQe5.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAzRTAzLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpDRTczOERFQjJERUJDQkYwNzEzMzdBMTczMkQ2NEVFN0RGOEEyN0Ex",
+            "data_lancamento": "2022-12-25"
+          },
+          {
+            "numero": 4,
+            "titulo": "Limpo, Pt. 1",
+            "sinopse": "De dois em dois, os discípulos cumprem a missão de Jesus de curar, expulsar demônios e pregar suas palavras. Mas ao retornar, eles lutam para entender o que aconteceu, enquanto Simão e Eden lutam para se reconectar.",
+            "duracao": 59,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/k4TrC009oraGH4Zd9g8s4V2iBss.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAzRTA0Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpDRTczOERFQjJERUJDQkYwNzEzMzdBMTczMkQ2NEVFN0RGOEEyN0Ex",
+            "data_lancamento": "2023-01-01"
+          },
+          {
+            "numero": 5,
+            "titulo": "Limpo, Pt. 2",
+            "sinopse": "À medida que as tensões aumentam em casa, Simão e Gaius trabalham juntos para resolver o problema da água em Cafarnaum. Enquanto isso, Jairo e Verônica estão igualmente desesperados para encontrar Jesus como a única esperança para suas crises.",
+            "duracao": 56,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/h3qxCDzr3qSsESqzBGlQCo6juil.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAzRTA1Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpBNjVFNjdGNjI1MzM2OUUwMzBCNzlFMDI4MzFCMDI1OEMxMzAzOTg0",
+            "data_lancamento": "2023-01-08"
+          },
+          {
+            "numero": 6,
+            "titulo": "Intensidade na Cidade das Tendas",
+            "sinopse": "André e Filipe descobrem que sua missão anterior resultou em uma devastação que exigirá um retorno. Simão Z é finalmente forçado a confrontar seu passado, mas dois discípulos de João Batista chegam a Cafarnaum com uma pergunta importante para Jesus.",
+            "duracao": 72,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/ufrR1poHcwU1qmnjUvVqEnANgcL.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAzRTA2Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpBNjVFNjdGNjI1MzM2OUUwMzBCNzlFMDI4MzFCMDI1OEMxMzAzOTg0",
+            "data_lancamento": "2023-01-15"
+          },
+          {
+            "numero": 7,
+            "titulo": "Ouvidos Para Ouvir",
+            "sinopse": "\"Ter ouvidos para ouvir.\" Jesus conduz os discípulos a uma região perigosa, onde eles enfrentarão uma multidão armada com línguas afiadas e ouvidos surdos... mas mesmo seus seguidores mais próximos estão achando muito difícil ouvir.",
+            "duracao": 64,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/nt5MxG1bUgkzMHzHqeFqyJxN6dI.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAzRTA3Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDozQzg2QURBNzhDRkQyMDMxNEI4NjNEOThGRURBRDUwOTMzNEVEM0VF",
+            "data_lancamento": "2023-02-05"
+          },
+          {
+            "numero": 8,
+            "titulo": "Sustento",
+            "sinopse": "Milhares chegam para primeiro discutir e depois ouvir Jesus enquanto ele prega. Shmuel e Atticus ouvem o que está acontecendo e viajam para Decápolis para pegar Jesus no ato de uma possível revolta. Enquanto isso, à medida que a pregação se estende para o dia seguinte, os discípulos percebem que têm um problema significativo: milhares estão com fome e não há comida.",
+            "duracao": 99,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/sdJTheOxBFS31IyAe0Mt9ofqn6g.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzAzRTA4Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDozQzg2QURBNzhDRkQyMDMxNEI4NjNEOThGRURBRDUwOTMzNEVEM0VF",
+            "data_lancamento": "2023-02-07"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/osVr2KDItynDQLuuP2ljQ8hLbq7.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Promessas",
+            "sinopse": "Uma dança inebriante leva Herodes a acabar com João Batista, mas ninguém consegue impedir o que - ou quem - ele introduziu.",
+            "duracao": 57,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/eC8TSh6RYeyLsK46Io18mt5WxAG.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA0RTAxLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpFNVk2VE5ENUZKSVdEWk5USEM3SlBXWFlFS0ZaU05RSA==",
+            "data_lancamento": "2024-06-02"
+          },
+          {
+            "numero": 2,
+            "titulo": "Confissões",
+            "sinopse": "Jesus funda sua igreja em solo profano e Simão divulga publicamente a verdadeira identidade de Jesus, obtendo um novo nome no processo. Mas o novo “Peter” pode perdoar erros antigos?",
+            "duracao": 81,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/kmo0nnMDlrROFZLXqvSzRxv1E0T.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA0RTAyLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpFNVk2VE5ENUZKSVdEWk5USEM3SlBXWFlFS0ZaU05RSA==",
+            "data_lancamento": "2024-06-06"
+          },
+          {
+            "numero": 3,
+            "titulo": "Da Lua ao Sangue",
+            "sinopse": "Quando Jesus cura um cego no sábado, os líderes religiosos o confrontam, atraindo uma multidão desenfreada. Gaius desafia uma ordem direta que leva Quintus a resolver o problema - e a vida de alguém - em suas próprias mãos.",
+            "duracao": 58,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/pDa77WHKOOHukEnnC0rV2jQfK2n.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA0RTAzLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpFNVk2VE5ENUZKSVdEWk5USEM3SlBXWFlFS0ZaU05RSA==",
+            "data_lancamento": "2024-06-09"
+          },
+          {
+            "numero": 4,
+            "titulo": "Calmaria Antes...",
+            "sinopse": "Começando com uma procissão fúnebre, o tempo avança rapidamente em direção aos últimos dias do ministério de Jesus. Enquanto os discípulos buscam status para si mesmos, um governante romano vem com um pedido humilde.",
+            "duracao": 66,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/aG2NU3SPnEk7Zeu97lbtB7I3dDQ.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA0RTA0Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpFNVk2VE5ENUZKSVdEWk5USEM3SlBXWFlFS0ZaU05RSA==",
+            "data_lancamento": "2024-06-13"
+          },
+          {
+            "numero": 5,
+            "titulo": "Sentar, Servir, Planejar",
+            "sinopse": "Os soldados romanos exigem que os discípulos carreguem suas armaduras, mas Jesus vai um passo além. Frustrado com a direção do ministério de Jesus, Judas visita um velho amigo para pedir conselhos.",
+            "duracao": 68,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uN87wMUu6IQkjU3wI9JZYDQhOdQ.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA0RTA1Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpFNVk2VE5ENUZKSVdEWk5USEM3SlBXWFlFS0ZaU05RSA==",
+            "data_lancamento": "2024-06-16"
+          },
+          {
+            "numero": 6,
+            "titulo": "Dedicação",
+            "sinopse": "Jesus e os discípulos celebram o Hanukkah. Mateus confronta Judas sobre irregularidades, e o festival se transforma em uma briga, depois em fuga. Os discípulos escapam com vida, mas descobrem que um amigo não teve tanta sorte.",
+            "duracao": 65,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uVNQ7ZHTJA8gmO04Gqf43E4bnli.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA0RTA2Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpFNVk2VE5ENUZKSVdEWk5USEM3SlBXWFlFS0ZaU05RSA==",
+            "data_lancamento": "2024-06-20"
+          },
+          {
+            "numero": 7,
+            "titulo": "O Último Sinal",
+            "sinopse": "Jesus traz Lázaro de volta à vida - e desencadeia a cadeia de eventos que levarão à Sua própria morte.",
+            "duracao": 74,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/hj6EAD9qfrLxsUB3LKwGqVI2Eph.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA0RTA3Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpFNVk2VE5ENUZKSVdEWk5USEM3SlBXWFlFS0ZaU05RSA==",
+            "data_lancamento": "2024-06-23"
+          },
+          {
+            "numero": 8,
+            "titulo": "Humilde",
+            "sinopse": "Jesus se recusa a parecer e agir como o Messias que todos esperam - chegando como um cordeiro em vez de um leão e montando um burro em vez de um cavalo de guerra.",
+            "duracao": 85,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/2NLo4oCIxy3tRYu69ivm4viVDfQ.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA0RTA4Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpFNVk2VE5ENUZKSVdEWk5USEM3SlBXWFlFS0ZaU05RSA==",
+            "data_lancamento": "2024-06-30"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "sinopse": "A mesa está posta. O povo de Israel saúda Jesus como rei enquanto seus discípulos antecipam sua coroação. Mas – em vez de confrontar Roma – ele vira a mesa na festa religiosa judaica. Com seu poder ameaçado, os líderes religiosos e políticos do país farão de tudo para garantir que esta refeição de Páscoa seja a última de Jesus.",
+        "poster": "https://image.tmdb.org/t/p/original/Ag9Sf77wEB8JWOb2PtOkgMMBN18.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Entrada",
+            "sinopse": "Jesus entra na cidade santa como rei, mas descobre que os governantes transformaram a casa de Seu Pai de um lugar de oração em um mercado corrupto.",
+            "duracao": 63,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/pNA0JpayFCJD0ErmUvPTwu0oMqH.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA1RTAxLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiMmM0YjMxZWI1MzQyODI0MGE5YWFiOGM2ZmM5YWI4MzkwMWNiMGUw",
+            "data_lancamento": "2025-06-15"
+          },
+          {
+            "numero": 2,
+            "titulo": "Castelo de Cartas",
+            "sinopse": "Por que matar Jesus quando Roma pode fazer isso por você? Enquanto o Sumo Sacerdote judeu maquina para derrubá-Lo, Jesus ataca primeiro: virando as mesas.",
+            "duracao": 51,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/hmMZe6BQK6NSqC0l9hcCMrpw8As.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA1RTAyLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiMmM0YjMxZWI1MzQyODI0MGE5YWFiOGM2ZmM5YWI4MzkwMWNiMGUw",
+            "data_lancamento": "2025-06-15"
+          },
+          {
+            "numero": 3,
+            "titulo": "Aflições",
+            "sinopse": "Jesus prega uma última vez para a enorme multidão da Páscoa, e os líderes religiosos tentam armar uma cilada com Suas palavras.",
+            "duracao": 59,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/qE1nvR8iZ4gV9hbvXdbDwJ52rM0.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA1RTAzLm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpjOGNmZjM3ZDVlODg2ZDIzZjk1NjJhMzdkMDUwOWExNzRhNGFlNzk3",
+            "data_lancamento": "2025-06-22"
+          },
+          {
+            "numero": 4,
+            "titulo": "A Mesma Moeda",
+            "sinopse": "Temendo a comoção pública, e mais constrangimento, Caifás decide prender Jesus silenciosamente à noite. Apenas um problema: ninguém sabe como encontrá-Lo.",
+            "duracao": 55,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/svlixBgJjfCRZH1LsGimkyqU5vE.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA1RTA0Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpjOGNmZjM3ZDVlODg2ZDIzZjk1NjJhMzdkMDUwOWExNzRhNGFlNzk3",
+            "data_lancamento": "2025-06-22"
+          },
+          {
+            "numero": 5,
+            "titulo": "Por Minha Causa",
+            "sinopse": "A decisão de prender Jesus leva a um debate acalorado. Soldados romanos rastreiam uma multidão causadora de problemas. Shmuel encontra ajuda de uma fonte inesperada.",
+            "duracao": 47,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/qtF0JRqbwp2BckK0QLD4mn6OBkA.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA1RTA1Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpjOGNmZjM3ZDVlODg2ZDIzZjk1NjJhMzdkMDUwOWExNzRhNGFlNzk3",
+            "data_lancamento": "2025-06-22"
+          },
+          {
+            "numero": 6,
+            "titulo": "Reuniões",
+            "sinopse": "Enquanto os seguidores de Jesus se reúnem para a refeição da Páscoa, Seus inimigos se juntam para uma caçada humana. Judas realiza uma reunião secreta.",
+            "duracao": 60,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/pkPQN73QggcKyA8nGlr4DHmjjs7.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA1RTA2Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo4ZmQ4ZGZjOTNmYjBiZDUxNTZhZjI3ODU4OTk4Mzg4MTYyMzI3YTE5",
+            "data_lancamento": "2025-06-29"
+          },
+          {
+            "numero": 7,
+            "titulo": "O Cenáculo Parte I",
+            "sinopse": "Jesus chega para a Última Ceia. Os discípulos temem por sua segurança enquanto os inimigos de Jesus os cercam.",
+            "duracao": 62,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/z6mnUJL8vjMgQe3GgtcuWlLEvx4.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA1RTA3Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo4ZmQ4ZGZjOTNmYjBiZDUxNTZhZjI3ODU4OTk4Mzg4MTYyMzI3YTE5",
+            "data_lancamento": "2025-06-29"
+          },
+          {
+            "numero": 8,
+            "titulo": "O Cenáculo Parte II",
+            "sinopse": "Pilatos convoca Ático para lhe dar uma bronca. O Sinédrio ferve. A Última Ceia termina.",
+            "duracao": 66,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/lafv8JbwffijVKk9twFcp4tI5Wb.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTYwMDEwNy51cy5hcmNoaXZlLm9yZy8xNy9pdGVtcy9tLWUtbi11LXQtdi1zLWgtby13LXMtMDEvODUwNzctUzA1RTA4Lm1rdg==",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo4ZmQ4ZGZjOTNmYjBiZDUxNTZhZjI3ODU4OTk4Mzg4MTYyMzI3YTE5",
+            "data_lancamento": "2025-06-29"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "sinopse": "Chegou a hora. A 6ª temporada retrata o último dia de Jesus pela perspectiva daqueles que O amam e daqueles que O condenam. Diante da solidão e da morte, Jesus permanece firme em Seu plano, que sempre conduziu a um único lugar: a cruz.",
+        "poster": "https://image.tmdb.org/t/p/original/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-15"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-15"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-15"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-22"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-29"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-12-06"
+          }
+        ]
+      }
+    ]
   }
 ]
