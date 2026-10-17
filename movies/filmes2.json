@@ -6,7 +6,7 @@
     "poster": "https://wikimedia.org",
     "fanart": "https://blender.org",
     "logo": "https://blender.org",
-    "sinopse": "A jornada de uma jovem chamada Sintel para resgatar seu amigo dragão.",
+    "sinopse": "A jornada de uma jovem chamada Sintel para resgatar seu amigo dragão das garras de uma fera alada.",
     "slogan": "O destino de um dragão nas mãos de uma guerreira.",
     "ano": 2010,
     "data_estreia": "2010-09-27",
@@ -33,9 +33,21 @@
       }
     ],
     "stream_info": {
-      "video": {"codec": "h264", "aspect": 1.78, "width": 1920, "height": 1080, "duration": 900},
-      "audio": {"codec": "aac", "channels": 6, "language": "por"},
-      "subtitle": {"language": "por"}
+      "video": {
+        "codec": "h264",
+        "aspect": 1.78,
+        "width": 1920,
+        "height": 1080,
+        "duration": 900
+      },
+      "audio": {
+        "codec": "aac",
+        "channels": 6,
+        "language": "por"
+      },
+      "subtitle": {
+        "language": "por"
+      }
     }
   }
 ]
