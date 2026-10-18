@@ -50,7 +50,6 @@
       "universal": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.zip"
     },
     "dependencies": [
-      "script.elementum.burst",
       "script.module.certifi",
       "script.module.chardet",
       "script.module.future",
