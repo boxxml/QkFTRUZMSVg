@@ -44,20 +44,20 @@
     "icon": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/addons/plugin.video.elementum/icon.png?raw=true",
     "fanart": "https://imgur.com",
     "url": {
-      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.elementum-windows.zip",
+      "windows_x86_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.elementum-0.1.114.windows_x64.zip",
       "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.elementum-android32.zip",
       "android_arm": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.elementum-android32.zip",
       "universal": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.zip"
     },
     "dependencies": [
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.elementum.burst.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.certifi.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.chardet.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.future.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.idna.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.kodi-six.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.requests.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/Depend%C3%AAncias/script.module.urllib3.zip"
+      "script.elementum.burst",
+      "script.module.certifi",
+      "script.module.chardet",
+      "script.module.future",
+      "script.module.idna",
+      "script.module.kodi-six",
+      "script.module.requests",
+      "script.module.urllib3"
     ]
   },
   {
