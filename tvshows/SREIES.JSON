@@ -259,10 +259,9 @@
     "titulo": "Dragon Ball Super: Beerus",
     "sinopse": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e seus amigos enfrentam uma batalha épica para impedi-lo de destruir a Terra.",
     "ano": 2026,
-    "nota": 9.8,
+    "nota": 9.7,
     "classificacao": "12",
     "estudio": "Fuji TV",
-	"status": "Continuing",
     "trailer": "plugin://plugin.video.youtube/play/?video_id=4GYtota67go",
     "generos": [
       "Animação e Action & Adventure e Sci-Fi & Fantasy"
@@ -289,49 +288,54 @@
             "sinopse": "Em um planeta distante, o Deus da Destruição Beerus desperta de seu longo sono!",
             "duracao": 24,
             "diretor": "朝倉舞彩",
-            "thumb": "https://image.tmdb.org/t/p/original/rtf7gQIFXmMteFyR3EYWfEpe1rG.jpg",
-            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9tLWUtbi11LWEtbi1pLW0tZS1zLTAxLzMxMjM1OS5zMDFlMDEubWt2",
-            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiMjk3ZGYwNTQxODNhOWQ0NjkxYWZiYzk2NTE4ZTExNmQ5MWU4NTI5"
+            "thumb": "https://image.tmdb.org/t/p/original/xxAiGiQVJqJtqSbdQIAGIFPIvSD.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpiMjk3ZGYwNTQxODNhOWQ0NjkxYWZiYzk2NTE4ZTExNmQ5MWU4NTI5",
+            "data_lancamento": "2026-10-11"
           },
           {
             "numero": 2,
             "titulo": "O Deus da Destruição Parte Para o Planeta Kaioh",
-            "sinopse": "O Ancião Supremo Kai e o Supremo Kai Kibito descobrem o despertar do todo-poderoso Beerus. Enquanto isso, o Deus da Destruição segue para o Planeta dos Kai para descobrir sobre o Super Saiyajin Deus que ele viu em um sonho profético e...?!",
+            "sinopse": "",
             "duracao": 24,
             "diretor": "",
             "thumb": "https://image.tmdb.org/t/p/original/9R8Y054E9rede6q7t4coUuIzwCv.jpg",
             "url_direto": "",
-            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDo4ZGY4MmQ0ZDM5NzM0OTNlZDM4Yzg2M2JhZWEyYmQ0ZDI2MWI0Mjhm"
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDphZjY1ZTc2NDE3YzViYTI5YjliZWMwMGQ5NjkwNWU5YjUxM2NkZDI1",
+            "data_lancamento": "2026-10-18"
           },
           {
             "numero": 3,
-            "titulo": "Episódio 3",
+            "titulo": "O Deus da Destruição Parte Para a Terra",
             "sinopse": "",
-            "duracao": 0,
+            "duracao": 24,
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-10-25"
           },
           {
             "numero": 4,
             "titulo": "Episódio 4",
             "sinopse": "",
-            "duracao": 0,
+            "duracao": 24,
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-11-01"
           },
           {
             "numero": 5,
             "titulo": "Episódio 5",
             "sinopse": "",
-            "duracao": 0,
+            "duracao": 24,
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-11-08"
           },
           {
             "numero": 6,
@@ -341,7 +345,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-11-15"
           },
           {
             "numero": 7,
@@ -351,7 +356,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-11-22"
           },
           {
             "numero": 8,
@@ -361,7 +367,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-11-29"
           },
           {
             "numero": 9,
@@ -371,7 +378,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-12-06"
           },
           {
             "numero": 10,
@@ -381,7 +389,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-12-13"
           },
           {
             "numero": 11,
@@ -391,7 +400,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-12-20"
           },
           {
             "numero": 12,
@@ -401,7 +411,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-12-27"
           },
           {
             "numero": 13,
@@ -411,7 +422,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2027-01-03"
           },
           {
             "numero": 14,
@@ -421,7 +433,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2027-01-10"
           },
           {
             "numero": 15,
@@ -431,7 +444,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2027-01-17"
           },
           {
             "numero": 16,
@@ -441,7 +455,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2027-01-24"
           },
           {
             "numero": 17,
@@ -451,7 +466,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2027-01-31"
           },
           {
             "numero": 18,
@@ -461,7 +477,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2027-02-07"
           },
           {
             "numero": 19,
@@ -471,7 +488,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2027-02-14"
           }
         ]
       }
