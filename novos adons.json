@@ -37,13 +37,8 @@
       "universal": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.zip"
     },
     "dependencies": [
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.certifi.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.chardet.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.future.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.idna.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.kodi-six.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.requests.zip",
-      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.urllib3.zip"
+      "script.module.kodi-six",
+      "script.module.requests"
     ]
   },
   {
