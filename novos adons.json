@@ -7,7 +7,7 @@
     "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/plugin.video.Addon.Hades.0.0.0.4.icon.png",
     "fanart": "https://imgur.com",
     "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.Addon.Hades.0.0.0.4.zip",
-    "dependencies": 
+    "dependencies": [
       "inputstream.adaptive"
     ]
   },
