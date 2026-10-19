@@ -37,7 +37,6 @@
       "universal": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.zip"
     },
     "dependencies": [
-      "repository.elementumorg",
       "script.module.kodi-six",
       "script.module.requests"
     ]
