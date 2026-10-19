@@ -2,10 +2,10 @@
   {
     "id": "284833-avatar-os-sete-refugios",
     "titulo": "Avatar: Os Sete Refúgios",
-	"status": "Continuing",
+    "status": "Continuing",
     "sinopse": "Após um cataclismo global, uma jovem descobre ser o novo Avatar - agora rotulada como a Destruidora, não uma salvadora. Caçada por humanos e espíritos, ela e sua gêmea há muito perdida precisam descobrir suas origens e salvar a humanidade do colapso.",
     "ano": 2026,
-    "nota": 8.8,
+    "nota": 9.2,
     "classificacao": "12",
     "estudio": "Paramount+",
     "trailer": "plugin://plugin.video.youtube/play/?video_id=UpsSqZHA1xI",
@@ -34,9 +34,10 @@
             "sinopse": "Durante um festival que celebra o fim do Avatar, uma órfã luta para se manter escondida até cruzar o caminho de um dedicado dobrador de ar.",
             "duracao": 23,
             "diretor": "Kenji Ono",
-            "thumb": "https://image.tmdb.org/t/p/original/eV3fNdJAynMicVhbjfaK0Shu1Yk.jpg",
-            "url_direto": "aHR0cHM6Ly9pYTYwMDYwMS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9tLWUtbi11LWEtbi1pLW0tZS1zLTAtMS8yODQ4MzMtMDEtMDEvLm1rdg==",
-            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDphaDYyYTI1am9yc3BjdHhzN21kbmRyaWlyc2Z2aWdzaw=="
+            "thumb": "https://image.tmdb.org/t/p/original/oUaLpR1IbbgPkKz1zg1ZaChZtPy.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDphaDYyYTI1am9yc3BjdHhzN21kbmRyaWlyc2Z2aWdzaw==",
+            "data_lancamento": "2026-10-09"
           },
           {
             "numero": 2,
@@ -45,8 +46,9 @@
             "duracao": 23,
             "diretor": "Jen Bennett",
             "thumb": "https://image.tmdb.org/t/p/original/6HJWVFR8VW5k2wHaRYyOTJqXieT.jpg",
-            "url_direto": "aHR0cHM6Ly9pYTYwMDYwMS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9tLWUtbi11LWEtbi1pLW0tZS1zLTAtMS8yODQ4MzMtMDEtMDIubWt2",
-            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDphaDYyYTI1am9yc3BjdHhzN21kbmRyaWlyc2Z2aWdzaw=="
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDphaDYyYTI1am9yc3BjdHhzN21kbmRyaWlyc2Z2aWdzaw==",
+            "data_lancamento": "2026-10-09"
           },
           {
             "numero": 3,
@@ -55,38 +57,42 @@
             "duracao": 23,
             "diretor": "Jasmine Goggins",
             "thumb": "https://image.tmdb.org/t/p/original/6mDwOsOfCmkLx4YTWqoovnNActE.jpg",
-            "url_direto": "aHR0cHM6Ly9pYTYwMDYwMS51cy5hcmNoaXZlLm9yZy8xNC9pdGVtcy9tLWUtbi11LWEtbi1pLW0tZS1zLTAtMS8yODQ4MzMtMDEtMDMubWt2",
-            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDphaDYyYTI1am9yc3BjdHhzN21kbmRyaWlyc2Z2aWdzaw=="
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDphaDYyYTI1am9yc3BjdHhzN21kbmRyaWlyc2Z2aWdzaw==",
+            "data_lancamento": "2026-10-09"
           },
           {
             "numero": 4,
-            "titulo": "Episódio 4",
-            "sinopse": "",
-            "duracao": 0,
+            "titulo": "Os sem-rosto",
+            "sinopse": "A Equipe Avatar procura por uma dobradora desaparecida, o que os leva a um confronto perigoso com um grupo de bandidos.",
+            "duracao": 22,
             "diretor": "",
-            "thumb": "",
+            "thumb": "https://image.tmdb.org/t/p/original/8u6jKsi8Ji3ADeZirJjsp2hGxAk.jpg",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDptZGlwc2JpZnJkd29wcW42NjVzNjZlMmxlajI3cHc3ag==",
+            "data_lancamento": "2026-10-16"
           },
           {
             "numero": 5,
-            "titulo": "Episódio 5",
-            "sinopse": "",
-            "duracao": 0,
+            "titulo": "Aquele deixado para trás",
+            "sinopse": "Enquanto Jae e Karthik investigam boatos que colocam as garotas em perigo, Pavi e Nisha entram escondidas no escritório de Karthik em busca de respostas sobre seus pais.",
+            "duracao": 22,
             "diretor": "",
-            "thumb": "",
+            "thumb": "https://image.tmdb.org/t/p/original/c67WgteMzY7i9Viz4SDsM3KaSYq.jpg",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-10-16"
           },
           {
             "numero": 6,
-            "titulo": "Episódio 6",
-            "sinopse": "",
-            "duracao": 0,
+            "titulo": "A noite dos afligidos",
+            "sinopse": "Karthik, Nisha e Pavi precisam conter o pânico em massa entre os Afligidos no hospital. Enquanto isso, Jae lida com a agitação na Brigada.",
+            "duracao": 22,
             "diretor": "",
-            "thumb": "",
+            "thumb": "https://image.tmdb.org/t/p/original/nrC3KBGWJq1si92nngwiY8te8KG.jpg",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-10-16"
           },
           {
             "numero": 7,
@@ -96,7 +102,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-10-23"
           },
           {
             "numero": 8,
@@ -106,7 +113,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-10-23"
           },
           {
             "numero": 9,
@@ -116,7 +124,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-10-23"
           },
           {
             "numero": 10,
@@ -126,7 +135,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-10-30"
           },
           {
             "numero": 11,
@@ -136,7 +146,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-10-30"
           },
           {
             "numero": 12,
@@ -146,7 +157,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-10-30"
           },
           {
             "numero": 13,
@@ -156,7 +168,8 @@
             "diretor": "",
             "thumb": "",
             "url_direto": "",
-            "url_elementum": ""
+            "url_elementum": "",
+            "data_lancamento": "2026-10-30"
           }
         ]
       }
