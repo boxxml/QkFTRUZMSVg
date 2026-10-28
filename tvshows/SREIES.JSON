@@ -5648,5 +5648,264 @@
         ]
       }
     ]
+  },
+  {
+    "id": "105248-cyberpunk-mercenarios",
+    "titulo": "Cyberpunk: Mercenários",
+    "status": "Continuing",
+    "sinopse": "Para sobreviver em uma realidade distópica na qual a corrupção e os implantes cibernéticos controlam tudo, um jovem talentoso e impulsivo decide se tornar um mercenário.",
+    "ano": 2022,
+    "nota": 8.5,
+    "classificacao": "16",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=25XGPHY1TMM",
+    "generos": [
+      "Animação e Action & Adventure e Sci-Fi & Fantasy e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/nWvAY8yHE873adMws83XqBPf7W2.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
+    "banner": "",
+    "elenco": [
+      "Koki Uchiyama",
+      "寺澤百花",
+      "Akari Kito",
+      "Kentaro Tone"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/nWvAY8yHE873adMws83XqBPf7W2.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Decepção",
+            "sinopse": "Depois de uma noite de neurodança ilegal, David encara a realidade: o apartamento caindo aos pedaços, a máquina de lavar quebrada e a mãe cansada de trabalhar.",
+            "duracao": 26,
+            "diretor": "金子祥之",
+            "thumb": "https://image.tmdb.org/t/p/original/egBHU73t79tMg2qrqj3aJof1ibS.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpmOWEyYmEyMGM3NDMzZWMzOGJmNTE1NjY4MTZhZGU1MGJmZmZlMDU4",
+            "data_lancamento": "2022-09-13"
+          },
+          {
+            "numero": 2,
+            "titulo": "Força feminina",
+            "sinopse": "Com o corpo aprimorado, David vai à Academia em busca de vingança. Ele conhece uma mulher misteriosa que quer recrutá-lo.",
+            "duracao": 26,
+            "diretor": "下平佑一",
+            "thumb": "https://image.tmdb.org/t/p/original/i441OHe2TUiBMbhO9RZpF7Te1v9.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpmOWEyYmEyMGM3NDMzZWMzOGJmNTE1NjY4MTZhZGU1MGJmZmZlMDU4",
+            "data_lancamento": "2022-09-13"
+          },
+          {
+            "numero": 3,
+            "titulo": "Conhecendo a gangue",
+            "sinopse": "Cercado por mercenários valentões, David pede para entrar para o grupo deles. Forças sinistras tentam atraí-lo de volta para a Academia Arasaka.",
+            "duracao": 26,
+            "diretor": "大和田麗衣",
+            "thumb": "https://image.tmdb.org/t/p/original/bfqnjIZal7sgnjnI3rQzC6GpoIL.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpmOWEyYmEyMGM3NDMzZWMzOGJmNTE1NjY4MTZhZGU1MGJmZmZlMDU4",
+            "data_lancamento": "2022-09-13"
+          },
+          {
+            "numero": 4,
+            "titulo": "Sorte?",
+            "sinopse": "Querendo aprender a ser mercenário, David pede outra missão a Maine. Em vez disso, Maine encarrega Lucy de treiná-lo.",
+            "duracao": 26,
+            "diretor": "古川晟",
+            "thumb": "https://image.tmdb.org/t/p/original/n1IW5dtwLGdn0dDR5Z5vwyOvDEQ.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpmOWEyYmEyMGM3NDMzZWMzOGJmNTE1NjY4MTZhZGU1MGJmZmZlMDU4",
+            "data_lancamento": "2022-09-13"
+          },
+          {
+            "numero": 5,
+            "titulo": "Chamando atenção",
+            "sinopse": "A equipe pensa na estratégia da próxima missão. David dá uma sugestão inteligente, mas logo descobre que seu alvo não pode ser subestimado.",
+            "duracao": 25,
+            "diretor": "中野広大",
+            "thumb": "https://image.tmdb.org/t/p/original/Ar2jz0uKUrUVKC3r9KEaonTzOFr.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpmOWEyYmEyMGM3NDMzZWMzOGJmNTE1NjY4MTZhZGU1MGJmZmZlMDU4",
+            "data_lancamento": "2022-09-13"
+          },
+          {
+            "numero": 6,
+            "titulo": "Morte e fogueira",
+            "sinopse": "Maine parece estar fora de si, mas a equipe está mais preocupada em conseguir informações importantes antes que seja tarde demais.",
+            "duracao": 28,
+            "diretor": "金子祥之",
+            "thumb": "https://image.tmdb.org/t/p/original/hZW2QGWUYN0LxtFxbn6YGAxsGHY.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpmOWEyYmEyMGM3NDMzZWMzOGJmNTE1NjY4MTZhZGU1MGJmZmZlMDU4",
+            "data_lancamento": "2022-09-13"
+          },
+          {
+            "numero": 7,
+            "titulo": "Mais forte",
+            "sinopse": "Aprimorado com mais implantes cibernéticos, David lidera a equipe em uma nova missão. Um antigo contato oferece um trabalho importante a ele.",
+            "duracao": 26,
+            "diretor": "宗廣智行",
+            "thumb": "https://image.tmdb.org/t/p/original/dBU8l0esjACL5ESSdsHbQNuAmnq.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpmOWEyYmEyMGM3NDMzZWMzOGJmNTE1NjY4MTZhZGU1MGJmZmZlMDU4",
+            "data_lancamento": "2022-09-13"
+          },
+          {
+            "numero": 8,
+            "titulo": "Fique",
+            "sinopse": "Faraday se vê preso entre a Arasaka e a Militech. Lucy e Rebecca confrontam David, mas ele não dá ouvidos.",
+            "duracao": 26,
+            "diretor": "下平佑一",
+            "thumb": "https://image.tmdb.org/t/p/original/83LC8gPjcmg4gMeVkvKOegjA8gf.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpmOWEyYmEyMGM3NDMzZWMzOGJmNTE1NjY4MTZhZGU1MGJmZmZlMDU4",
+            "data_lancamento": "2022-09-13"
+          },
+          {
+            "numero": 9,
+            "titulo": "Estado geral da gangue",
+            "sinopse": "Faraday e Kiwi ficam sabendo da missão secreta e do passado sombrio de Lucy. David e a equipe partem para terminar o trabalho de Faraday, mas notam que há algo errado.",
+            "duracao": 27,
+            "diretor": "古川晟",
+            "thumb": "https://image.tmdb.org/t/p/original/fxrDyzUGAXAHF5nyTUTd8LicVnG.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpmOWEyYmEyMGM3NDMzZWMzOGJmNTE1NjY4MTZhZGU1MGJmZmZlMDU4",
+            "data_lancamento": "2022-09-13"
+          },
+          {
+            "numero": 10,
+            "titulo": "Pouso na lua",
+            "sinopse": "No limite da ciberpsicose, David invade Night City determinado a salvar Lucy. A Arasaka planeja usar sua arma mais poderosa.",
+            "duracao": 29,
+            "diretor": "中野広大",
+            "thumb": "https://image.tmdb.org/t/p/original/AsqWkwR2BCmh7s7sDnxyGsMbVaq.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpmOWEyYmEyMGM3NDMzZWMzOGJmNTE1NjY4MTZhZGU1MGJmZmZlMDU4",
+            "data_lancamento": "2022-09-13"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Em uma cidade dominada pela violência, só resta uma pergunta: quando tudo gira em torno do espetáculo, até onde é preciso ir para que sua história seja ouvida?",
+        "poster": "https://image.tmdb.org/t/p/original/w3XGb8zwhiq9sUEGWCPY0ZNOWmh.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Última chance para uma dança",
+            "sinopse": "Um ex-edgerunner entrando em ciberpsicose e um sobrevivente solitário com um passado conturbado começam suas histórias em lados opostos de Night City.",
+            "duracao": 29,
+            "diretor": "古川晟",
+            "thumb": "https://image.tmdb.org/t/p/original/sMnzI5Oo01QdxZhjAf48rehrHWy.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDowNTcyYzRhOTE4NWZjYjI5NmY2OGU5MjliMGRjODQzYmQ2YmRhYjVh",
+            "data_lancamento": "2026-10-20"
+          },
+          {
+            "numero": 2,
+            "titulo": "Me dá mais um dia",
+            "sinopse": "Uma ligação desesperada para salvar uma adolescente rebelde coloca Weak em risco. D se aproxima de um jovem cinéfilo, e lembranças dolorosas atiçam sua sede de vingança.",
+            "duracao": 28,
+            "diretor": "内田直人",
+            "thumb": "https://image.tmdb.org/t/p/original/cQYGjBr6mtVh2XglfXa8gVvMjDH.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDowNTcyYzRhOTE4NWZjYjI5NmY2OGU5MjliMGRjODQzYmQ2YmRhYjVh",
+            "data_lancamento": "2026-10-20"
+          },
+          {
+            "numero": 3,
+            "titulo": "0+2=1",
+            "sinopse": "Weak tenta resgatar Talia de uma cirurgia perigosa, mas o confronto termina em desastre. D e Roman descobrem um chip que espalha o caos.",
+            "duracao": 29,
+            "diretor": "中野広大",
+            "thumb": "https://image.tmdb.org/t/p/original/u8vsox0soaP2HXWUVSKLxiTMgMR.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDowNTcyYzRhOTE4NWZjYjI5NmY2OGU5MjliMGRjODQzYmQ2YmRhYjVh",
+            "data_lancamento": "2026-10-20"
+          },
+          {
+            "numero": 4,
+            "titulo": "Alguém que eu conhecia",
+            "sinopse": "Com habilidades que ainda não compreende bem, D usa o poder de Capri para invadir uma instalação de pesquisa da Arasaka. Talia e Weak descobrem coisas em comum.",
+            "duracao": 29,
+            "diretor": "河野友紀",
+            "thumb": "https://image.tmdb.org/t/p/original/fBLNQdQjOaBlrbK3c1lM80c05Mj.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDowNTcyYzRhOTE4NWZjYjI5NmY2OGU5MjliMGRjODQzYmQ2YmRhYjVh",
+            "data_lancamento": "2026-10-20"
+          },
+          {
+            "numero": 5,
+            "titulo": "Além da Distância",
+            "sinopse": "Um ato impulsivo coloca Talia em uma situação assustadora. A obsessão de D por vingança atinge um nível de violência perturbador.",
+            "duracao": 27,
+            "diretor": "刈谷暢秀",
+            "thumb": "https://image.tmdb.org/t/p/original/6U7XgNsbua4HQOigZysIO4gOmmA.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDowNTcyYzRhOTE4NWZjYjI5NmY2OGU5MjliMGRjODQzYmQ2YmRhYjVh",
+            "data_lancamento": "2026-10-20"
+          },
+          {
+            "numero": 6,
+            "titulo": "Ódio Total",
+            "sinopse": "D se transforma em um vigilante e pede para Roman filmar seus movimentos. Weak vai atrás de uma tecnologia capaz de digitalizar a alma e trocá-la de corpo.",
+            "duracao": 29,
+            "diretor": "大谷彩絵",
+            "thumb": "https://image.tmdb.org/t/p/original/oRaMBmRQDYEGJEEC1wseNLMaiX2.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDowNTcyYzRhOTE4NWZjYjI5NmY2OGU5MjliMGRjODQzYmQ2YmRhYjVh",
+            "data_lancamento": "2026-10-20"
+          },
+          {
+            "numero": 7,
+            "titulo": "Para as profundezas com você",
+            "sinopse": "A condição de Talia sofre uma reviravolta surpreendente sob os cuidados de Capri. D se reaproxima de uma amiga. Weak e Avida correm atrás de uma cura milagrosa.",
+            "duracao": 29,
+            "diretor": "高木日南子",
+            "thumb": "https://image.tmdb.org/t/p/original/l2ewtDsHimpBxKmHBETgDC9CpBy.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDowNTcyYzRhOTE4NWZjYjI5NmY2OGU5MjliMGRjODQzYmQ2YmRhYjVh",
+            "data_lancamento": "2026-10-20"
+          },
+          {
+            "numero": 8,
+            "titulo": "Coração",
+            "sinopse": "D investiga a fundo o passado sombrio de um projeto enquanto uma rebelião incendeia as ruas. Avida e Weak lutam contra o tempo para salvar Talia.",
+            "duracao": 28,
+            "diretor": "河野友紀",
+            "thumb": "https://image.tmdb.org/t/p/original/znrUJWLn0OW76DxZvpglp73fFaq.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDowNTcyYzRhOTE4NWZjYjI5NmY2OGU5MjliMGRjODQzYmQ2YmRhYjVh",
+            "data_lancamento": "2026-10-20"
+          },
+          {
+            "numero": 9,
+            "titulo": "Reservado só para você",
+            "sinopse": "Omi e D desaparecem. Kiril leva Talia sob custódia e Kyoko dá continuidade ao projeto, obtendo resultados assustadores.",
+            "duracao": 30,
+            "diretor": "圡屋陽平",
+            "thumb": "https://image.tmdb.org/t/p/original/i7Th9qKryIvTkJEBNoCfeXKzgmM.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDowNTcyYzRhOTE4NWZjYjI5NmY2OGU5MjliMGRjODQzYmQ2YmRhYjVh",
+            "data_lancamento": "2026-10-20"
+          },
+          {
+            "numero": 10,
+            "titulo": "Então todos foram para casa",
+            "sinopse": "A cidade vira uma zona de guerra após uma transformação aterrorizante, culminando em um confronto explosivo.",
+            "duracao": 31,
+            "diretor": "中野広大",
+            "thumb": "https://image.tmdb.org/t/p/original/lMYYI8BzJk90iKfem7MGvkXEO9T.jpg",
+            "url_direto": "",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDowNTcyYzRhOTE4NWZjYjI5NmY2OGU5MjliMGRjODQzYmQ2YmRhYjVh",
+            "data_lancamento": "2026-10-20"
+          }
+        ]
+      }
+    ]
   }
 ]
