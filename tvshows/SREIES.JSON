@@ -1,0 +1,124 @@
+[
+  {
+    "id": "213375-visionquest",
+    "titulo": "VisionQuest",
+    "status": "Continuing",
+    "sinopse": "Um Visão repaginado tem se escondido daqueles que buscam usá-lo como arma. Enquanto permanece na clandestinidade, ele consulta as personalidades de IA embutidas em sua programação, incluindo o infame Ultron, para encontrar seu verdadeiro propósito. Essa vida tranquila de autorreflexão chega ao fim quando uma recompensa por sua cabeça o força a fugir ao lado de Thomas Shepard, um garoto misterioso que pode ser a reencarnação de seu filho.",
+    "ano": 2026,
+    "nota": 8.6,
+    "classificacao": "14",
+    "estudio": "Disney+",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=1waRGZxSb58",
+    "generos": [
+      "Sci-Fi & Fantasy e Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "banner": "",
+    "elenco": [
+      "Paul Bettany",
+      "James Spader",
+      "Ruaridh Mollica",
+      "Todd Stashwick",
+      "Lauren Morais",
+      "Orla Brady"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "O Visão, reiniciado e tendo escapado daqueles que buscavam transformá-lo em arma, tem vivido escondido. Em busca de um novo propósito, ele consulta as personalidades de IA integradas à sua programação, incluindo Sexta-Feira, Edith, Jarvis e o infame Ultron. Sua existência discreta chega ao fim quando uma recompensa por sua cabeça o força a fugir ao lado de Thomas Shepard, um garoto misterioso que pode ser a reencarnação do filho do Visão. Enquanto escapa da captura, o Visão precisa confrontar sua própria natureza, resistir à influência de Ultron e desvendar o enigma que é seu jovem companheiro para conseguir sobreviver.",
+        "poster": "https://image.tmdb.org/t/p/original/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Sem amarras",
+            "sinopse": "O Visão embarca em uma jornada de autodescoberta com Ultron e se vê caçado por uma força mortal.",
+            "duracao": 56,
+            "diretor": "Christopher J. Byrne",
+            "thumb": "https://image.tmdb.org/t/p/original/zNV1OOF71fzTYand5duFx3uaWlE.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTgwMTYwOC51cy5hcmNoaXZlLm9yZy8xMy9pdGVtcy9zLWUtci12LWktZC1vLXItc2UxLzIxMzM3NS1TMDFFMDEubWt2",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDphNWRwa210YzRwdjU2Y29naXB0Zno3NnNjdDVzMnRjeg==",
+            "data_lancamento": "2026-10-13"
+          },
+          {
+            "numero": 2,
+            "titulo": "Theseus",
+            "sinopse": "Visão encontra seu agressor desconhecido enquanto investiga se Thomas Shepherd é mesmo seu filho.",
+            "duracao": 48,
+            "diretor": "Christopher J. Byrne",
+            "thumb": "https://image.tmdb.org/t/p/original/sPFlMWA0YzOfuwys7BumrOJP5HR.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTgwMTYwOC51cy5hcmNoaXZlLm9yZy8xMy9pdGVtcy9zLWUtci12LWktZC1vLXItc2UxLzIxMzM3NS1TMDFFMDIubWt2",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDphNWRwa210YzRwdjU2Y29naXB0Zno3NnNjdDVzMnRjeg==",
+            "data_lancamento": "2026-10-13"
+          },
+          {
+            "numero": 3,
+            "titulo": "Reboot",
+            "sinopse": "Visão e Thomas Shepherd se unem para sobreviver enquanto um assassino aterrorizante ataca novamente.",
+            "duracao": 54,
+            "diretor": "Gandja Monteiro",
+            "thumb": "https://image.tmdb.org/t/p/original/u2YwlI82Nm6pM3jFijt00lxY2Be.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTgwMTYwOC51cy5hcmNoaXZlLm9yZy8xMy9pdGVtcy9zLWUtci12LWktZC1vLXItc2UxLzIxMzM3NS1TMDFFMDMubWt2",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpsbjNtZWVkeGc3aGwzdGRuNW10Z3NzeDdqcnFscTM2cA==",
+            "data_lancamento": "2026-10-20"
+          },
+          {
+            "numero": 4,
+            "titulo": "Malware",
+            "sinopse": "Enquanto Visão enfrenta um novo inimigo, Ultron e Thomas Shepherd ficam frente a frente.",
+            "duracao": 51,
+            "diretor": "Gandja Monteiro",
+            "thumb": "https://image.tmdb.org/t/p/original/6eVHqUOPEe1CIbvg4Dx6H4awFBR.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTgwMTYwOC51cy5hcmNoaXZlLm9yZy8xMy9pdGVtcy9zLWUtci12LWktZC1vLXItc2UxLzIxMzM3NS1TMDFFMDQubWt2",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpsbjNtZWVkeGc3aGwzdGRuNW10Z3NzeDdqcnFscTM2cA==",
+            "data_lancamento": "2026-10-20"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Ultron  e Jocasta unem forças. Lisa ajuda Visão a escapar da captura.",
+            "duracao": 48,
+            "diretor": "Vincenzo Natali",
+            "thumb": "https://image.tmdb.org/t/p/original/6aBaiK5WPQrJ5L5cyBXJQwu4iGE.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTgwMTYwOC51cy5hcmNoaXZlLm9yZy8xMy9pdGVtcy9zLWUtci12LWktZC1vLXItc2UxLzIxMzM3NS1TMDFFMDUubWt2",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpmd292dmNsbHg3b21zc2p3cWt5dHh5ZjdyZml6N2dweA==",
+            "data_lancamento": "2026-10-27"
+          },
+          {
+            "numero": 6,
+            "titulo": "Impasse",
+            "sinopse": "Visão e Paladino formam uma aliança instável e Thomas finalmente descobre sobre seu passado.",
+            "duracao": 57,
+            "diretor": "Vincenzo Natali",
+            "thumb": "https://image.tmdb.org/t/p/original/6R8uiUzWH4ht7EFhDgwH4u0wZxc.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTgwMTYwOC51cy5hcmNoaXZlLm9yZy8xMy9pdGVtcy9zLWUtci12LWktZC1vLXItc2UxLzIxMzM3NS1TMDFFMDYubWt2",
+            "url_elementum": "bWFnbmV0Oj94dD11cm46YnRpaDpmd292dmNsbHg3b21zc2p3cWt5dHh5ZjdyZml6N2dweA==",
+            "data_lancamento": "2026-10-27"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "Terry Matalas",
+            "thumb": "https://image.tmdb.org/t/p/original/hhLuAHSGLZ5MSkN9UMjkhGu1zxN.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTgwMTYwOC51cy5hcmNoaXZlLm9yZy8xMy9pdGVtcy9zLWUtci12LWktZC1vLXItc2UxLzIxMzM3NS1TMDFFMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-03"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "Terry Matalas",
+            "thumb": "https://image.tmdb.org/t/p/original/5nSEYG0U4boOIYeMUBUE8MQjAk.jpg",
+            "url_direto": "aHR0cHM6Ly9pYTgwMTYwOC51cy5hcmNoaXZlLm9yZy8xMy9pdGVtcy9zLWUtci12LWktZC1vLXItc2UxLzIxMzM3NS1TMDFFMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-10"
+          }
+        ]
+      }
+    ]
+  }
+]
