@@ -1,6 +1,16 @@
 [
   {
     "type": "addon",
+    "name": "Cineroom Repository",
+    "version": "1.0.3",
+    "description": "Repositório com os addons oficiais do Cineroom",
+    "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxtMZPEGHsnJ8J6ycGP8jSNoMERvObeJyEBuBjPDD3diVR66pv3IkBPrE5fQptvAj_HMskZIywZVcXV9tgFQPZSstuaArbHhBmp8LQyX_L97i7xkBpu5LrjuQSOYEcnBpb2Hpu0uBYTzROrichWECUYWpZDooQR3VyZT3RQq4WhaUQgpsqLmCmqvcOag/s16000-rw/Cineroom%20lITE%20addon%20kodi%20repo%20url%202026%200_e.png",
+    "fanart": "https://imgur.com",
+    "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/repository.cineroom.zip",
+    "dependencies": []
+  },
+  {
+    "type": "addon",
     "name": "[COLOR yellow]HA[/COLOR][COLOR pink]DES[/COLOR]",
     "version": "0.0.0.4", 
     "description": "O ADDON HADES 4 by R.O é um addon multifuncional de entretenimento para Kodi, projetado para oferecer acesso rápido e organizado a conteúdos de TV Ao Vivo, Filmes e Séries. Com uma interface intuitiva e ícones personalizados, ele conecta você aos melhores servidores de streaming com máxima estabilidade.TV Ao Vivo: Grade completa de canais com suporte a EPG (Guia de Programação) para você saber o que está passando.Cinema e Séries (VOD): Milhares de títulos atualizados, com sinopses detalhadas, capas e notas de avaliação.Busca Inteligente: Ferramenta de busca individual em cada aba (TV, Filmes e Séries) para encontrar seu conteúdo favorito em segundos.Área VIP/Adulta: Conteúdo restrito com controle parental protegido por PIN.",
