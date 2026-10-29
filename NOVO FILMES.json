@@ -1,37 +1,37 @@
 [
   {
-    "title": "Título em Português",
-    "titulo_original": "Original Title (Opcional)",
-    "url": "https://link-direto-do-video.mp4",
-    "ano": 2026,
-    "data_estreia": "2026-10-28",
-    "duracao": 120,
-    "genero": "Ação, Ficção, Suspense",
-    "nota": 8.5,
-    "votos": 1500,
-    "classificacao_etaria": "14",
-    "estudio": "Nome do Estúdio ou Produtora",
-    "frase_efeito": "Uma frase marcante do filme",
-    "sinopse_curta": "Resumo bem curto de uma linha.",
-    "sinopse": "Texto completo da sinopse detalhada do filme aqui.",
-    "tags": "4K, Dublado, Lançamento",
-    "diretor": "Nome do Diretor, Segundo Diretor",
-    "roteirista": "Nome do Roteirista",
+    "title": "Interestelar",
+    "titulo_original": "Interstellar",
+    "url": "https://seu-servidor.com",
+    "ano": 2014,
+    "data_estreia": "2014-11-06",
+    "duracao": 169,
+    "genero": "Ficção Científica, Drama, Aventura",
+    "nota": 8.7,
+    "votos": 2000000,
+    "classificacao_etaria": "10",
+    "estudio": "Paramount Pictures / Warner Bros.",
+    "frase_efeito": "O fim da Terra não será o nosso fim.",
+    "sinopse_curta": "Uma equipe de exploradores viaja através de um buraco de minhoca.",
+    "sinopse": "As reservas naturais da Terra estão se esgotando e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie humana. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos.",
+    "tags": "Espaço, Viagem no Tempo, IMDb Top 250, 4K UHD",
+    "diretor": "Christopher Nolan",
+    "roteirista": "Jonathan Nolan, Christopher Nolan",
     "elenco": [
       {
-        "nome": "Ator Principal",
-        "personagem": "Personagem X",
-        "foto": "https://link-da-foto-do-ator.jpg"
+        "nome": "Matthew McConaughey",
+        "personagem": "Cooper",
+        "foto": "https://tmdb.org"
       },
       {
-        "nome": "Ator Coadjuvante",
-        "personagem": "Personagem Y",
-        "foto": "https://link-da-foto-do-ator2.jpg"
+        "nome": "Anne Hathaway",
+        "personagem": "Brand",
+        "foto": "https://tmdb.org"
       }
     ],
-    "poster": "https://link-da-imagem-do-poster.jpg",
-    "fanart": "https://link-da-imagem-de-fundo.jpg",
-    "logo": "https://link-da-logo-transparente-do-filme.png",
-    "landscape": "https://link-da-imagem-horizontal.jpg"
+    "poster": "https://tmdb.org",
+    "fanart": "https://tmdb.org",
+    "logo": "https://tmdb.org",
+    "landscape": "https://tmdb.org"
   }
 ]
