@@ -1,75 +1,42 @@
-[
-  {
-    "title": "Marsupilami: Confusão a Bordo",
-    "titulo_original": "Sur la piste du Marsupilami 2",
-    "ano": 2026,
-    "url": "",
-    "genero": "Aventura, Comédia, Família",
-    "versoes_disponiveis": [
-      {
-        "nome": "🧲 Torrent Oficial",
-        "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1MzBiOTczYTNhNjIxZDY1MTFjZGNjZGNjYjFiOWYxMTIxNTc4YzM4"
-      }
-    ],
-    "tags": "Lançamento, 2026",
-    "sinopse": "Para salvar seu emprego, David aceita transportar um pacote misterioso da América do Sul, mas tudo sai do controle quando um bebê marsupilami é libertado em um cruzeiro. Em meio à confusão, ele vive uma aventura caótica ao lado da ex, do filho e de um colega atrapalhado, redescobrindo a importância dos laços familiares.",
-    "nota": 6.4,
-    "votos": 120,
-    "classificacao_etaria": "12",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=S0PTrJMBE00",
-    "poster": "https://tmdb.org",
-    "fanart": "https://tmdb.org",
-    "clearart": "https://tmdb.org",
-    "coletanea": "",
-    "elenco": [
-      {
-        "nome": "Philippe Lacheau",
-        "personagem": "David"
-      },
-      {
-        "nome": "Jamel Debbouze",
-        "personagem": "Colega Atrapalhado"
-      },
-      {
-        "nome": "Tarek Boudali",
-        "personagem": ""
-      },
-      {
-        "nome": "Élodie Fontan",
-        "personagem": "Ex"
-      },
-      {
-        "nome": "Julien Arruti",
-        "personagem": ""
-      },
-      {
-        "nome": "Jean Reno",
-        "personagem": ""
-      }
-    ]
-  },
-  {
-    "title": "People Magazine: A Promessa da Cura",
-    "titulo_original": "People Magazine: The Promise of a Cure",
-    "ano": 2026,
-    "url": "",
-    "genero": "Crime, Documentário",
-    "versoes_disponiveis": [
-      {
-        "nome": "🚀 Torrent (FHD)",
-        "url": "bWFnbmV0Oj94dD11cm46YnRpaDpyeHNveG02eGh5M2M3YnA0enF2bm0yNWZjaTZzeG0yNw=="
-      }
-    ],
-    "tags": "Documentário, Investigação",
-    "sinopse": "Uma mulher de Minnesota promete sucesso e bem-estar emocional a seus seguidores se eles seguirem seus ensinamentos, mas o preço vai além do dinheiro.",
-    "nota": 7.0,
-    "votos": 85,
-    "classificacao_etaria": "16",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=4sbSD7gKsVs",
-    "poster": "https://tmdb.org",
-    "fanart": "https://tmdb.org",
-    "clearart": "https://tmdb.org",
-    "coletanea": "Os Estranhos (Remake) - Colecção",
-    "elenco": []
-  }
-]
+{
+  "title": "Sobrenatural: Agora Entre Nós",
+  "titulo_original": "Insidious: Out of the Further",
+  "ano": "2026",
+  "url": "",
+  "genero": "Terror, Thriller",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT (4K ULTRA HD)",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2ZDQzNjkwODY2NThlYzYxMzE4YzY4MTU0NTY5NTIyYWU4ODcwOTcy",
+      "legenda": ""
+    },
+    {
+      "label": "TORRENT (FHD)",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDp1bGMzaWtrbmw0NHN0aHA1ejY1c21pcjJvd2lueXozYw==",
+      "legenda": ""
+    }
+  ],
+  "tags": "terror, além, sobrenatural, insidious",
+  "elenco": [
+    {"nome": "Amelia Eve", "personagem": "", "foto": ""},
+    {"nome": "Island Austin", "personagem": "", "foto": ""},
+    {"nome": "Brandon Perea", "personagem": "", "foto": ""},
+    {"nome": "Lin Shaye", "personagem": "Elise Rainier", "foto": ""},
+    {"nome": "Maisie Richardson-Sellers", "personagem": "", "foto": ""},
+    {"nome": "Sam Spruell", "personagem": "", "foto": ""}
+  ],
+  "sinopse": "Um trio de criminosos se infiltra em um bairro tranquilo e força uma nova família a entrar no plano astral, onde descobrem uma verdade aterradora: o Além está se infiltrando no mundo real.",
+  "sinopse_curta": "O Além começa a se infiltrar no mundo real.",
+  "nota": "7.7",
+  "votos": 120,
+  "duracao": "100",
+  "classificacao_etaria": "14",
+  "trailer": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLnlvdXR1YmUvcGxheS8/dmlkZW9faWQ9TDhHem95SmVnd0k=",
+  "poster": "https://image.tmdb.org/t/p/original/8IEzyoBOCbKIvJ9DMwHgceJkNsP.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/f65DhAYFi98FsRi4RWHTKkFtChu.png",
+  "coletanea": "Sobrenatural - Coleção",
+  "sinopse_coletanea": "Uma das maiores franquias de terror da Blumhouse, focada nos mistérios do plano astral e nos confrontos com entidades perigosas do Além.",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/fct5wsWu6niDIGRIC4aWEsN5Npa.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg"
+}
