@@ -1,32 +1,49 @@
 [
   {
-    "title": "Interestelar",
-    "titulo_original": "Interstellar",
-    "url": "https://seu-servidor.com",
-    "trailer": "https://seu-servidor.com",
-    "ano": 2014,
-    "data_estreia": "2014-11-06",
-    "duracao": 169,
-    "genero": "Ficção Científica, Drama, Aventura",
-    "nota": 8.7,
-    "votos": 2000000,
-    "classificacao_etaria": "10",
-    "estudio": "Paramount Pictures / Warner Bros.",
-    "frase_efeito": "O fim da Terra não será o nosso fim.",
-    "sinopse_curta": "Uma equipe de exploradores viaja através de um buraco de minhoca.",
-    "sinopse": "As reservas naturais da Terra estão se esgotando e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial.",
-    "tags": "Espaço, Viagem no Tempo, IMDb Top 250",
+    "title": "Exemplo de Filme Profissional",
+    "titulo_original": "Professional Movie Example",
+    "sinopse": "Esta é a sinopse completa do filme. Ela aparecerá na descrição detalhada dentro do Kodi.",
+    "sinopse_curta": "Uma sinopse curta para listagens rápidas.",
+    "frase_efeito": "O futuro dos addons começou.",
+    "classificacao_etaria": "14+",
+    "estudio": "Estúdios Hollywood",
+    "coletanea": "Saga dos Addons",
+    "ano": 2026,
+    "data_estreia": "2026-10-28",
+    "genero": "Ação, Ficção Científica",
+    "tags": "Multi-Áudio, 4K",
+    "nota": 8.5,
+    "votos": 1540,
+    "duracao": 124,
     "diretor": "Christopher Nolan",
-    "roteirista": "Jonathan Nolan, Christopher Nolan",
-    "elenco": [
+    "roteirista": "Jonathan Nolan",
+    "url": "https://://seu-servidor.com",
+    "trailer": "https://://youtube.com",
+    "poster": "https://link-da-imagem.com",
+    "fanart": "https://link-da-imagem.com",
+    "logo": "https://://link-da-imagem.com",
+    "clearart": "https://://link-da-imagem.com",
+    "landscape": "https://link-da-imagem.com",
+    "versoes_disponiveis": [
       {
-        "nome": "Matthew McConaughey",
-        "personagem": "Cooper"
+        "nome": "🔊 Dublado (1080p)",
+        "url": "https://://seu-servidor.com"
+      },
+      {
+        "nome": "💬 Legendado (1080p)",
+        "url": "https://://seu-servidor.com"
+      },
+      {
+        "nome": "✨ Ultra HD (4K HDR)",
+        "url": "https://://seu-servidor.com"
       }
     ],
-    "poster": "https://tmdb.org",
-    "fanart": "https://tmdb.org",
-    "logo": "https://tmdb.org",
-    "landscape": "https://tmdb.org"
+    "elenco": [
+      {
+        "nome": "Leonardo DiCaprio",
+        "personagem": "Protagonista Principal",
+        "foto": "https://link-da-imagem.com"
+      }
+    ]
   }
 ]
