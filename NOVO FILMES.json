@@ -1,42 +1,62 @@
-{
-  "title": "Sobrenatural: Agora Entre Nós",
-  "titulo_original": "Insidious: Out of the Further",
-  "ano": "2026",
-  "url": "",
-  "genero": "Terror, Thriller",
-  "versoes_disponiveis": [
-    {
-      "label": "TORRENT (4K ULTRA HD)",
-      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2ZDQzNjkwODY2NThlYzYxMzE4YzY4MTU0NTY5NTIyYWU4ODcwOTcy",
-      "legenda": ""
-    },
-    {
-      "label": "TORRENT (FHD)",
-      "url": "bWFnbmV0Oj94dD11cm46YnRpaDp1bGMzaWtrbmw0NHN0aHA1ejY1c21pcjJvd2lueXozYw==",
-      "legenda": ""
-    }
-  ],
-  "tags": "terror, além, sobrenatural, insidious",
-  "elenco": [
-    {"nome": "Amelia Eve", "personagem": "", "foto": ""},
-    {"nome": "Island Austin", "personagem": "", "foto": ""},
-    {"nome": "Brandon Perea", "personagem": "", "foto": ""},
-    {"nome": "Lin Shaye", "personagem": "Elise Rainier", "foto": ""},
-    {"nome": "Maisie Richardson-Sellers", "personagem": "", "foto": ""},
-    {"nome": "Sam Spruell", "personagem": "", "foto": ""}
-  ],
-  "sinopse": "Um trio de criminosos se infiltra em um bairro tranquilo e força uma nova família a entrar no plano astral, onde descobrem uma verdade aterradora: o Além está se infiltrando no mundo real.",
-  "sinopse_curta": "O Além começa a se infiltrar no mundo real.",
-  "nota": "7.7",
-  "votos": 120,
-  "duracao": "100",
-  "classificacao_etaria": "14",
-  "trailer": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLnlvdXR1YmUvcGxheS8/dmlkZW9faWQ9TDhHem95SmVnd0k=",
-  "poster": "https://image.tmdb.org/t/p/original/8IEzyoBOCbKIvJ9DMwHgceJkNsP.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-  "clearart": "https://image.tmdb.org/t/p/original/f65DhAYFi98FsRi4RWHTKkFtChu.png",
-  "coletanea": "Sobrenatural - Coleção",
-  "sinopse_coletanea": "Uma das maiores franquias de terror da Blumhouse, focada nos mistérios do plano astral e nos confrontos com entidades perigosas do Além.",
-  "poster_coletanea": "https://image.tmdb.org/t/p/original/fct5wsWu6niDIGRIC4aWEsN5Npa.jpg",
-  "fanart_coletanea": "https://image.tmdb.org/t/p/original/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg"
-}
+[
+  {
+    "title": "Os Estranhos (Remake) - Capítulo 1",
+    "titulo_original": "The Strangers: Chapter 1",
+    "ano": "2024",
+    "nota": "7.2",
+    "votos": 1420,
+    "duracao": "91",
+    "genero": "Terror, Suspense",
+    "coletanea": "Os Estranhos (Remake)",
+    "sinopse": "Após o carro quebrar em uma cidade pacata, um jovem casal é forçado a passar a noite em uma cabana isolada na floresta. Lá, eles se tornam presas de três mascarados psicopatas que atacam sem aviso.",
+    "sinopse_curta": "Um casal isolado vira alvo de mascarados psicopatas.",
+    "frase_efeito": "Eles não precisam de um motivo.",
+    "classificacao_etaria": "16",
+    "estudio": "Lionsgate",
+    "data_estreia": "2024-05-17",
+    "tags": "terror, slasher, suspense, os estranhos",
+    "poster": "https://sua-url.com",
+    "fanart": "https://sua-url.com",
+    "logo": "https://sua-url.com",
+    "clearart": "https://sua-url.com",
+    "landscape": "https://sua-url.com",
+    "trailer": "aHR0cHM6Ly95b3V0dWJlLmNvbS93YXRjaD92PXZpZGVvaWQ=",
+    "url": "bWFnbmV0Oj94dD11cm46YnRpaDptYWduZXRsaW5rZXhlbXBsbw==",
+    "elenco": [
+      {
+        "nome": "Madelaine Petsch",
+        "personagem": "Maya",
+        "foto": "https://sua-url.com"
+      },
+      {
+        "nome": "Froy Gutierrez",
+        "personagem": "Ryan",
+        "foto": "https://sua-url.com"
+      }
+    ]
+  },
+  {
+    "title": "Os Estranhos (Remake) - Capítulo 2",
+    "titulo_original": "The Strangers: Chapter 2",
+    "ano": "2025",
+    "nota": "7.5",
+    "votos": 980,
+    "duracao": "95",
+    "genero": "Terror, Slasher",
+    "coletanea": "Os Estranhos (Remake)",
+    "sinopse": "A perseguição brutal continua imediatamente após os eventos do primeiro filme, expandindo o terror psicológico criado pelo trio de assassinos mascarados enquanto novas vítimas lutam pela sobrevivência.",
+    "sinopse_curta": "A perseguição implacável dos mascarados continua.",
+    "frase_efeito": "O jogo está longe de terminar.",
+    "classificacao_etaria": "18",
+    "estudio": "Lionsgate",
+    "data_estreia": "2025-10-24",
+    "tags": "terror, slasher, os estranhos",
+    "poster": "https://sua-url.com",
+    "fanart": "https://sua-url.com",
+    "logo": "https://sua-url.com",
+    "clearart": "https://sua-url.com",
+    "landscape": "https://sua-url.com",
+    "trailer": "aHR0cHM6Ly95b3V0dWJlLmNvbS93YXRjaD92PXZpZGVvaWQy",
+    "url": "bWFnbmV0Oj94dD11cm46YnRpaDptYWduZXRsaW5rZXhlbXBsbzI="
+  }
+]
