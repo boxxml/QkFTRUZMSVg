@@ -3,6 +3,7 @@
     "title": "Interestelar",
     "titulo_original": "Interstellar",
     "url": "https://seu-servidor.com",
+    "trailer": "https://seu-servidor.com",
     "ano": 2014,
     "data_estreia": "2014-11-06",
     "duracao": 169,
@@ -13,20 +14,14 @@
     "estudio": "Paramount Pictures / Warner Bros.",
     "frase_efeito": "O fim da Terra não será o nosso fim.",
     "sinopse_curta": "Uma equipe de exploradores viaja através de um buraco de minhoca.",
-    "sinopse": "As reservas naturais da Terra estão se esgotando e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie humana. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos.",
-    "tags": "Espaço, Viagem no Tempo, IMDb Top 250, 4K UHD",
+    "sinopse": "As reservas naturais da Terra estão se esgotando e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial.",
+    "tags": "Espaço, Viagem no Tempo, IMDb Top 250",
     "diretor": "Christopher Nolan",
     "roteirista": "Jonathan Nolan, Christopher Nolan",
     "elenco": [
       {
         "nome": "Matthew McConaughey",
-        "personagem": "Cooper",
-        "foto": "https://tmdb.org"
-      },
-      {
-        "nome": "Anne Hathaway",
-        "personagem": "Brand",
-        "foto": "https://tmdb.org"
+        "personagem": "Cooper"
       }
     ],
     "poster": "https://tmdb.org",
