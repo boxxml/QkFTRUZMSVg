@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Título em Português",
+    "titulo_original": "Original Title (Opcional)",
+    "url": "https://link-direto-do-video.mp4",
+    "ano": 2026,
+    "data_estreia": "2026-10-28",
+    "duracao": 120,
+    "genero": "Ação, Ficção, Suspense",
+    "nota": 8.5,
+    "votos": 1500,
+    "classificacao_etaria": "14",
+    "estudio": "Nome do Estúdio ou Produtora",
+    "frase_efeito": "Uma frase marcante do filme",
+    "sinopse_curta": "Resumo bem curto de uma linha.",
+    "sinopse": "Texto completo da sinopse detalhada do filme aqui.",
+    "tags": "4K, Dublado, Lançamento",
+    "diretor": "Nome do Diretor, Segundo Diretor",
+    "roteirista": "Nome do Roteirista",
+    "elenco": [
+      {
+        "nome": "Ator Principal",
+        "personagem": "Personagem X",
+        "foto": "https://link-da-foto-do-ator.jpg"
+      },
+      {
+        "nome": "Ator Coadjuvante",
+        "personagem": "Personagem Y",
+        "foto": "https://link-da-foto-do-ator2.jpg"
+      }
+    ],
+    "poster": "https://link-da-imagem-do-poster.jpg",
+    "fanart": "https://link-da-imagem-de-fundo.jpg",
+    "logo": "https://link-da-logo-transparente-do-filme.png",
+    "landscape": "https://link-da-imagem-horizontal.jpg"
+  }
+]
