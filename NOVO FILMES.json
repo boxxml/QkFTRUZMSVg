@@ -1,49 +1,75 @@
 [
   {
-    "title": "Exemplo de Filme Profissional",
-    "titulo_original": "Professional Movie Example",
-    "sinopse": "Esta é a sinopse completa do filme. Ela aparecerá na descrição detalhada dentro do Kodi.",
-    "sinopse_curta": "Uma sinopse curta para listagens rápidas.",
-    "frase_efeito": "O futuro dos addons começou.",
-    "classificacao_etaria": "14+",
-    "estudio": "Estúdios Hollywood",
-    "coletanea": "Saga dos Addons",
+    "title": "Marsupilami: Confusão a Bordo",
+    "titulo_original": "Sur la piste du Marsupilami 2",
     "ano": 2026,
-    "data_estreia": "2026-10-28",
-    "genero": "Ação, Ficção Científica",
-    "tags": "Multi-Áudio, 4K",
-    "nota": 8.5,
-    "votos": 1540,
-    "duracao": 124,
-    "diretor": "Christopher Nolan",
-    "roteirista": "Jonathan Nolan",
-    "url": "https://://seu-servidor.com",
-    "trailer": "https://://youtube.com",
-    "poster": "https://link-da-imagem.com",
-    "fanart": "https://link-da-imagem.com",
-    "logo": "https://://link-da-imagem.com",
-    "clearart": "https://://link-da-imagem.com",
-    "landscape": "https://link-da-imagem.com",
+    "url": "",
+    "genero": "Aventura, Comédia, Família",
     "versoes_disponiveis": [
       {
-        "nome": "🔊 Dublado (1080p)",
-        "url": "https://://seu-servidor.com"
-      },
-      {
-        "nome": "💬 Legendado (1080p)",
-        "url": "https://://seu-servidor.com"
-      },
-      {
-        "nome": "✨ Ultra HD (4K HDR)",
-        "url": "https://://seu-servidor.com"
+        "nome": "🧲 Torrent Oficial",
+        "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1MzBiOTczYTNhNjIxZDY1MTFjZGNjZGNjYjFiOWYxMTIxNTc4YzM4"
       }
     ],
+    "tags": "Lançamento, 2026",
+    "sinopse": "Para salvar seu emprego, David aceita transportar um pacote misterioso da América do Sul, mas tudo sai do controle quando um bebê marsupilami é libertado em um cruzeiro. Em meio à confusão, ele vive uma aventura caótica ao lado da ex, do filho e de um colega atrapalhado, redescobrindo a importância dos laços familiares.",
+    "nota": 6.4,
+    "votos": 120,
+    "classificacao_etaria": "12",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=S0PTrJMBE00",
+    "poster": "https://tmdb.org",
+    "fanart": "https://tmdb.org",
+    "clearart": "https://tmdb.org",
+    "coletanea": "",
     "elenco": [
       {
-        "nome": "Leonardo DiCaprio",
-        "personagem": "Protagonista Principal",
-        "foto": "https://link-da-imagem.com"
+        "nome": "Philippe Lacheau",
+        "personagem": "David"
+      },
+      {
+        "nome": "Jamel Debbouze",
+        "personagem": "Colega Atrapalhado"
+      },
+      {
+        "nome": "Tarek Boudali",
+        "personagem": ""
+      },
+      {
+        "nome": "Élodie Fontan",
+        "personagem": "Ex"
+      },
+      {
+        "nome": "Julien Arruti",
+        "personagem": ""
+      },
+      {
+        "nome": "Jean Reno",
+        "personagem": ""
       }
     ]
+  },
+  {
+    "title": "People Magazine: A Promessa da Cura",
+    "titulo_original": "People Magazine: The Promise of a Cure",
+    "ano": 2026,
+    "url": "",
+    "genero": "Crime, Documentário",
+    "versoes_disponiveis": [
+      {
+        "nome": "🚀 Torrent (FHD)",
+        "url": "bWFnbmV0Oj94dD11cm46YnRpaDpyeHNveG02eGh5M2M3YnA0enF2bm0yNWZjaTZzeG0yNw=="
+      }
+    ],
+    "tags": "Documentário, Investigação",
+    "sinopse": "Uma mulher de Minnesota promete sucesso e bem-estar emocional a seus seguidores se eles seguirem seus ensinamentos, mas o preço vai além do dinheiro.",
+    "nota": 7.0,
+    "votos": 85,
+    "classificacao_etaria": "16",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=4sbSD7gKsVs",
+    "poster": "https://tmdb.org",
+    "fanart": "https://tmdb.org",
+    "clearart": "https://tmdb.org",
+    "coletanea": "",
+    "elenco": []
   }
 ]
