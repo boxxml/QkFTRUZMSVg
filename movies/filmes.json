@@ -1,3 +1,38 @@
 [
-
+{
+  "titulo": "Homem-Aranha: Um Novo Dia",
+  "ano": "2026",
+  "url": "",
+  "genero": "Ficção científica, Ação, Aventura",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT 1080P",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDowMGNjOTA4MWZlZWQ2OGVlZjlhODg5MzM2OGY5ZTE5OGYwMjA0NDgz",
+      "legenda": ""
+    },
+    {
+      "label": "DIRETO FHD",
+      "url": "aHR0cHM6Ly9pYTYwMDUwMC51cy5hcmNoaXZlLm9yZy8yNC9pdGVtcy9zLWUtci12LWktZC1vLXItZmltMS85Njk2ODEubWt2",
+      "legenda": ""
+    },
+    {
+      "label": "TORRENT 4K",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1YzBlMzkzY2M0NTg1YWYyMWNiZjJkMWExYTYzYzFlNDkwNjE2MWRh",
+      "legenda": ""
+    }
+  ],
+  "tags": "Super-Heróis, Ultra HD 4K",
+  "elenco": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon, Jon Bernthal",
+  "sinopse": "É um novo dia para Peter Parker. Combatendo o crime em tempo integral como Homem-Aranha em um mundo que não se lembra mais dele e lidando com a pressão de ver seus antigos amigos seguirem em frente sem sua presença, Peter passa por uma mudança que talvez nem ele tenha o poder de controlar. Mas essa transformação também pode ser a única coisa capaz de deter uma surpreendente nova ameaça à cidade e às pessoas que ele ama: um poderoso vilão que ninguém sequer consegue enxergar.",
+  "nota": "8.5",
+  "classificacao": "12",
+  "trailer": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/969681.mp4",
+  "poster": "https://image.tmdb.org/t/p/original/wZhxtK387ZLFQQ38l1Z3ELdszVa.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+  "coletanea": "Homem-Aranha (Vingadores) Coleção",
+  "sinopse_coletanea": "Uma coleção de filmes que acompanha Peter Parker enquanto tenta conciliar a vida de adolescente com a responsabilidade de ser o Homem-Aranha, num mundo já habitado por outros super-heróis. À medida que enfrenta ameaças cada vez mais complexas, Peter lida com as consequências das suas escolhas e aprende, de forma gradual, o verdadeiro significado de crescer como herói.",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/pb9eom1bAqKZz0BI5yhKv3eEzYp.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/qG9rYMeEGyxioMZcnHrI9OwHvP5.jpg"
+}
 ]
