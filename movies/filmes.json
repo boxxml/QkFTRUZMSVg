@@ -662,5 +662,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "https://image.tmdb.org/t/p/original/vgloOQGIDJJkIq1nTv9y3n2TokC.jpg",
   "fanart_coletanea": "https://image.tmdb.org/t/p/original/hApclyB9NEZEQujAVajzi5iWE4a.jpg"
+},
+{
+  "titulo": "Dia D",
+  "ano": "2026",
+  "url": "",
+  "genero": "Ficção científica, Thriller",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpvd3J6YTJ5ZmNzZnRmYnV1eW83NWpwenE2cHcyZWx3Mg==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson, Colman Domingo, Wyatt Russell",
+  "sinopse": "O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas.",
+  "nota": "7.4",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=DTt-9g9lgK4",
+  "poster": "https://image.tmdb.org/t/p/original/pmff1wjKrgJi92PPr346lAifzlg.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/v05SwcbdADZsf9I54w68i6OmYTR.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
