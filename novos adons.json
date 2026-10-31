@@ -98,5 +98,19 @@
       "inputstream.ffmpegdirect",
       "script.module.inputstreamhelper"
     ]
+  },
+  {
+    "type": "addon",
+    "name": "[B][COLOR red]ADDON[/COLOR] [COLOR blue]BXL[/COLOR][/B]",
+    "version": "4.1",
+    "description": "TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DO GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS",
+    "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/plugin.video.Addon.BXL/icon.png",
+    "fanart": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.Addon.BXL/plugin.video.Addon.BXL.zip",
+    "url": "",
+    "dependencies": [
+      "script.module.requests",
+      "script.module.simplejson",
+      "script.module.kodi-six"
+    ]
   }
 ]
