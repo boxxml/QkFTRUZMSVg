@@ -584,5 +584,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Love Kills",
+  "ano": "2024",
+  "url": "",
+  "genero": "Drama, Romance",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDprZm1mYmI3Y29tb21jNW83bzJxaWFiM2VwcnA3NzRtcA==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Gaia Brooks, Lucy Diamante, Konstantinos Angel, Maximilian Seed, James Arlow, Kaiya Eisenberg",
+  "sinopse": "",
+  "nota": "5.0",
+  "classificacao": "NR",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=6XlPEtlcXIQ",
+  "poster": "https://image.tmdb.org/t/p/original/tNDQmXduXUXKq07mVrCTM2tBaRZ.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/yym1XuPgzo73AO9p7U4uFkRSLmS.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/7TJjGsBkYZZlCHlI6XP8q1K7Ps3.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
