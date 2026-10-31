@@ -688,5 +688,57 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "A Última Casa",
+  "ano": "2026",
+  "url": "",
+  "genero": "Terror, Ficção científica",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpxYndqMmtpNXVldWt5ZnVjNm56azNhN2xkbDZhc21pNg==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Greta Lee, Wagner Moura, Riley Chung, Noah Alexander Sosnowski, Emma Ho, Gabriel Barbosa",
+  "sinopse": "Uma família trancada misteriosamente na própria casa precisa se unir para sobreviver à escassez de recursos e à força sombria que a mantém presa.",
+  "nota": "6.8",
+  "classificacao": "14",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=ODlqn0buN2g",
+  "poster": "https://image.tmdb.org/t/p/original/AqOwuZ4X0Ssi3LIsYqXNw52IIvW.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/8uK7TBGtPKR0AV9B0mYgQPihWsI.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
+  "titulo": "Operação Sombra",
+  "ano": "2025",
+  "url": "",
+  "genero": "Ação, Crime, Drama, Thriller",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDp3NTR6dmZxcGJhb3lsNzI3b3YyamtxenZhYzQ1enAyag==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Jackie Chan, 张子枫, 梁家輝, 此沙, 文俊辉, Zhou Zhengjie",
+  "sinopse": "Um policial aposentado, especialista em rastreamento, é convocado de volta à ativa em Macau para desmantelar uma gangue de ladrões de alta tecnologia, colocando suas táticas tradicionais contra a tecnologia avançada, num jogo de gato e rato com uma equipe de jovens detetives de elite.",
+  "nota": "8.3",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=Y6ExVdQiNMY",
+  "poster": "https://image.tmdb.org/t/p/original/zI4UdGnD4KMjiaGQTgF5PMiagVF.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/wUWwOXuV4nsSqj3NP5NyV2YdXQw.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
