@@ -454,5 +454,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Canibais: A Selva Maldita",
+  "ano": "2024",
+  "url": "",
+  "genero": "Terror, Thriller",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsbnY3NHRvb3Z6MmJlcWNhdmVnbXQ1dWxmdXlob2xocg==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Joseph Millson, Sarah Alexandra Marks, David Wayman, Ella Starbuck, Louis James, Tiffany Hannam-Daniels",
+  "sinopse": "Quatro amigos partem para uma aventura de caiaque, mas um erro de percurso os conduz a uma região remota e hostil da selva. Presos em território dominado por uma tribo de canibais implacáveis, eles precisam encontrar uma saída antes que a viagem dos sonhos se transforme em uma luta desesperada pela sobrevivência.",
+  "nota": "6.4",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=ZJDpWt7AStE",
+  "poster": "https://image.tmdb.org/t/p/original/e9g0y8v9ebALXZsH1Yfqc5JvQoh.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/ijg6QxxD4bxVrX3XoAxoL9ZcG2q.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/6Tqq2PxwCLB0yrrSwUQZYVhkyXT.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
