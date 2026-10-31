@@ -11,6 +11,23 @@
   },
   {
     "type": "addon",
+    "name": "[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]",
+    "version": "2.1.4",
+    "description": "[B][COLOR blue]●[/COLOR] [COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do Brazuca Play.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]",
+    "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/plugin.video.BrazucaPlay.Matrix/icon.png",
+    "fanart": "https://imgur.com",
+    "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.BrazucaPlay.Matrix/plugin.video.BrazucaPlay.Matrix.zip",
+    "dependencies": [
+      "script.module.six",
+      "script.module.kodi-six",
+      "script.module.requests",
+      "script.module.simplejson",
+      "inputstream.ffmpegdirect",
+      "script.module.inputstreamhelper"
+    ]
+  },
+  {
+    "type": "addon",
     "name": "[COLOR yellow]HA[/COLOR][COLOR pink]DES[/COLOR]",
     "version": "0.0.0.4", 
     "description": "O ADDON HADES 4 by R.O é um addon multifuncional de entretenimento para Kodi, projetado para oferecer acesso rápido e organizado a conteúdos de TV Ao Vivo, Filmes e Séries. Com uma interface intuitiva e ícones personalizados, ele conecta você aos melhores servidores de streaming com máxima estabilidade.TV Ao Vivo: Grade completa de canais com suporte a EPG (Guia de Programação) para você saber o que está passando.Cinema e Séries (VOD): Milhares de títulos atualizados, com sinopses detalhadas, capas e notas de avaliação.Busca Inteligente: Ferramenta de busca individual em cada aba (TV, Filmes e Séries) para encontrar seu conteúdo favorito em segundos.Área VIP/Adulta: Conteúdo restrito com controle parental protegido por PIN.",
