@@ -558,5 +558,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "https://image.tmdb.org/t/p/original/fct5wsWu6niDIGRIC4aWEsN5Npa.jpg",
   "fanart_coletanea": "https://image.tmdb.org/t/p/original/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg"
+},
+{
+  "titulo": "O Bebê Maldito",
+  "ano": "2025",
+  "url": "",
+  "genero": "Terror",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpraG0yZjd4M2dpZG90enNva2ZrZ3B6Zzc3M3h0cmxvZg==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Maryam D'Abo, Paul Barber, Amber Doig-Thorne, Annabelle Lanyon, Michaela Longden, Elle O'Hara",
+  "sinopse": "Em 1944, no auge da Segunda Guerra Mundial, o convento de St. Augustine, localizado em uma ilha isolada da Escócia, se prepara para uma tempestade iminente. Durante a noite, uma figura encapuzada deixa um bebê em uma cesta na porta do convento e desaparece. As freiras, lideradas pela Madre Superiora (Maryam d'Abo), decidem cuidar da criança até que a tempestade passe. No entanto, após uma noite sob seus cuidados, eventos estranhos e inexplicáveis começam a ocorrer, fazendo com que as irmãs questionem sua fé e tudo o que acreditam.",
+  "nota": "4.1",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=YHADkwPz-fc",
+  "poster": "https://image.tmdb.org/t/p/original/nLcst3alQSCQfEN6IPf0pZZdW8t.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/8QneCqkYuxUkOeTCAWh2Lmrfkpd.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/6KGl0wmU7G7LJL5AUWXOzNouGoF.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
