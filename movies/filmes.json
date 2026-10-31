@@ -740,5 +740,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Peter Pan: Pesadelo na Terra do Nunca",
+  "ano": "2025",
+  "url": "",
+  "genero": "Terror, Thriller, Fantasia",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2OWRlMGEzMTc0YmU0NmY0NWVhOGNkYTJmZjAxZTVmOTJhZjRlZmUx",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Megan Placito, Martin Portlock, Kit Green, Peter DeSouza-Feighoney, Teresa Banham, Ardy Yusuf",
+  "sinopse": "A clássica história infantil ganha uma versão sombria. Wendy tenta salvar seu irmão Michael das garras de um Peter Pan aterrorizante — uma figura que nem nas piores pesadelos de uma criança poderia ser imaginada.",
+  "nota": "5.7",
+  "classificacao": "18",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=FtsthiWpcAQ",
+  "poster": "https://image.tmdb.org/t/p/original/5p0wQ24CWJ4rBxcJtBNs0uc4ech.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/w3R8LTPU3ocl6oXuNkXmqw5bIFi.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/4PuBmnWzem630v43SNq8Mg42qum.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
