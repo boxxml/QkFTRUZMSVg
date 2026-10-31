@@ -506,5 +506,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Sete Cemitérios",
+  "ano": "2024",
+  "url": "",
+  "genero": "Terror, Ação, Fantasia, Thriller",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDppYmJsN2NrN3BjdnhqejN0bDV0c3IzdXZxa3pwYnpxNA==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Danny Trejo, Efren Ramirez, Maria Canals-Barrera, Lew Temple, Sal Lopez, Sol Rodriguez",
+  "sinopse": "Após sair da prisão, Santana Bravo retorna à sua cidade e é morto ao tentar vingar um amigo. Ressuscitado por uma bruxa, ele precisa visitar sete cemitérios para trazer seus antigos companheiros de volta para, juntos, salvarem um rancho ameaçado por um senhor do crime.",
+  "nota": "5.1",
+  "classificacao": "14",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=9PcqLe788m8",
+  "poster": "https://image.tmdb.org/t/p/original/nC7AEKQpZGHF6TjUJ8NqVLrPD92.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/tDOVQe5RFwd9l8Es7A0EOqzo011.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/5N8714GEwrXhgV28HyEkViz56bp.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
