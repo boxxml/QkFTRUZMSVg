@@ -272,5 +272,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Apocalipse Z: Novo Mundo",
+  "ano": "2026",
+  "url": "",
+  "genero": "Ação, Thriller, Terror",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxM2QxYmY3YTU0YjU1YThhYmViZTkwMzRkMzU0ZjFlYmZkY2Q3MjMz",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Carlos Alcaide, Julia Martínez, Mario Mayo, Mónica López, Tamara Casellas, Santiago Vaca Narvaja",
+  "sinopse": "Após o surto do vírus TSJ, as Ilhas Canárias se tornaram o último refúgio da Europa. Quando uma missão parte rumo a Madri em busca de suprimentos, Roberto se junta à equipe com intenções duvidosas. Cercados por infectados e divididos por lealdades conflitantes, eles precisam lutar pela sobrevivência e enfrentar um dilema moral: salvar a própria pele ou arriscar tudo pelo que resta da humanidade.",
+  "nota": "6.6",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=rBNAoPL4ZCM",
+  "poster": "https://image.tmdb.org/t/p/original/tzk90shtAI6WaoDIjLLVten7oov.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/i9qka7Zx7QUvmhhEeR945k4H4iV.png",
+  "coletanea": "Apocalipse Z: Coleção",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/bsDPqTZVo2dxBCVYhLxy0Z2ycDu.jpg",
+  "fanart_coletanea": ""
 }
 ]
