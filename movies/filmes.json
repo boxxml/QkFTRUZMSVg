@@ -792,5 +792,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Todo Mundo em Pânico",
+  "ano": "2026",
+  "url": "",
+  "genero": "Comédia",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDoyOGQ3OTAxMzQwNWZlNjEwNjY4MzljZjVjOGI4NmQ3NzczOTkzNjk1",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Anna Faris, Regina Hall, Marlon Wayans, Shawn Wayans, Olivia Rose Keegan, Cameron Scott Roberts",
+  "sinopse": "Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
+  "nota": "6.3",
+  "classificacao": "18",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=qBiMvnMZK_U",
+  "poster": "https://image.tmdb.org/t/p/original/y9yJd2qIIwhZcllHeKHsz5eRvNr.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/qmtIDx5UcewhaCfrGnwUC2pjCYR.png",
+  "coletanea": "Todo Mundo em Pânico: Coleção",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/945zp0V1CMmgMOqy0GNEBdDjokg.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/4YFCPV5KXWgIfQ8oTEeIJvtuxVj.jpg"
 }
 ]
