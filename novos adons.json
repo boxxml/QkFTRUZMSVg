@@ -112,5 +112,21 @@
       "script.module.simplejson",
       "script.module.kodi-six"
     ]
+  },
+   {
+    "type": "addon",
+    "name": "[B][COLOR red]TEA[/COLOR] [COLOR blue]ddon[/COLOR][/B]",
+    "version": "4.0.2",
+    "description": "SEJAM BEM VINDOS!! TODO CONTEÚDO DESSE ADDON FOI EXTRAÍDO DO GOOGLE, OU SEJA, ESTÁ VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS",
+    "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/plugin.video.Addon.Teaddon/icon.png",
+    "fanart": "https://imgur.com",
+    "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.Addon.Teaddon/plugin.video.Addon.Teaddon.zip",
+    "dependencies": [
+      "script.module.simplejson",
+      "script.module.six",
+      "script.module.kodi-six",
+      "script.module.beautifulsoup4",
+      "script.module.requests"
+    ]
   }
 ]
