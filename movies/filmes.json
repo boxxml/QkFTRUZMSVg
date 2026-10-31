@@ -480,5 +480,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Murder Mouse: Parque da Morte",
+  "ano": "2025",
+  "url": "",
+  "genero": "Terror",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjMTNkYTdmYzlmMjI1YTIzMmM3NmVhMzI2MjQ3YjY1NzdlYWMzOTU4",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Kaitlyn Jackson, Matthew Perl, Rebi Jordan, Levi Patterson, Michael Robert House, Brooklyn Evans",
+  "sinopse": "Adolescentes invadem o parque de diversões abandonado Mickey's Playhouse, enfrentando uma história sombria e seus medos pessoais. A busca por emoções rapidamente se transforma em um pesadelo quando encontram espíritos assombrando o local.",
+  "nota": "",
+  "classificacao": "18",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=BH9qCMVKh94",
+  "poster": "https://image.tmdb.org/t/p/original/9HdUHD1hqn3dVU3JPRUWFafG5wt.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/wFpNYYrdUsx4h5HzjBCWqr9yL6K.jpg",
+  "clearart": "",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
