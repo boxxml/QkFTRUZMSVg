@@ -818,5 +818,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "https://image.tmdb.org/t/p/original/945zp0V1CMmgMOqy0GNEBdDjokg.jpg",
   "fanart_coletanea": "https://image.tmdb.org/t/p/original/4YFCPV5KXWgIfQ8oTEeIJvtuxVj.jpg"
+},
+{
+  "titulo": "O Shaolin do Sertão 2",
+  "ano": "2026",
+  "url": "",
+  "genero": "Comédia",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1dWxyb3FsNHFzeWp1aWs1dnZicmZ3ZnZsN2I2dGUzeA==",
+      "legenda": ""
+    }
+  ],
+  "tags": "Nacional",
+  "elenco": "Edmilson Filho, Priscila Fantin, Marcelo Serrado, Falcão, Paulo Sérgio Bolachinha, João Pimenta",
+  "sinopse": "Aluísio Li continua se metendo em muita confusão na busca por suas raízes chinesas, desafiando diversos valentões para se tornar um verdadeiro mestre das lutas.",
+  "nota": "6.0",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=YwWx141a4EI",
+  "poster": "https://image.tmdb.org/t/p/original/gPm0cWO4xRJPm1600lSSxdQcyFz.jpg",
+  "fanart": "",
+  "clearart": "https://image.tmdb.org/t/p/original/zWZ1oDgiGnacqE4nUObTpopC790.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
