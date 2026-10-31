@@ -81,5 +81,22 @@
       "android_arm": "https://www.mediafire.com/file/4wc84a5pg38ci92/FLIXBOX+1.6-BETA04+32+BITS.apk/file",
 	  "android_arm64": "https://www.mediafire.com/file/gl5tq05um5ncfee/FLIXBOX+1.6-BETA04+64+bits.apk/file"
     }
+  },
+  {
+    "type": "addon",
+    "name": "[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]",
+    "version": "2.1.4",
+    "description": "[B][COLOR blue]●[/COLOR] [COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do Brazuca Play.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]",
+    "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/plugin.video.BrazucaPlay.Matrix/icon.png",
+    "fanart": "https://imgur.com",
+    "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.BrazucaPlay.Matrix/plugin.video.BrazucaPlay.Matrix.zip",
+    "dependencies": [
+      "script.module.six",
+      "script.module.kodi-six",
+      "script.module.requests",
+      "script.module.simplejson",
+      "inputstream.ffmpegdirect",
+      "script.module.inputstreamhelper"
+    ]
   }
 ]
