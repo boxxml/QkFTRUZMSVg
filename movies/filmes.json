@@ -246,5 +246,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Devorador",
+  "ano": "2026",
+  "url": "",
+  "genero": "Terror",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDp2ZXN0dnQ2cGZ0cjVnYWhlMzJieHRkeHVxM21idTRnaQ==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Grace Collender, Rhys Mannion, Molly McCann, Charlotte Bradley, Flynn Gray, Daisy Jelley",
+  "sinopse": "Cinco influencers passam um fim de semana na floresta para ajudar uma amiga a superar uma perda. Mas a escapada se torna uma visceral luta pela sobrevivência quando o sangue da jovem desperta o primeiro vampiro da história.",
+  "nota": "5.6",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=ORFG_EWDkCY",
+  "poster": "https://image.tmdb.org/t/p/original/zuhbisyyICXuYR8k3lE6pTpq5Vl.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/t6sHyPw4WfWZ5WQAL78K5zGoz2Z.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
