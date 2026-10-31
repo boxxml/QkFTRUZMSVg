@@ -350,5 +350,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Coyote vs. Acme",
+  "ano": "2026",
+  "url": "",
+  "genero": "Comédia, Aventura, Família, Animação",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDp0eTc2M2h3dm5pN3pwaTNmYXdrY2FicDZuZ2p5emRtbg==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly, Luis Guzmán",
+  "sinopse": "Após décadas de falhas catastróficas com os produtos ACME em sua caçada ao Papa-Léguas, Wile E. Coyote decide que é hora de buscar justiça e processar a corporação. Ao lado de um advogado azarado, Coyote trava uma batalha jurídica épica contra o impiedoso CEO da companhia. Enquanto enfrentam o sistema, a dupla desenvolve uma amizade improvável e luta para provar que a culpa de tantos desastres nunca foi do instinto, mas sim de defeitos de fabricação.",
+  "nota": "7.8",
+  "classificacao": "10",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=kmXiNzZmV7s",
+  "poster": "https://image.tmdb.org/t/p/original/eZX2GyAJt5k0bL4OJbZGDvvxESD.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/3m1raTve2RWZ0jfnUwHSnRtjVK3.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
