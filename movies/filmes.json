@@ -1130,5 +1130,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "https://image.tmdb.org/t/p/original/9slVD5htbcCJ9O2ih0Ej9J01xB7.jpg",
   "fanart_coletanea": "https://image.tmdb.org/t/p/original/cEAgtlpdICgbOojWmUzQRYQnQea.jpg"
+},
+{
+  "titulo": "Ali G: Ken é Eu?",
+  "ano": "2026",
+  "url": "",
+  "genero": "Comédia",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmZThkMzg1ZTJmYzNiNWY2N2UzNjhjNjkwZTkxZDA5YzA4NDVlMWY3",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Sacha Baron Cohen, Morgana Robinson, Alpha Miknas, Clive Russell, A$AP Rocky, Rihanna",
+  "sinopse": "Depois de 20 anos \"curtindo, fumando e transando\", Ali G descobre que sua namorada, Me Julie, está grávida de oito meses. Com mais uma boca para alimentar, ele sai da loucura e vai à América retomar sua antiga glória… mas logo encontra adversários que irão ameaçar sua vida e a própria existência do seu filho.",
+  "nota": "6.1",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=NCh8xVrcppk",
+  "poster": "https://image.tmdb.org/t/p/original/j835nBIlJp3nkYaf96z0bD4P8Ux.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/31zxqxOEcO83QF3ijm5C9bc0k9j.png",
+  "coletanea": "Ali G Collection",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/jHD5iojpHJHRIDNEUXd3hEBKAui.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/9x83CgCGXFDA1FbsGSBOHHfphHC.jpg"
 }
 ]
