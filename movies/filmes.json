@@ -1520,5 +1520,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Cuidado com o Que Deseja",
+  "ano": "2026",
+  "url": "",
+  "genero": "Thriller, Terror",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDoybms1M3BpbHRnYmk3dWFmeXdld2RrdzI3ZDUzZHN5ZQ==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Jaime Lorente, Christina Ochoa, Eva Rufo, Rodrigo Poisón, Alba de la Fuente, Marta Fuenar",
+  "sinopse": "Um escritor de terror decide realizar um experimento para seu próximo livro, pedindo à esposa que o amarre a uma cadeira e o amordace por duas horas. Porém, um imprevisto transforma a experiência em um pesadelo, colocando sua vida em perigo.",
+  "nota": "6.5",
+  "classificacao": "14",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=0rE2n_tpp-E",
+  "poster": "https://image.tmdb.org/t/p/original/gTZpTXkSxHhG4i62hgAMAY1xQ8H.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/l2B2WTUqgePLN6kh9uLCYy63Pyk.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/6gVpr9kJuE7JjxBPLjlchbz6uvn.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
