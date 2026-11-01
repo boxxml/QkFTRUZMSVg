@@ -1234,5 +1234,57 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "https://image.tmdb.org/t/p/original/p7ZNY1G2ysI9oAok4jdqV3iwS8h.jpg",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Cara de Um, Focinho de Outro",
+  "ano": "2026",
+  "url": "",
+  "genero": "Animação, Aventura, Comédia, Família, Ficção científica",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDplOGZjOTQyYmE2Y2JhOGI4OTkyMzlhM2QyMjkyMzYyMGRkN2QzYWEz",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Piper Curda, Bobby Moynihan, Jon Hamm, Kathy Najimy, Dave Franco, Eduardo Franco",
+  "sinopse": "Mabel é uma jovem amante da natureza que tenta impedir o prefeito Jerry de construir uma rodovia que destruirá suas florestas locais. Graças a um experimento secreto de troca de cérebros, Mabel consegue transferir sua mente para um castor robô e segue para um lago, onde refugiados da industrialização invasora desembarcaram. Lá, ela tenta convencer os animais, liderados pelo castor majestoso Rei George, a se juntarem a ela e impedirem a construção da rodovia.",
+  "nota": "8.1",
+  "classificacao": "10",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=Og-N4WaGRMU",
+  "poster": "https://image.tmdb.org/t/p/original/ftPFJBGbldoWiiPrmesW96zBzdH.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/fl1x8jxKs38eFQyQndApSPX6Fux.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
+  "titulo": "Super Mario Galaxy: O Filme",
+  "ano": "2026",
+  "url": "",
+  "genero": "Família, Comédia, Aventura, Fantasia, Animação",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo3YjNiMWE5Nzc4ZWE0NGVmNDUzNDFmMDAwNjU2ZTA5MDVjYzc5YTky",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Chris Pratt, Charlie Day, Anya Taylor-Joy, Jack Black, Keegan-Michael Key, Benny Safdie",
+  "sinopse": "Depois de salvar o Reino dos Cogumelos, Mario e seus amigos se encontram em uma missão intergaláctica para deter um novo vilão ameaçador.",
+  "nota": "8.2",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=HRyy_FdyieU",
+  "poster": "https://image.tmdb.org/t/p/original/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/pwZhO2AYoZfq9pwxahTTSuxbVhn.png",
+  "coletanea": "Super Mario: Coleção",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/jvntZuQBsvODH1YcEiIzOz4ZKFy.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/mCF47RnRN8alhxCmFJzJRoEEPIe.jpg"
 }
 ]
