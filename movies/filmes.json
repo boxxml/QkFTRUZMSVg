@@ -1286,5 +1286,57 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "https://image.tmdb.org/t/p/original/jvntZuQBsvODH1YcEiIzOz4ZKFy.jpg",
   "fanart_coletanea": "https://image.tmdb.org/t/p/original/mCF47RnRN8alhxCmFJzJRoEEPIe.jpg"
+},
+{
+  "titulo": "Grand Prix: A Toda Velocidade",
+  "ano": "2025",
+  "url": "",
+  "genero": "Animação, Aventura, Comédia, Família",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo3NmY1NDFjYWEwYjg5NTVkYzQ5MmU2OGMyMTJjMjdlMjFiZmMyN2Vk",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Hannes Maurer, Maria Koschny, DJ BoBo, Rubina Nath, Hans Bayer, Jan Delay",
+  "sinopse": "Edda, uma jovem ratinha e filha do operador de parque de diversões Erwin, sonha em se tornar uma piloto de corrida. Antes do 50º aniversário do Grande Prêmio da Europa, Edda tem a oportunidade de conhecer seu ídolo, o astro das corridas Ed, e ajudar seu pai a salvar seu negócio falido. Mas, para isso, ela terá que assumir o volante sozinha.",
+  "nota": "7.1",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=_ZTYBd4Ob44",
+  "poster": "https://image.tmdb.org/t/p/original/cStiqpPNuzvjCzzI8voKhtsxjoL.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/keToI4XlwYVtImAXjoeoaLJKnfc.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/nPbyAWECPQ4ptZ7fmZPDWDt9AuV.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
+  "titulo": "Zootopia 2",
+  "ano": "2025",
+  "url": "",
+  "genero": "Animação, Aventura, Comédia, Mistério, Família",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4OWY4NjVhY2Y3ZjE5YWNmNTQ3NmFmYjE2MWUxYzk4MjNiMjhhYWI0",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Ginnifer Goodwin, Jason Bateman, Ke Huy Quan, Fortune Feimster, Andy Samberg, David Strathairn",
+  "sinopse": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
+  "nota": "7.7",
+  "classificacao": "10",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=z-C1VtXQr6o",
+  "poster": "https://image.tmdb.org/t/p/original/sOgzzmyHJ3uWjEU509AwrcXoE71.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/b2vTbsREFUNlUTkTsbLYGJBUlZH.png",
+  "coletanea": "Zootopia: Coleção",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/aRncM2jhVFKxz7TDFAIdIpt2rst.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/uYQHCOzdCZTK1Q99KIekQqf7ESM.jpg"
 }
 ]
