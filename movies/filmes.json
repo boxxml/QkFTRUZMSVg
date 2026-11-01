@@ -1546,5 +1546,57 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Maçã Podre",
+  "ano": "2026",
+  "url": "",
+  "genero": "Comédia, Thriller",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpzaWE0dmRmY3NqeXJiNWE2d3FhZjV4czJlZjNjdDRnbw==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola, Robert Emms",
+  "sinopse": "Professora do ensino fundamental tranca acidentalmente o aluno mais rebelde da turma em sua própria casa. Desesperada para resolver o problema, ela hesita quando vê a turma melhorar sem o garoto, e isso a coloca em um terrível beco sem saída.",
+  "nota": "6.9",
+  "classificacao": "R",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=FIdT_iZBKNU",
+  "poster": "https://image.tmdb.org/t/p/original/azg9CmvPuPeqC4VlwktHASoivYJ.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/wyZ0Y3XkEfAwdxDT4kLW9oqesUh.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
+  "titulo": "Maré Escura",
+  "ano": "2026",
+  "url": "",
+  "genero": "Thriller",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpvemxjdjR1ZW5mcHJlcGJxN2JoYnR1b2NmeTNqd3E2aQ==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Vajèn van den Bosch, Juvat Westendorp, Mingus Dagelet, Bart Harder, Jord Knotter, Mike Libanon",
+  "sinopse": "De volta para a remota ilha onde cresceu, uma jovem cientista descobre uma rota de narcotráfico, e uma pessoa próxima a ela está por trás dessa operação.",
+  "nota": "7.1",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=Lp-a7rQeRNM",
+  "poster": "https://image.tmdb.org/t/p/original/2fPnOyt8bkVbA8fQjUCB3ZFjLHs.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/vdGafAruKcmtR8jNjk5OpVDXUpX.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/dz5kZrrHhGF9nMMVbeD3zlO1oMb.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
