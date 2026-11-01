@@ -1598,5 +1598,57 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "A Milícia",
+  "ano": "2026",
+  "url": "",
+  "genero": "Drama, Thriller",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDp4em14bG1odGxvenRzNXoybW9tcGp3aGFsdXl0c3VseA==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Sam Williamson, Michael Broderick, Luke Stratte-McClure, Chris Bylsma, Laurel Feierbach, Solomon Puckett",
+  "sinopse": "Daniel sonha em se juntar à milícia local com seu pai. Mas, quando seu pai se torna alvo do xerife, Daniel e seus amigos se unem para formar sua própria milícia em uma tentativa desesperada de salvá-lo.",
+  "nota": "7.1",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=EYtG6isU0K0",
+  "poster": "https://image.tmdb.org/t/p/original/2rQ71qs5zgevc241I8riBGiWrwr.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/twI5fNZrX4UnUVu8mAeO1P7VAUk.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/caAAkFeRYHhh3PTqlGdvmDzVdTf.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
+  "titulo": "Pressão",
+  "ano": "2026",
+  "url": "",
+  "genero": "Thriller, História, Guerra",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDp3ZTRtdXpqZXpmYmk3eXZwamo2b291dGl6bnZrczJ6aw==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Andrew Scott, Brendan Fraser, Kerry Condon, Chris Messina, Damian Lewis, Tamsin Topolski",
+  "sinopse": "Nas 72 horas que antecederam o Dia D e com o destino da guerra em jogo, o General Dwight D. Eisenhower e o Capitão Meteorologista James Stagg vivem um dilema, face a uma escolha quase impossível — prevendo uma tempestade severa que colocaria em risco toda a invasão à Normandia planejada pelos Aliados — eles devem lançar a maior e mais perigosa invasão marítima da história ou arriscar perder a guerra por completo.",
+  "nota": "7.7",
+  "classificacao": "14",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=kMYtBqN-Fh0",
+  "poster": "https://image.tmdb.org/t/p/original/jlio7zxQ3Z3QhXHGHVAQZCjLNG0.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/A28r04yW2BQgEniLt5inopfryWE.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
