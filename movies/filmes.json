@@ -1676,5 +1676,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "O Sorveteiro",
+  "ano": "2026",
+  "url": "",
+  "genero": "Terror, Comédia, Thriller",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4ODA2N2RhOWNlN2ViYWQ1MGY1NTkxNzlhYjIzYTZlODE4YWU5ZjBk",
+      "legenda": "aHR0cHM6Ly9naXRodWIuY29tL2JveHhtbC9Ra0ZUUlVaTVNWZy9yYXcvcmVmcy9oZWFkcy9tYWluL0ljZS5DcmVhbS5NYW4uMTk5NS4xMDgwcC5CbHVSYXkueDI2NC5EVFMtRkdULXB0LUJSLnNydA=="
+    }
+  ],
+  "tags": "",
+  "elenco": "Ari Millen, Charlie Zeltzer, Shiloh O’Reilly, Kiori Mirza Waldman, Sarah Abbott, Benjamin Byron Davis",
+  "sinopse": "Um sorveteiro misterioso distribui um doce amaldiçoado que transforma crianças em assassinas, sedentas por sangue e sem piedade com os adultos. Enquanto o massacre toma conta das ruas, três jovens que escaparam por pouco da maldição correm contra o tempo para descobrir a origem desse homem e impedir que a matança se espalhe, antes que não sobre ninguém vivo.",
+  "nota": "5.3",
+  "classificacao": "18",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=NCNNbFchgIw",
+  "poster": "https://image.tmdb.org/t/p/original/8bUXuKrdYQFMdx7ogoN0f5cm8iq.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/4rALIZzOOQXayYNKn6DMj7HnL79.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
