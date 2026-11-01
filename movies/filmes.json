@@ -1494,5 +1494,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Por Um Fio",
+  "ano": "2026",
+  "url": "",
+  "genero": "Documentário",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpzd2M3emNsbXhyYXpueTd3NjZ5ZHhwbmNlY2xqNndudw==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "",
+  "sinopse": "Um trajeto escolar de rotina toma um rumo aterrorizante quando os cabos de um teleférico se rompem, deixando oito passageiros, incluindo seis estudantes, pendurados a 275 metros acima de um desfiladeiro, nas remotas encostas do Himalaia. Com o cabo restante correndo o risco de se romper a qualquer momento, um grupo improvisado de socorristas corre contra o tempo para salvá-los.",
+  "nota": "7.2",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=XOiBpu4oWxo",
+  "poster": "https://image.tmdb.org/t/p/original/84mWvvumfIOVAvLe63iL1anHmQ8.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/q90G7OV76xR7NOHu8m19iaudHO1.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/s39ox9ETxKTnA8Zgt6lzmqOmA9f.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
