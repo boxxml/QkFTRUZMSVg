@@ -1780,5 +1780,25 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "A Fuga de Tarzan",
+  "ano": "1936",
+  "url": "aHR0cHM6Ly93b3JrZXIubHVtaW5hcnQub25saW5lLzQ6L0ZpbG1lcy8xOTIwJTIwLSUyMDE5MzkvQSUyMEZ1Z2ElMjBkZSUyMFRhcnphbiUyMFtUYXJ6YW4lMjBFc2NhcGVzXSUyMFsxOTM2XSUyMGgyNjQlMjAxMDgwcC5ta3Y=",
+  "genero": "Ação, Aventura",
+  "versoes_disponiveis": [],
+  "tags": "Clássicos",
+  "elenco": "Johnny Weissmüller, Maureen O'Sullivan, John Buckler, Benita Hume, William Henry, Herbert Mundin",
+  "sinopse": "Tarzan Escapes é um filme estadunidense de 1936, dirigido por Richard Thorpe, John Farrow, James C. McKay, George B. Seitz e William A. Wellman, inspirado na série literária Tarzan de Edgar Rice Burroughs. Foi o terceiro filme da série realizada pela MGM, com Johnny Weissmuller no papel do “Rei dos Macacos”.",
+  "nota": "6.9",
+  "classificacao": "NR",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=rGxxiv7MCUY",
+  "poster": "https://image.tmdb.org/t/p/original/rhh3vQt32phMCDgQ3OamIYX2tOK.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/c1rJR3hrMbyK3FWJiMSVRFDDrKp.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/w7NjzBxF2HXftiZiqXIrPXSQOac.png",
+  "coletanea": "Tarzan (Johnny Weissmuller) Collection",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/raMnFnu8DHbguIOVTGfGRHqSFo.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/sLOPjG0tQILfAXsWkWdaX31uq3b.jpg"
 }
 ]
