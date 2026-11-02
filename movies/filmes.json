@@ -1754,5 +1754,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "...E o Vento Levou",
+  "ano": "1939",
+  "url": "",
+  "genero": "Drama, Guerra, Romance",
+  "versoes_disponiveis": [
+    {
+      "label": "Dublado",
+      "url": "aHR0cHM6Ly9hbmltZXpleTE2MDgyMDIzLmFuaW1lemV5MTYwODIwMjMud29ya2Vycy5kZXYvZG93bmxvYWQuYXNweD9maWxlPTlSTCUyRjlhUHBHc1c5YkxLczJmWGVIZGtZaXdpRWdadmQwJTJCTFQ0S2IzOU1ob2w0c0FvZVdmNEdYcWRBS0o3Y0l0JmV4cGlyeT1HQ0R2OGklMkY5czd2JTJGU2ZKZWZ0T2Y0ZyUzRCUzRCZtYWM9MDc1YmFlMGRmYWNhOGViOTlmYTkwZTEyNDNhNDM1ZjY4ZjAzZTliODFmYzk5ZmFmN2JlNmNlMjU4ZjJlZThkNg==",
+      "legenda": ""
+    }
+  ],
+  "tags": "Clássicos ",
+  "elenco": "Vivien Leigh, Clark Gable, Olivia de Havilland, Leslie Howard, Hattie McDaniel, Thomas Mitchell",
+  "sinopse": "Scarlett O'Hara é uma jovem mimada que consegue tudo o que quer. No entanto, algo falta em sua vida: o amor de Ashley Wilkes, um nobre sulista que deve se casar com a sua prima Melanie. Tudo muda quando a Guerra Civil americana explode e Scarlett precisa lutar para sobreviver e manter a fazenda da família.",
+  "nota": "7.9",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=z3IsLsZTeLE",
+  "poster": "https://image.tmdb.org/t/p/original/jYNxBGPznKSJjNqp1N713oTli0m.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/4FHcxMtVruMr7ltU2cItWssLjTP.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/xvHU7ThYzobi5zMxntDdMKfYolK.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
