@@ -1872,5 +1872,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Minha Melhor Amiga",
+  "ano": "2026",
+  "url": "",
+  "genero": "Comédia",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxYzVhMTFlMGYzYWRmZTcyMzRlNTNjMGYxYjY0MDFiYzBjMDBjMWFj",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Ingrid Guimarães, Mônica Martelli, Giulia Benite, Gabi Amaral, Ricardo Pereira, Michel Melamed",
+  "sinopse": "Júlia e Clara são melhores amigas e vivem o auge dos seus 50 anos. Quando suas filhas viajam para um intercâmbio de alguns meses em Portugal, as duas precisam enfrentar a saudade e o vazio deixado pelas meninas. A dupla decide sacudir a rotina e embarca para a Europa para surpreender as meninas, mas encara diversos perrengues na jornada.",
+  "nota": "8.6",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=nf6OxQNIOeM",
+  "poster": "https://image.tmdb.org/t/p/original/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/qvBtvzt4OqQPOCD2JW5NBje05Bl.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/6Ly33AAPS80wfxMlhISUSsGlofM.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
