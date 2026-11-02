@@ -1728,5 +1728,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Casablanca",
+  "ano": "1943",
+  "url": "",
+  "genero": "Drama, Romance",
+  "versoes_disponiveis": [
+    {
+      "label": "Dublado",
+      "url": "aHR0cHM6Ly9hbmltZXpleTE2MDgyMDIzLmFuaW1lemV5MTYwODIwMjMud29ya2Vycy5kZXYvZG93bmxvYWQuYXNweD9maWxlPWprYWNybXNaMkNuTHB3alU0UWpiN1RTZlVJVnd6WkhubkUzM1BxWHY3dUxIWE5wcVNOYiUyRlhDbjhCZmx6QmwlMkZzJmV4cGlyeT1jWWRDdnBnSiUyQiUyQlBCSU1BZTN2YXkyQSUzRCUzRCZtYWM9M2RkZDU4MjM0M2ZiYzIyMTczMGI5NjMyZTYwN2EzMGQ1MWY2NzY3N2M0MzlmNjBhZDRiMDA3ZGE5NWU4MGZhNQ==",
+      "legenda": ""
+    }
+  ],
+  "tags": "Clássicos ",
+  "elenco": "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains, Conrad Veidt, Sydney Greenstreet",
+  "sinopse": "Durante a Segunda Guerra Mundial, muitos fugitivos tentavam escapar dos nazistas por uma rota que passava pela cidade de Casablanca. O exilado americano Rick Blaine encontrou refúgio na cidade, dirigindo uma das principais casas noturnas da região. Clandestinamente, tentando despistar o Capitão Renault, ele ajuda refugiados, possibilitando que eles fujam para os Estados Unidos. Quando um casal pede sua ajuda para deixar o país, ele reencontra uma grande paixão do passado, a bela Ilsa. Este amor vai encontrar uma nova vida e eles vão lutar para fugir juntos.",
+  "nota": "8.1",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=MF7JH_54d8c",
+  "poster": "https://image.tmdb.org/t/p/original/3XxWPlKMfSTDCpWRgjljm5Xw5zX.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/jQwYsh4DyPZEb5xJmEpnMeVOKMk.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
