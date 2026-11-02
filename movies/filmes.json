@@ -1702,5 +1702,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "A Ladra Solitária",
+  "ano": "2026",
+  "url": "",
+  "genero": "Ação, Drama, Faroeste",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpldDR4cjJpNTc2dHFvbHZnd3E0bmZ1bmUyNmZuZmNrbw==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Sean Bean, Mackenzie Foy, Odeya Rush, Joe Pantoliano, Jack Kesy, Ty Simpkins",
+  "sinopse": "Durante um intenso inverno em meio a Guerra Civil Americana, a única guardiã de um remoto posto da União tenta esconder um estoque de ouro dos violentos criminosos que assumem o controle do local, levando-a a um jogo mortal de complôs e sobrevivência.",
+  "nota": "6.7",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=GsnswnlS-Cs",
+  "poster": "https://image.tmdb.org/t/p/original/qP2noZjuz2D67xv37bGzSbPTh2w.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/akAMlG5opOMPhWyZRUv7ZssYS5M.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
