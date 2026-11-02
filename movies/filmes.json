@@ -1820,5 +1820,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Resident Evil",
+  "ano": "1934",
+  "url": "",
+  "genero": "Comédia, Romance",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpub3hjNXpicXN4c2E0Z2ljNXk0c2dpdHJkZ3V0dGVldw==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns, Jameson Thomas, Alan Hale",
+  "sinopse": "Peter Warren, um jornalista desempregado, encontra Ellie, a filha de um milionário que fugiu do iate de Alexander Andrews, seu pai, pois este não aprova quem ela escolheu como marido. Peter vê a oportunidade de obter uma boa matéria, mas vários fatos criam uma forte aproximação entre eles.",
+  "nota": "7.8",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=FUAxNS_31So",
+  "poster": "https://image.tmdb.org/t/p/original/2xQmVVitVLJJSaK3FN1d9ezs6D.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/kgDc9PbyIgHJgGKwut6qiYPvC5q.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
