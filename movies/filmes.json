@@ -2018,5 +2018,25 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "O Diário de Pilar na Amazônia",
+  "ano": "2026",
+  "url": "",
+  "genero": "Aventura",
+  "versoes_disponiveis": [],
+  "tags": "",
+  "elenco": "Lina Flor, Miguel Soares, Sophia Ataíde, Thúlio Naab, Marcelo Adnet, Emílio Dantas",
+  "sinopse": "Pilar, uma jovem curiosa e exploradora, embarca com o melhor amigo Breno e o gato Samba numa missão na floresta amazônica. Lá, eles conhecem Maiara, uma jovem ribeirinha cuja comunidade foi destruída por madeireiros. No caminho, encontram Bira, um jovem pescador que conhece bem a floresta. Pilar e seus amigos partem em busca dos pais de Maiara, até que descobrem uma quadrilha de madeireiros que estão cortando árvores ilegalmente. Com a ajuda de uma tribo indígena e dos seres mitológicos, Pilar e seus amigos conseguem deter os madeireiros, mais decididos que nunca a salvar a natureza e a reflorestar o planeta.",
+  "nota": "5.5",
+  "classificacao": "10",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=Ch2upkcuvjk",
+  "poster": "https://image.tmdb.org/t/p/original/kFBWjlAhdGgVFYXFN6hI5Pflezy.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/zcJCJnuiycqm8tkC8kpsGoksU1D.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/yBRI0R3tpppN7FE1HKV5U4egyDU.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
