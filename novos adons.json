@@ -128,5 +128,21 @@
       "script.module.beautifulsoup4",
       "script.module.requests"
     ]
+  },
+  {
+    "type": "addon",
+    "name": "[COLOR green]KodiLoucos [COLORgold] Brasil[/COLOR]",
+    "version": "1.2.7",
+    "description": "[COLOR lime]KodiLoucos Brasil é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR]",
+    "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/plugin.video.kodiloucos_brasil/icon.png",
+    "fanart": "https://imgur.com",
+    "url": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/plugin.video.kodiloucos_brasil/plugin.video.kodiloucos_brasil-1.2.7.zip",
+    "dependencies": [
+      "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/plugin.video.kodiloucos_brasil/script.module.kodi-six-0.1.3.1.zip",
+      "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/plugin.video.kodiloucos_brasil/script.module.kodi-six-0.1.3.1.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.kodiloucos_brasil/script.module.pyqrcode-1.2.1%20matrix.4.zip",
+      "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/plugin.video.kodiloucos_brasil/script.module.resolveurl-5.1.212.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.kodiloucos_brasil/script.module.six-1.16.0%20matrix.1.zip"
+    ]
   }
 ]
