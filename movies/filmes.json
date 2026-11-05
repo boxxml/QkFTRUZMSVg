@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "Crime em Cena",
+  "ano": "2026",
+  "url": "",
+  "genero": "Ação, Aventura, Comédia",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsb3N1dmFob3A0cmMzNzZyeWdpbzdoZHdxM2VoZG5pbQ==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "พงษ์ศักดิ์ พงษ์สุวรรณ, เมลดา สุศรี, อัครเดช ยอดจำปา, กรภพ จันทร์เจริญ, ประกาศิต โบสุวรรณ, ญาณวุฒิ จรรยหาญ",
+  "sinopse": "Quando as memórias de seu pai como policial aposentado ressurgem, uma atriz em dificuldades encena missões loucas para impedir que ele persiga seu ardiloso arqui-inimigo.",
+  "nota": "6.0",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=a28p9c4zTdI",
+  "poster": "https://image.tmdb.org/t/p/original/okCqkwaV9GzrxfNZ0DGxrxIvir1.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
+  "clearart": "",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Homem-Aranha: Um Novo Dia",
   "ano": "2026",
   "url": "",
