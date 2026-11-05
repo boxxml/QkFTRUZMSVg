@@ -3689,5 +3689,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Só Você",
+  "ano": "2023",
+  "url": "",
+  "genero": "Romance, Drama",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpvaDQ3eGNtYzNrcGV2aXFjdnllZDZqYjZtZGJlcGhnZQ==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Claire Bender, Egbert Jan Weeber, Jennifer Welts, André Dongelmans, Monic Hendrickx, Peter Paul Muller",
+  "sinopse": "Elisabeth conhece o amor de sua vida em sua noite de despedida de solteira, e o fim de semana que eles passam juntos é o começo do fim.",
+  "nota": "5.2",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=0ukN8YbkVqY",
+  "poster": "https://image.tmdb.org/t/p/original/5khfHfX55Ij4mLTpAKXVVu7owQ2.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/anympCzSi2YMPjd1AvCIKqIkndO.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/q5UwHdXFgrlCszvzwPDTPobD0KK.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
