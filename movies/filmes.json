@@ -2642,5 +2642,25 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Deadpool",
+  "ano": "2016",
+  "url": "aHR0cHM6Ly9pYTgwMTgwMi51cy5hcmNoaXZlLm9yZy8zNC9pdGVtcy9mLWktbC1tLWUtcy4wMS8yOTM2NjAvLm1rdg==",
+  "genero": "Ação, Aventura, Comédia",
+  "versoes_disponiveis": [],
+  "tags": "",
+  "elenco": "Ryan Reynolds, Morena Baccarin, Ed Skrein, T.J. Miller, Gina Carano, Leslie Uggams",
+  "sinopse": "Depois de passar por um experimento desonesto que lhe concede um fator de cura acelerado, mas desfigura seu rosto, o ex-agente das Forças Especiais Wade Wilson assume o alter ego de Deadpool. Com suas novas habilidades e um senso de humor sombrio e perverso, Deadpool persegue o homem que quase destruiu sua vida.",
+  "nota": "7.6",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=rW-44KuoAdA",
+  "poster": "https://image.tmdb.org/t/p/original/tekExNqal2kcHp8BKiHX5jjxK9J.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/piuamNKC09lepRcjrWx9GfEa8hN.png",
+  "coletanea": "Deadpool: Coleção",
+  "sinopse_coletanea": "Uma série de filmes sobre o anti-super-herói do mesmo nome. Um lado engraçado e bem-humorado dos X-Men.",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/sG79t0CRVzZd7BnHGVfD5daTpGQ.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/dTq7mGyAR5eAydR532feWfjJjzm.jpg"
 }
 ]
