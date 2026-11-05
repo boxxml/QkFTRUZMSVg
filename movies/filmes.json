@@ -2170,5 +2170,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Fuga Mortal",
+  "ano": "2026",
+  "url": "",
+  "genero": "Ação, Thriller",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo3NjNra3JvY2FsczVvYnpra2E3c3JlbGRjNm1tZ2NxdA==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Liam Neeson, Marisa Tomei, Ving Rhames, Marcus Thomas, Michael Chiklis, Maurice Marvel Meredith",
+  "sinopse": "Um herói de guerra falsamente acusado, sem nada a perder, lidera a polícia em uma épica perseguição televisiva de carro pelo país, ajudado por membros de seu antigo batalhão das Forças Especiais do Exército e monitorado de perto por um público fascinado que torce por sua fuga segura.",
+  "nota": "6.6",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=v8HyRrwocR4",
+  "poster": "https://image.tmdb.org/t/p/original/3QX08keJGtcIJsCyy4Mdaq28ZGq.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/qpZRdwryEhQ9XsRuS8PgZVuEF1V.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
