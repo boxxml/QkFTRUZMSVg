@@ -3455,5 +3455,57 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "A Lista do Papai Noel",
+  "ano": "2025",
+  "url": "",
+  "genero": "Romance, Comédia, Cinema TV",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsdHp0aXV3amhiMnY0aW5taXdtdXVvZzdhMjdsMnZ3Yg==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Lacey Chabert, Andrew W. Walker, Cadence Compton, Steve Bacic, Louriza Tronco, BJ Harrison",
+  "sinopse": "Isabel tenta descobrir se uma jovem garota pertence à lista das crianças boazinhas ou malcriadas.",
+  "nota": "6.9",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=Ky-StLOMr1s",
+  "poster": "https://image.tmdb.org/t/p/original/gp9SDNVpkn5fSJjNv8CFP9D2Pvs.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/9GnoKfvrLBmuAchlDzxAQmz1kzF.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/bJKZgUnc93OmQmcqakHAHeVFT1E.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
+  "titulo": "Coração Partido",
+  "ano": "2026",
+  "url": "",
+  "genero": "Romance",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDp6Ynd0NzRpaXhoaGdnNXdmNXhwdXhicGJneXVxcmpvdQ==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Даниэль Вегас, Вероника Журавлёва, Иван Трушин, Максим Сапрыкин, Аля Майер, Евгения Лоза",
+  "sinopse": "A adolescente Polina tenta recomeçar a vida em uma nova cidade, mas logo se torna alvo de bullying na escola. Tudo muda quando Bars, o aluno mais temido e misterioso do colégio, oferece proteção em troca de que ela siga suas próprias regras. O que começa com um “fake dating” logo evolui para uma relação intensa e emocionalmente complexa, marcada por dependência, vulnerabilidade e uma crescente necessidade de pertencimento.",
+  "nota": "7.8",
+  "classificacao": "14",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=xgBur5qZoAU",
+  "poster": "https://image.tmdb.org/t/p/original/v0eNvmZ3yMEAtZlP8N6OiAUsqKa.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/fRjy6zDeNjfzmjpKz8mElA9Aa6l.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/qgLLhfHNZOIcDnoJGB8DM542ojh.png",
+  "coletanea": "Хулиган и новенькая (Диология)",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
