@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "A Queda 2: No Limite",
+  "ano": "2026",
+  "url": "",
+  "genero": "Thriller",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpGNDk3MDQ4NkRCRjAyQTM0MUM5MkNBQzIyQzhGOEUxNDY1MEQ5NDk1",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Harriet Slater, Arsema Thomas, Tom Brittney, สหจักร บุญธนกิจ, Korakod Yensuk, Jordan Coleman",
+  "sinopse": "De luto pela morte de sua irmã Shiloh, Jax Hunter cria um laço com Luce, a amiga corajosa de Shiloh. Juntas, elas enfrentam a perigosa passarela suspensa do Monte Kwan, na Tailândia. Quando um deslizamento de rochas as deixa presas em uma estreita prancha a mais de 3.000 metros de altitude, Jax precisa enfrentar seus medos para sobreviver.",
+  "nota": "7.3",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=x_q2-lmkTio",
+  "poster": "https://image.tmdb.org/t/p/original/xtxEvJACNnbz3WYmJ5mYT1a0KGk.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/zh2WOCt6cXbBuSFrmdUT1vvM9K1.png",
+  "coletanea": "A Queda: Coleção",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/jgccDcJCq963VhKUbzoV2Oxhirk.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/irpXNMKEdYZLQAZDmKeicXdUHMG.jpg"
+},
+{
   "titulo": "Frequência Explosiva",
   "ano": "2026",
   "url": "",
