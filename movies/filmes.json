@@ -3715,5 +3715,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Sua Culpa: Londres",
+  "ano": "2026",
+  "url": "",
+  "genero": "Romance, Drama",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpjMzBiZDk3MmQ5MTA4MTI0NTQ5Y2YyZWE5Mjg5MWVlNTVlN2RjYjRl",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Asha Banks, Matthew Broome, Louisa Binder, Joel Nankervis, Scarlett Rayner, Orlando Norman",
+  "sinopse": "Nick e Noah enfrentam o maior teste de seu amor quando Noah inicia sua nova vida na Universidade de Oxford, enquanto Nick permanece em Londres trabalhando para a empresa de seu pai. Separados pela distância e cercados por pressões cada vez maiores — ciúmes, ambição e forças determinadas a separá-los —, eles precisarão arriscar tudo para provar que seu vínculo pode sobreviver contra todas as adversidades.",
+  "nota": "7.4",
+  "classificacao": "R",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=gxX1I6_lMnA",
+  "poster": "https://image.tmdb.org/t/p/original/uXQKhfO4Qf7FodbsJbXacX3Tgbc.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/qdSB8vvIb4VHqmWBgliOcJZ5rd1.png",
+  "coletanea": "Fault: London Collection",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/adu1IOlleVSh3lEYnUfw7eWYJHD.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/vlG4g8WHEZamSOSmMdgenoeF7Zz.jpg"
 }
 ]
