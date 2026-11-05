@@ -3663,5 +3663,31 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+{
+  "titulo": "Um Dia de Cada Vez",
+  "ano": "2024",
+  "url": "",
+  "genero": "Drama, Comédia, Romance",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpkOTdkYzBlMDE3NGI0OWFlZDg1NmI5YWFhZDhmODQ3N2Y0MzUzN2Fi",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Tommaso Cassissa, Ginevra Francesconi, Francesco Centorame, Katia Follesa, Marilù Pipitone, Edoardo Pagliai",
+  "sinopse": "Marco é um jovem tímido e solitário que conhece Aria, uma garota que possui uma doença degenerativa e vive cada dia como se fosse o último. Apesar de terem se conhecido totalmente por acaso, um forte sentimento surge entre os dois.",
+  "nota": "6.5",
+  "classificacao": "14",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=XEVL5oTaImo",
+  "poster": "https://image.tmdb.org/t/p/original/l3vRBf7PgF7KyIHJy40ui9F3VYM.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/zOuVwjPw0gHF4LC7l2TYPlSNOiR.jpg",
+  "clearart": "",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
