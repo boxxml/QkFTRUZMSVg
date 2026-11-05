@@ -1281,6 +1281,11 @@
       "label": "TORRENT",
       "url": "bWFnbmV0Oj94dD11cm46YnRpaDo3YjNiMWE5Nzc4ZWE0NGVmNDUzNDFmMDAwNjU2ZTA5MDVjYzc5YTky",
       "legenda": ""
+    },
+	{
+      "label": "DIRETO",
+      "url": "aHR0cHM6Ly9pYTgwMTgwMi51cy5hcmNoaXZlLm9yZy8zNC9pdGVtcy9mLWktbC1tLWUtcy4wMS8xMjI2ODYzLy5ta3Y=",
+      "legenda": ""
     }
   ],
   "tags": "",
