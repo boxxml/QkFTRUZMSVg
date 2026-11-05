@@ -834,6 +834,11 @@
       "label": "TORRENT",
       "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1dWxyb3FsNHFzeWp1aWs1dnZicmZ3ZnZsN2I2dGUzeA==",
       "legenda": ""
+    },
+	{
+      "label": "Direto",
+      "url": "aHR0cHM6Ly9pYTgwMTgwMi51cy5hcmNoaXZlLm9yZy8zNC9pdGVtcy9mLWktbC1tLWUtcy4wMS8xMjczMjIxLy5ta3Y=",
+      "legenda": ""
     }
   ],
   "tags": "Nacional",
@@ -3283,6 +3288,26 @@
   "poster": "https://image.tmdb.org/t/p/original/uvXHs10CYWRyerGSX2WuN2dzxse.jpg",
   "fanart": "https://image.tmdb.org/t/p/original/2skPNvhiF3B0pUigNm1L5KLWvrk.jpg",
   "clearart": "https://image.tmdb.org/t/p/original/msJ3XmsaP2Cwn9NgZmGI2ARCJhg.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
+  "titulo": "Virgem Maria",
+  "ano": "2024",
+  "url": "aHR0cHM6Ly9pYTgwMTgwMi51cy5hcmNoaXZlLm9yZy8zNC9pdGVtcy9mLWktbC1tLWUtcy4wMS8xMjQzMzgxLy5ta3Y=",
+  "genero": "Drama, História, Ação",
+  "versoes_disponiveis": [],
+  "tags": "",
+  "elenco": "Noa Cohen, Ido Tako, Anthony Hopkins, אורי פפר, הילה וידור, Dudley O'Shaughnessy",
+  "sinopse": "Uma concepção milagrosa, um rei impiedoso e uma perseguição assassina. Esta história bíblica e épica retrata a jornada de Maria para trazer Jesus ao mundo.",
+  "nota": "6.3",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=o0BjUEUbC7k",
+  "poster": "https://image.tmdb.org/t/p/original/HU1NzoFAtpbsgYIZXjKeWCjiry.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/vfbxysLCXrvcI8NdzeQTR1Kxfky.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/gP2KQOSvyk3AJjuOetkUoyyOaCc.png",
   "coletanea": "",
   "sinopse_coletanea": "",
   "poster_coletanea": "",
