@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "Pinóquio",
+  "ano": "2026",
+  "url": "",
+  "genero": "Família, Drama, Aventura, Fantasia",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo3N2NhNTcyOWU1YTQxMTI1ZGQ5ZTlhNjEwZDMzMDQxMDMwZWIzYTE0",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Виталия Корниенко, Александр Яценко, Фёдор Бондарчук, Александр Петров, Виктория Исакова, Светлана Немоляева",
+  "sinopse": "Quando o carpinteiro Gepeto vê uma estrela cadente, ele deseja que o boneco que acabara de terminar, Pinóquio, se torne um menino de verdade. Naquela noite, o desejo de Gepeto se realiza, dando início a uma série de inúmeras aventuras.",
+  "nota": "7.0",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=YdC91lmphag",
+  "poster": "https://image.tmdb.org/t/p/original/hZ6N6lvCbXsRYfy13nZ26AeZIz0.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/r3oPwy5HILetFqKlTI6BElFoAWf.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/aKnAM33LK86pkdZoT38gO7EnQXK.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Alta Gama: O Caso dos Relógios",
   "ano": "2026",
   "url": "",
