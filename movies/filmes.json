@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "A Estrela de Cinema e o Cowboy",
+  "ano": "2023",
+  "url": "",
+  "genero": "Comédia, Drama, Romance",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpkZ2Q0bzJrY2NzanEyNWFnbmd5ajR6d212Ynp3dG1vMg==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "MacKenzie Porter, Toby Levins, Dalias Blake, Dave Kenneth MacKinnon, Beth Fotheringham, Shay Galor",
+  "sinopse": "Acompanha Isabella enquanto ela consegue o papel dos sonhos como fazendeira. O estúdio a manda morar em uma fazenda para aprender o básico, mas ela descobre que o fazendeiro está muito ocupado tentando salvar seu rancho da ruína para ajudar a realizar seus sonhos.",
+  "nota": "6.6",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=g3df3kZWts4",
+  "poster": "https://image.tmdb.org/t/p/original/8nbLEajV2HU79HNuAaO4ll3L5M8.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/8Bc13rrJAylHgc0cDEUBsww1LJ2.jpg",
+  "clearart": "",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Entre Lobos 2026 - Só o Crime Está Seguro",
   "ano": "2026",
   "url": "",
