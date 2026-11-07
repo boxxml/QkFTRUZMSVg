@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "Um Corpo no Sótão",
+  "ano": "2023",
+  "url": "",
+  "genero": "Cinema TV, Thriller, Drama, Crime",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2MzV4cmczcHluZXZjbmN0anRzbDduNHY0cWNuY2pzcg==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Abigail Hawk, Donny Boaz, Marc Herrmann, Lauren Farmer, Gwen Hughes, Kate Metroka",
+  "sinopse": "Inspirado em fatos reais – Uma esposa infeliz convence seu amante a se mudar para seu sótão. Mas quando ela o encontra morto, ela se convence de que seu desavisado marido descobriu e está mantendo em segredo o conhecimento de seu caso para torturá-la mentalmente. Ele sabe a verdade? Ou outra pessoa é responsável pela morte de seu amante?",
+  "nota": "5.4",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=yvPEXqfwyjY",
+  "poster": "https://image.tmdb.org/t/p/original/xl4Sf5zwkvE4vvPVJgQcXFmXHqi.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/k2njvl6DVMXoVsvVBr0AU7G9EvY.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/zGYJhb5k4GdJHev0i7rvvMfnG1S.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Flee: Nenhum Lugar Para Chamar de Lar",
   "ano": "2021",
   "url": "",
