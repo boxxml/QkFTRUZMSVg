@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "A Odisseia",
+  "ano": "2026",
+  "url": "",
+  "genero": "Aventura, Ação, Fantasia",
+  "versoes_disponiveis": [
+    {
+      "label": "Legendado",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo0ZTJlZTAwNmFmY2M4Y2U4YzI5ZmM1N2YzNWQ5ZmY1MDNlMWY3NzY4",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
+  "sinopse": "Acompanhe o rei grego Odisseu em sua perigosa jornada de 20 anos para voltar a Ítaca após a Guerra de Troia, enfrentando monstros e deuses enquanto sua esposa Penélope resiste em seu reino.",
+  "nota": "8.0",
+  "classificacao": "14",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=fF9hQP0vht8",
+  "poster": "https://image.tmdb.org/t/p/original/b82gpDmbbDZGywc0Zq1t2N3wWj5.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/kX6ZX4GL7km04332caiOVapR2lb.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "A Última Tentação de Cristo",
   "ano": "1988",
   "url": "aHR0cHM6Ly9pYTgwMzEwNS51cy5hcmNoaXZlLm9yZy8yNy9pdGVtcy9mLWktbC1tLWUtcy1oLWQtMC0wLTEvQS0xMTE4MDMzLy5ta3Y=",
