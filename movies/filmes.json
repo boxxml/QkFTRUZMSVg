@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "Tudo Sobre Você",
+  "ano": "2025",
+  "url": "",
+  "genero": "Comédia, Drama",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDptYmZjeTZuYWpqbTdoYnh1dWo2Ymhqb3ZxbGZrZXg3bw==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Маша Кошина, Олег Чугунов, Виктор Хориняк, Зоя Бербер, Рома Зверь, Тимофей Кочнев",
+  "sinopse": "Masha nunca viu o pai. Quando descobre que seus pais se conheceram em um show de uma banda pop famosa, ela vasculha a internet e encontra um homem que acredita ser seu pai. Ao ver uma publicação dele sobre a compra de ingressos para o show de aniversário da mesma banda, ela embarca em uma aventura, atravessando o país inteiro para ir ao show e perguntar ao pai por que ele os abandonou.",
+  "nota": "8.0",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=aPAKnVnAMO4",
+  "poster": "https://image.tmdb.org/t/p/original/nDitEVJlnYWu0qgKEGHgFaVATyw.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/x9WchrbCVbDDMxBv7qkuRvxOMF1.jpg",
+  "clearart": "",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Zona de Confronto",
   "ano": "2020",
   "url": "",
