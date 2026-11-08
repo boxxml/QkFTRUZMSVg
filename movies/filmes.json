@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "O Clube do Pé Esquerdo",
+  "ano": "2026",
+  "url": "",
+  "genero": "Comédia",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDppNmV0aWd4N3N2eTNqNmgyN3RicG9qandtcHZodDZsZQ==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Adrián Uribe, María León, Mauricio Isaac, Yuriria del Valle, Miguel Burra, Mónica Huarte",
+  "sinopse": "Cansado da rotina, um homem de meia-idade resolve fazer aulas de dança. Só que esse novo hobby acaba provocando uma confusão daquelas com a esposa dele.",
+  "nota": "6.0",
+  "classificacao": "10",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=aun-sucm0rw",
+  "poster": "https://image.tmdb.org/t/p/original/hhCVXNeTXXxMdh30GKaU4bSLdt1.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/6dDCdPSp7ULB1zYimKDE9D48795.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/2wPeJuORQWNo0rKXdHteFQVUfRf.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "A Odisseia",
   "ano": "2026",
   "url": "",
