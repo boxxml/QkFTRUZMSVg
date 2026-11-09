@@ -848,18 +848,23 @@
   "genero": "Ação, Thriller, Crime",
   "versoes_disponiveis": [
     {
-      "label": "FLIXBOX FHD",
+      "label": "LINK DIRETO FHD",
       "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC8xLTAtMC03LTctMy00LzEwMDc3MzQubXA0",
       "legenda": ""
     },
 	{
-      "label": "FLIXBOX 3D",
+      "label": "LINK DIRETO 3D",
       "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC8xLTAtMC03LTctMy00LzEwMDc3MzQzRC5tcDQ",
       "legenda": ""
     },
 	{
-      "label": "FLIXBOX 4K",
+      "label": "LINK DIRETO 4K",
       "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC8xLTAtMC03LTctMy00LzEwMDc3MzQ0Sy5tcDQ",
+      "legenda": ""
+    },
+	{
+      "label": "TORRENT FHD",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDowZWM5NGY3MzRkOGVhZGNjZGEwNWJmZWNhMTFkM2VkY2YxMTk0MDg2",
       "legenda": ""
     }
   ],
