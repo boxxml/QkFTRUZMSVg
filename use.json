@@ -1,16 +1,14 @@
 {
   "usuarios": [
     {
-      "username": "teste",
+      "username": "TESTE",
       "password": "TESTE.COM",
-      "validade": "2026-12-10",
-      "mensagens": [
-        {
-          "data": "2026-11-10",
-          "tipo": "Aviso",
-          "texto": "SEU PEDIDO ESTA PRONTO"
-        }
-      ]
+      "validade": "2027-12-31"
+    },
+    {
+      "username": "outro_usuario@email.com",
+      "password": "senha_segura_456",
+      "validade": "2026-12-25"
     }
   ]
 }
