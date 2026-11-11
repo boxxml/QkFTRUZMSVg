@@ -1,14 +1,12 @@
-{
-  "usuarios": [
-    {
-      "username": "TESTE",
-      "password": "TESTE.COM",
-      "validade": "2027-12-31"
-    },
-    {
-      "username": "outro_usuario@email.com",
-      "password": "senha_segura_456",
-      "validade": "2026-12-25"
-    }
-  ]
-}
+[
+  {
+    "username": "TESTE",
+    "password": "TESTE.COM",
+    "validade": "2026-12-31"
+  },
+  {
+    "username": "cliente2",
+    "password": "456",
+    "validade": "2026-11-20"
+  }
+]
