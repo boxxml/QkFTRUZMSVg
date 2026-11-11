@@ -1,4 +1,14 @@
 [
+{
+    "type": "addon",
+    "name": "[B][COLOR blue]XCUI Streams[/B][/COLOR]",
+    "version": "3.1.8",
+    "description": "[COLOR blue]An IPTV addon written to work with XC and XCUI for Kodi 19+[/COLOR]",
+    "icon": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/addons/plugin.video.iptvxc/icon.png",
+    "fanart": "https://imgur.com",
+    "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.iptvxc/plugin.video.iptvxc-3.1.8.zip",
+    "dependencies": []
+  },
   {
     "type": "addon",
     "name": "Cineroom Repository",
