@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "Gospel de Natal",
+  "ano": "2026",
+  "url": "",
+  "genero": "Drama, Música",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDp3Nm50Zzd4M2t1bWlmdHdpa2J0NnlzazN4aTJ0cnVscA==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "",
+  "sinopse": "Um pastor se muda com a família para um bairro complicado de Nova York e precisa salvar uma igreja do fechamento antes do Natal.",
+  "nota": "",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=lXh2rNl2wdQ",
+  "poster": "https://image.tmdb.org/t/p/original/5feAob9lh4WE2ZqlzqQulYegI9S.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/wd4KBXujUh6LADrjuntXgw4VvM3.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Touch Me",
   "ano": "2026",
   "url": "",
