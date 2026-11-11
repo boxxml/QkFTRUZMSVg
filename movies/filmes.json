@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "Touch Me",
+  "ano": "2026",
+  "url": "",
+  "genero": "Terror, Ficção científica, Comédia",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo1aGZpNmNtbzRmcG53bGZmejY2b3Nha3AyZW5yZjN5cw==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Olivia Taylor Dudley, Lou Taylor Pucci, Jordan Gavaris, Marlene Forte, Paget Brewster, Ashley Lauren Nedd",
+  "sinopse": "",
+  "nota": "5.7",
+  "classificacao": "NR",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=vjWDJScsSuY",
+  "poster": "https://image.tmdb.org/t/p/original/drcloenCH7ZautM7hnd9r9WScNV.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/kQ3V85ke3LKA4dnww2tH42bsZfX.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/aqCUkvR1jPczkNiRzw8t5kYS6fD.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Twinless - Um Gêmeo a Menos",
   "ano": "2025",
   "url": "",
