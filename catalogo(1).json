@@ -1,0 +1,33 @@
+{
+  "ARROCHA": {
+    "thumb": "DefaultGenre.png",
+    "fanart": "https://i.ytimg.com/vi/tMU-gOYodzI/maxresdefault.jpg",
+    "artistas": {
+      "Arrocha Dez": {
+        "thumb": "https://yt3.googleusercontent.com/RAX2Eus4rSdrbFP7Vx3xlQAhkM8yv3EM7YHlXfzC7pNWRcVdrZswegG4Du8i4G8Q4Jc_2p84dg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "fanart": "https://i.ytimg.com/vi/tMU-gOYodzI/maxresdefault.jpg",
+        "shows": [
+          {
+            "titulo": "Arrocha Dez, Yasmin Sensação - Faço Chover (Vídeo Oficial)",
+            "url": "https://www.youtube.com/watch?v=tMU-gOYodzI",
+            "thumb": "https://i.ytimg.com/vi/tMU-gOYodzI/maxresdefault.jpg",
+            "fanart": "https://i.ytimg.com/vi/tMU-gOYodzI/maxresdefault.jpg",
+            "ano": 2024,
+            "duracao": 5400,
+            "album": "",
+            "estudio": "Produção Independente",
+            "diretor": "",
+            "classificacao": "Livre",
+            "nota": 9.5,
+            "qualidade": "1080p",
+            "audio": "5.1 DTS-HD",
+            "elenco": [
+              "Arrocha Dez"
+            ],
+            "sinopse": "Arrocha Dez, Yasmin Sensação - Faço Chover (Vídeo Oficial)"
+          }
+        ]
+      }
+    }
+  }
+}
