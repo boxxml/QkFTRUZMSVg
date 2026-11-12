@@ -1,5 +1,57 @@
 [
 {
+  "titulo": "Hollywood Grit",
+  "ano": "2025",
+  "url": "",
+  "genero": "Ação, Thriller",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpwc2F1c3lqb3R6ZXFzdm4zM3B0bHdiNnZuYmZrcXZoMw==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Max Martini, Tyrese Gibson, Linda Purl, Patrick Duffy, Nikki Alexis Howard, Linc Hand",
+  "sinopse": "",
+  "nota": "6.8",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=fHiJrDLsdg4",
+  "poster": "https://image.tmdb.org/t/p/original/sQK5RO7RVgYhNKYuKhYKXn2R4vO.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/o1jOMbNjDjkUZorJ8LxDjSJIrRg.jpg",
+  "clearart": "",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
+  "titulo": "Herói de Sangue",
+  "ano": "2023",
+  "url": "",
+  "genero": "Drama, Guerra, História",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpnNnd2Z3A2M3N4bGd0NTR1cWRnZmc3cm14a3VjeWVzYw==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Omar Sy, Alassane Diong, Jonas Bloquet, Bamar Kane, Alassane Sy, Clément Sambou",
+  "sinopse": "Com Omar Sy. Baseado no passado que a França gostaria de esquecer, um pai senegalês fará de tudo para salvar seu filho de 17 anos recrutado à força para lutar pelos franceses na Primeira Guerra Mundial.",
+  "nota": "6.0",
+  "classificacao": "14",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=46ZVXOtGiKY",
+  "poster": "https://image.tmdb.org/t/p/original/1wHyzcCDoOZIKgkohtCMMVDsMST.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/roS6ISpQcvJZYCZZSonWSlGK2CF.jpg",
+  "clearart": "",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Suzane von Richthofen: O que o Tempo Não Apaga",
   "ano": "2026",
   "url": "",
