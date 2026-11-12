@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "Código 3",
+  "ano": "2025",
+  "url": "",
+  "genero": "Comédia, Ação, Drama",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDplZGI2aW1iMmVtZGNkYXZhaGdib20ydG1oaHU3cWFvZg==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Rainn Wilson, Lil Rel Howery, Aimee Carrero, Yvette Nicole Brown, Rob Riggle, Page Kennedy",
+  "sinopse": "Randy carrega dezoito anos de ambulância nas costas e uma carta de demissão no bolso. Antes de sair, precisa cumprir um último plantão de 24 horas ao lado do parceiro Mike e treinar Jessica, a novata que vai ocupar o lugar dele.",
+  "nota": "7.1",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=OdE_twWZh0g",
+  "poster": "https://image.tmdb.org/t/p/original/32SPhxHtG3sqZmJY9pMdu8fWBDj.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/b4uAD5kqB3cJ9Wdka5qlod5BHwW.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/sXmZNfH6IpWr7kdfSg5fgZLA3Js.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Hollywood Grit",
   "ano": "2025",
   "url": "",
