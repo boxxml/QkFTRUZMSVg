@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "Allen",
+  "ano": "2026",
+  "url": "",
+  "genero": "Ficção científica, Aventura, Comédia, Família",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDo5MTM0NmI1NTE5ZTM1ZmY5N2Y5ZWJjMDc2ZWFkZDRlZGI5MGIxMGEy",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "T.J. Power, Charlotte Nicdao, Josh Helman, Emily Barclay, Benedict Hardie, Elijah Tamati",
+  "sinopse": "Uma combinação de aventura alienígena e homenagem às amizades da infância, esta ficção científica é uma história sensível sobre tudo o que não conseguimos deixar para trás.",
+  "nota": "7.0",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=lIdGfZ7X7iE",
+  "poster": "https://image.tmdb.org/t/p/original/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/nc5MVDGX2TOBRSYNYNhxUeULrQv.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Sem Desistir",
   "ano": "2026",
   "url": "",
