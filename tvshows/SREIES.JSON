@@ -8525,5 +8525,127 @@
         ]
       }
     ]
+  },
+  {
+    "id": "220102-spider-noir",
+    "titulo": "Spider-Noir",
+    "status": "Canceled",
+    "sinopse": "O detetive particular Ben Reilly é contratado para casos simples... até que gângsteres, monstros e uma misteriosa femme fatale tecem uma teia que o obriga a confrontar seu passado como o único super-herói de Nova York: O Spider.",
+    "ano": 2026,
+    "nota": 8.3,
+    "classificacao": "16",
+    "estudio": "MGM+",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=BqXJdDtOtHk",
+    "generos": [
+      "Drama e Mistério e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/rfrzXSaiuvRMLo8PRQds0TfFrZC.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+    "banner": "",
+    "elenco": [
+      "Nicolas Cage",
+      "Lamorne Morris",
+      "Li Jun Li",
+      "Karen Rodriguez",
+      "Abraham Popoola",
+      "Jack Huston"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "O detetive particular Ben Reilly é contratado para casos simples… até que gângsteres, monstros e uma misteriosa femme fatale tecem uma teia que o obriga a confrontar seu passado como o único super-herói de Nova York: O Spider.",
+        "poster": "https://image.tmdb.org/t/p/original/rfrzXSaiuvRMLo8PRQds0TfFrZC.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Entre no meu Escritório",
+            "sinopse": "Não vai acabar bem pra você.",
+            "duracao": 45,
+            "diretor": "Harry Bradbeer",
+            "thumb": "https://image.tmdb.org/t/p/original/avaOuuMGhci0mIR1rQDaS0PEmtZ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIwMTAyLTAxLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-25"
+          },
+          {
+            "numero": 2,
+            "titulo": "Pisando em Ovos",
+            "sinopse": "Você é um investigador. Investigue.",
+            "duracao": 41,
+            "diretor": "Harry Bradbeer",
+            "thumb": "https://image.tmdb.org/t/p/original/jm6IM5Suxd3zKnSyLd7ef1XhF7V.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIwMTAyLTAxLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-25"
+          },
+          {
+            "numero": 3,
+            "titulo": "Falsidade",
+            "sinopse": "Quanto mais depressa provar, mais depressa ele vai morrer.",
+            "duracao": 44,
+            "diretor": "Nzingha Stewart",
+            "thumb": "https://image.tmdb.org/t/p/original/pi81YdQAAXOgD4LypoDO76kKwcY.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIwMTAyLTAxLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-25"
+          },
+          {
+            "numero": 4,
+            "titulo": "Nunca Repita o Mesmo Erro",
+            "sinopse": "Ele ainda manda bem.",
+            "duracao": 47,
+            "diretor": "Nzingha Stewart",
+            "thumb": "https://image.tmdb.org/t/p/original/mKiPRJrGUdtgOwo6AUV81rr1aNP.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIwMTAyLTAxLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-25"
+          },
+          {
+            "numero": 5,
+            "titulo": "Traição",
+            "sinopse": "\"Cuidado\" é pra ações da bolsa e molho picante.",
+            "duracao": 48,
+            "diretor": "Alethea Jones",
+            "thumb": "https://image.tmdb.org/t/p/original/laPPd7YkmXSGey4VyuQFS6ELTT3.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIwMTAyLTAxLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-25"
+          },
+          {
+            "numero": 6,
+            "titulo": "Pesadelo na Maca",
+            "sinopse": "Se não achou uma resposta, é porque não existe uma.",
+            "duracao": 41,
+            "diretor": "Alethea Jones",
+            "thumb": "https://image.tmdb.org/t/p/original/yVAh5HmppUTdMqnoxpZVLuFzGWc.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIwMTAyLTAxLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-25"
+          },
+          {
+            "numero": 7,
+            "titulo": "Herói de Ninguém",
+            "sinopse": "Não posso te proteger estando morto.",
+            "duracao": 41,
+            "diretor": "Greg Yaitanes",
+            "thumb": "https://image.tmdb.org/t/p/original/ar6dHtsfCb1e0bBXd70Gtu63Ek5.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIwMTAyLTAxLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-25"
+          },
+          {
+            "numero": 8,
+            "titulo": "O Homem Mascarado",
+            "sinopse": "O que um detetive azarado pode fazer?",
+            "duracao": 46,
+            "diretor": "Greg Yaitanes",
+            "thumb": "https://image.tmdb.org/t/p/original/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIwMTAyLTAxLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-25"
+          }
+        ]
+      }
+    ]
   }
 ]
