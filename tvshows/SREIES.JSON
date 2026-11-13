@@ -9353,5 +9353,629 @@
         ]
       }
     ]
+  },
+  {
+    "id": "99125-arcanjo-renegado",
+    "titulo": "Arcanjo Renegado",
+    "status": "Continuing",
+    "sinopse": "Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.",
+    "ano": 2020,
+    "nota": 7.9,
+    "classificacao": "18",
+    "estudio": "Globoplay",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=XmXhPvIty9E",
+    "generos": [
+      "Drama e Action & Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/p7gsnKeSQsyNYO7QrW5xedd3QTe.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/pWOIRfG9auWSXRDL1QIajQ1cyuM.jpg",
+    "banner": "",
+    "elenco": [
+      "Marcelo Mello Jr.",
+      "Erika Januza",
+      "Álamo Facó",
+      "Flávio Bauraqui",
+      "Leonardo Brício",
+      "Rita Guedes"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.",
+        "poster": "https://image.tmdb.org/t/p/original/gnGD338eehThLKH76oWHjDjW8tz.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Mikhael e a Equipe Arcanjo são condecorados na ALERJ após missão de resgate. Eustáquio mantém discurso belicoso sem imaginar as consequências.",
+            "duracao": 47,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/3KBrwAMylBY7YouVV5addeaQLO3.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDEtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-02-07"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Pressionado, Custódio nomeia Gabriel como novo Secretário de Segurança e cobra um retorno imediato. A operação-reposta do BOPE não termina bem e a vingança é certa.",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/zTpT3UzfvWDSY9sfYWOB6MWtObf.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDEtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-02-07"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "A ação de vingança pela morte de Rafael traz sérias consequências para Mikhael. Enquanto Ronaldo busca a verdade por trás do atentado, Custódio e Barata planejam a reeleição.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/6drousx7aSqj7OdmATAqYoCwCkj.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDEtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-02-07"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Custódio é reeleito governador do Rio. Manuela, Gabriel e Barata se articulam para garantir a presidência da ALERJ. A equipe Arcanjo é desmontada, e Mikhael é transferido.",
+            "duracao": 38,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/xjVVvJ6DPBeKrHbSZ9X4kRae4HR.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDEtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-02-07"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Mikhael tem dificuldade de se adaptar à rotina de Miracema, mas o novo posto também traz surpresas. Ronaldo está perto de desvendar um esquema mais complexo do que imagina.",
+            "duracao": 46,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/cQYGQLM1IgVvhrmyO4TTBHNXksn.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDEtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-02-07"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "O clima de tensão aumenta entre Custódio e Manuela. Sarah busca uma solução para seus problemas financeiros. Ronaldo é ameaçado, e Chucky ataca seus inimigos.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/gAJeHGCt8TnXxrZUXnRPr6uK3rh.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDEtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-02-07"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "Mikhael procura Ronaldo e juntos remontam os acontecimentos, que levam a Savassi. Custódio ameaça vazar segredos de Manuela e cobra de Savassi que seu nome seja protegido.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/obkV5wAPG9n5AQkLm30Be8TStOy.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDEtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-02-07"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "Mikhael se choca ao ver Sarah com Savassi e é surpreendido. Manuela, Gabriel e Barata tentam conseguir o impeachment de Custódio. O cerco se fecha ao redor de Savassi.",
+            "duracao": 41,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/4aOxeuLrzQWojd0e5Wpx4IJa9Vw.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDEtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-02-07"
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "Ronaldo recebe um dossiê sobre os esquemas de Custódio e Savassi. A vida de Sarah fica em perigo e as únicas pessoas capazes de salvá-la se juntam novamente.",
+            "duracao": 35,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/yvxwOcIOt83dQUpKn28PA2tb2j3.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDEtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-02-07"
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "Chucky ameaça a vida de Sarah e Lucas, enquanto Mikhael e a Equipe Arcanjo se preparam para o resgate. Na ALERJ, os acontecimentos mudam a política no Rio e a vida de Mikhael.",
+            "duracao": 41,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/dlt9BzLMYPqt4EJbFq9bicsB7Do.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDEtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-02-07"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Desta vez, Mikhael (Marcello Melo Jr.) está retornando ao Brasil depois de passar um período integrando um grupo militar privado com atuação na África. Logo, o desejo por justiça e acerto de contas fará com que ele se envolva em momentos de muita tensão e adrenalina! De cara, ele descobre que o jornalista e amigo Ronaldo (Álamo Facó) está correndo perigo de vida.",
+        "poster": "https://image.tmdb.org/t/p/original/rYz3o3C9zfX078LVLVrOfiOHSHG.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Longe do Brasil, Mikhael integra um grupo paramilitar multinacional. Em uma missão na Nigéria, ele é obrigado a tomar uma decisão que colocará sua vida e a do grupo em risco.",
+            "duracao": 54,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/8XpDYARV6zJToTQLdxa4wnMdpRo.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDItMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-08-25"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Rodolfo reabre a investigação sobre o assassinato de Custódio. Maíra e Ronaldo vão contra os negócios imobiliários do governo associados às milícias. Ronaldo sofre um atentado.",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/xqGIGq4RpLRrTNvRPx37cfidWnf.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDItMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-08-25"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "Mikhael investiga quem estava no atentado contra Ronaldo. Maíra propõe CPI para averiguar relações escusas entre o governo e a milícia. Gabriel descobre que Mikhael está no Rio.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/oLCuvzxKTcu0m8A24w9wDBq7tSb.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDItMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-08-25"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Manuela desconfia de que Gabriel esteja usando seu filho, Gérard, contra ela. Gabriel arma uma emboscada para Mikhael, que é surpreendido.",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/eAUs7pfLoZ0a1FDNo9DgElr2SEt.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDItMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-08-25"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Na Chácara do Inferno, o cerco se fecha contra Sarah e Mikhael tem que agir. Manuela percebe que seus aliados a traíram. Barata articula saídas para o governo junto à oposição.",
+            "duracao": 49,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/ljeW9vNJj4g8xDnSemaueytx6EF.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDItMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-01"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "Uma onda de fake news abala o governo. Manuela confronta Gabriel e percebe que está em suas mãos. Bispo Cristóvão expande sua congregação. Mesmo ameaçado, Mikhael permanece no Rio.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/oCtvKy8gJXEQX6dO4fWoDSBtOn.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDItMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-01"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "A guerra entre Gabriel e Manuela está declarada. Novas informações sobre o Bispo Cristóvão são descobertas. Mikhael está cada vez mais próximo do confronto com Gabriel.",
+            "duracao": 46,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/s3D4Df5cqsLZDwitydoG35qjquL.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDItMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-08"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "Barata sofre uma campanha de difamação e seu casamento é ameaçado. Mikhael está próximo de ter sua inocência provada na morte de Custódio. Gérard toma uma decisão trágica.",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/fBl3E1xK1iMlwlkFxd6U5CKQV0M.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDItMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-08"
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "Ataques violentos se espalham pelo estado. Mikhael entra em ação com a equipe Arcanjo para resgatar Manuela de um arrastão. Áudios que comprometem Gabriel são divulgados.",
+            "duracao": 54,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/cTWbZMqVT4gz83hY9Vvb5QfvRMC.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDItMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-15"
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "A violência e o caos se intensificam no estado. Manuela e Barata buscam soluções com a oposição e acabam encurralados. Mikhael inicia sua caçada à Gabriel, até que é surpreendido.",
+            "duracao": 48,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/bwYsBYdal9Fl0IQpEuBMsbMf7RN.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDItMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-15"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "Mikhael (Marcello Melo Jr.) passa uma temporada no Pará, onde vivencia o cotidiano em um assentamento liderado pela Irmã Emily (Chris Couto). O local enfrenta constantes ameaças de produtores rurais, expondo Mikhael a novos desafios e dilemas morais. Enquanto isso, no Rio de Janeiro, sua irmã Sarah lida com frustrações em sua rotina como policial, o que a leva a buscar amadurecimento e autoconfiança em meio à pressão do ambiente. No mesmo cenário carioca, as facções criminosas perdem território para as milícias, enquanto Ronaldo (Álamo Facó), com seu site de notícias, denuncia esquemas criminosos que envolvem o Bispo Cristóvão (Thelmo Fernandes) em atividades ilícitas. Figuras do passado de Mikhael se unem em uma força-tarefa para combater uma guerra que apenas começou, abordando temas como drogas, violência, corrupção, fake news, milícias e manipulação política. A temporada promete explorar, com intensidade, diferentes facetas do poder e da resistência.",
+        "poster": "https://image.tmdb.org/t/p/original/htQ7JUhr477DjWapcDVQc9gRUQ.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "No Pará, o assentamento recebe ameaças de um produtor rural. Numa disputa por território, milicianos atacam mais uma favela. Ronaldo se arrisca por um furo jornalístico.",
+            "duracao": 60,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/yB3ik0xtoO20iR1PSDWJkZESoGH.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDMtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-14"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Manuela faz um jantar para se aproximar de Cristóvão. Ronaldo viaja até o Pará. Jhennifer tenta registrar um B.O contra o namorado, mas é hostilizada na delegacia.",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/d1IiL3wSYIECY9R9YQKxxdnQrXz.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDMtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-14"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "Rodolfo investiga mortes no Pará. No Rio, um acordo estratégico entre a milícia de Galvão e uma facção é selado. Mikhael decide voltar à cidade.",
+            "duracao": 51,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/tTIQcztJls6F6LdveviqMFdC34g.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDMtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-14"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "O acordo entre a milícia e narcotraficantes deixa o Rio mais tranquilo. Manuela e Mikhael montam uma equipe de confiança e com aliados improváveis para derrubar Cristóvão.",
+            "duracao": 49,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/cUqKA5RrPkB3O2aIHWjJIxPndV6.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDMtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-14"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Ronaldo expõe ligações do bispo com a explosão do oleoduto e outros esquemas. A igreja Amar ao Próximo sofre atentados e represálias nas redes sociais.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/omleBOTi8tony7fDmqbEzoMYnJ6.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDMtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-14"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "A força-tarefa arma um flagrante contra o braço direito do Bispo, desarticulando sua cúpula de segurança. Galvão ameaça Paloma. Manuela descobre um segredo de Mikhael.",
+            "duracao": 41,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/tXN2unvK5FuiCrCfEiO9EeGjTm9.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDMtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-21"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "Revelações sobre Manuela vêm à tona e enfraquecem a força-tarefa. Cristóvão se vê acuado. Ataques ordenados acontecem na cidade e Maíra está em risco.",
+            "duracao": 41,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/sDUQqRG3HFzVVM1THTSqs4oDov1.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDMtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-21"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "Pastor Anderson se desvincula da igreja Amar ao Próximo. Sara e Anderson conversam sobre o Bispo. Cristóvão descobre o ponto fraco do seu time de confiança.",
+            "duracao": 48,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/oLKxwBay5IvR3ADNw3iJNR10Ijb.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDMtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-21"
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "Uma verdadeira guerra toma conta da favela. A força-tarefa, apoiada pela Equipe Arcanjo, investe contra os milicianos que não baixam a guarda.",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uxpbkO9uL1zLNy3ds0K8gLdiTkc.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDMtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-21"
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "Ronaldo decide dar um tempo do Rio. Com a bancada do Bispo enfraquecida, Manuela passa a dar as cartas no jogo político. O novo romance de Mikhael se aprofunda.",
+            "duracao": 52,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/jYySqflKpR5GhNMblVC7XvSdwsq.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDMtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-21"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/p7gsnKeSQsyNYO7QrW5xedd3QTe.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Uma operação tenta interceptar a maior carga de cocaína recebida no Rio de Janeiro. Enquanto isso, na Tríplice Fronteira, Mikhael conhece a delegada Akemi.",
+            "duracao": 51,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/6x7pn0zgxcZ1OechQ8qAZi2srwA.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDQtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-06"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Mikhael segue na busca por Kuarahy. No Rio de Janeiro, a crescente violência é a principal questão para o Governo do Estado.",
+            "duracao": 46,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/xQmlLa3AiFQsYZdfBpAwyIweftF.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDQtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-06"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "No hospital, bispo Cristóvão se recupera. No Paraguai, Mikhael descobre um esquema de rota internacional de drogas ligadas a um empresário brasileiro.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/cAJxi1rTtRRyASHujNfAzqNXRLY.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDQtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-06"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Poke ocupa mais um território. A campanha eleitoral ganha força, fazendo com que Gabriel não poupe estratégias para fazer de Antônio o futuro governador.",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/1vDXcMizxXKoxyB0UNiimrag7W3.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDQtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-06"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Equipe Arcanjo e Sarah enfrentam uma operação contra os homens de Poke. A vida amorosa de Antônio é abalada, criando atrito entre a imagem pública e pessoal do candidato.",
+            "duracao": 49,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/2SX4Ysfos4I4hJSMIMYHIUfl7vr.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDQtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-06"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "Mikhael e Thamires investigam o megaempresário Wendell. O conflito no Complexo do Areal permanece, mas dessa vez, os moradores ficam em risco.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/8mfmTaiFzAnyhXPuL7FZwpPA6HU.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDQtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-06"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "Ronaldo decide apoiar Mikhael e descobre, junto com Thamires, evidências ligadas a Lincoln. Com a campanha eleitoral avançando, Antônio adota uma postura conservadora.",
+            "duracao": 50,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/mEi4uniaFygTpj1bBKYq4Ve4FaL.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDQtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-13"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "Poke toma a favela de Cuco. As investigações sobre Wendell avançam e uma peça-chave do esquema é assassinada.",
+            "duracao": 46,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/zE2NR743JpRY41lBtvKemnYBp74.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDQtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-13"
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "Elaine Carolina entrega vídeo íntimo de Anderson para Gabriel. Thamires publica uma matéria expondo Wendell, desestabilizando a campanha política de Manuela.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/1562TI1et4PLuMvQsu8cNrAh0zU.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDQtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-13"
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "Sarah e Mikhael conseguem prender Lincoln. A candidatura à presidência de Manuela é abalada pelos esquemas de Wendell.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/kEURoocn5MD8Ak2mTyQBx4GP2d9.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDQtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-13"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "sinopse": "Após sofrerem um atentado a tiros, o sargento Mikhael (Marcello Melo Jr.) e a delegada federal Akemi (Carol Nakamura) iniciam uma apuração sigilosa que primeiro chega a Lincoln (Marcello Novaes). As pistas contrariam Wendell (Fernando Pavão), que pressiona o parceiro para blindar seus negócios. A partir desse rastro, Mikhael e Akemi seguem até o Norte do país para desarticular a estrutura do tráfico internacional comandada pelo empresário.",
+        "poster": "https://image.tmdb.org/t/p/original/5nOTUbAcFahd2I32V8nVyjMrPdJ.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Atentados simultâneos tentam matar Mikhael, Rodolfo e Ronaldo. O empresário Wendell Peixoto atualiza seus planos para continuar seu império.",
+            "duracao": 52,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/2Mw1vV2UutoNCbqjBoyWG1k0vj4.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDUtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-12"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "A morte de uma pessoa ligada a Wendell intensifica a investigação. Na campanha política, Manuela e Maíra iniciam uma corrida para escolher seus vices.",
+            "duracao": 46,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/gEctfYzsbbTyjg1c0DB3DKFzcvJ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDUtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-12"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "A chacina no Morro do Mico gera uma crise na segurança pública. Mikhael avança nas investigações sobre Wendell e segue para Rondônia em busca de novas pistas.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/x1tTFj5qlAg00OrJ92EiTlueOCN.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDUtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-12"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Mikhael arma um plano para desestabilizar o receptor da droga vinda da Bolívia. A operação no Morro do Catuque abala o governo de Manuela.",
+            "duracao": 46,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/8vHcx6sBj6YaYlCaNC1vGr3cJSq.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDUtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-12"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "As últimas operações militares instabilizam o governo de Manuela, deixando os bastidores das eleições cada vez mais agressivos.",
+            "duracao": 41,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/1jrCKNtcLd3xRjwKjtZGUcQ6y5M.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDUtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-12"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDUtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-19"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDUtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-19"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDUtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-19"
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDUtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-19"
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvOTkxMjUtMDUtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-19"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "sinopse": "",
+        "poster": "",
+        "episodios": []
+      },
+      {
+        "numero": 7,
+        "sinopse": "",
+        "poster": "",
+        "episodios": []
+      }
+    ]
   }
 ]
