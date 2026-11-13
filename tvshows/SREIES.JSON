@@ -1,5 +1,31 @@
 [
 {
+  "titulo": "Porrada!",
+  "ano": "2000",
+  "url": "",
+  "genero": "Documentário, Comédia",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDppMnFhNXlzb3VsNTQzZ2l3Zm9zcW4ybXJxMmN0emJ3ZA==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "",
+  "sinopse": "",
+  "nota": "",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=v2OqsnruLfI",
+  "poster": "https://image.tmdb.org/t/p/original/3PNVxtGjU3WRzcGjI53P0Ndo3hh.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/6sI4rVp1252XjJGHCM6Cy0OnPK.jpg",
+  "clearart": "",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Procurando Emily",
   "ano": "2026",
   "url": "",
