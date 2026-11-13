@@ -4945,5 +4945,994 @@
         ]
       }
     ]
+  },
+  {
+    "id": "82452-avatar-o-ultimo-mestre-do-ar",
+    "titulo": "Avatar: O Último Mestre do Ar",
+    "status": "Continuing",
+    "sinopse": "Um garoto conhecido como o Avatar precisa dominar os quatro poderes elementares para salvar um mundo em guerra e enfrentar um inimigo implacável.",
+    "ano": 2024,
+    "nota": 7.8,
+    "classificacao": "14",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=oUO_kY5vbN0",
+    "generos": [
+      "Action & Adventure e Sci-Fi & Fantasy e Drama e Família"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/zCz483fU94RxRt1gdGW1rxQkcID.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
+    "banner": "",
+    "elenco": [
+      "Gordon Cormier",
+      "Kiawentiio",
+      "Ian Ousley",
+      "Dallas Liu",
+      "Miyako"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/zCz483fU94RxRt1gdGW1rxQkcID.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Aang",
+            "sinopse": "Um Dobrador de ar enfrenta sua nova realidade quando a guerra começa. Um século depois, dois irmãos da Tribo da Água fazem uma descoberta que muda tudo.",
+            "duracao": 64,
+            "diretor": "Michael Goi",
+            "thumb": "https://image.tmdb.org/t/p/original/3eLPQfIOva0RSAoviRgNqBtqPck.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-02-22"
+          },
+          {
+            "numero": 2,
+            "titulo": "Guerreiros",
+            "sinopse": "Aang, Katara e Sokka chegam a uma pequena ilha, lar dos guerreiros de elite cujo nome é uma homenagem ao Avatar Kyoshi. A Nação do Fogo descobre o paradeiro do Avatar.",
+            "duracao": 49,
+            "diretor": "Michael Goi",
+            "thumb": "https://image.tmdb.org/t/p/original/fBg3ih6klXw61XGMAhaXucHhomo.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-02-22"
+          },
+          {
+            "numero": 3,
+            "titulo": "Omashu",
+            "sinopse": "Notícias de um traidor colocam o trio em apuros em Omashu, onde um mecânico e rebeldes liderados por uma figura sedutora atrapalham os planos de proteger o Reino da Terra.",
+            "duracao": 53,
+            "diretor": "Jabbar Raisani",
+            "thumb": "https://image.tmdb.org/t/p/original/k05PJk3Ym75fWZ43TzWwA6KZ202.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-02-22"
+          },
+          {
+            "numero": 4,
+            "titulo": "No escuro",
+            "sinopse": "Em cativeiro, Aang conhece um rei que adora jogos. Para encontrar o amigo, os irmãos precisam passar por um túnel escuro e colocar as diferenças de lado.",
+            "duracao": 56,
+            "diretor": "Jabbar Raisani",
+            "thumb": "https://image.tmdb.org/t/p/original/zEKE4WLjHImmn9xAl1OCFxSroVQ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-02-22"
+          },
+          {
+            "numero": 5,
+            "titulo": "O Mundo Espiritual",
+            "sinopse": "No Mundo Espiritual para uma missão de resgate, o grupo se depara com ameaças intimidantes, memórias dolorosas e uma entidade enigmática.",
+            "duracao": 53,
+            "diretor": "Roseanne Liang",
+            "thumb": "https://image.tmdb.org/t/p/original/cVbAWz6K87JgF8iYjzZL1DA3BEl.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-02-22"
+          },
+          {
+            "numero": 6,
+            "titulo": "Máscaras",
+            "sinopse": "Num momento de desespero, Aang procura o Avatar Roku em busca de ajuda em sua jornada, enquanto a Nação do Fogo se aproxima. Na fortaleza, um intruso mascarado liberta Aang.",
+            "duracao": 57,
+            "diretor": "Roseanne Liang",
+            "thumb": "https://image.tmdb.org/t/p/original/ydSEm8QnzgMDWYz4Z3dvhbsmhZH.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-02-22"
+          },
+          {
+            "numero": 7,
+            "titulo": "O Norte",
+            "sinopse": "Um ataque à Tribo da Água do Norte se aproxima. Katara desafia um mestre Dobrador de água. Sokka conhece uma princesa. Aang reflete sobre as palavras de Kuruk.",
+            "duracao": 47,
+            "diretor": "Jet Wilkinson",
+            "thumb": "https://image.tmdb.org/t/p/original/l5n5OwFQPH0NyuBA4NEySAoO8hL.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-02-22"
+          },
+          {
+            "numero": 8,
+            "titulo": "Lendas",
+            "sinopse": "Zhao lidera a Nação do Fogo rumo ao Norte com um plano audacioso para enfraquecer a Tribo da Água. Quando a batalha se torna sombria, Aang entra em um estado poderoso.",
+            "duracao": 58,
+            "diretor": "Jet Wilkinson",
+            "thumb": "https://image.tmdb.org/t/p/original/ms2trhGJv7yWUe8doDMa9EHccAS.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-02-22"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Após uma vitória agridoce ao salvar a Tribo da Água do Norte da invasão da Nação do Fogo, o Avatar Aang, Katara e Sokka se reagrupam e partem em uma missão para convencer o esquivo Rei da Terra a ajudá-los na batalha contra o temível Senhor do Fogo Ozai. Sua jornada até a impenetrável cidade de Ba Sing Se, lar do Rei da Terra, é traiçoeira, mas também frutífera: Aang descobre Toph, uma jovem e audaciosa mestra da dobra de terra, e a convence a ajudá-lo a adicionar a dobra de terra aos seus poderes de dobra de ar e água.",
+        "poster": "https://image.tmdb.org/t/p/original/dK73meTajjqS5TEVsYqXQs1PsDY.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Um lugar seguro",
+            "sinopse": "Decidido a dominar a dobra de terra, Aang tenta libertar Bumi da prisão. Zuko se irrita com o plano de Iroh de manter o disfarce. Azula tem uma nova missão.",
+            "duracao": 68,
+            "diretor": "Jabbar Raisani",
+            "thumb": "https://image.tmdb.org/t/p/original/rFarciKTQj1kbOTXeERESSwv4dG.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-25"
+          },
+          {
+            "numero": 2,
+            "titulo": "Regras de conflito",
+            "sinopse": "Em um combate de dobra de terra decisivo, Aang encontra a pessoa que procurava. Memórias dolorosas ressurgem quando Zuko se aproxima de uma família no campo.",
+            "duracao": 67,
+            "diretor": "Jabbar Raisani",
+            "thumb": "https://image.tmdb.org/t/p/original/xzio7ongVmf6MbJEgM6aSIVGf4V.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-25"
+          },
+          {
+            "numero": 3,
+            "titulo": "A cidade de muros e segredos",
+            "sinopse": "Aang e o grupo precisam fazer política em vez de usar seus poderes nas festas da corte traiçoeira do Rei da Terra.",
+            "duracao": 61,
+            "diretor": "Anu Menon",
+            "thumb": "https://image.tmdb.org/t/p/original/4qxABDT5K6k4NVgWF6sfe4CzWTT.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-25"
+          },
+          {
+            "numero": 4,
+            "titulo": "A água cai, as pedras sobem",
+            "sinopse": "Toph testa as habilidades de Aang. Em Ba Sing Se, Sokka procura um amigo desaparecido, e Katara vive uma vida dupla.",
+            "duracao": 62,
+            "diretor": "Anu Menon",
+            "thumb": "https://image.tmdb.org/t/p/original/j464Uez1gvryQhFFbXvlahhrJr2.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-25"
+          },
+          {
+            "numero": 5,
+            "titulo": "Dez mil coisas",
+            "sinopse": "Em busca de uma biblioteca mítica que pode ser a chave para derrotar a Nação do Fogo, o grupo precisa se aliar a um antigo inimigo.",
+            "duracao": 64,
+            "diretor": "Amit Gupta",
+            "thumb": "https://image.tmdb.org/t/p/original/if6N0ZQYLLNCIhZIB57jTp6Ojon.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-25"
+          },
+          {
+            "numero": 6,
+            "titulo": "A parábola dos dois dragões",
+            "sinopse": "Depois que um membro do time é capturado, os amigos bolam um plano arriscado para chegar até o Rei da Terra. Uma doença muda a perspectiva de Zuko e Iroh.",
+            "duracao": 56,
+            "diretor": "Amit Gupta",
+            "thumb": "https://image.tmdb.org/t/p/original/1OUWuzTkALc8BKoAjksUxeBx3xd.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-25"
+          },
+          {
+            "numero": 7,
+            "titulo": "Algo se quebrou",
+            "sinopse": "A cidade está o caos, e a Nação do Fogo se aproxima. Espalhados, os amigos precisam se unir novamente para salvar Ba Sing Se, e Zuko tem que decidir de que lado ficar.",
+            "duracao": 69,
+            "diretor": "Hiromi Kamata",
+            "thumb": "https://image.tmdb.org/t/p/original/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "77169-cobra-kai",
+    "titulo": "Cobra Kai",
+    "status": "Continuing",
+    "sinopse": "Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a rivalidade dos tempos de escola.",
+    "ano": 2018,
+    "nota": 8.2,
+    "classificacao": "14",
+    "estudio": "Netflix",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=c1z7iLlFu9E",
+    "generos": [
+      "Action & Adventure e Drama e Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+    "banner": "",
+    "elenco": [
+      "William Zabka",
+      "Ralph Macchio",
+      "Courtney Henggeler",
+      "Xolo Maridueña",
+      "Tanner Buchanan",
+      "Mary Mouser"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Décadas depois da competição que mudou suas vidas, a rivalidade entre Johnny e Daniel está de volta nesta sequência da trilogia Karatê Kid.",
+        "poster": "https://image.tmdb.org/t/p/original/lLrKXnM3WPEtrPCd1aTHT6x3hn.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Degenerado",
+            "sinopse": "Enchendo a cara e vivendo à sombra do antigo rival, Johnny chega ao fundo do poço e decide reabrir o dojô de caratê Cobra Kai.",
+            "duracao": 29,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/pU6SRSRhC9sSZoSwHqSpGMocpfQ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDEtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-02"
+          },
+          {
+            "numero": 2,
+            "titulo": "Acerte primeiro",
+            "sinopse": "Daniel fica abalado ao ver o novo dojô Cobra Kai. Mais tarde, ele descobre que o crush de Sam se envolveu numa briga violenta.",
+            "duracao": 28,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/xN6SCMYz1jFCFsiFoM7rRFjAPB2.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDEtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-02"
+          },
+          {
+            "numero": 3,
+            "titulo": "Esqueleto",
+            "sinopse": "Daniel tenta ir em uma festa para ficar de olho em Sam. Johnny tenta conseguir mais alunos para seu novo empreendimento.",
+            "duracao": 24,
+            "diretor": "Jennifer Celotta",
+            "thumb": "https://image.tmdb.org/t/p/original/jId5woFWEPksXHImivp1Rh1apWZ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDEtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-02"
+          },
+          {
+            "numero": 4,
+            "titulo": "Cobra Kai para sempre",
+            "sinopse": "Um outdoor de Daniel é pichado. Miguel é proibido pela mãe de continuar com as aulas de caratê. Johnny descobre que Robby anda matando aula.",
+            "duracao": 28,
+            "diretor": "Jennifer Celotta",
+            "thumb": "https://image.tmdb.org/t/p/original/bNtQh5mHfJhR3Vjd155thIx7pAC.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDEtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-02"
+          },
+          {
+            "numero": 5,
+            "titulo": "Contrapeso",
+            "sinopse": "O Cobra Kai tem uma nova aluna. Daniel bola um plano para se vingar de Johnny. Traída por Kyler, Sam recebe o apoio de Miguel na escola.",
+            "duracao": 34,
+            "diretor": "Josh Heald",
+            "thumb": "https://image.tmdb.org/t/p/original/b6xB58q2g0nlkILI1NwA4AbeIyL.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDEtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-02"
+          },
+          {
+            "numero": 6,
+            "titulo": "Alunos novos",
+            "sinopse": "As matrículas no Cobra Kai aumentam após a luta de Miguel, mas Johnny destrata os alunos. Robby começa a trabalhar para Daniel.",
+            "duracao": 31,
+            "diretor": "Josh Heald",
+            "thumb": "https://image.tmdb.org/t/p/original/2XTVHUz1Lj2CI3R3dhNAJIx2phv.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDEtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-02"
+          },
+          {
+            "numero": 7,
+            "titulo": "A competição",
+            "sinopse": "Para inscrever o Cobra Kai em um torneio, Johnny precisa convencer o comitê, que tem Daniel como um dos membros. Miguel e Sam saem juntos.",
+            "duracao": 30,
+            "diretor": "Steve Pink",
+            "thumb": "https://image.tmdb.org/t/p/original/3HhHvSeCQfRQ4AhipHLZxyqU0LN.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDEtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-02"
+          },
+          {
+            "numero": 8,
+            "titulo": "Transformação",
+            "sinopse": "Johnny prepara seus alunos para o torneio. Daniel treina Robby em Miyagi-Do sem se dar conta de que ele é filho de Johnny.",
+            "duracao": 31,
+            "diretor": "Steve Pink",
+            "thumb": "https://image.tmdb.org/t/p/original/wYBgEkvbOVawZBPDWTY6WPgQbXS.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDEtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-02"
+          },
+          {
+            "numero": 9,
+            "titulo": "Diferentes, mas iguais",
+            "sinopse": "Uma discussão entre Johnny e Daniel desperta lembranças do passado. Os alunos do Cobra Kai tramam vingança contra uma garotada.",
+            "duracao": 32,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/lhOAFlNw8EUYByPDCnzFr7j0rDd.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDEtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-02"
+          },
+          {
+            "numero": 10,
+            "titulo": "Compaixão – Parte 1",
+            "sinopse": "No começo do torneio, Johnny ensina a seus alunos a terceira regra do Cobra Kai. Um rosto familiar do passado dá as caras.",
+            "duracao": 38,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/x6rU0g1i0CXLqK94LbXeaLtVBzM.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDEtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-02"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Johnny continua a reconstruir sua vida, mas uma pessoa do passado pode ameaçar seu futuro. Daniel abre o Miyagi-Do, um dojô que vai concorrer com o Cobra Kai.",
+        "poster": "https://image.tmdb.org/t/p/original/77kyNXN6yCRjDt9eBMj96vLMx8W.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Compaixão – Parte 2",
+            "sinopse": "Mesmo com a vitória do Cobra Kai, Johnny quer mudanças no dojô. Daniel abre sua própria escola com dois alunos: Sam e Robby.",
+            "duracao": 37,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/ae7bVkxC85Kob5o61DaqYhLMQ9s.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDItMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2019-04-24"
+          },
+          {
+            "numero": 2,
+            "titulo": "Em busca do equilíbrio",
+            "sinopse": "Daniel ajuda Sam e Robby a melhorar o equilíbrio no treino. No trabalho, ele tenta vender mais carros. Johnny impressiona Kreese com uma técnica criativa, mas arriscada.",
+            "duracao": 32,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/6Ikaxc1FM8wpThQyivgOxCxPYJu.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDItMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2019-04-24"
+          },
+          {
+            "numero": 3,
+            "titulo": "Fogo e gelo",
+            "sinopse": "Johnny fala sobre seus erros como pai depois de Miguel descobrir quem é Robby. Em busca de novos alunos, Daniel se apresenta em um festival.",
+            "duracao": 25,
+            "diretor": "Michael Grossman",
+            "thumb": "https://image.tmdb.org/t/p/original/tRJSVrofOb2zxPiIW7zyt2QoCN1.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDItMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2019-04-24"
+          },
+          {
+            "numero": 4,
+            "titulo": "Momento da verdade",
+            "sinopse": "Daniel tenta promover o Miyagi-Do mais uma vez, mas Cobra Kai rouba a cena. Johnny suspeita das histórias contadas por Kreese.",
+            "duracao": 33,
+            "diretor": "Michael Grossman",
+            "thumb": "https://image.tmdb.org/t/p/original/oiUAkGqWaPXXJzNU2fiand2D2xr.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDItMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2019-04-24"
+          },
+          {
+            "numero": 5,
+            "titulo": "Vai com tudo",
+            "sinopse": "Depois de se envolver em uma briga no shopping, Demetri recebe ajuda de Daniel. Johnny descobre que Robby está morando com Daniel.",
+            "duracao": 32,
+            "diretor": "Josh Heald",
+            "thumb": "https://image.tmdb.org/t/p/original/nb4kO1an17iW4ccf3rjFCa8jaCx.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDItMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2019-04-24"
+          },
+          {
+            "numero": 6,
+            "titulo": "Vire à direita",
+            "sinopse": "Os novos alunos de Daniel aprendem a acertar as diferenças. Enquanto Johnny viaja com os amigos, Kreese tenta minar a reputação dele no dojô.",
+            "duracao": 33,
+            "diretor": "Josh Heald",
+            "thumb": "https://image.tmdb.org/t/p/original/lnOVfMbL9cItiJNn0fAPsVldxSs.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDItMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2019-04-24"
+          },
+          {
+            "numero": 7,
+            "titulo": "Trégua",
+            "sinopse": "Os dois senseis usam técnicas de treinamento incomuns, e Johnny descobre o que Kreese anda ensinando. A paixão de Daniel pelo Miyagi-Do põe o negócio em risco.",
+            "duracao": 28,
+            "diretor": "Jennifer Celotta",
+            "thumb": "https://image.tmdb.org/t/p/original/mvUpEnLWPre0sqh8SGN8gTtDrS6.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDItMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2019-04-24"
+          },
+          {
+            "numero": 8,
+            "titulo": "A vez do amor",
+            "sinopse": "O caso secreto entre Sam e Robby esquenta, mas a relação entre Daniel e Amanda continua fria. Johnny decide usar um app de relacionamento.",
+            "duracao": 32,
+            "diretor": "Jennifer Celotta",
+            "thumb": "https://image.tmdb.org/t/p/original/7zkb0Fqz6HvaO3n9hLoTqb6sVl5.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDItMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2019-04-24"
+          },
+          {
+            "numero": 9,
+            "titulo": "Polvo",
+            "sinopse": "Johnny e Daniel se encontram em um restaurante. Em uma festa, aumenta a tensão entre os alunos dos dois senseis.",
+            "duracao": 32,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/idUaLxCQkgzPvruHyzXLeh7wddW.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDItMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2019-04-24"
+          },
+          {
+            "numero": 10,
+            "titulo": "Sem compaixão",
+            "sinopse": "No primeiro dia de aula, a treta entre Tory e Sam provoca uma briga entre os grupos de caratê nos corredores da escola.",
+            "duracao": 35,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/kVXBPI1smqILLKgvnXoR74M9vRe.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDItMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2019-04-24"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "Com um novo sensei no comando do dojô Cobra Kai, a rivalidade ganha força. Velhos rancores — como o Cobra Kai — nunca morrem.",
+        "poster": "https://image.tmdb.org/t/p/original/AkuNZ01zBF2iqF1IfOyssO8FNXK.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Consequências",
+            "sinopse": "Miguel está lutando para sobreviver, Robby sumiu e a reputação de Daniel e Johnny está por um fio com a reação da comunidade à briga em West Valley.",
+            "duracao": 32,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/iYXfd0o9oNP6lkT40nHAfG8y4dS.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDMtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-01-01"
+          },
+          {
+            "numero": 2,
+            "titulo": "Treinamento ou dom inato?",
+            "sinopse": "Daniel e Johnny se unem para procurar Robby. O futuro de Miguel é incerto. Kreese tenta trazer Tory de volta ao Cobra Kai.",
+            "duracao": 38,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/nTyWMPV8VMz3Z6TvbQppIQm9B2F.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDMtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-01-01"
+          },
+          {
+            "numero": 3,
+            "titulo": "Vai ter que pagar",
+            "sinopse": "A má reputação de Daniel atrapalha as vendas e ele recebe uma oferta de compra. Johnny tenta arrecadar dinheiro para a cirurgia de Miguel.",
+            "duracao": 33,
+            "diretor": "Lin Oeding",
+            "thumb": "https://image.tmdb.org/t/p/original/zhh97DgMDsJgxdPsrtKkjpuoBAv.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDMtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-01-01"
+          },
+          {
+            "numero": 4,
+            "titulo": "O caminho certo",
+            "sinopse": "Depois de uma reunião importante no Japão, Daniel volta à cidade do Sr. Miyagi em Okinawa. Johnny tenta se reaproximar de Robby.",
+            "duracao": 36,
+            "diretor": "Lin Oeding",
+            "thumb": "https://image.tmdb.org/t/p/original/A5skA8QLei6kSuYFWioVRqEKYpR.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDMtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-01-01"
+          },
+          {
+            "numero": 5,
+            "titulo": "Miyagi-Do",
+            "sinopse": "Em Okinawa, Daniel passa um tempo com uma amiga antiga e um velho inimigo que tem muito a ensinar. A rivalidade entre os dojôs desencadeia um violento confronto.",
+            "duracao": 40,
+            "diretor": "Steven K. Tsuchida",
+            "thumb": "https://image.tmdb.org/t/p/original/x7HapDU5CVMcjVyr1fNogeJJAVw.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDMtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-01-01"
+          },
+          {
+            "numero": 6,
+            "titulo": "Rei Cobra",
+            "sinopse": "Miguel ajuda Johnny a criar a mensagem perfeita para as redes sociais. Kreese procura novos recrutas. Daniel e Amanda tentam fechar o Cobra Kai.",
+            "duracao": 35,
+            "diretor": "Steven K. Tsuchida",
+            "thumb": "https://image.tmdb.org/t/p/original/hRDo7YUJCWufQh2u8z7p2hCoNfd.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDMtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-01-01"
+          },
+          {
+            "numero": 7,
+            "titulo": "Obstáculos",
+            "sinopse": "Daniel passa um tempo com a filha. Johnny planeja abrir um novo dojô de caratê, mas não consegue pensar em um nome legal.",
+            "duracao": 30,
+            "diretor": "Jennifer Celotta",
+            "thumb": "https://image.tmdb.org/t/p/original/rzQ7sNybhu33mHLvsIMXNmF841W.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDMtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-01-01"
+          },
+          {
+            "numero": 8,
+            "titulo": "O bom, o ruim e o fera",
+            "sinopse": "Informados de que o Torneio Regional será cancelado, os três senseis concorrentes fazem uma reunião na prefeitura para salvá-lo.",
+            "duracao": 28,
+            "diretor": "Jennifer Celotta",
+            "thumb": "https://image.tmdb.org/t/p/original/c6gEreHePB6yUknaWWvmUXcBH9x.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDMtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-01-01"
+          },
+          {
+            "numero": 9,
+            "titulo": "Natal",
+            "sinopse": "Chegou o fim do ano e o romance está no ar. Daniel e Miguel descobrem coisas em comum. Os recrutas do Cobra Kai saem em uma missão.",
+            "duracao": 31,
+            "diretor": "Josh Heald",
+            "thumb": "https://image.tmdb.org/t/p/original/weTME44ZY3DDxuTzTP126Z7ovR9.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDMtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-01-01"
+          },
+          {
+            "numero": 10,
+            "titulo": "19 de dezembro",
+            "sinopse": "Velhas feridas começam a cicatrizar em uma festa de fim de ano, mas um ataque violento dos alunos de Kreese leva a novas traições e alianças.",
+            "duracao": 41,
+            "diretor": "Josh Heald",
+            "thumb": "https://image.tmdb.org/t/p/original/AvnkMnigxqapasWQCFpyXLPdxmG.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDMtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-01-01"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "sinopse": "Daniel e Johnny decidem se unir contra um inimigo em comum. Já Kreese busca um novo aliado, e o escolhido é alguém de seu passado.",
+        "poster": "https://image.tmdb.org/t/p/original/hETMqMZYTBtVrA4A8AcLw5w76Xa.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Vamos lá!",
+            "sinopse": "Johnny e Daniel unem os dojôs, mas seus estilos opostos batem de frente. Kreese tenta convencer um antigo parceiro a se juntar a ele no Cobra Kai.",
+            "duracao": 39,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/kCcDCmTM8tb9z3hM0xuUF7qgmWB.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDQtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-12-31"
+          },
+          {
+            "numero": 2,
+            "titulo": "Primeiro aprenda a ficar em pé",
+            "sinopse": "Johnny aprende a ser mais defensivo e Daniel melhora suas estratégias ofensivas. Amanda confronta Tory. O novato Kenny sofre bullying na escola.",
+            "duracao": 34,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/s8neffnobejZIOS7dPdzt1X5uu9.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDQtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-12-31"
+          },
+          {
+            "numero": 3,
+            "titulo": "Para depois aprender a voar",
+            "sinopse": "Encorajado por Robby, Kenny quer ser aluno no Cobra Kai. Johnny pede a Sam para dar um voto de confiança – a si mesma.",
+            "duracao": 37,
+            "diretor": "Marielle Woods",
+            "thumb": "https://image.tmdb.org/t/p/original/34264WxGFy4nOzGCIHSdteMaMKm.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDQtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-12-31"
+          },
+          {
+            "numero": 4,
+            "titulo": "Bicefalia",
+            "sinopse": "Kreese traz Terry de volta ao Cobra Kai, mas o antigo parceiro não quer repetir a história. Daniel se torna mentor de Miguel e desperta a inveja de Johnny.",
+            "duracao": 35,
+            "diretor": "Marielle Woods",
+            "thumb": "https://image.tmdb.org/t/p/original/xemcmDJQFFZww8cMtV55LJC8zY2.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDQtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-12-31"
+          },
+          {
+            "numero": 5,
+            "titulo": "Ponto decisivo",
+            "sinopse": "Johnny e Daniel partem para um confronto entre senseis para decidir quem treina os alunos, colocando o dojô e sua frágil aliança em risco.",
+            "duracao": 31,
+            "diretor": "Joel Novoa",
+            "thumb": "https://image.tmdb.org/t/p/original/mAGMgNhG4B4YwEb18FBxsF8DEds.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDQtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-12-31"
+          },
+          {
+            "numero": 6,
+            "titulo": "Garotas curtem luta",
+            "sinopse": "O torneio se aproxima e uma grande mudança leva Johnny a fazer de tudo para conseguir uma nova recruta. Tory precisa pedir um favor aos LaRussos.",
+            "duracao": 34,
+            "diretor": "Joel Novoa",
+            "thumb": "https://image.tmdb.org/t/p/original/1FpoLp5AyG4nAq5wknaBQkTbIzm.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDQtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-12-31"
+          },
+          {
+            "numero": 7,
+            "titulo": "Campos minados",
+            "sinopse": "Daniel convida Anthony para o Miyagi-Do e descobre que não conhece o filho tão bem quanto imaginava. Miguel fica sabendo da verdade sobre Johnny e Carmen.",
+            "duracao": 36,
+            "diretor": "Tawnia McKiernan",
+            "thumb": "https://image.tmdb.org/t/p/original/cFLXoAQhE31fwzvC8JmYXQvJ5GV.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDQtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-12-31"
+          },
+          {
+            "numero": 8,
+            "titulo": "Hora de diversão",
+            "sinopse": "Miguel e Sam estão empolgados para ir ao baile de formatura, até que outro casal aparece. Terry atrai Johnny para um local familiar.",
+            "duracao": 40,
+            "diretor": "Tawnia McKiernan",
+            "thumb": "https://image.tmdb.org/t/p/original/pb06joaqZVmBl4INIoYdkiebtNf.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDQtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-12-31"
+          },
+          {
+            "numero": 9,
+            "titulo": "A queda",
+            "sinopse": "O Torneio Regional de Caratê Sub-18 tem início e vários dojôs brigam pelo título de grande campeão e por alguns acertos de contas pessoais.",
+            "duracao": 32,
+            "diretor": "Josh Heald",
+            "thumb": "https://image.tmdb.org/t/p/original/aTxE8PL9msdgicHwtjWQgzkddF7.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDQtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-12-31"
+          },
+          {
+            "numero": 10,
+            "titulo": "A ascensão",
+            "sinopse": "O torneio termina de maneira surpreendente, com repercussões que abalam os participantes e levam dois campeões a enfrentar futuros incertos.",
+            "duracao": 48,
+            "diretor": "Josh Heald",
+            "thumb": "https://image.tmdb.org/t/p/original/6hQPOqaNZ1aKwuPlcgfCvjjH0kj.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDQtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2021-12-31"
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "sinopse": "Terry está querendo mudar as coisas no Cobra Kai, então Daniel, Johnny e um velho aliado unem forças para uma batalha que vai muito além do tatame.",
+        "poster": "https://image.tmdb.org/t/p/original/uXlq3QtpzZIIZcYqKVQdQvKEPWj.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Muito longe de casa",
+            "sinopse": "O novo aliado de Daniel testa a paciência de Amanda. Miguel vai ao México à procura do pai. Terry inicia mudanças no Cobra Kai.",
+            "duracao": 32,
+            "diretor": "Steven K. Tsuchida",
+            "thumb": "https://image.tmdb.org/t/p/original/cU8Tug99ZvLzjtYvON6PoISUVI3.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDUtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-09"
+          },
+          {
+            "numero": 2,
+            "titulo": "Espião",
+            "sinopse": "Chozen e Daniel bolam um plano arriscado contra Terry. No México, Robby e Johnny procuram por Miguel, que descobre a verdade sobre o pai.",
+            "duracao": 39,
+            "diretor": "Steven K. Tsuchida",
+            "thumb": "https://image.tmdb.org/t/p/original/42mZ5yM4TZmmIxIER89VFFd2Iqp.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDUtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-09"
+          },
+          {
+            "numero": 3,
+            "titulo": "Brincando com fogo",
+            "sinopse": "Outro inimigo do passado de Daniel reaparece. Após passar um dia tentando se reconectar com seu eu interior, Sam toma uma decisão sobre o futuro com Miguel.",
+            "duracao": 37,
+            "diretor": "Marielle Woods",
+            "thumb": "https://image.tmdb.org/t/p/original/fNAcoCksdyTCPJyYQAoIO7Zar64.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDUtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-09"
+          },
+          {
+            "numero": 4,
+            "titulo": "De mal a pior",
+            "sinopse": "Enquanto o relacionamento de Johnny e Carmen vai bem, o de Daniel e Amanda é abalado pelos esquemas de Terry. A rixa entre os adolescentes vem à tona no parque aquático.",
+            "duracao": 37,
+            "diretor": "Steve Pink",
+            "thumb": "https://image.tmdb.org/t/p/original/waUx4M1N1QJYVZPlcKaH2zDIR7M.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDUtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-09"
+          },
+          {
+            "numero": 5,
+            "titulo": "Medidas extremas",
+            "sinopse": "Daniel conta com a ajuda de um amigo e recorre a um improvável aliado. A tensão chega ao máximo entre Miguel e Robby. Alguém do passado retorna.",
+            "duracao": 40,
+            "diretor": "Jennifer Celotta",
+            "thumb": "https://image.tmdb.org/t/p/original/DEecQIjwxicm4WNJCP5hKQsvf9.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDUtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-09"
+          },
+          {
+            "numero": 6,
+            "titulo": "Ouroboros",
+            "sinopse": "Terry recruta uma especialista no Método do Punho. Enquanto Daniel abandona uma briga, Johnny e Chozen iniciam outra. Na prisão, Kreese enfrenta antigos demônios.",
+            "duracao": 39,
+            "diretor": "Joel Novoa",
+            "thumb": "https://image.tmdb.org/t/p/original/nXRm0ViWpExGMae4qmyG4YULegq.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDUtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-09"
+          },
+          {
+            "numero": 7,
+            "titulo": "Ovos do mal",
+            "sinopse": "Terry e Kim lançam um desafio brutal, mas Chozen ensina a seus alunos uma lição diferente. Johnny e Daniel pressionam Kreese em busca de respostas.",
+            "duracao": 38,
+            "diretor": "Joel Novoa",
+            "thumb": "https://image.tmdb.org/t/p/original/75pw9D2Il3R7fZH6tFu0RLsgvie.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDUtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-09"
+          },
+          {
+            "numero": 8,
+            "titulo": "Taikai",
+            "sinopse": "Uma vaga cobiçada em um torneio de elite internacional desencadeia uma luta entre dojos. Tory enfrenta um teste de lealdade. Sam luta para esquecer Miguel.",
+            "duracao": 39,
+            "diretor": "Marielle Woods",
+            "thumb": "https://image.tmdb.org/t/p/original/zYMoy2cmw32aoUFCnl9ewbt1WxD.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDUtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-09"
+          },
+          {
+            "numero": 9,
+            "titulo": "Sobreviventes",
+            "sinopse": "Tory paga um preço pela rebeldia. Arraia enfrenta sua consciência. Uma noite de comemoração na cidade toma um rumo diferente para Johnny, Daniel e Chozen.",
+            "duracao": 38,
+            "diretor": "Steven K. Tsuchida",
+            "thumb": "https://image.tmdb.org/t/p/original/i6aFQjFR9Yb9L13nP9rH8rbKvNW.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDUtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-09"
+          },
+          {
+            "numero": 10,
+            "titulo": "Cabeça da cobra",
+            "sinopse": "Brigas irrompem durante a noite. Johnny, Daniel, Chozen e os alunos precisam reunir suas habilidades e forças para expor Terry e derrubá-lo.",
+            "duracao": 50,
+            "diretor": "Joel Novoa",
+            "thumb": "https://image.tmdb.org/t/p/original/4D2oGnrJ4TV6OrI2GBMEictxaWN.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDUtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-09"
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "sinopse": "Daniel e Johnny preparam o time para o torneio mundial, mas antigos inimigos e novas ameaças podem atrapalhar a vitória.",
+        "poster": "https://image.tmdb.org/t/p/original/beu5Pfref2pRwBR18QdsJCcrjIO.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Tempos de paz",
+            "sinopse": "Está difícil para os alunos do Miyagi-Do deixarem a rivalidade para trás enquanto treinam para o Sekai Taikai. Johnny e Chozen discordam sobre as mudanças no dojo.",
+            "duracao": 36,
+            "diretor": "Joel Novoa",
+            "thumb": "https://image.tmdb.org/t/p/original/hYlkiTMMr8zF8ceSdudnP7AGHHl.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-07-18"
+          },
+          {
+            "numero": 2,
+            "titulo": "O prêmio",
+            "sinopse": "Kreese encara um teste perigoso para provar seu valor. Daniel oferece ajuda a Johnny. Os adolescentes pensam na vida depois do colégio.",
+            "duracao": 39,
+            "diretor": "Joel Novoa",
+            "thumb": "https://image.tmdb.org/t/p/original/fI7BEdDnjK1X25pbeG7A7mKbAcC.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-07-18"
+          },
+          {
+            "numero": 3,
+            "titulo": "Festa do pijama",
+            "sinopse": "Uma descoberta chocante vira o mundo de Daniel de cabeça pra baixo. Johnny bola um plano para ajudar Sam e Tory a recuperarem a coragem. O local do torneio é divulgado.",
+            "duracao": 37,
+            "diretor": "Ralph Macchio",
+            "thumb": "https://image.tmdb.org/t/p/original/36ypCuCP0JIZZkJ3c6yskhMCks6.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-07-18"
+          },
+          {
+            "numero": 4,
+            "titulo": "Azarões",
+            "sinopse": "Daniel e Johnny convidam um novo sensei para avaliar seus alunos. Amigos se tornam inimigos quando a disputa por uma vaga no Sekai Taikai vai se acirrando.",
+            "duracao": 37,
+            "diretor": "Sherwin Shilati",
+            "thumb": "https://image.tmdb.org/t/p/original/casOxbUTCtBuXAuwoCPoJeSIjqz.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-07-18"
+          },
+          {
+            "numero": 5,
+            "titulo": "Melhor entre os melhores",
+            "sinopse": "Os melhores alunos do Miyagi-Do competem para ser capitães da equipe, mas uma tragédia muda tudo. Kreese revela sua surpresa final.",
+            "duracao": 45,
+            "diretor": "Sherwin Shilati",
+            "thumb": "https://image.tmdb.org/t/p/original/dzf8E8jr9ywTn0nPYuq2eZ0eT3L.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-07-18"
+          },
+          {
+            "numero": 6,
+            "titulo": "Benvinguts a Barcelona",
+            "sinopse": "O Sekai Taikai começou, mas uma traição ameaça tirar o foco da equipe do Miyagi-Do. Após um primeiro evento traumático, um elemento surpresa é revelado.",
+            "duracao": 38,
+            "diretor": "Joel Novoa",
+            "thumb": "https://image.tmdb.org/t/p/original/kfFoyd5x4ZkMgCP1daw1ugb8qwe.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-15"
+          },
+          {
+            "numero": 7,
+            "titulo": "Cachorro na luta",
+            "sinopse": "A busca por pistas sobre o passado do Sr. Miyagi coloca Daniel em perigo. Miguel questiona o foco de Robby. Sam vê um comportamento inadequado fora do tatame.",
+            "duracao": 39,
+            "diretor": "Joel Novoa",
+            "thumb": "https://image.tmdb.org/t/p/original/Qv4vp5zzBdjPj2fUn0OHEijBWe.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-15"
+          },
+          {
+            "numero": 8,
+            "titulo": "Cobras a bordo",
+            "sinopse": "Uma crise pessoal deixa Miguel e Johnny abalados. Chozen e uma sensei rival se unem para encontrar seus alunos, mas acabam tendo outra descoberta.",
+            "duracao": 38,
+            "diretor": "Jennifer Celotta",
+            "thumb": "https://image.tmdb.org/t/p/original/hORd9qKMMWYogVldmc1rmn99XCu.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-15"
+          },
+          {
+            "numero": 9,
+            "titulo": "Marcados pelo sangue",
+            "sinopse": "Quem passará para a próxima rodada na partida de eliminação: Miyagi-Do ou Cobra Kai? Uma revelação chocante abala Daniel.",
+            "duracao": 40,
+            "diretor": "Sherwin Shilati",
+            "thumb": "https://image.tmdb.org/t/p/original/t4fTFhIScrSRfxddYyWgfaMCoQe.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-15"
+          },
+          {
+            "numero": 10,
+            "titulo": "Eunjangdo",
+            "sinopse": "Daniel e Johnny treinam os capitães em pontos históricos de Barcelona. Um golpe baixo nas semifinais instiga uma grande briga.",
+            "duracao": 47,
+            "diretor": "Sherwin Shilati",
+            "thumb": "https://image.tmdb.org/t/p/original/w1U9Icf1YnnyxutZ633FBo6bjS3.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-11-15"
+          },
+          {
+            "numero": 11,
+            "titulo": "No fogo",
+            "sinopse": "Enquanto os alunos planejam o futuro, Daniel e Johnny discutem sobre o Sekai Taikai. Kreese reflete sobre seus princípios.",
+            "duracao": 40,
+            "diretor": "Joe Piarulli",
+            "thumb": "https://image.tmdb.org/t/p/original/lvPYAcVp35MEYAdg0N4IaoK1GKo.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMTEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-02-13"
+          },
+          {
+            "numero": 12,
+            "titulo": "Abalados",
+            "sinopse": "Com vários desafios pela frente, Sam e Robby começam a treinar com a ajuda dos amigos. A equipe de Johnny e Carmen aumenta.",
+            "duracao": 40,
+            "diretor": "William Zabka",
+            "thumb": "https://image.tmdb.org/t/p/original/85cl8xRS8JbEBKF5djmuwCpvw2d.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMTIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-02-13"
+          },
+          {
+            "numero": 13,
+            "titulo": "Fantasmas do passado",
+            "sinopse": "Chega o momento da verdade, e Daniel e Johnny confrontam o passado. Robby enfrenta Axel no campeonato mundial de caratê.",
+            "duracao": 40,
+            "diretor": "Joel Novoa",
+            "thumb": "https://image.tmdb.org/t/p/original/vtUyWT7A4jFEwRkCOftWe4dnDah.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMTMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-02-13"
+          },
+          {
+            "numero": 14,
+            "titulo": "Acerte por último",
+            "sinopse": "Os melhores lutadores de West Valley se enchem de coragem para encarar os rivais, mas um acontecimento inesperado vai mudar tudo.",
+            "duracao": 48,
+            "diretor": "Josh Heald",
+            "thumb": "https://image.tmdb.org/t/p/original/h6mL6phWGSmotkj0nr4AqUNFhHb.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMTQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-02-13"
+          },
+          {
+            "numero": 15,
+            "titulo": "Ex-degenerado",
+            "sinopse": "Grandes rivalidades, novas oportunidades. Daniel e Johnny voltam para onde tudo começou, com apostas mais altas do que nunca.",
+            "duracao": 50,
+            "diretor": "Jon Hurwitz",
+            "thumb": "https://image.tmdb.org/t/p/original/tfB0zgSSPV5jpa0PM2iycDjQ70p.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNzcxNjktMDYtMTUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2025-02-13"
+          }
+        ]
+      }
+    ]
   }
 ]
