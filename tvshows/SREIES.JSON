@@ -10464,5 +10464,1028 @@
         ]
       }
     ]
+  },
+  {
+    "id": "252-todo-mundo-odeia-o-chris",
+    "titulo": "Todo Mundo Odeia o Chris",
+    "status": "Continuing",
+    "sinopse": "Para Chris, fazer 13 anos não tem nada de maravilhoso. Ele é o único negro da turma do ensino médio, onde tem uma educação medíocre. É amigo de Greg, e é frequentemente abusado por Joey Caruso. Ambos os pais trabalham e ele cuida de seus dois irmãos. Parece trágico, mas é hilário.",
+    "ano": 2005,
+    "nota": 8.1,
+    "classificacao": "10",
+    "estudio": "UPN",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=n95euEbvD8o",
+    "generos": [
+      "Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/j7KcbOjhNIWOQqHGtL0P90nlfHB.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/qji729gwCW88RpIIWidlaLTul3V.jpg",
+    "banner": "",
+    "elenco": [
+      "Tyler James Williams",
+      "Tichina Arnold",
+      "Terry Crews",
+      "Imani Hakim",
+      "Tequan Richmond",
+      "Vincent Martella"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/yDZ3XJb9sNC0A9OpQtWDjlKYh6C.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Todo Mundo Odeia o Chris",
+            "sinopse": "Chris e sua família se mudam para Bed-Stuy. Chris começa a estudar em uma escola com maioria de estudantes brancos onde conhece seu novo amigo Greg e acaba na mira de Joey Caruso, o valentão da escola.",
+            "duracao": 21,
+            "diretor": "Reginald Hudlin",
+            "thumb": "https://image.tmdb.org/t/p/original/pV7Tdi55X82u0fmuu20gRxVsSYc.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2005-09-22"
+          },
+          {
+            "numero": 2,
+            "titulo": "Todo Mundo Odeia Keisha",
+            "sinopse": "Chris se apaixona por sua vizinha Keisha e tenta impressioná-la enquanto ela ajuda Drew a estudar matemática; Julius fica numa situação delicada quando percebe que se sente atraído por Sheila, a mãe de Keisha.",
+            "duracao": 21,
+            "diretor": "Eric Laneuville",
+            "thumb": "https://image.tmdb.org/t/p/original/wpMVn3oOL2T7TexBCfElMnDpzQX.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2005-09-29"
+          },
+          {
+            "numero": 3,
+            "titulo": "Todo Mundo Odeia Basquetebol",
+            "sinopse": "O técnico de basquete da escola recruta Chris para jogar na equipe, mas o problema é que Chris não sabe jogar. Além disso, uma nota baixa num teste surpresa pode obrigá-lo a sair do time. Enquanto isso, Rochelle suspeita de um novo inquilino.",
+            "duracao": 21,
+            "diretor": "Lev L. Spiro",
+            "thumb": "https://image.tmdb.org/t/p/original/6F5g5UT9lt7s10f5ncNvzUMYioQ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2005-10-06"
+          },
+          {
+            "numero": 4,
+            "titulo": "Todo Mundo Odeia Linguiça",
+            "sinopse": "Julius compra uma enorme quantidade de linguiças e obriga a família inteira a comê-las em todas as refeições, mas Tonya se recusa; Chris fica de castigo no colégio por três dias quando rumores de que ele bateu num aluno se espalham pela escola.",
+            "duracao": 21,
+            "diretor": "Lev L. Spiro",
+            "thumb": "https://image.tmdb.org/t/p/original/Am72fVr8VeJ3asIDM4FCT8OppGC.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2005-10-13"
+          },
+          {
+            "numero": 5,
+            "titulo": "Todo Mundo Odeia o Mikão",
+            "sinopse": "Apesar dos avisos do pai, Chris faz amizade com Mikão, um garoto do bairro, e o deixa andar na sua bicicleta, mas o rapaz acaba sumindo com ela; sem trabalho, Julius tenta provar que consegue fazer as tarefas domésticas melhor do que Rochelle.",
+            "duracao": 21,
+            "diretor": "Eric Laneuville",
+            "thumb": "https://image.tmdb.org/t/p/original/Muwq9zHTXThReJmELaSZHJNgBj.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2005-10-20"
+          },
+          {
+            "numero": 6,
+            "titulo": "Todo Mundo Odeia o Dia das Bruxas",
+            "sinopse": "Para impressionar a garota dos seus sonhos, Chris vai a uma festa badalada de Dia das Bruxas e, por insistência do amigo, vai fantasiado como o excêntrico \"Prince\". Julius compra doces baratos para as crianças do bairro.",
+            "duracao": 20,
+            "diretor": "Eric Laneuville",
+            "thumb": "https://image.tmdb.org/t/p/original/vY9qR0BvadlhJUHuiE4HUWwvzmj.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2005-10-27"
+          },
+          {
+            "numero": 7,
+            "titulo": "Todo Mundo Odeia a Babá",
+            "sinopse": "Julius e Rochelle contratam uma babá para tomar conta das crianças, sem imaginar que ela é totalmente irresponsável; Chris assume a tarefa de cuidar dos irmãos quando ela desaparece; a noite romântica de Julius e Rochelle é um desastre.",
+            "duracao": 21,
+            "diretor": "Ken Whittingham",
+            "thumb": "https://image.tmdb.org/t/p/original/oTo7VAQqaDOj2Vh6mo3ATUF4AyC.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2005-11-03"
+          },
+          {
+            "numero": 8,
+            "titulo": "Todo Mundo Odeia a Lavanderia",
+            "sinopse": "Enquanto Julius e Rochelle saem para comprar uma televisão, Chris fica encarregado de levar os irmãos à lavanderia do bairro; as coisas saem do controle quando Tonya passa a se comportar mal.",
+            "duracao": 21,
+            "diretor": "Gina Prince-Bythewood",
+            "thumb": "https://image.tmdb.org/t/p/original/rqx3Qv6hAuUoPMub3Ig0VLtY1EN.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2005-11-10"
+          },
+          {
+            "numero": 9,
+            "titulo": "Todo Mundo Odeia Ticket Alimentação",
+            "sinopse": "Julius encontra cupons de desconto no valor de 200 dólares, mas Rochelle fica com vergonha de usá-los quando encontra uma amiga no supermercado; Chris e Greg têm uma séria discussão sobre o projeto de ciências.",
+            "duracao": 21,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/t4dTZskJFdwtzexnCyqWy8NOUIP.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTA5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2005-11-17"
+          },
+          {
+            "numero": 10,
+            "titulo": "Todo Mundo Odeia o Greg",
+            "sinopse": "Tonya não para de criar problemas para Chris e, irritado com isso, ele resolve ir para a casa de Greg sem a permissão dos pais; quando o pai de seu amigo aparece na casa, Chris acaba tendo que se esconder no armário para evitar ser pego.",
+            "duracao": 20,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/3kTBSb6VZq1GHBZP3mwE3y9heCi.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTEwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2005-11-24"
+          },
+          {
+            "numero": 11,
+            "titulo": "Todo Mundo Odeia o Natal",
+            "sinopse": "Rochelle e Julius não têm dinheiro para comprar o walkman que Chris quer ganhar de Natal; Drew conta para Tonya a verdade sobre o Papai Noel, o que a leva a questionar os pais; a Srta. Morello começa uma campanha para arrecadar alimentos.",
+            "duracao": 20,
+            "diretor": "Dennie Gordon",
+            "thumb": "https://image.tmdb.org/t/p/original/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTExLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2005-12-15"
+          },
+          {
+            "numero": 12,
+            "titulo": "Todo Mundo Odeia Emprego Temporário",
+            "sinopse": "Chris vai trabalhar com Julius como entregador de jornal para poder comprar uma jaqueta de couro descolada; a escola de Drew e Tonya é fechada devido a uma contaminação por causa de tinta à base de chumbo, e os dois começam a se desentender.",
+            "duracao": 21,
+            "diretor": "Tamra Davis",
+            "thumb": "https://image.tmdb.org/t/p/original/5MF4TK2I3lFxr1UB9pB7LWDcU3y.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTEyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-01-19"
+          },
+          {
+            "numero": 13,
+            "titulo": "Todo Mundo Odeia Tirar Foto",
+            "sinopse": "Chris compra uma roupa nova estilosa para o dia da foto na escola, mas Caruso a rouba; Drew esconde o sapato de Tonya depois que ela quebra seu brinquedo; Rochelle vende maquiagem em casa para ganhar um dinheiro extra.",
+            "duracao": 21,
+            "diretor": "Linda Mendoza",
+            "thumb": "https://image.tmdb.org/t/p/original/wOl39RXOtzHEUHF7ULCWpfTiIBP.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTEzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-02-02"
+          },
+          {
+            "numero": 14,
+            "titulo": "Todo Mundo Odeia o Dia dos Namorados",
+            "sinopse": "No Dia dos Namorados, Chris recebe vários cartões pejorativos de Caruso; Chris se apaixona por uma adolescente chamada Tangee, que ele conheceu no ônibus; Drew recebe presentes e telefonemas de muitas garotas, o que deixa Rochelle muito irritada.",
+            "duracao": 20,
+            "diretor": "Millicent Shelton",
+            "thumb": "https://image.tmdb.org/t/p/original/idsmYYom8nbi7d0fA31SFyGpIA.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTE0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-02-09"
+          },
+          {
+            "numero": 15,
+            "titulo": "Todo Mundo Odeia Loteria",
+            "sinopse": "Para cortar as despesas da casa, Rochelle e Julius fazem um acordo: ela vai parar de comprar tartarugas de chocolate e ele de apostar na loteria; Chris descobre que um garoto bateu seu recorde no videogame \"Asteroids\".e o desafio para um duelo.",
+            "duracao": 21,
+            "diretor": "Malcolm D. Lee",
+            "thumb": "https://image.tmdb.org/t/p/original/bBe2akeJq9BWEdJPQWeKYYfo8Dv.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTE1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-02-16"
+          },
+          {
+            "numero": 16,
+            "titulo": "Todo Mundo Odeia Gota",
+            "sinopse": "Chris tira uma nota baixa em matemática e tenta falsificar o boletim escolar antes que seus pais o vejam; Julius tem uma crise de gota e passa o dia em casa assistindo a novelas.",
+            "duracao": 21,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/r4KdHOipfQRICxOMEI5rCwd0YyJ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTE2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-03-02"
+          },
+          {
+            "numero": 17,
+            "titulo": "Todo Mundo Odeia Funerais",
+            "sinopse": "O pai de Rochelle morre subitamente durante um jantar de família, e todos os familiares comparecem ao enterro do velho; Rochelle começa a agir de maneira estranha, como se nada tivesse acontecido, o que acaba assustando Chris.",
+            "duracao": 21,
+            "diretor": "Matt Shakman",
+            "thumb": "https://image.tmdb.org/t/p/original/9gBA43JoAOiq4Qt8opdkRtNhMrN.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTE3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-03-23"
+          },
+          {
+            "numero": 18,
+            "titulo": "Todo Mundo Odeia a Corleone",
+            "sinopse": "Cansado de ser perseguido diariamente por Joey, Chris faz de tudo para ser expulso, já que os pais se recusam a deixá-lo mudar de escola; Julius arranja um excelente emprego num mercado de peixe, com alguns efeitos colaterais para a família.",
+            "duracao": 21,
+            "diretor": "Chris Rock",
+            "thumb": "https://image.tmdb.org/t/p/original/9IOSybeaoTpHPuzDYLw4UvfMMy8.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTE4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-04-13"
+          },
+          {
+            "numero": 19,
+            "titulo": "Todo Mundo Odeia o Drew",
+            "sinopse": "Cansado de Drew ser melhor que ele em tudo, Chris resolve entrar na aula de caratê e, quando os dois se enfrentam, ele quebra a mão do irmão de propósito; Tonya se encanta com as maravilhas do mundo da fofoca no salão de beleza.",
+            "duracao": 21,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/epZiJugxJeE4HwZ8B94KFVTI4tR.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTE5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-04-20"
+          },
+          {
+            "numero": 20,
+            "titulo": "Todo Mundo Odeia a Playboy",
+            "sinopse": "Chris leva para a escola a revista \"Playboy\" que encontrou na caixa de ferramentas do pai e descobre que pode ganhar um bom dinheiro com ela; Julius fica surpreso ao descobrir que Rochelle esconde dinheiro no quarto.",
+            "duracao": 21,
+            "diretor": "Lev L. Spiro",
+            "thumb": "https://image.tmdb.org/t/p/original/hT2NltnLskCoXe0tM5hvu4ajsin.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTIwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-04-27"
+          },
+          {
+            "numero": 21,
+            "titulo": "Todo Mundo Odeia a Prisão",
+            "sinopse": "Chris tenta vender biscoitos para pagar seu passeio escolar até Washington e acaba na prisão por dizer a todo mundo que eles são roubados; Drew e Tonya pegam catapora, atrapalhando os planos de Julius para seu aniversário.",
+            "duracao": 19,
+            "diretor": "Jeff Melman",
+            "thumb": "https://image.tmdb.org/t/p/original/3eK2PUkJRqxGis7ieMAeKS7MRfa.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTIxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-05-04"
+          },
+          {
+            "numero": 22,
+            "titulo": "Todo Mundo Odeia o Dia dos Pais",
+            "sinopse": "Como presente de Dia dos Pais, Julius deseja passar o dia sem a família, e Rochelle, chateada, decide levar as crianças para visitar os lugares aonde o marido nunca iria; Chris se esforça para encontrar o presente perfeito para o pai.",
+            "duracao": 19,
+            "diretor": "Ali LeRoi",
+            "thumb": "https://image.tmdb.org/t/p/original/vC7xVrSRshNq3AqYUe3bSqPxeTW.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAxLTIyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-05-11"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Chris começa a trabalhar na mercearia do Doc para ajudar a família e se apaixona pela vizinha Tasha, apesar da implicância da avó dela, Louise. Ao longo da temporada, ele tenta virar presidente do grêmio, se torna DJ, conhece o criminoso Malvo e enfrenta um professor substituto que pega no seu pé. Enquanto isso, Rochelle aluga o apartamento para o excêntrico Sr. Omar, Chris e Greg matam aula para assistir *Os Caça-Fantasmas*, e Julius revela sua paixão por novelas.",
+        "poster": "https://image.tmdb.org/t/p/original/utqW60rl19BOZ3Cg3ZuiPbNvgBN.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Todo Mundo Odeia Rejeição",
+            "sinopse": "Rochelle tenta organizar uma patrulha de vigilância no bairro depois que o caminhão de Julius é roubado, mas suas boas intenções logo geram confusão.",
+            "duracao": 21,
+            "diretor": "Ken Whittingham",
+            "thumb": "https://image.tmdb.org/t/p/original/9WwbvlmsKYJknjfXjgVRcG69pZr.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-10-01"
+          },
+          {
+            "numero": 2,
+            "titulo": "Todo Mundo Odeia o Presidente do Grêmio",
+            "sinopse": "Chris decide concorrer ao cargo de presidente da turma e pede que Greg seja seu vice.",
+            "duracao": 21,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/yMThZVZqpkEgE5nTIlpANyIzFpT.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-10-08"
+          },
+          {
+            "numero": 3,
+            "titulo": "Todo Mundo Odeia Eleições",
+            "sinopse": "Chris precisa tomar medidas extremas para ganhar a eleição para presidente da turma depois de ser derrotado no debate político por seu adversário.",
+            "duracao": 21,
+            "diretor": "Ali LeRoi",
+            "thumb": "https://image.tmdb.org/t/p/original/muwTVh2PavwN1yhqQeZs5zqeP8p.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-10-16"
+          },
+          {
+            "numero": 4,
+            "titulo": "Todo Mundo Odeia Mentiroso",
+            "sinopse": "Rochelle leva uma bronca da avó de Tasha por causa das mentiras de Chris sobre a moça.",
+            "duracao": 21,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/rI7HZ9b9KVdQJyuz3g5G8LLGl6O.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-10-23"
+          },
+          {
+            "numero": 5,
+            "titulo": "Todo Mundo Odeia o Malvo",
+            "sinopse": "Chris perde o emprego quando se recusa a dizer que foi assaltado enquanto tomava conta da caixa registradora da loja.",
+            "duracao": 21,
+            "diretor": "Debbie Allen",
+            "thumb": "https://image.tmdb.org/t/p/original/raI65oUWNeyoWix2x1RQrmnVNUX.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-10-30"
+          },
+          {
+            "numero": 6,
+            "titulo": "Todo Mundo Odeia Sistema de Parceiragem",
+            "sinopse": "O novo diretor da escola de Chris acha que a melhor forma de acabar com as brigas entre Chris e Caruso é colocá-los como parceiros no passeio da escola.",
+            "duracao": 21,
+            "diretor": "Ken Whittingham",
+            "thumb": "https://image.tmdb.org/t/p/original/nKb0PJwmvF1AWc9jDYcUdMilt0G.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-11-06"
+          },
+          {
+            "numero": 7,
+            "titulo": "Todo Mundo Odeia Promessas",
+            "sinopse": "Chris ouve boatos de um impeachment. O irmão de Rochelle vai morar com eles depois de ser expulso de casa pela mãe, mas Julius não consegue aguentá-lo.",
+            "duracao": 21,
+            "diretor": "Millicent Shelton",
+            "thumb": "https://image.tmdb.org/t/p/original/u9Sy8Z6MqLo7UFIgkn2SqTLMosc.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-11-13"
+          },
+          {
+            "numero": 8,
+            "titulo": "Todo Mundo Odeia o Dia de Ação de Graças",
+            "sinopse": "O bem-sucedido irmão de Julius, Louis, chega para passar o feriado de Ação de Graças com a família.",
+            "duracao": 21,
+            "diretor": "Matt Shakman",
+            "thumb": "https://image.tmdb.org/t/p/original/z6frz5ARonahfq2Sj0qZT5qAFH2.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-11-20"
+          },
+          {
+            "numero": 9,
+            "titulo": "Todo Mundo Odeia Superstição",
+            "sinopse": "Chris alerta que ele não pode fazer nada de errado depois de Julius lhe emprestar um par de meias da sorte; Drew e Tonya decidem jogar seus pais um contra o outro",
+            "duracao": 21,
+            "diretor": "Debbie Allen",
+            "thumb": "https://image.tmdb.org/t/p/original/t3yeHTXRowpl4Ivjq1ttiWAIgbg.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTA5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-11-27"
+          },
+          {
+            "numero": 10,
+            "titulo": "Todo Mundo Odeia Papai Noel",
+            "sinopse": "Julius e Chris aceitam um trabalho extra para o fim de ano e se vestem de Papai Noel e elfo para distraírem as crianças em uma loja de departamentos.",
+            "duracao": 21,
+            "diretor": "Victor Nelli, Jr.",
+            "thumb": "https://image.tmdb.org/t/p/original/n2A8lT8N2P6gfSiq4Kq5iTaqPKd.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTEwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2006-12-11"
+          },
+          {
+            "numero": 11,
+            "titulo": "Todo Mundo Odeia Ovos",
+            "sinopse": "Chris precisa cuidar de um ovo como se fosse seu próprio filho; a conta de luz extrapola o orçamento familiar e Julius decide descobrir o motivo",
+            "duracao": 21,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/gyVZn0vMxg3bJnnanxjypZFTwB4.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTExLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-01-22"
+          },
+          {
+            "numero": 12,
+            "titulo": "Todo Mundo Odeia Inspetores",
+            "sinopse": "Chris é nomeado inspetor escolar, com a função de zelar pela disciplina dos alunos, porém ninguém o respeita.",
+            "duracao": 21,
+            "diretor": "Arlene Sanford",
+            "thumb": "https://image.tmdb.org/t/p/original/z8YfInPNzAsFCiETWuKxZSKu2AX.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTEyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-01-29"
+          },
+          {
+            "numero": 13,
+            "titulo": "Todo Mundo Odeia O Inverno",
+            "sinopse": "Quando a escola é fechada por causa de um dia de neve, Chris é o único que aparece, então precisa passar o dia com o diretor Edwards até que ele consiga localizar os pais de Chris.",
+            "duracao": 21,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/z6j5VsDA1jE7sBVXpn6RDwvWhgi.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTEzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-02-05"
+          },
+          {
+            "numero": 14,
+            "titulo": "Todo Mundo Odeia o Substituto",
+            "sinopse": "Quando Chris acaba com os planos de Malvo de roubar a corrente de ouro de Vanessa, ele precisa descobrir um modo de substituir ou pagar o valor equivalente para Malvo.",
+            "duracao": 21,
+            "diretor": "Millicent Shelton",
+            "thumb": "https://image.tmdb.org/t/p/original/fRgDE58QAjBuM4DLC0AM9EIh6B2.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTE0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-02-12"
+          },
+          {
+            "numero": 15,
+            "titulo": "Todo Mundo Odeia Matar Aula",
+            "sinopse": "Quando a Sra. Morello fica fora da escola por um dia, Chris e Greg cabulam aula para assistir \" Os Caça-Fantasmas\".",
+            "duracao": 21,
+            "diretor": "Keith Truesdell",
+            "thumb": "https://image.tmdb.org/t/p/original/cijZJ6TrsIfTb3W2SUbtQu0YStx.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTE1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-02-19"
+          },
+          {
+            "numero": 16,
+            "titulo": "Todo Mundo Odeia Roubar Correntes",
+            "sinopse": "Quando Chris acaba com os planos de Malvo de roubar a corrente de ouro de Vanessa. Malvo fica furioso e ordena que Chris deverá trazer-lhe uma corrente de ouro ou irá apanhar.",
+            "duracao": 21,
+            "diretor": "Lev L. Spiro",
+            "thumb": "https://image.tmdb.org/t/p/original/ppgfuF9IJTZjPPfACvehOWRrfRF.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTE2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-02-26"
+          },
+          {
+            "numero": 17,
+            "titulo": "Todo Mundo Odeia DJ's",
+            "sinopse": "Chris faz sucesso como DJ depois que o DJ da região é preso durante uma festa. Julius desmaia quando vê um coelho em um show de mágicas.",
+            "duracao": 21,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/tzd6IS2f95so72asMryjuFvxtSB.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTE3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-03-19"
+          },
+          {
+            "numero": 18,
+            "titulo": "Todo Mundo Odeia Beisebol",
+            "sinopse": "Chris precisa decidir entre ir ao jogo de beisebol com seu pai e irmão, ou ir ao cinema com Tasha. Rochelle esquece de enviar a carta de Tonya para o fã-clube de Billy Ocean. O irmão de Rochelle convida a cabeleireira dela para sair.",
+            "duracao": 21,
+            "diretor": "Ali LeRoi",
+            "thumb": "https://image.tmdb.org/t/p/original/fDAFHBumap3HOx44lDo5B4v5xaw.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTE4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-03-26"
+          },
+          {
+            "numero": 19,
+            "titulo": "Todo Mundo Odeia Apostar",
+            "sinopse": "Chris se torna um nato palpiteiro acertando os jogos da NBA na loja do Doc. Julius também aposta sem saber que é seu filho que está dando os tiros.",
+            "duracao": 21,
+            "diretor": "Jason Alexander",
+            "thumb": "https://image.tmdb.org/t/p/original/9ObB80tVjHi0Wc6YU6FoXnGFQlF.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTE5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-04-23"
+          },
+          {
+            "numero": 20,
+            "titulo": "Todo Mundo Odeia Piadas Sujas",
+            "sinopse": "Chris conta algumas piadas sujas na sala de aula e descobre que fazer as pessoas rirem é o segredo para ser popular.",
+            "duracao": 21,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/f75Px19v6w0HbVOMAfCu4EybuIo.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTIwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-04-30"
+          },
+          {
+            "numero": 21,
+            "titulo": "Todo Mundo Odeia Matemática",
+            "sinopse": "A turma inteira conta com Chris para uma olimpíada da matemática e Rochelle decide ser sua tutora.",
+            "duracao": 21,
+            "diretor": "Ken Whittingham",
+            "thumb": "https://image.tmdb.org/t/p/original/xzZKtdxklCtUJk73iIzYYYK9JyH.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTIxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-05-07"
+          },
+          {
+            "numero": 22,
+            "titulo": "Todo Mundo Odeia o Último Dia",
+            "sinopse": "Chris decide se vingar de Caruso, fazendo com que ele pague por infernizar sua vida nos últimos dois anos.",
+            "duracao": 21,
+            "diretor": "Kelsey Grammer",
+            "thumb": "https://image.tmdb.org/t/p/original/x9RKoYF9B7n0lrAPZ5R1z7bLLCV.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAyLTIyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-05-15"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "Chris vive várias experiências marcantes, como dirigir pela primeira vez, tentar se tornar popular e lidar com a chegada de outro aluno negro na escola. Ele também trabalha no restaurante do Senhor Fong e chega a virar um “bad boy” para impressionar Tasha. Enquanto isso, Greg conhece a vizinhança de Bed-Stuy ao dormir na casa de Chris, Rochelle participa de um desfile de cabelos com um penteado bem exagerado, e Julius decide comemorar o Kwanzaa por ser mais barato que o Natal.",
+        "poster": "https://image.tmdb.org/t/p/original/x0m6WL6o02UCrc2lGtTbrrgf4HN.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Todo Mundo Odeia o Orientador",
+            "sinopse": "Depois que Chris se dá mal em um teste padronizado, sua professora o leva ao orientador da escola.",
+            "duracao": 22,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/fhEKgiUmrBJY4NOH53yJciYwiHK.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-10-01"
+          },
+          {
+            "numero": 2,
+            "titulo": "Todo Mundo Odeia o Caruso",
+            "sinopse": "Caruso abre mão do seu papel de valentão da escola depois que ele mesmo passa a ser perseguido.",
+            "duracao": 22,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/oFUd9z4U959lbogZElzO5wtSPB7.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-10-08"
+          },
+          {
+            "numero": 3,
+            "titulo": "Todo Mundo Odeia Dirigir",
+            "sinopse": "As coisas vão mal quando Chris, que não tem habilitação para dirigir, se oferece para tirar o carro do pai do lugar, mas acaba dirigindo até a escola para impressionar Tasha.",
+            "duracao": 22,
+            "diretor": "Debbie Allen",
+            "thumb": "https://image.tmdb.org/t/p/original/zThuwxhVzeSBkjEOr3e5sM860zn.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-10-15"
+          },
+          {
+            "numero": 4,
+            "titulo": "Todo Mundo Odeia o Cachorro",
+            "sinopse": "Julius e Rochelle decidem que seria uma boa ideia ter um cachorro, algo que Chris sempre quis.",
+            "duracao": 22,
+            "diretor": "Victor Nelli, Jr.",
+            "thumb": "https://image.tmdb.org/t/p/original/caHnn5yCGvvw75x3e7IM60eL89B.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-10-22"
+          },
+          {
+            "numero": 5,
+            "titulo": "Todo Mundo Odeia Casa de Solteiro",
+            "sinopse": "A família de Chris fica de cama com gripe e pede ao sr. Omar para tomar conta de Chris até que todos se recuperem.",
+            "duracao": 22,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/hr56wadiCsQlKPdB0dFEszfGCr.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-10-29"
+          },
+          {
+            "numero": 6,
+            "titulo": "Todo Mundo Odeia Bed-Stuy",
+            "sinopse": "Chris decide se unir ao grupo de redatores do jornal escolar e trama uma história fictícia sobre um serial killer solto nas ruas de Bed-Stuy.",
+            "duracao": 22,
+            "diretor": "Debbie Allen",
+            "thumb": "https://image.tmdb.org/t/p/original/2legEhLFWUdeX2RnGbj88rcWtUB.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-11-05"
+          },
+          {
+            "numero": 7,
+            "titulo": "Todo Mundo Odeia Hóspedes",
+            "sinopse": "O comportamento de Chris muda depois que Rochelle e o restante da família passam a fazer de tudo para agradar Greg.",
+            "duracao": 22,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/880AWZCeOKzHf1sS43makeuJYrU.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-11-12"
+          },
+          {
+            "numero": 8,
+            "titulo": "Todo Mundo Odeia Salário Mínimo",
+            "sinopse": "Doc se recusa a dar um aumento de salário para Chris, que sai à procura de um novo emprego no restaurante chinês da vizinhança.",
+            "duracao": 22,
+            "diretor": "Debbie Allen",
+            "thumb": "https://image.tmdb.org/t/p/original/y2fIfUNndS9LjtAUnMFZSz2sG2x.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-11-19"
+          },
+          {
+            "numero": 9,
+            "titulo": "Todo Mundo Odeia o Novato",
+            "sinopse": "Enciumado com a repentina amizade entre Chris e Albert, Greg pede que Chris se afaste do novato.",
+            "duracao": 22,
+            "diretor": "Ted Wass",
+            "thumb": "https://image.tmdb.org/t/p/original/biak2iEBn3ccyaSdAcorxGueygR.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTA5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-11-26"
+          },
+          {
+            "numero": 10,
+            "titulo": "Todo Mundo Odeia Kwanzaa",
+            "sinopse": "Chris decide que sua boa ação será ajudar Kill Moves a visitar a mãe dele no fim do ano, mas a visita vira um grande desafio porque Kill Moves não sabe como encontrá-la.",
+            "duracao": 22,
+            "diretor": "Eyal Gordin",
+            "thumb": "https://image.tmdb.org/t/p/original/v4qpiMMAfZPU0qAMgph1Uqno8Lz.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTEwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2007-12-10"
+          },
+          {
+            "numero": 11,
+            "titulo": "Todo Mundo Odeia a Rodoviária",
+            "sinopse": "Chris e sua família decidem fazer uma viagem ao sul para ir ao velório de um parente distante de Julius.",
+            "duracao": 22,
+            "diretor": "Ali LeRoi",
+            "thumb": "https://image.tmdb.org/t/p/original/vpTQe0NYNWiTvXZfUHkPiikOLzY.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTExLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-03-02"
+          },
+          {
+            "numero": 12,
+            "titulo": "Todo Mundo Odeia Bad Boys",
+            "sinopse": "Chris descobre que Tasha, sua paixão de longa data, gosta de bad boys, e decide deixar de lado sua imagem de bonzinho e conquistar a garota dos seus sonhos.",
+            "duracao": 22,
+            "diretor": "Debbie Allen",
+            "thumb": "https://image.tmdb.org/t/p/original/kqoEs8b91xyJLUTmjc3LwrQVW7l.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTEyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-03-09"
+          },
+          {
+            "numero": 13,
+            "titulo": "Todo Mundo Odeia o Primeiro Beijo",
+            "sinopse": "Depois de descobrir que Tasha frequenta festas em que se brinca de \"Verdade ou Consequência\", Chris quer ser convidado para a próxima.",
+            "duracao": 22,
+            "diretor": "Debbie Allen",
+            "thumb": "https://image.tmdb.org/t/p/original/A5jbYypOvTGVeEStfSFSksVWgBK.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTEzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-03-16"
+          },
+          {
+            "numero": 14,
+            "titulo": "Todo Mundo Odeia a Páscoa",
+            "sinopse": "Tasha termina o namoro e Chris decide ajudá-la se oferecendo para ser sua acompanhante em uma apresentação de Páscoa.",
+            "duracao": 22,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/qIOhzLxLujjXNf3UxjYY4R9JRH8.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTE0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-03-23"
+          },
+          {
+            "numero": 15,
+            "titulo": "Todo Mundo Odeia o Gretzky",
+            "sinopse": "Tentando fazer com que seu irmão mais novo, Drew, fique longe de mais problemas, Chris concorda, relutantemente, em sair da escola e acompanhá-lo.",
+            "duracao": 22,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/ll9lkdelK1fhXqwwUTQF5NALMPn.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTE1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-03-30"
+          },
+          {
+            "numero": 16,
+            "titulo": "Todo Mundo Odeia DFN",
+            "sinopse": "Chris está tão desesperado para juntar dinheiro para ir ao show do Run DMC que aproveita a chance de participar do evento de arrecadação de fundos dos Diretores de Funerais Negros.",
+            "duracao": 22,
+            "diretor": "Debbie Allen",
+            "thumb": "https://image.tmdb.org/t/p/original/9Fg9RlGE4dcmfQqyqZNOY8clNkO.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTE2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-04-06"
+          },
+          {
+            "numero": 17,
+            "titulo": "Todo Mundo Odeia Ex-Presidiário",
+            "sinopse": "Chris tenta ajudar Malvo, um criminoso de carreira que recentemente foi libertado da prisão, dando uma virada na sua vida e levando-o de volta para a escola.",
+            "duracao": 22,
+            "diretor": "Debbie Allen",
+            "thumb": "https://image.tmdb.org/t/p/original/4O4C7hMlueZmFMuRLbGKeI4KlMY.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTE3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-04-13"
+          },
+          {
+            "numero": 18,
+            "titulo": "Todo Mundo Odeia o Dia da Terra",
+            "sinopse": "Chris e o pai recolhem latinhas para o projeto escolar do Dia da Terra; Rochelle é convocada à escola para discutir o comportamento inapropriado de Tonya.",
+            "duracao": 22,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/5XYlNlRpm9Edrl7uZmwJmuZPwa0.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTE4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-04-20"
+          },
+          {
+            "numero": 19,
+            "titulo": "Todo Mundo Odeia Ser Descolado",
+            "sinopse": "Tentando ser considerado maneiro na escola, Chris é pego com cigarros e é suspenso.",
+            "duracao": 22,
+            "diretor": "Ken Whittingham",
+            "thumb": "https://image.tmdb.org/t/p/original/d4JmGyotc9fT2Ui5uIaPAAMKh1S.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTE5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-04-27"
+          },
+          {
+            "numero": 20,
+            "titulo": "Todo Mundo Odeia o Baile da Nona Série",
+            "sinopse": "Chris e Greg estão sem pares para o baile do nono ano, até que Greg recebe um convite, deixando Chris no papel de estranho no ninho.",
+            "duracao": 22,
+            "diretor": "Ken Whittingham",
+            "thumb": "https://image.tmdb.org/t/p/original/hDWPOAlKXncZVGhAP4f1hn3Z3P1.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTIwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-05-03"
+          },
+          {
+            "numero": 21,
+            "titulo": "Todo Mundo Odeia o Dia das Mães",
+            "sinopse": "Chris decide comprar um perfume caro de presente do Dia das Mães, para agradecer à mãe por tudo o que ela já fez por ele.",
+            "duracao": 22,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/63qwPBfwZkLi4w7ojNmVQNFl0B7.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTIxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-05-11"
+          },
+          {
+            "numero": 22,
+            "titulo": "Todo Mundo Odeia Formatura",
+            "sinopse": "A animação de Chris para a formatura na escola acaba quando Greg revela que ele vai para uma escola diferente da dele no ano seguinte.",
+            "duracao": 22,
+            "diretor": "Jason Alexander",
+            "thumb": "https://image.tmdb.org/t/p/original/7jxTss8kyjkEdtEPTw4nDLYdkgO.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTAzLTIyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-05-18"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "sinopse": "Chris e Greg vão para o Colégio Tattaglia, mas a vida de Chris continua na mesma, ainda mais com a Senhorita Morello na nova escola. Enquanto isso, Peaches tenta virar amiga da Rochelle, Julius começa a trabalhar com o Sr. Omar e Tonya passa a ajudar no salão da Vanessa. Chris entra para a luta greco-romana para tentar impressionar as garotas, Rochelle coloca toda a família em uma dieta maluca, e Chris e Greg acabam se metendo em várias confusões, incluindo identidades falsas e uma perna quebrada do Greg.",
+        "poster": "https://image.tmdb.org/t/p/original/8w4fMn6PpQRJqfzOlC9vZm2d4g3.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Todo Mundo Odeia Tattaglia",
+            "sinopse": "Como calouro do ensino médio, Chris esperava frequentar uma escola com alguma diversidade.",
+            "duracao": 22,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/1poViFNqhF2YsMajfKHwMaKc6X2.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-10-03"
+          },
+          {
+            "numero": 2,
+            "titulo": "Todo Mundo Odeia Bolo",
+            "sinopse": "Chris concorda em ajudar sua colega Angel a melhorar as notas, contanto que ela o ajude a chamar a atenção de sua mais nova paixão: Maria.",
+            "duracao": 22,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/bgtrohpoBVbKHcJdKeY2tOTCVF6.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-10-10"
+          },
+          {
+            "numero": 3,
+            "titulo": "Todo Mundo Odeia Baile de Boas Vindas",
+            "sinopse": "Chris fica muito feliz, pois foi convidado para o baile do colégio Tattaglia por uma bonita garota, mas descobre que os pais dela são os Huxtables.",
+            "duracao": 22,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/rIEQhlu2l5AdOqEaG84OtKbxa7v.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-10-17"
+          },
+          {
+            "numero": 4,
+            "titulo": "Todo Mundo Odeia a Professora de Literatura",
+            "sinopse": "Como Julius e Rochelle decidem aumentar o aluguel do sr. Omar, ele pede que o apartamento atenda às normas legais e se muda para o apartamento da família de Chris até a reforma acabar.",
+            "duracao": 22,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/fS0TtPslkMxQofOALkke22d48Bh.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-10-24"
+          },
+          {
+            "numero": 5,
+            "titulo": "Todo Mundo Odeia o Meu Brother",
+            "sinopse": "Chris ajuda um adorado jogador de futebol do time da escola a fazer o dever de casa só para ficar junto do pessoal legal do colégio.",
+            "duracao": 22,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/cwYY3x6DuMC0TR5yMJVXwIcXxpX.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-10-31"
+          },
+          {
+            "numero": 6,
+            "titulo": "Todo Mundo Odeia o Doc",
+            "sinopse": "Stacy, a nova namorada atrevida de Doc, torna a vida de Chris um verdadeiro inferno, então, ele decide acabar com a relação do casal feliz.",
+            "duracao": 22,
+            "diretor": "Lev L. Spiro",
+            "thumb": "https://image.tmdb.org/t/p/original/3U9MPWMzNwEB8OtBRYFfznm2TPa.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-11-07"
+          },
+          {
+            "numero": 7,
+            "titulo": "Todo Mundo Odeia X9",
+            "sinopse": "Chris deveria estar em casa tomando conta de Drew e Tonya, mas vai ao cinema com os amigos e presencia um tiroteio.",
+            "duracao": 22,
+            "diretor": "Anton Cropper",
+            "thumb": "https://image.tmdb.org/t/p/original/rRYr80NYcOqjNUXocxQFSjqSStp.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-11-13"
+          },
+          {
+            "numero": 8,
+            "titulo": "Todo Mundo Odeia Garotas Altas e Magras",
+            "sinopse": "Chris recebe de Kelly, a garota menos inteligente do colégio, um convite para sair. Inicialmente, ele só aceita para não magoá-la, mas depois percebe que gosta da menina de verdade.",
+            "duracao": 22,
+            "diretor": "Ted Wass",
+            "thumb": "https://image.tmdb.org/t/p/original/cWLOLFtOjLmIwSlBKkgYkmgUVpK.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-11-21"
+          },
+          {
+            "numero": 9,
+            "titulo": "Todo Mundo Odeia o James",
+            "sinopse": "Julius descobre que o segredo para deixar Rochelle feliz no casamento está nos conselhos do programa The Oprah Winfrey Show, mas Rochelle acha que Julius está tendo um caso.",
+            "duracao": 22,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/jIelGdPyL8yd8EVJAzWC4HGThNL.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTA5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-11-28"
+          },
+          {
+            "numero": 10,
+            "titulo": "Todo Mundo Odeia Véspera de Ano Novo",
+            "sinopse": "Chris está determinado a passar a véspera de Ano Novo na Times Square, mas Rochelle diz que ele só pode ir se encontrar um adulto responsável para acompanhá-lo.",
+            "duracao": 22,
+            "diretor": "Ted Wass",
+            "thumb": "https://image.tmdb.org/t/p/original/lJmk7I1GAwMyQWZnmL5v5hejd5u.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTEwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2008-12-12"
+          },
+          {
+            "numero": 11,
+            "titulo": "Todo Mundo Odeia o Sr. Levine",
+            "sinopse": "Rochelle descobre que é um ano mais nova do que pensava; um estranho ajuda Chris a ficar em segurança durante um apagão.",
+            "duracao": 22,
+            "diretor": "Oz Scott",
+            "thumb": "https://image.tmdb.org/t/p/original/eroGfNuuNPoESv2A9nGXzjQ4ChT.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTExLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2009-01-09"
+          },
+          {
+            "numero": 12,
+            "titulo": "Todo Mundo Odeia Lutadores Fracassados",
+            "sinopse": "Chris e Greg entram para a equipe de luta livre para ganhar uma jaqueta do time da escola e impressionar as garotas.",
+            "duracao": 22,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/wqyNM9BHLSxjS4pqr2qcDD0T3Or.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTEyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2009-01-16"
+          },
+          {
+            "numero": 13,
+            "titulo": "Todo Mundo Odeia Identidades Falsas",
+            "sinopse": "Chris e Greg percebem que precisam arranjar identidades falsas para conseguir entrar no show dos Fat Boys.",
+            "duracao": 22,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/pXNEyGQAUEBsdeDcL7THth81Ac9.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTEzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2009-01-23"
+          },
+          {
+            "numero": 14,
+            "titulo": "Todo Mundo Odeia Exames para Faculdade",
+            "sinopse": "Chris quer se preparar para seu teste de pré-vestibular, mas, quando Rochelle obriga a família a comparecer a um evento social, ele fica sem tempo para estuda",
+            "duracao": 22,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/qWlwSEHVTktcri4olHEY2IuTpCL.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTE0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2009-01-30"
+          },
+          {
+            "numero": 15,
+            "titulo": "Todo Mundo Odeia Boxe",
+            "sinopse": "O treinador Thurman vê Chris sendo agredido por Caruso e sugere que ele aprenda a lutar boxe para se defender.",
+            "duracao": 22,
+            "diretor": "Ken Whittingham",
+            "thumb": "https://image.tmdb.org/t/p/original/yTyD7Olxmug3O7iLhqMlYWMZHqk.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTE1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2009-02-06"
+          },
+          {
+            "numero": 16,
+            "titulo": "Todo Mundo Odeia Lasanha",
+            "sinopse": "Chris, relutante, concorda em esconder um pacote de maconha para um criminoso em fuga.",
+            "duracao": 22,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/2sg5BO1eZMPMQ3B2N9IDI3r1zYk.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTE2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2009-03-13"
+          },
+          {
+            "numero": 17,
+            "titulo": "Todo Mundo Odeia a Semana da Primavera",
+            "sinopse": "Ao fazer um test drive no carro do zelador, Chris atinge Greg sem querer e acaba quebrando sua perna.",
+            "duracao": 22,
+            "diretor": "Jerry Levine",
+            "thumb": "https://image.tmdb.org/t/p/original/vDoPXSIBBK3N2J79sJGtBHwyqj3.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTE3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2009-03-20"
+          },
+          {
+            "numero": 18,
+            "titulo": "Todo Mundo Odeia o Carro",
+            "sinopse": "Chris finalmente consegue tirar sua carteira de motorista e compra um carro, mas sua alegria dura pouco quando o veículo é roubado, o que lhe ensina uma importante lição de vida.",
+            "duracao": 22,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/d8V5Mon1jtIyc6QYgIUdckMvKgm.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTE4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2009-03-27"
+          },
+          {
+            "numero": 19,
+            "titulo": "Todo Mundo Odeia Lavar a Louça",
+            "sinopse": "Chris decide ficar contra sua mãe e se recusa a fazer as tarefas domésticas; Rochelle reclama com Julius que seu filho a está desrespeitando.",
+            "duracao": 22,
+            "diretor": "Lev L. Spiro",
+            "thumb": "https://image.tmdb.org/t/p/original/iJ2T9g4bzxmgV09u2ssK3YAzLG5.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTE5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2009-04-03"
+          },
+          {
+            "numero": 20,
+            "titulo": "Todo Mundo Odeia a Tasha",
+            "sinopse": "Chris cria coragem para pedir Tasha em namoro e fica surpreso quando ela aceita, mas ele não imaginava que a menina seria tão exigente e que teria que sacrificar todo seu tempo livre.",
+            "duracao": 22,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/BHcvoLaTwPCIVsCygpAsdzHvZx.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTIwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2009-04-24"
+          },
+          {
+            "numero": 21,
+            "titulo": "Todo Mundo Odeia Ameaças de Bomba",
+            "sinopse": "Chris decide fazer uma ameaça de bomba à escola para tentar adiar uma apresentação.",
+            "duracao": 22,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/fG1L1p7ThZEmFXlkWKEUeK6RZzI.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTIxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2009-05-01"
+          },
+          {
+            "numero": 22,
+            "titulo": "Todo Mundo Odeia o Supletivo",
+            "sinopse": "Na última semana de escola, Chris descobre que corre o risco de repetir o ano e faz de tudo para chegar à aula na hora certa.",
+            "duracao": 22,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/9O1RzoU6OTkehGIAuJ3bMh5sbPP.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjUyLTA0LTIyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2009-05-08"
+          }
+        ]
+      }
+    ]
   }
 ]
