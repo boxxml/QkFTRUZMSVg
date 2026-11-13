@@ -5934,5 +5934,789 @@
         ]
       }
     ]
+  },
+  {
+    "id": "67158-1-contra-todos",
+    "titulo": "1 Contra Todos",
+    "status": "Continuing",
+    "sinopse": "A série conta a história do honesto chefe de família Cadu que vê sua vida mudar drasticamente quando ele é preso, após ser confundido com o maior traficante do país.",
+    "ano": 2016,
+    "nota": 6.5,
+    "classificacao": "16",
+    "estudio": "Fox Brasil",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=mxEmx_J0AFg",
+    "generos": [
+      "Drama e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/3o7f2Xjwl5hcoiioR9eGdD9ezHt.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/vZsXfIDs3A8jzB46cdwusqxRjdI.jpg",
+    "banner": "",
+    "elenco": [
+      "Júlio Andrade",
+      "Julia Ianina",
+      "João Fernandes",
+      "Sílvio Guindane",
+      "Roberto Birindelli",
+      "Rita Guedes"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/njlTcWfDfLRpGSjaUrtQTPhBZS0.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "A Justiça é Cega",
+            "sinopse": "Carlos Eduardo Oliveira, Cadu, está tendo um dia podre. Se o atraso no trabalho não bastasse, sua casa está no caos devido ao trabalho inacabado na sala de enfermagem, o bebê está prestes a nascer e o capataz desapareceu.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/idXR0Gk8bH8gUnsZZI3TMkaw4ea.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDEtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-06-20"
+          },
+          {
+            "numero": 2,
+            "titulo": "A Lei Vem do Rei",
+            "sinopse": "Em seu primeiro dia na prisão, Cadu caminha pelo pátio com a China, que apresenta aos detidos.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/3WuQMlDpkpYhDtO0lkVTeJ5DrRC.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDEtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-06-27"
+          },
+          {
+            "numero": 3,
+            "titulo": "Caminho do Crime",
+            "sinopse": "Cadu começa a viver sua mentira. Atos e veste-se como o \"dono do Hotel\", mas manter esse status tem um custo elevado para uma família quase à falência. DIRECTOR tenta recrutar PLAYBOY para matar Cadu e restaurar a ordem, mas Playboy recusa e sugere Magrão.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/eXXXws9c0rsqugdjNpY2kOrpIHr.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDEtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-07-04"
+          },
+          {
+            "numero": 4,
+            "titulo": "Reino Encantado",
+            "sinopse": "TEO luta na escola e MALU diz CADU ele tem que visitá-lo. O Cadu não quer que Teo vê-lo como um prisioneiro e decide transformar a prisão em um verdadeiro \"hotel\" para dar a sua criança um dia mágico, mas se depara com a incompetência dos condenados.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/4ymS6J5ElifSJU28LqoVqtWfX7.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDEtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-07-11"
+          },
+          {
+            "numero": 5,
+            "titulo": "Dr X Dr",
+            "sinopse": "Cadu conseguiu que o diretor o transferisse para outro presídio, onde estaria bem mais seguro, mas o preço foi alto e Malu tem que hipotecar a casa. Jonas prende Pepe, o verdadeiro Doutor e tenta “trocá-lo” por Cadu com o Diretor.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/sfcZFcB0KQtNdtF84j4F7S4iZ9M.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDEtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-08-27"
+          },
+          {
+            "numero": 6,
+            "titulo": "Verdade Não Se Cria",
+            "sinopse": "Pepe ensina e força Cadu a viver como um verdadeiro dono de cartel. De início relutante, Cadu vai aprendendo e, quando se vinga do Diretor, começa a gostar de sua nova força.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/kuO6B9PZbwZ9Jlztcsspv7ZZsw7.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDEtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-09-03"
+          },
+          {
+            "numero": 7,
+            "titulo": "Caminho Do Penta",
+            "sinopse": "Os presos preparam o presídio para a final da copa de 2002. CADU, que continua cheirando e agindo como chefe de cartel, é advertido por PROFESSOR sobre os riscos de perder a família.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/3UkoJyc229MQUnqJzPS22oQAwgV.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDEtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-11-01"
+          },
+          {
+            "numero": 8,
+            "titulo": "Agora É Contra Todos",
+            "sinopse": "No dia do julgamento, CADU e MALU estão confiantes mas preocupados. O processo começa bem, com testemunho de JONAS assegurando que Cadu é inocente, e de PEPE que assume que a droga era toda dele.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/zk5PhT5AyOEcTGmmz50I7AS0Njx.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDEtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-12-01"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/Gz9WK0ohcRpWNq5uCcDLvP4nnd.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "A Prisão É Para Sempre",
+            "sinopse": "Cadu não consegue encontrar emprego e se mete em uma briga com um fiscal corrupto. A briga chama a atenção da mídia e de Gael, diretor de uma ONG. Gael convence Cadu a se candidatar a Deputado Federal, em uma disputa acirrada contra o corrupto Demóstenes.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/gmF57xiA0lCAAVmWJ3n8cWGhzgA.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDItMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2017-09-11"
+          },
+          {
+            "numero": 2,
+            "titulo": "O Caça Deputados",
+            "sinopse": "Cadu se depara com a dura realidade política de Brasília e terá que trabalhar em favor de Pepe. A primeira missão dele é passar uma lei que facilite o tráfico de drogas nas estradas, se envolvendo assim em uma complexa rede de corrupção e chantagem.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/dmQ0jm7jRH56Erikr5g8SD677Gb.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDItMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2017-09-18"
+          },
+          {
+            "numero": 3,
+            "titulo": "Ícaro",
+            "sinopse": "Cadu enfrenta os políticos corruptos. Pepe lhe faz uma visita e deixa claro quem manda. Ele é convocado para uma reunião fora do Congresso e testemunha um assassinato. Malu está feliz com sua nova vida e não sabe do inferno que Cadu está vivendo.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/dGTglGR6mtYgI65Ombp4eNx2MPZ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDItMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2017-09-25"
+          },
+          {
+            "numero": 4,
+            "titulo": "Pais E Filhos",
+            "sinopse": "Cadu é forçado a enviar uma enorme quantidade de maconha a um dos negociantes da Pepe. Mas quando Malu descobre suas mentiras e Teo encontra a droga escondida dentro de sua casa, a família começa a desmoronar.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/5cKFbJqiZTfv5CK22F1Wj1ElWYP.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDItMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2017-10-02"
+          },
+          {
+            "numero": 5,
+            "titulo": "Mensageiro da Verdade",
+            "sinopse": "Téo, que se sente decepcionado com seu pai, começa a se meter em problemas na escola. Cadu tem uma ótima idéia para transportar as drogas de Pepe, mas ele precisará mudar seus planos depois de ser vítima de uma emboscada que ponha todo o plano em risco.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/i6l251vALjv5X1J847sK5JKLXWk.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDItMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2017-10-09"
+          },
+          {
+            "numero": 6,
+            "titulo": "Veneno da Lata",
+            "sinopse": "Veneno da Lata\n\nDepois que todas as drogas de Pepe se perderem, LD se torna o principal suspeito do tráfico de drogas. Téo também se une a Zévio para vender a maconha que encontrou nas favelas de Brasília. Telma descobre a verdade sobre Cadu e Malu está cada vez mais distanciando-se do marido.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/bb8ElJxr3UujduxpQkeGthgR7vm.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDItMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2017-10-16"
+          },
+          {
+            "numero": 7,
+            "titulo": "Brincadeira de Gente Grande",
+            "sinopse": "Brincadeira de Gente Grande\n\nA relação entre Malu e Cadu deteriora-se de forma constante. Téo e Zévio se envolvem no tráfico de drogas da pior maneira possível e Cadu precisará salvar mais vidas do que as suas.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/bm5rOPgzYxDh3Ip4Ct1yKyNO9op.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDItMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2017-10-23"
+          },
+          {
+            "numero": 8,
+            "titulo": "Fim da Estrada",
+            "sinopse": "Fim da Estrada\n\nCadu consegue escapar com Carolina para tentar salvar Téo das mãos de Manco. Malu tenta desesperadamente encontrar seu filho com a ajuda de Gael. Cadu conta com uma ajuda inesperada e indesejada.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/tIDXj3kC03npk11RokZ1gKdQ5Xa.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDItMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2017-10-30"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/oWr83fLF26UUn6tPKNMk2U7fqLr.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "A Mentira é a Verdade",
+            "sinopse": "Seis meses se passaram após os últimos acontecimentos. Téo está preso, Cadu está separado de Malu e está sendo investigado por corrupção pela Polícia Federal.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/iVY1jx7diIWYnWWz2I8B3NFpIGb.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDMtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-04-23"
+          },
+          {
+            "numero": 2,
+            "titulo": "Foragido",
+            "sinopse": "Cadu foge para Corumbá, se disfarça e tenta atravessar a fronteira da Bolívia. Enquanto isso, Malu causa alvoroço no mercado em que trabalha devido a fuga de Cadu e é demitida.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/ep8nV9vDrfiYubcoESAaxM9orWe.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDMtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-04-30"
+          },
+          {
+            "numero": 3,
+            "titulo": "Um Homem Morto",
+            "sinopse": "Cadu consegue convencer Pepe a lhe dar uma chance. Passa a morar na sua fazenda e entender melhor o seu negócio e sua família. Em Brasília, todos acreditam que ele está morto, menos Téo. Malu tenta tirá-lo da cadeia e, sem conseguir emprego, pede dinheiro para Telma.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/tvLNbhqnkx0WR8Gxlfwum7vFSWv.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDMtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-07"
+          },
+          {
+            "numero": 4,
+            "titulo": "El Cobarde",
+            "sinopse": "Pepe sugere que Cadu seja seu sucessor para cuidar dos negócios e de sua família. Téo é obrigado a trazer drogas e dinheiro para dentro do reformatório pra sobreviver. Cadu acompanha Pepita e Juan ao parque de diversões.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/bJrVAkQO74mRE5XVcYMVA3aqsh9.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDMtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-14"
+          },
+          {
+            "numero": 5,
+            "titulo": "Ayahuasca",
+            "sinopse": "Pepe organiza um encontro entre os chefes dos cartéis. Téo tenta comprar sua segurança, mas o plano dá errado. Malu arma uma emboscada para o Juiz Laércio usando uma prostituta como isca. Téo promete que vai matar Chernobyl.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/hgJ2SdKsiQ4O2wKY9z3idtAQKif.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDMtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-21"
+          },
+          {
+            "numero": 6,
+            "titulo": "Ka-Bum!",
+            "sinopse": "Cadu se finge de médico, foge e salva Pepe. Telma e Malu chantageiam o juiz. Téo tenta matar Chernobyl. O juiz tenta transar com Malu e Telma, a Mãe da Cela entra no quarto e o mata. Cadu e Pepe chegam na fazenda e todos os seguranças estão mortos.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/p0Q3BYTIDOlJf1ScRYXoSn6dd2M.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDMtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-05-28"
+          },
+          {
+            "numero": 7,
+            "titulo": "César Está Vivo",
+            "sinopse": "Gael ajuda Malu a se livrar do corpo do juiz. Téo está internado com as costelas quebradas. Gael suborna uma juíza e consegue o alvará de soltura de Téo para Malu. Pepita e Cadu transam. Cadu abre o jogo para Pepita e a convence que devem pedir ajuda a Plínio. Liliana ajuda Téo a fugir do hospital.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/aUJ0fxD9UjNMb6Rz9kOwn4Ut26b.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDMtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-06-04"
+          },
+          {
+            "numero": 8,
+            "titulo": "Paco tem que Morrer",
+            "sinopse": "Cadu explode o principal centro de produção de Paco. Paco liga para Pepe e o ameaça. Pepe convence Paco que devem negociar e marcam um encontro. Carro de Gael e Malu explode. A notícia da explosão chega Cadu.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/2kBtbpoziXPq8Sgbrdg3tyODDri.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDMtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-06-11"
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/mw2uLxvlOS0QuvxnciftH2PTAT3.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Pax Romana",
+            "sinopse": "Com Paco morto, Pepe preso na Bolívia e Pepita com sua filha nos braços, Cadu resolve viver honestamente como agricultor, plantando e vendendo café na Bolívia. O negócio começa indo bem até que um incêndio acaba com toda a plantação. Vulnerável, Cadu passa a ser protegido por Madalena. Mas essa sensação e segurança dura pouco quando um dos grandes aliados de Cadu é morto.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDQtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-03-27"
+          },
+          {
+            "numero": 2,
+            "titulo": "Todos os Caminhos Levam a Miami",
+            "sinopse": "Com o trono de chefe dos cartéis bolivianos vazio, Pepe pede que Cadu vá para Miami fechar um negócio com o Cartel de lá e mostrar que eles ainda são os reis da região. Cadu vai para os EUA e é recebido com carrão, hotel cinco estrelas, drogas, bebida e mulheres. Atraído pelo tratamento VIP, Cadu acaba garantindo que fornecerá 1 tonelada de cocaína para Miami através do Brasil.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDQtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-03-27"
+          },
+          {
+            "numero": 3,
+            "titulo": "Dinheiro é a Lei",
+            "sinopse": "Pressionado pelo cartel de Miami, Cadu vai para Brasília e reúne suas forças, e muito dinheiro, para aprovar a Lei do Lúpulo, lei que pode beneficiar o tráfico de drogas entre a Bolívia e os Estados Unidos. O que Cadu não espera é que nenhum dinheiro do mundo comprará o honesto Deputado Bruno Pontes.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDQtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-04-03"
+          },
+          {
+            "numero": 4,
+            "titulo": "Linhas Cruzadas",
+            "sinopse": "Cadu falha na aprovação da Lei do Lúpulo e, desesperado, encontra em Telma uma improvável aliada na renegociação com os poderosos de Brasília. Estes novos acordos terão consequências não só políticas como pessoais, colocando vidas em risco e atraindo uma vida inesperada à Fazenda Dama da Noite.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDQtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-04-03"
+          },
+          {
+            "numero": 5,
+            "titulo": "Presente de Grego",
+            "sinopse": "Cadu volta para a Bolívia e encontra Angel, enviado do cartel de Miami, bastante à vontade na fazenda. Apesar dos alertas de Pepita sobre os riscos trazidos pelo indesejado hóspede, o Doutor se nega a mostrar quem manda. Ainda em dívida com o cartel americano, Cadu volta à Brasília e percebe que sua salvação está nas mãos de Malu, que irá cobrar caro por sua ajuda.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDQtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-04-10"
+          },
+          {
+            "numero": 6,
+            "titulo": "Criador e Criatura",
+            "sinopse": "Todos estão contra Cadu. Pepe se sente traído pelo Doutor, que não cumpriu sua promessa sobre Pepita. Angel está cada vez mais influente dentro da Fazenda Dama de la Noche. Malu decide expor a Bruno os planos do ex-marido. Assim, Cadu terá que se defender não tanto de velhos quanto de novos inimigos.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDQtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-04-10"
+          },
+          {
+            "numero": 7,
+            "titulo": "Pagando o Preço",
+            "sinopse": "Encurralado por todos os lados, Cadu decide fugir para não arriscar a segurança de sua família e aliados. Porém, inimigos continuam no encalço do Doutor e são violentamente implacáveis com os que ousam cruzar o caminho entre eles e Cadu.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDQtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-04-17"
+          },
+          {
+            "numero": 8,
+            "titulo": "Liberdade",
+            "sinopse": "Vendo todo o estrago e sofrimento a sua volta, Cadu encontra a única forma de não ser uma ameaça a todos aqueles que ama, mesmo que para isso tenha que sacrificar-se.",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjcxNTgtMDQtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2020-04-17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "62264-ash-vs-evil-dead",
+    "titulo": "Ash vs Evil Dead",
+    "status": "Continuing",
+    "sinopse": "30 anos depois, o caçador de demônios Ash Williams está de volta para enfrentar uma nova praga Deadite. Ele pode ter perdido a mão, mas não o seu toque.",
+    "ano": 2015,
+    "nota": 7.8,
+    "classificacao": "18",
+    "estudio": "STARZ",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=-Yq3jeOmxSk",
+    "generos": [
+      "Comédia e Action & Adventure e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/9tNtSk46s3f1ePr59p0JG6uacc8.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/bIna9BL7Uny1hM63ntTI9BpRkRJ.jpg",
+    "banner": "",
+    "elenco": [
+      "Bruce Campbell",
+      "Ray Santiago",
+      "Dana DeLorenzo",
+      "Lucy Lawless",
+      "Arielle O'Neill"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Trinta anos depois, o caçador de demônios Ash Williams está de volta para enfrentar uma nova praga Deadite. Ele pode ter perdido a mão, mas não o seu toque.",
+        "poster": "https://image.tmdb.org/t/p/original/bxCjPF2rfxfLQtSpV9riwIoLaaD.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Uma visão perturbadora faz Ash deixar sua vida monótona de lado e reassumir a serra elétrica. A agente Amanda Fisher é apresentada a um novo mundo.",
+            "duracao": 41,
+            "diretor": "Sam Raimi",
+            "thumb": "https://image.tmdb.org/t/p/original/jjn4rqMeqKJpf1PVEGsZeSHLYMZ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDEtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-10-31"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Amanda descobre o envolvimento de Ash nas mortes. Pablo participa de um confronto sangrento. Kelly recebe uma ligação que deixa Ash desconfiado.",
+            "duracao": 28,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/86qwh6frw46DMY2vACACSRCLoGS.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDEtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-11-07"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "Ash tenta encontrar um homem que pode acabar com a maldição, mas Ruby está no encalço do grupo.",
+            "duracao": 28,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/kbR1K3A3nl6Km0bb9bSP46cZh4h.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDEtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-11-14"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Ash, Kelly e Pablo partem para seguir uma nova pista, mas o trio não está só. Ruby e Amanda unem forças para deter Ash.",
+            "duracao": 29,
+            "diretor": "David Frazee",
+            "thumb": "https://image.tmdb.org/t/p/original/iqGOflN5tGuqRPiQ0xAEwkNpXEI.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDEtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-11-21"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Controlada por Eligos, Kelly convence Pablo e seu tio de que Ash é quem está possuído. Amanda e Ruby usam a mão decepada de Ash como pista para procurá-lo.",
+            "duracao": 27,
+            "diretor": "David Frazee",
+            "thumb": "https://image.tmdb.org/t/p/original/quEuKLrnIATUAhwD2Fd4rPBc9Dc.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDEtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-11-28"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "Ruby e Amanda são surpreendidas ao chegar à fazenda. O trio tenta conseguir armas com um amigo de Ash.",
+            "duracao": 26,
+            "diretor": "Michael Hurst",
+            "thumb": "https://image.tmdb.org/t/p/original/qmvZYpNcBb6xHofAf3wUNrCpq9e.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDEtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-12-05"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "O grupo visita uma milícia armada até os dentes, mas descobre que algo chegou primeiro.",
+            "duracao": 26,
+            "diretor": "Michael Hurst",
+            "thumb": "https://image.tmdb.org/t/p/original/wwxL9nL7Whvns08L9JHfQADLNMH.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDEtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-12-12"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "Determinado a pôr um fim em tudo, Ash volta à cabana. Pablo e Kelly se perdem na floresta e pedem ajuda a um grupo.",
+            "duracao": 27,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/tgXx94YHx2jNx9ncTvjekPIAa2L.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDEtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-12-19"
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "Kelly e Pablo confrontam Ash e o clone. Em seguida, visitas chegam à cabine no momento mais inconveniente possível.",
+            "duracao": 28,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/ka06pRSe84krCyBQGJsdbbEotA0.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDEtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-12-26"
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "Kelly tenta salvar Pablo do controle do Necronomicon. Ruby faz uma oferta tentadora a Ash.",
+            "duracao": 35,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/bKrPWl7u8T7X8ZMzuLSYTO2b5Kn.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDEtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-01-02"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Ash volta para enfrentar os mortos-vivos em Elk Grove, onde é obrigado a formar uma aliança desconfortável com um antigo inimigo.",
+        "poster": "https://image.tmdb.org/t/p/original/4iOPAUG9vZGAkj6OetZpTUT5jj8.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Ash, Pablo e Kelly recebem um recado de Ruby e vão a Elk Grove, Michigan, um lugar cheio de surpresas.",
+            "duracao": 34,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/vREjbRFJf5qx3bUKb9uewi377nm.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDItMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-10-02"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Pablo recebe uma pista surpreendente de Ruby sobre o Necronomicon. Ash descobre que ele e o pai têm algo em comum.",
+            "duracao": 27,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/2xnQLwOESCutqyPcQ19Bcl3uW0i.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDItMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-10-09"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "Depois que adolescentes baderneiros roubam o Delta, Ash e Chet tramam um plano para recuperar o carro e o Necronomicon de uma vez por todas.",
+            "duracao": 30,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/mR0sHllcXWrCaMCj1rpjZG2VuCL.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDItMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-10-16"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Kelly e Ruby estão em uma enrascada, Pablo vai dar uma volta a contragosto, e Ash se vê obrigado a improvisar.",
+            "duracao": 28,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/4pvZQhr2xtOVNKdWjCh2kUQTkDZ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDItMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-10-23"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Ash vai parar na delegacia depois que policiais encontram uma terrível cena de crime. Enquanto está detido, Ash recebe um telefonema misterioso.",
+            "duracao": 28,
+            "diretor": "MJ Bassett",
+            "thumb": "https://image.tmdb.org/t/p/original/63QLZmCi6lZvfQt2aHVxEmd5cY1.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDItMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-10-30"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "Ash e os comparsas estão encurralados na casa de Brock. Ruby dá tudo de si para invocar um feitiço.",
+            "duracao": 29,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/7yt9EEqzJJNv6iowgiQr9KRA1Ya.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDItMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-11-06"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "Ao acordar, Ash descobre que tudo o que ele vivenciou está sendo questionado por um médico estranho.",
+            "duracao": 29,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/2HZpiFAK1yznmVkINm6oOtZiyU4.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDItMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-11-13"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "Para socorrer Ash, Ruby, Pablo e Kelly invadem um manicômio abandonado e dão de cara com o xerife Emery e um inimigo que mete medo.",
+            "duracao": 28,
+            "diretor": "Tony Tilse",
+            "thumb": "https://image.tmdb.org/t/p/original/9BIO2tsdrV5JJBOOpzncxvyXDvm.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDItMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-11-20"
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "Ao tentar recolocar tudo nos eixos, Ash provoca consequências inesperadas. Ruby e Kelly se metem em uma enrascada na mata.",
+            "duracao": 28,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/uPgVizNFm4VJoo9fl2cHot5Who2.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDItMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-12-04"
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "Novos eventos causam mudanças profundas no presente. Ash desafia o demônio Baal em um duelo definitivo.",
+            "duracao": 33,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/vzFox17tszap1dvxYAujZmqGjk.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDItMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2016-12-11"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "Ele é um defensor dos vivos, um erradicador dos mortos e um pai que está prestes a conhecer a filha que nunca soube que tinha.",
+        "poster": "https://image.tmdb.org/t/p/original/rPd9jXbgtmq8P4ZMQin2Hcok4nK.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Família",
+            "sinopse": "Enquanto Ash se prepara para a inauguração de sua loja de ferragens/empório de sexo, uma velha paixão aparece com notícias chocantes sobre o passado de ambos.",
+            "duracao": 28,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/oNV1srvQs4MO9CSwJkYcVgVDhNo.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDMtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-02-25"
+          },
+          {
+            "numero": 2,
+            "titulo": "Estande de Três",
+            "sinopse": "O bebê profano de Ruby quer nascer. Ash, também conhecido como “pai legal”, se esforça para se relacionar com Brandy. O novo amigo de Kelly se dá mal com Pablo.",
+            "duracao": 29,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/zZtRskxwOeNF50C84o0eQHb6o16.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDMtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-03-04"
+          },
+          {
+            "numero": 3,
+            "titulo": "Aparentemente Morto",
+            "sinopse": "Uma velha paixão se reaproxima de Ash, mas ele não está exatamente a fim. Dalton, Pablo e Kelly fazem uma viagem. Brandy oferece uma saída a seu pai.",
+            "duracao": 29,
+            "diretor": "Diego Meza-Valdes",
+            "thumb": "https://image.tmdb.org/t/p/original/wrGvPDO1VHWhVyk3o72awYYE0PN.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDMtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-03-11"
+          },
+          {
+            "numero": 4,
+            "titulo": "Assuntos Incompletos",
+            "sinopse": "Enquanto um visitante inesperado faz Ash se lembrar do passado, Kelly e Brandy dão de cara com um velho amigo que não é bem ele mesmo.",
+            "duracao": 28,
+            "diretor": "Daniel Nettheim",
+            "thumb": "https://image.tmdb.org/t/p/original/j0o40WDJHGU8oHHHApooqMAHezA.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDMtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-03-18"
+          },
+          {
+            "numero": 5,
+            "titulo": "Prova do Bebê",
+            "sinopse": "Ash enfrenta uma criança problemática com complexo de pai. Kelly tem que cuidar de uma ferida desagradável enquanto tenta persuadir Pablo a deixar que ela o salve.",
+            "duracao": 28,
+            "diretor": "Daniel Nettheim",
+            "thumb": "https://image.tmdb.org/t/p/original/7x9Ahrf2jbSzj0QYglzgw65VzBZ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDMtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-03-25"
+          },
+          {
+            "numero": 6,
+            "titulo": "Contos da Fenda",
+            "sinopse": "Kelly faz uma visita a Ruby, com armas em punho. Ash e Brandy fazem o possível para se esconder, mas os Cavaleiros da Suméria têm outras ideias.",
+            "duracao": 28,
+            "diretor": "Regan Hall",
+            "thumb": "https://image.tmdb.org/t/p/original/asjkTLAxZCop9mMycTC6CItTXKF.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDMtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-04-01"
+          },
+          {
+            "numero": 7,
+            "titulo": "Agitamos e Gritamos",
+            "sinopse": "Brandy revela seu plano de batalha, mas Ash não está muito interessado na estratégia. Ruby dá as boas-vindas a seu “bebê”, e Pablo tem uma visão.",
+            "duracao": 27,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/tYgWWBMLF8pHOkAMi5cLD8DfURG.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDMtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-04-08"
+          },
+          {
+            "numero": 8,
+            "titulo": "Desmontando-se",
+            "sinopse": "A polícia amplia suas buscas por Ash. Pablo apresenta um plano perigoso. Brandy encontra um rosto familiar em território desconhecido.",
+            "duracao": 28,
+            "diretor": "Mark Beesley",
+            "thumb": "https://image.tmdb.org/t/p/original/pRkPDhK7FZ6ebYsPzaO71KDAyfi.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDMtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-04-15"
+          },
+          {
+            "numero": 9,
+            "titulo": "Dia do Julgamento",
+            "sinopse": "Enquanto Ruby e Kelly se esforçam para ferir Zoe, Pablo fala sobre a estratégia final com Ash e Brandy.",
+            "duracao": 29,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/620EJmWoYYU3FsKLykkwJvzHK2s.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDMtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-04-22"
+          },
+          {
+            "numero": 10,
+            "titulo": "A Coragem do Homem",
+            "sinopse": "Enquanto Elk Grove e o mundo vivem o caos, Ash tenta provar sua coragem lutando contra um gigantesco demônio kandariano.",
+            "duracao": 30,
+            "diretor": "Rick Jacobson",
+            "thumb": "https://image.tmdb.org/t/p/original/mkyZYgWiMWtoWCPrdeSuhkqC19G.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDMtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2018-04-29"
+          }
+        ]
+      }
+    ]
   }
 ]
