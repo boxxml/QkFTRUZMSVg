@@ -9977,5 +9977,317 @@
         "episodios": []
       }
     ]
+  },
+  {
+    "id": "84773-o-senhor-dos-aneis-os-aneis-de-poder",
+    "titulo": "O Senhor dos Anéis: Os Anéis de Poder",
+    "status": "Continuing",
+    "sinopse": "Tendo início em uma época de relativa paz, a série acompanha um grupo de personagens que enfrenta o ressurgimento do mal na Terra-média. Das profundezas escuras das Montanhas de Névoa, das majestosas florestas de Lindon, do belíssimo reino da ilha de Númenor, até os confins do mapa, esses reinos e personagens criarão legados que permanecerão vivos muito além de suas partidas.",
+    "ano": 2022,
+    "nota": 7.2,
+    "classificacao": "14",
+    "estudio": "Prime Video",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=IlGXupyQk-M",
+    "generos": [
+      "Action & Adventure e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/8FPCnfOftiLTHg5wnJxVdtlF8EN.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/hVRWuAY03KfLjjAbwmy9QhrfAPs.jpg",
+    "banner": "",
+    "elenco": [
+      "Charlie Vickers",
+      "Morfydd Clark",
+      "Robert Aramayo",
+      "Owain Arthur",
+      "Sophia Nomvete",
+      "Markella Kavenagh"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Tendo início em uma época de relativa paz, a série acompanha um grupo de personagens que enfrentam o ressurgimento do mal na Terra-média. Das profundezas escuras das Montanhas de Névoa, das majestosas florestas de Lindon, do belíssimo reino da ilha de Númenor, até os confins do mapa, esses reinos e personagens criarão legados que permanecerão vivos muito além de suas partidas.",
+        "poster": "https://image.tmdb.org/t/p/original/zHiWupUfXu6tzegibhxfqvhF5F0.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "A Sombra do Passado",
+            "sinopse": "Galadriel é perturbada por sinais do retorno de um antigo mal; Arondir faz uma descoberta inquietante; Elrond é apresentado a um novo empreendimento intrigante; Nori quebra a regra mais arraigada da comunidade Harfoot.",
+            "duracao": 66,
+            "diretor": "J. A. Bayona",
+            "thumb": "https://image.tmdb.org/t/p/original/15UCiKw7ujYq0W7nQ4u06l6oENn.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDEtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-01"
+          },
+          {
+            "numero": 2,
+            "titulo": "À Deriva",
+            "sinopse": "Galadriel encontra um novo aliado. Elrond é recebido com frieza por um velho amigo. Nori se aventura a ajudar um Estranho. Arondir busca respostas enquanto Bronwyn alerta seu povo sobre uma ameaça.",
+            "duracao": 68,
+            "diretor": "J. A. Bayona",
+            "thumb": "https://image.tmdb.org/t/p/original/pxxm7FTgVXj6Yh6Iq9Dj40854cN.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDEtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-01"
+          },
+          {
+            "numero": 3,
+            "titulo": "Adar",
+            "sinopse": "Arondir se torna prisioneiro. Galadriel e Halbrand exploram um reino lendário. Elendil recebe uma nova tarefa. Nori enfrenta as consequências.",
+            "duracao": 70,
+            "diretor": "Wayne Che Yip",
+            "thumb": "https://image.tmdb.org/t/p/original/phPzXd42PjpcZc5jkVGVwxTY1kA.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDEtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-08"
+          },
+          {
+            "numero": 4,
+            "titulo": "A Grande Onda",
+            "sinopse": "A fé da Rainha-Regente Míriel é testada. Isildur se encontra em uma encruzilhada. Elrond descobre um segredo. Arondir recebe um ultimato. Theo desobedece Bronwyn.",
+            "duracao": 72,
+            "diretor": "Wayne Che Yip",
+            "thumb": "https://image.tmdb.org/t/p/original/hkdQY91zh0fSXbYZ8IU1uEPvzAe.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDEtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-15"
+          },
+          {
+            "numero": 5,
+            "titulo": "Partidas",
+            "sinopse": "Nori questiona seus instintos. Elrond luta para se manter fiel a seu juramento. Halbrand pondera o seu destino. Os sulistas se preparam para o ataque iminente.",
+            "duracao": 73,
+            "diretor": "Wayne Che Yip",
+            "thumb": "https://image.tmdb.org/t/p/original/jLxeqABrd8nqKq6aLa7wPIszRMU.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDEtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-22"
+          },
+          {
+            "numero": 6,
+            "titulo": "Udûn",
+            "sinopse": "Adar e seu exército marcham sobre Ostirith.",
+            "duracao": 70,
+            "diretor": "Charlotte Brändström",
+            "thumb": "https://image.tmdb.org/t/p/original/oGaGLjtdRMXPTcgymD4pUiwD9j1.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDEtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-09-29"
+          },
+          {
+            "numero": 7,
+            "titulo": "O Olho",
+            "sinopse": "Os sobreviventes de um cataclisma tentam encontrar abrigo. Os Pés-Peludos enfrentam o mal. Durin se vê dividido entre a amizade e o dever. Adar pensa em um novo nome.",
+            "duracao": 73,
+            "diretor": "Charlotte Brändström",
+            "thumb": "https://image.tmdb.org/t/p/original/gS6ziDnTQv14AIcZHGrN09Ojfqn.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDEtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-10-06"
+          },
+          {
+            "numero": 8,
+            "titulo": "A Liga",
+            "sinopse": "Novas alianças são forjadas.",
+            "duracao": 73,
+            "diretor": "Wayne Che Yip",
+            "thumb": "https://image.tmdb.org/t/p/original/thh9aJqVR7b5Hj32ogiNNOdd9X6.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDEtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2022-10-13"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Sauron voltou. Banido por Galadriel, o Senhor Sombrio deve agora confiar na própria astúcia para restituir a força e forjar os lendários Anéis de Poder, ameaçando atar todos os povos da Terra-média à sua vontade sinistra. A 2ª temporada mergulha seus personagens mais amados e vulneráveis em uma onda crescente de escuridão, desafiando cada um a encontrar seu lugar em um mundo à beira da calamidade.",
+        "poster": "https://image.tmdb.org/t/p/original/7gTV9UiOTm7IsAORWGY3OPQ7OaK.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Os Élficos Reis sob o Céu",
+            "sinopse": "Sauron barganha com Adar. O Estranho e Nori chegam a terras desconhecidas. Os Três Anéis Élficos são julgados.",
+            "duracao": 77,
+            "diretor": "Charlotte Brändström",
+            "thumb": "https://image.tmdb.org/t/p/original/8mRngZuqhKTvM5rUZRNsFYux36T.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDItMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-08-29"
+          },
+          {
+            "numero": 2,
+            "titulo": "Onde as Estrelas São Estranhas",
+            "sinopse": "A escuridão cai sobre Khazad-dûm. Sauron busca novos aliados, e Galadriel também. O Estranho e os Pés-peludos se deparam com a ameaça que se aproxima.",
+            "duracao": 63,
+            "diretor": "Charlotte Brändström",
+            "thumb": "https://image.tmdb.org/t/p/original/Omt5mxEW6C0DfLsbyTxopYgoiZ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDItMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-08-29"
+          },
+          {
+            "numero": 3,
+            "titulo": "A Águia e o Cetro",
+            "sinopse": "Isildur e um velho amigo se reencontram. Arondir lida com mudanças. Miriel enfrenta uma oposição cada vez mais acirrada. Annatar aconselha Celebrimbor.",
+            "duracao": 67,
+            "diretor": "Charlotte Brändström",
+            "thumb": "https://image.tmdb.org/t/p/original/zMMkC9bGUT6MrtXGK6UAmSyApIC.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDItMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-08-29"
+          },
+          {
+            "numero": 4,
+            "titulo": "O Mais Velho",
+            "sinopse": "O Estranho encontra o que vinha procurando. Arondir e Isildur procuram Theo. Galadriel e Elrond caem em uma armadilha.",
+            "duracao": 66,
+            "diretor": "Louise Hooper",
+            "thumb": "https://image.tmdb.org/t/p/original/5j0f3bnQuXk2KGSdkF6opRq6W3A.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDItMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-09-05"
+          },
+          {
+            "numero": 5,
+            "titulo": "Recinto Rochoso",
+            "sinopse": "Quando Durin desconfia dos Anéis dos Anãos, Celebrimbor precisa repensar suas prioridades. Entre as marés turbulentas que vêm tomando Númenor, Elendil busca esperança.",
+            "duracao": 62,
+            "diretor": "Louise Hooper",
+            "thumb": "https://image.tmdb.org/t/p/original/aMrrsn8aIK4mNEidCFXuFCHDTKZ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDItMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-09-12"
+          },
+          {
+            "numero": 6,
+            "titulo": "Onde Ele Está?",
+            "sinopse": "Galadriel avalia uma proposta. Elendil vai a julgamento. O Estranho se depara com uma encruzilhada. Os planos de Sauron dão frutos.",
+            "duracao": 64,
+            "diretor": "Sanaa Hamri",
+            "thumb": "https://image.tmdb.org/t/p/original/dDpTdsaS3pobY2eUti5hGjFrUgp.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDItMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-09-19"
+          },
+          {
+            "numero": 7,
+            "titulo": "Que a Morte Escolheu",
+            "sinopse": "O destino de Eregion é selado.",
+            "duracao": 73,
+            "diretor": "Charlotte Brändström",
+            "thumb": "https://image.tmdb.org/t/p/original/wPXBWFxzfKgD7clsxRxk24hzSqi.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDItMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-09-26"
+          },
+          {
+            "numero": 8,
+            "titulo": "Sombra e Chama",
+            "sinopse": "Os povos livres da Terra-média lutam contra as forças das trevas.",
+            "duracao": 74,
+            "diretor": "Charlotte Brändström",
+            "thumb": "https://image.tmdb.org/t/p/original/y8QZyos5Xck90iztghsWcIr7yUd.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDItMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2024-10-03"
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "sinopse": "A guerra entre os Elfos e Sauron está no auge, mas o Senhor Sombrio age em segredo para forjar um poder que traga a vitória: UM ANEL QUE A TODOS REGE.",
+        "poster": "https://image.tmdb.org/t/p/original/8FPCnfOftiLTHg5wnJxVdtlF8EN.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Marnûkh",
+            "sinopse": "A guerra entre os Elfos e Sauron se estende. Galadriel relembra um amor perdido. Durin recebe o irmão... e outro convidado inesperado.",
+            "duracao": 74,
+            "diretor": "Charlotte Brändström",
+            "thumb": "https://image.tmdb.org/t/p/original/o8HVnxoRuw6G8yycLu1a4vGIU7a.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDMtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-11"
+          },
+          {
+            "numero": 2,
+            "titulo": "A Dádiva dos Homens",
+            "sinopse": "Um tumulto eclode em Númenor. Theo contempla um novo caminho. Os Anões avaliam as opções. Cientes do plano de Sauron, os Elfos ponderam uma missão.",
+            "duracao": 69,
+            "diretor": "Charlotte Brändström",
+            "thumb": "https://image.tmdb.org/t/p/original/v7V7AKi5aIP7inzMiAeYRVOuJEc.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDMtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-11"
+          },
+          {
+            "numero": 3,
+            "titulo": "O Fogo Secreto",
+            "sinopse": "Gandalf tenta manter Rhûn longe da guerra. Elendil caça um espião. Marnûkh leva Galadriel e Arondir a Gundabad, deixando Sauron intrigado.",
+            "duracao": 58,
+            "diretor": "Sanaa Hamri",
+            "thumb": "https://image.tmdb.org/t/p/original/8Yw5p0jpFtk4Lv0M4fc2NTsTysS.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDMtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-11"
+          },
+          {
+            "numero": 4,
+            "titulo": "Gundabad",
+            "sinopse": "Em Gundabad, nossos heróis acham menos do que buscavam e mais do que esperavam. Elrond leva Gil-galad a uma missão urgente. Durin defende o trono.",
+            "duracao": 57,
+            "diretor": "Sanaa Hamri",
+            "thumb": "https://image.tmdb.org/t/p/original/8HFT84AAqfjsqcz1xbx4afQPxQh.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDMtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-11"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDMtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-18"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDMtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-18"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDMtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-25"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvODQ3NzMtMDMtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-25"
+          }
+        ]
+      }
+    ]
   }
 ]
