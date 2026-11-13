@@ -8203,5 +8203,327 @@
         ]
       }
     ]
+  },
+  {
+    "id": "298425-a-dama",
+    "titulo": "A Dama",
+    "status": "Ended",
+    "sinopse": "Camareira real Jane Andrews saiu da pobreza e chegou ao palácio, até que uma condenação por homicídio acabou com seu conto de fadas.",
+    "ano": 2026,
+    "nota": 6.7,
+    "classificacao": "16",
+    "estudio": "ITV1",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=MFGic50-O-0",
+    "generos": [
+      "Drama e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/y1Xg6NPRD8QFbgOVer16ynjGYUp.jpg",
+    "banner": "",
+    "elenco": [
+      "Mia McKenna-Bruce",
+      "Natalie Dormer",
+      "Philip Glenister",
+      "Ophelia Lovibond",
+      "Claire Skinner",
+      "Daniel Ryan"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "A vida de Jane Andrews muda da noite para o dia quando consegue o emprego dos sonhos no Palácio de Buckingham e se aproxima da Duquesa de York.",
+            "duracao": 46,
+            "diretor": "Lee Haven Jones",
+            "thumb": "https://image.tmdb.org/t/p/original/afEhTI4QU1Up3IwKGAtlQjsBoiu.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjk4NDI1LTAxLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-02-22"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Com o conto de fadas de Jane ameaçado, surge uma tábua de salvação: o carismático Tommy Cressman. Será ele seu final feliz?",
+            "duracao": 48,
+            "diretor": "Lee Haven Jones",
+            "thumb": "https://image.tmdb.org/t/p/original/6nOyZBbU0XTpn60prpfqbbVDoqp.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjk4NDI1LTAxLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-02-23"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "A relação de Jane e Tommy começa a rachar. Férias no sul da França viram desastre.",
+            "duracao": 46,
+            "diretor": "Lee Haven Jones",
+            "thumb": "https://image.tmdb.org/t/p/original/xhP8RQVhiEVQ6bWLBph7CYcNjSy.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjk4NDI1LTAxLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-03-01"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "O conto de fadas de Jane desmorona num julgamento por homicídio. É amante desprezada ou mulher que revida? O júri decide.",
+            "duracao": 47,
+            "diretor": "Lee Haven Jones",
+            "thumb": "https://image.tmdb.org/t/p/original/sTQqyMO94IEG6zXr4G4vWxM3WYk.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjk4NDI1LTAxLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-03-02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "259702-a-casa-dos-espiritos",
+    "titulo": "A Casa dos Espíritos",
+    "status": "Ended",
+    "sinopse": "A Casa dos Espíritos é uma saga familiar de 8 episódios que mostra as vidas de mulheres revolucionárias e resilientes - Clara, a avó; Blanca, a filha; e Alba, a neta - ao longo de meio século em um país sul-americano remoto e conservador forjado por desastres, conflito de classes e magia.",
+    "ano": 2026,
+    "nota": 8.5,
+    "classificacao": "18",
+    "estudio": "Prime Video",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=nLZgEw4fXMI",
+    "generos": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/u2nBtDrTOIi9u78c02bL0A3lo7Y.jpg",
+    "banner": "",
+    "elenco": [
+      "Alfonso Herrera",
+      "Dolores Fonzi",
+      "Nicole Wallace",
+      "Sara Becker",
+      "Nicolás Contreras",
+      "Fernanda Castillo"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "A Casa dos Espíritos é uma saga familiar de 8 episódios que mostra as vidas de mulheres revolucionárias e resilientes - Clara, a avó; Blanca, a filha; e Alba, a neta - ao longo de meio século em um país sul-americano remoto e conservador forjado por desastres, conflito de classes e magia.",
+        "poster": "https://image.tmdb.org/t/p/original/jLDEa4aCP4LJAiIyBfMHEnDPYRi.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Rosa, a Bela",
+            "sinopse": "Alba retorna à casa de sua família e descobre os diários de sua avó Clara. Durante a leitura, ela embarca numa jornada esclarecedora através do tempo, descobrindo as forças que moldaram o destino de Clara, e os ecos que ainda moldam o seu próprio destino.",
+            "duracao": 46,
+            "diretor": "Francisca Alegría",
+            "thumb": "https://image.tmdb.org/t/p/original/xzdqMGtzUc0i5X2Hc3XTuWEHLCy.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-04-29"
+          },
+          {
+            "numero": 2,
+            "titulo": "Las Tres Marías",
+            "sinopse": "Após a tragédia que se abateu sobre ele na cidade, Esteban Trueba se instala na propriedade rural de Las Tres Marías, ao sul do país, determinado a construir um império. Enquanto isso, Clara del Valle, guiada por sua mãe, Nívea, e seu tio Marcos, começa a despertar para um mundo de presságios e dons ocultos. Dois caminhos opostos se cruzam, dando origem à história de uma única família.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/aXco31lravDUQ26qf0EihyWIjNx.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-04-29"
+          },
+          {
+            "numero": 3,
+            "titulo": "Clara, Clarividente",
+            "sinopse": "Esteban leva Clara para sua nova casa na capital, \"a casarão de esquina\". Após o nascimento de Blanca, a filha dos dois, a família - incluindo a irmã de Esteban, Férula - viaja para Las Tres Marías, onde Clara descobre o passado sombrio do marido e percebe que seu destino está ligado a Pancha García e seus descendentes.",
+            "duracao": 52,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/6K9SEfzvanGIpOsfVXBdzapN5le.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-04-29"
+          },
+          {
+            "numero": 4,
+            "titulo": "Os Amantes",
+            "sinopse": "Blanca e Pedro Tercero, filho do capataz, crescem passando os verões juntos em Las Tres Marías. O amor proibido entre eles aumenta a cada ano que passa e acaba virando uma paixão selvagem e perigosa. Quando Trueba descobre o relacionamento, toda a fúria que mantinha reprimida vem à tona, ameaçando a segurança de sua própria esposa e de sua filha.",
+            "duracao": 54,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/oIP5Ym97QfSS7svoPRO07ezHcYW.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-06"
+          },
+          {
+            "numero": 5,
+            "titulo": "O Tempo dos Espíritos",
+            "sinopse": "Clara se recupera da violência que sofreu do marido graças ao amor e cuidado de suas irmãs astrais, Luisa, Nora e Marta Mora. Com a ajuda delas, ela transforma a casa grande de esquina, seguindo o conselho dos espíritos, para abrigar os necessitados, artistas e aqueles em busca da espiritualidade. Enquanto isso, Blanca sobrevive à ausência de Pedro, embarcando em uma jornada rumo ao desconhecido.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/nDhxI0RSKhVvGnnHxwR7LnNLAJj.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-06"
+          },
+          {
+            "numero": 6,
+            "titulo": "A Menina Alba",
+            "sinopse": "O nascimento de Alba ameniza feridas antigas. Blanca ganha dinheiro com suas criaturas de cerâmica, sem saber que sua tia Rosa já as bordava décadas antes. Clara está no auge de sua mediunidade ao lado das Irmãs Mora e seus anfitriões excêntricos, compartilhando risos e conhecimento espiritual, mas uma visita do passado causa uma reviravolta na vida dela.",
+            "duracao": 46,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/9S7MUxrjMNRfojmqONiaEodBuBF.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-13"
+          },
+          {
+            "numero": 7,
+            "titulo": "O Terror",
+            "sinopse": "Aos dezoito anos, Alba Trueba descobre a paixão e a política através de seu relacionamento com Miguel, enquanto o país se encontra dividido. Em meio a uma crise que atinge sua própria família, a revelação de um segredo guardado por muito tempo a abala profundamente, e a ruptura política da nação determinará para sempre o rumo de sua vida.",
+            "duracao": 56,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/xoVg3pf5AABHSCc40G07sGA3VlB.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-13"
+          },
+          {
+            "numero": 8,
+            "titulo": "A Hora da Verdade",
+            "sinopse": "O país enfrenta uma ditadura violenta enquanto a família se desfaz. Alba usa seus privilégios e faz o que pode para ajudar os mais necessitados, descobrindo que ninguém escapa do próprio destino.",
+            "duracao": 58,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/rluJN7FrmGV1xrjZMX8yzdS3216.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "252107-cidade-das-estrelas",
+    "titulo": "Cidade das Estrelas",
+    "status": "Ended",
+    "sinopse": "Entre em um capítulo eletrizante inspirado em For All Mankind. Mesmo universo alternativo. Nova perspectiva: a da União Soviética. Atravesse a Cortina de Ferro com os cosmonautas, engenheiros e agentes de inteligência que arriscaram tudo na corrida pela Lua.",
+    "ano": 2026,
+    "nota": 7.5,
+    "classificacao": "16",
+    "estudio": "Apple TV",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=tquB2I3izXs",
+    "generos": [
+      "Drama e Sci-Fi & Fantasy e War & Politics"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/yjiWWcaxTsJ6teVwnR87rWyA56P.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
+    "banner": "",
+    "elenco": [
+      "Rhys Ifans",
+      "Anna Maxwell Martin",
+      "Agnes O'Casey",
+      "Alice Englert",
+      "Solly McLeod",
+      "Adam Nagaitis"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/vWtUpLwk7d25obDDFPD1P1LcbV3.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Os olhos",
+            "sinopse": "A União Soviética reacende a corrida pela Lua, mas, desta vez, com a missão ousada de enviar uma mulher.",
+            "duracao": 60,
+            "diretor": "Nick Murphy",
+            "thumb": "https://image.tmdb.org/t/p/original/8COQ7TKUlA1YAcOwX7ifrpTadUu.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-28"
+          },
+          {
+            "numero": 2,
+            "titulo": "Urso acorrentado",
+            "sinopse": "Anastasia é lançada ao cenário mundial. Lyudmilla tenta uma nova tática para conseguir informações.",
+            "duracao": 62,
+            "diretor": "Nick Murphy",
+            "thumb": "https://image.tmdb.org/t/p/original/m5RxHZT1o3f3YCaKDjcS4cMVYKP.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-28"
+          },
+          {
+            "numero": 3,
+            "titulo": "Dançarino ruim",
+            "sinopse": "Irina tem um encontro inesperado. Os soviéticos correm para manter a supremacia na Lua.",
+            "duracao": 60,
+            "diretor": "Stefan Schwartz",
+            "thumb": "https://image.tmdb.org/t/p/original/eJ3vp8VCHxAnundPWCPTdqATjXr.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-04"
+          },
+          {
+            "numero": 4,
+            "titulo": "Floresta sombria",
+            "sinopse": "A fama começa a afetar a Anastasia. Irina segue uma pista crucial.",
+            "duracao": 62,
+            "diretor": "Stefan Schwartz",
+            "thumb": "https://image.tmdb.org/t/p/original/g2ZijNTpc4FulMc9e3Y4an5yQW8.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-11"
+          },
+          {
+            "numero": 5,
+            "titulo": "Missão impossível",
+            "sinopse": "A pressão aumenta em todas as frentes enquanto o medo toma conta.",
+            "duracao": 54,
+            "diretor": "Kasia Adamik",
+            "thumb": "https://image.tmdb.org/t/p/original/mwaEwPs5PuKVUnzdcEZcCX99y7u.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-18"
+          },
+          {
+            "numero": 6,
+            "titulo": "A verdade vem à tona",
+            "sinopse": "As consequências na Cidade das estrelas fazem os planos ruírem.",
+            "duracao": 61,
+            "diretor": "Kasia Adamik",
+            "thumb": "https://image.tmdb.org/t/p/original/hsazfwDBA2RKCQv4MEjSn1TFvlp.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-25"
+          },
+          {
+            "numero": 7,
+            "titulo": "Cavar fundo",
+            "sinopse": "Lealdades são testadas por uma nova estrutura de poder.",
+            "duracao": 57,
+            "diretor": "Jamie Payne",
+            "thumb": "https://image.tmdb.org/t/p/original/rWCmyfWWcGdEFdGUA19OAloWSrd.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-07-02"
+          },
+          {
+            "numero": 8,
+            "titulo": "Os lobos",
+            "sinopse": "Uma revelação provoca uma corrida desesperada contra o tempo.",
+            "duracao": 65,
+            "diretor": "Jamie Payne",
+            "thumb": "https://image.tmdb.org/t/p/original/rt4jhluW04Zbdn47XlaTW6qxTye.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-07-09"
+          }
+        ]
+      }
+    ]
   }
 ]
