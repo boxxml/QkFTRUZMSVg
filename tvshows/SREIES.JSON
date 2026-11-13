@@ -1,4 +1,30 @@
 [
+{
+  "titulo": "Procurando Emily",
+  "ano": "2026",
+  "url": "",
+  "genero": "Romance, Comédia",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDowNmQwZTkzNmJkOGRiMzk4Y2VkYjAzMmQ1MTYyMTJlMTMwMWZhNjUy",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Spike Fearn, Angourie Rice, Cora Kirk, Jack Riddiford, Isabella Laughland, Prasanna Puwanarajah",
+  "sinopse": "Quando um músico apaixonado recebe o número errado de sua garota dos sonhos, ele se junta a uma determinada estudante de psicologia para encontrá-la. Juntos, eles provocam um frenesi hilário por todo o campus que coloca à prova seus próprios corações e ambições ao longo do caminho.",
+  "nota": "7.0",
+  "classificacao": "12",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=EO2mLdgcygU",
+  "poster": "https://image.tmdb.org/t/p/original/lLI9S1Gt5KdDtDMKeEUeCUiJpmb.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/zP4C4lorBVXYWzuKMBlNRkYAy8r.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
   {
     "id": "259819-rooster-fighter",
     "titulo": "Rooster Fighter",
