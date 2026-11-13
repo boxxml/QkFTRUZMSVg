@@ -9180,5 +9180,178 @@
         ]
       }
     ]
+  },
+  {
+    "id": "223397-cidade-de-deus-a-luta-nao-para",
+    "titulo": "Cidade de Deus: A Luta Não Para",
+    "status": "Continuing",
+    "sinopse": "A trama se desenrola no início dos anos 2000, quando a saída de um jovem traficante da prisão coloca a Cidade de Deus novamente em disputa. Os moradores se veem presos entre traficantes, milícias e autoridades públicas, mas a necessidade de escapar desse ciclo faz com que a comunidade se una para enfrentar o opressor.",
+    "ano": 2024,
+    "nota": 7.6,
+    "classificacao": "16",
+    "estudio": "HBO Brasil",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=XS1u03kA93w",
+    "generos": [
+      "Crime e Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/KvlbwzWi5ldhfPFRzOZy67rsKz.jpg",
+    "banner": "",
+    "elenco": [
+      "Alexandre Rodrigues",
+      "Roberta Rodrigues",
+      "Andréia Horta",
+      "Sabrina Rosa",
+      "Dhonata Augusto",
+      "Shirley Cruz"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Mais de 20 anos depois, Buscapé segue na sua missão de retratar a realidade da comunidade onde cresceu, enquanto também relembra os conflitos entre policiais, traficantes e milicianos ao longo destes anos e como isso impactou a vida dos moradores da Cidade de Deus.",
+        "poster": "https://image.tmdb.org/t/p/original/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "No ano 2000, Wilson retorna à Cidade de Deus para apoiar a campanha de Barbantinho, mas se vê em meio a um conflito quando o recém-libertado Bradock retorna para cobrar de Curió, atual dono do tráfico, o posto que ele acredita ser seu.",
+            "duracao": 47,
+            "diretor": "Aly Muritiba",
+            "thumb": "https://image.tmdb.org/t/p/original/8fYEQoH2XpojU64eL84QVD8PpjT.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIzMzk3LTAxLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-08-25"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "Enquanto fotografa a guerra do tráfico, Wilson conhece Lígia, uma repórter que investiga a corrupção policial. Sua filha Leka tenta a carreira musical e Berenice luta para manter seu namorado PQD longe do crime.",
+            "duracao": 55,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/mIx6PeZIIKRKPh43hWgGyCUukKk.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIzMzk3LTAxLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-09-01"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "Em meio à guerra territorial, Leka e seu grupo de rap cortejam um produtor musical. Enquanto isso, Lígia e Wilson investigam as ações das milícias, PQD aproveita seu histórico militar para ajudar Curió, e Jerusa orquestra uma emboscada.",
+            "duracao": 55,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/iNuyB4jsDGuSTtjZPr52Lvp7caf.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIzMzk3LTAxLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-09-08"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Após assumir o controle, Bradock procura criar confiança na comunidade, apesar de seu comportamento errático. Enquanto isso, Wilson e Lígia descobrem uma conexão entre um político, as milícias locais e um membro do círculo de Bradock.",
+            "duracao": 53,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/hCC7CsiHthnCaMEWiNCtMlh2amQ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIzMzk3LTAxLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-09-15"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Quando o BOPE invade a Cidade de Deus a mando de Reginaldo, uma onda de violência é deflagrada, forçando Barbantinho, Berenice e Wilson a enfrentarem um caos inimaginável e impactante.",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/vYmnMuNEaKj5t4oNNoNYM4C5c4H.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIzMzk3LTAxLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-09-22"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "Enquanto a comunidade se reúne em torno de sua campanha, Berenice recebe um aviso de Bradock. Wilson e Lígia se veem em perigo à medida que se aproximam da revelação da conspiração entre Reginaldo e traficantes de armas.",
+            "duracao": 50,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/uClN2dzV66aU843eylEMCdNBJ02.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIzMzk3LTAxLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-09-29"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "Após uma série de perdas abalar a comunidade, Wilson, Berenice, Leka e Cenoura enfrentam uma disputa que ultrapassa o tráfico e envolve política, milícia e corrupção. Em um cenário de alianças e conflitos, a luta está longe de acabar.",
+        "poster": "https://image.tmdb.org/t/p/original/7aZRrPGdABl5XuKb15al5RiKObb.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Após uma série de mortes abalar a comunidade, Wilson se empenha em descobrir a verdade, enquanto Delano é acusado injustamente. Temendo uma guerra, Martinha recorre a um antigo conhecido para restabelecer a ordem: Sandro Cenoura.",
+            "duracao": 49,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/lca7a8olH9Ifo1aRiCd9qqAGbZF.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIzMzk3LTAyLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-08"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIzMzk3LTAyLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-15"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIzMzk3LTAyLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-22"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIzMzk3LTAyLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-29"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIzMzk3LTAyLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-12-06"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjIzMzk3LTAyLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-12-13"
+          }
+        ]
+      }
+    ]
   }
 ]
