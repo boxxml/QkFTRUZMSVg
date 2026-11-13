@@ -10289,5 +10289,180 @@
         ]
       }
     ]
+  },
+  {
+    "id": "60743-constantine",
+    "titulo": "Constantine",
+    "status": "Canceled",
+    "sinopse": "John Constantine é um detetive com habilidades sobrenaturais. Perseguido por mistérios e segredos de seu próprio passado, a vida de John é mudada quando suas habilidades são descobertas pelas forças do céu, ou seja, pelo autoritário anjo Manny. Ele irá ajudar o detetive a se tornar um grande e feroz defensor das forças do bem contra o mal.",
+    "ano": 2014,
+    "nota": 7.7,
+    "classificacao": "16",
+    "estudio": "NBC",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=_xUIr1xhSdE",
+    "generos": [
+      "Action & Adventure e Drama e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/lmDDpCCei9kTPIZb13P2NAqpmvO.jpg",
+    "banner": "",
+    "elenco": [
+      "Matt Ryan",
+      "Angélica Celaya",
+      "Charles Halford",
+      "Harold Perrineau"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "A série fala sobre John Constantine, um exorcista sombrio, detetive oculto e vigarista que está lutando com seus pecados passados, enquanto ele tenta proteger a humanidade de uma coleta ameaça sobrenatural.",
+        "poster": "https://image.tmdb.org/t/p/original/7CNfWp4mn2SBXcbzkE5ENo3gQhA.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Non Est Asylum",
+            "sinopse": "Um caçador de demônios e mestre do oculto retorna a batalhar contra o pior que o inferno tem a oferecer, a fim de ajudar a filha de um velho amigo. Além disso, existe uma pequena possibilidade de salvar sua própria alma condenada.",
+            "duracao": 42,
+            "diretor": "Neil Marshall",
+            "thumb": "https://image.tmdb.org/t/p/original/e0Od0VL3gsQRyG6SyZGJbAuKfWO.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2014-10-24"
+          },
+          {
+            "numero": 2,
+            "titulo": "A Escuridão Oculta",
+            "sinopse": "Nas montanhas do oeste da Pensilvânia, John é a única defesa de uma pequena comunidade contra um antigo espírito zombeteiro. Para proteger esses inocentes isolados, John encontra uma misteriosa e vital aliada em uma jovem chamada Zed.",
+            "duracao": 42,
+            "diretor": "Steve Shill",
+            "thumb": "https://image.tmdb.org/t/p/original/16sA98poTFgNpFfTqKReGDo5gBe.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2014-10-31"
+          },
+          {
+            "numero": 3,
+            "titulo": "O Vinil do Diabo",
+            "sinopse": "John e Zed se deparam com um confronto perigoso para salvar uma mulher e sua família de forças sinistras. Os esforços de John o levam a confrontar a escuridão em sua própria vida.",
+            "duracao": 42,
+            "diretor": "Romeo Tirone",
+            "thumb": "https://image.tmdb.org/t/p/original/zE7FGU6j4MvrARNqTpvJARu2KL1.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2014-11-07"
+          },
+          {
+            "numero": 4,
+            "titulo": "Um Festim de Amigos",
+            "sinopse": "Quando o velho amigo de Constantine, Gary Lester, acidentalmente libera um demônio poderoso em Atlanta, John é forçado a ponderar o que está preparado para sacrificar em sua batalha contra o inferno.",
+            "duracao": 42,
+            "diretor": "John F. Showalter",
+            "thumb": "https://image.tmdb.org/t/p/original/k8jfg4xneF0kbdJD6HY4xXpJ4wE.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2014-11-14"
+          },
+          {
+            "numero": 5,
+            "titulo": "Danse Vaudou",
+            "sinopse": "Em Nova Orleans, o conhecimento pouco usual de Constantine sobre uma série de crimes traz problemas com o detetive Jim Corrigan.",
+            "duracao": 42,
+            "diretor": "John Badham",
+            "thumb": "https://image.tmdb.org/t/p/original/evrv6JV0o3YNaOrfs0hi8dn0uay.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2014-11-21"
+          },
+          {
+            "numero": 6,
+            "titulo": "Raiva de Caliban",
+            "sinopse": "Um jovem é vítima de um espírito maléfico, o que leva John a colocar de lado suas reservas sobre exorcizar uma criança, a fim de convencer os pais de que o garoto não é o que parece.",
+            "duracao": 41,
+            "diretor": "Neil Marshall",
+            "thumb": "https://image.tmdb.org/t/p/original/s5xcToalypAKX7LxJQWopzA8xck.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2014-11-28"
+          },
+          {
+            "numero": 7,
+            "titulo": "Abençoados são os...",
+            "sinopse": "Durante a aula de arte, Zed lida com a visão bizarra de cobras, levando ela e John para uma pequena cidade. Ali, um pregador ganhou a habilidade de curar toda sua congregação.",
+            "duracao": 42,
+            "diretor": "Nick Gomez",
+            "thumb": "https://image.tmdb.org/t/p/original/vHTOuq1L8idPYFr08hJp3ul2zfk.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2014-12-05"
+          },
+          {
+            "numero": 8,
+            "titulo": "O Santo de Último Recurso",
+            "sinopse": "Uma ligação de Anne Marie, um membro da equipe de Newcastle, leva John e Chas para a Cidade do México e mais perto da fonte da escuridão que surge. Enquanto isso, o passado de Zed volta para assombrá-la.",
+            "duracao": 43,
+            "diretor": "T.J. Scott",
+            "thumb": "https://image.tmdb.org/t/p/original/gcdQYESDGaIsidCCb5Z0wzf1dd9.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2014-12-12"
+          },
+          {
+            "numero": 9,
+            "titulo": "O Santo de Último Recurso: Parte 2",
+            "sinopse": "John invoca um demônio para ajudá-lo a se defender de um ataque.",
+            "duracao": 43,
+            "diretor": "Romeo Tirone",
+            "thumb": "https://image.tmdb.org/t/p/original/pHYvX2z8nc4zVP6OWx8Qx8vwER9.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-01-16"
+          },
+          {
+            "numero": 10,
+            "titulo": "Quid Pro Quo",
+            "sinopse": "Centenas de pessoas por todo o Brooklyn estão imersas em um misterioso coma, incluindo a filha de Chas. Agora, John precisa encontrar e acabar com o mal antes que ele consuma a cidade.",
+            "duracao": 43,
+            "diretor": "Mary Harron",
+            "thumb": "https://image.tmdb.org/t/p/original/jbmnxeyP8X0ugoI3dYbp4q3DXsc.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-01-23"
+          },
+          {
+            "numero": 11,
+            "titulo": "Um Mundo Inteiro lá Fora",
+            "sinopse": "Manny envia John para ajudar um velho amigo, Ritchie Simpson, na Ivy University, já que um grupo de estudantes encontrou uma forma de abrir o portal para uma dimensão alternativa, apenas para se depararem com um assassino maníaco.",
+            "duracao": 43,
+            "diretor": "Tom Wright",
+            "thumb": "https://image.tmdb.org/t/p/original/bOaiqIdb0clRcwgEKKJikjp0sgy.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMTEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-01-30"
+          },
+          {
+            "numero": 12,
+            "titulo": "Anjos e Ministros de Graça",
+            "sinopse": "John vai até o hospital local para investigar um misterioso local, chamando Manny para ajudá-lo. Enquanto isso, um susto de saúde leva Zed a questionar a fonte de suas visões.",
+            "duracao": 43,
+            "diretor": "Sam Hill",
+            "thumb": "https://image.tmdb.org/t/p/original/77K7BV4UQRkRBxiP31u8NQkCNTh.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMTIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-02-06"
+          },
+          {
+            "numero": 13,
+            "titulo": "À Espera do Homem",
+            "sinopse": "John e Zed retornam a Nova Orleans quando o detetive Jim Corrigan pede ajuda em um caso envolvendo uma garotinha desaparecida. Enquanto isso, Papa Midnite dá mais um passo para executar sua vingança contra John.",
+            "duracao": 43,
+            "diretor": "David Boyd",
+            "thumb": "https://image.tmdb.org/t/p/original/obBfqBsWok2BeDqlBEA0LoDiEM6.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvNjA3NDMtMDEtMTMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-02-13"
+          }
+        ]
+      }
+    ]
   }
 ]
