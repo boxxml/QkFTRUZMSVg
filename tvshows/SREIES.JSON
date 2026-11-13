@@ -161,5 +161,314 @@
         ]
       }
     ]
+  },
+  {
+    "id": "127532-solo-leveling",
+    "titulo": "Solo Leveling",
+    "status": "Ended",
+    "sinopse": "Há mais de uma década, surgiu uma misteriosa passagem chamada \"portal\", que conecta este mundo a uma dimensão diferente, o que fez com que pessoas despertassem poderes únicos… e essas pessoas são chamadas de \"caçadores\". Os caçadores usam seus poderes sobre-humanos para conquistar masmorras dentro dos portais e assim ganhar a vida. Sung Jinwoo, um caçador de nível baixo, é considerado o caçador mais fraco de toda a humanidade. Certo dia, ele se depara com uma \"masmorra dupla\", que tem uma masmorra de nível alto escondida dentro de uma masmorra de nível baixo. Diante de um Jinwoo gravemente ferido, surge uma misteriosa missão! À beira da morte, Jinwoo decide aceitar essa missão, tornando-se assim a única pessoa capaz de subir de nível!",
+    "ano": 2024,
+    "nota": 8.7,
+    "classificacao": "16",
+    "estudio": "Gunma TV",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=MWrsQmBIkhM",
+    "generos": [
+      "Animação e Action & Adventure e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "banner": "",
+    "elenco": [
+      "Taito Ban",
+      "Genta Nakamura",
+      "Haruna Mikawa",
+      "Reina Ueda",
+      "Daisuke Hirakawa",
+      "Hiroki Touchi"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/451lpwzbSKClDUHmKxOcBboBf7E.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Estou acostumado",
+            "sinopse": "Há mais de dez anos, estranhos portais vêm se abrindo por todo o mundo, e por trás deles há dungeons cheias de monstros. Desde então, algumas pessoas, os caçadores, despertam poderes que as permitem entrar nas dungeons, derrotar os monstros e trazer de volta artefatos muito valiosos, mas uma vez despertado, o poder não se altera mais. Jinwoo é um caçador de Rank E, o mais baixo, e sempre tem problemas nas dungeons, mas ele precisa do dinheiro, então continua se arriscando. Mas a dungeon em que seu grupo entrou pode ser muito pior do que parecia inicialmente...",
+            "duracao": 24,
+            "diretor": "中重俊祐",
+            "thumb": "https://image.tmdb.org/t/p/original/rm8q4ZHkVwbwUjjdbOIV9v5RW99.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAxLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-01-07"
+          },
+          {
+            "numero": 2,
+            "titulo": "Se eu tivesse mais uma chance",
+            "sinopse": "O grupo de Jinwoo está preso na câmara das estátuas, mas o caçador Rank E tem alguma ideia do que fazer. No entanto, conseguir que o grupo coopere numa situação de extremo desespero pode ser mais difícil do que derrotar o chefe da dungeon.",
+            "duracao": 24,
+            "diretor": "ほりうちゆうや",
+            "thumb": "https://image.tmdb.org/t/p/original/ch5o2NnATbswomEiCugOgjX8IwY.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAxLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-01-14"
+          },
+          {
+            "numero": 3,
+            "titulo": "É como um jogo",
+            "sinopse": "Após o incidente na dungeon dupla, Jinwoo acorda ileso na cama de um hospital. A Associação de Caçadores busca respostas sobre o ocorrido, mas o caso continua um mistério. Para Jinwoo, o maior mistério segue sendo as telas que só são visíveis para ele mesmo...",
+            "duracao": 24,
+            "diretor": "菊池貴行",
+            "thumb": "https://image.tmdb.org/t/p/original/k2ZJYbwUzBW7HNNMMmWBv3r8RhT.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAxLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-01-21"
+          },
+          {
+            "numero": 4,
+            "titulo": "Eu preciso ficar mais forte",
+            "sinopse": "Jinwoo testa suas novas habilidades na dungeon gerada só para ele. Diante das batalhas que antes ele não era capaz de enfrentar nem em grupo, agora ele precisa enfrentar uma série de monstros por conta própria.",
+            "duracao": 24,
+            "diretor": "濱崎徹",
+            "thumb": "https://image.tmdb.org/t/p/original/dlNMEUnupGrPATIaiOEmxfvUfSG.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAxLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-01-28"
+          },
+          {
+            "numero": 5,
+            "titulo": "Um bom negócio",
+            "sinopse": "Após receber alta do hospital, Jinwoo volta a procurar novas raids para conseguir dinheiro, e pela primeira vez se inscreve em uma raid de Rank C. Embora as condições pareçam ser um ótimo negócio para o rapaz, Jinwoo estranha algumas coisas...",
+            "duracao": 24,
+            "diretor": "早瀬真紀子",
+            "thumb": "https://image.tmdb.org/t/p/original/tIWzK1uQrZz9ch0atwhOWur9cUd.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAxLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-02-04"
+          },
+          {
+            "numero": 6,
+            "titulo": "A verdadeira caçada tem início",
+            "sinopse": "Jinwoo e Jinho são traídos pelo grupo e ficam presos na dungeon com o chefe Rank C. Com a morte certa pela frente, Jinwoo aposta tudo pela sua sobrevivência.",
+            "duracao": 24,
+            "diretor": "佐久間貴史",
+            "thumb": "https://image.tmdb.org/t/p/original/qLm1R2o54Cvzs74cz4jG4BXZS2S.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAxLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-02-11"
+          },
+          {
+            "numero": 7,
+            "titulo": "Vamos ver até onde consigo ir",
+            "sinopse": "Jinwoo volta para a sua vida normal após finalizar a última dungeon. Jinho o convida para fazer uma grande parceria.",
+            "duracao": 24,
+            "diretor": "ほりうちゆうや",
+            "thumb": "https://image.tmdb.org/t/p/original/kWm0ksvgMnjqjI3TmPZ9ZQiry30.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAxLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-02-18"
+          },
+          {
+            "numero": 8,
+            "titulo": "Que frustrante",
+            "sinopse": "Jinwoo conversa com Jinho sobre a parceria, mas estabelece uma condição. Uma solicitação da Associação de Caçadores chega, e rostos familiares de um trágico dia aparecem diante de Jinwoo.",
+            "duracao": 24,
+            "diretor": "大城丈宗",
+            "thumb": "https://image.tmdb.org/t/p/original/mYoah2DtfKVqGMtuCBmgeZYCQoM.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAxLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-03-03"
+          },
+          {
+            "numero": 9,
+            "titulo": "Você vem escondendo suas habilidades",
+            "sinopse": "O grupo dos sobreviventes da dungeon dupla entra na dungeon ao lado de prisioneiros condenados e de Kang Taeshik, Caçador encarregado da supervisão dos prisioneiros. Entretanto, o que parecia ser uma dungeon normal acaba tomando um rumo sangrento.",
+            "duracao": 24,
+            "diretor": "徳田大貴",
+            "thumb": "https://image.tmdb.org/t/p/original/AjfYXy3e5THdxO2a1UVAoQgbrWf.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAxLTA5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-03-10"
+          },
+          {
+            "numero": 10,
+            "titulo": "O que é isso, um piquenique?",
+            "sinopse": "Jinho e Jinwoo iniciam o plano de entrar em dungeons Rank C com uma equipe de ataque de fachada. Entretanto, o monopólio dos portais Rank C pela Construtora Yoojin chama a atenção de guildas concorrentes.",
+            "duracao": 24,
+            "diretor": "佐久間貴史",
+            "thumb": "https://image.tmdb.org/t/p/original/sFOZjW7SZ3cSSTx6agbALwNdSc9.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAxLTEwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-03-17"
+          },
+          {
+            "numero": 11,
+            "titulo": "Um cavaleiro que defende um trono vazio",
+            "sinopse": "Jinwoo recebe uma missão de troca de classe. Ao entrar na dungeon, o sistema diz que ele não poderá se recuperar de nenhuma forma. Assim, Jinwoo percebe que não está em uma dungeon qualquer...",
+            "duracao": 24,
+            "diretor": "菊池貴行",
+            "thumb": "https://image.tmdb.org/t/p/original/xwTGcW5n6CdxW8SfipWiQzz40RO.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAxLTExLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-03-24"
+          },
+          {
+            "numero": 12,
+            "titulo": "Erga-se",
+            "sinopse": "A missão de troca de classe não está sendo nada fácil para Jinwoo. Atormentado pelos fantasmas do passado, sua sorte é testada e ele ganha mais uma chance de viver.",
+            "duracao": 24,
+            "diretor": "中重俊祐",
+            "thumb": "https://image.tmdb.org/t/p/original/8WNsU7GLSsXcCAxa5th5nkWeO6W.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAxLTEyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-03-31"
+          },
+          {
+            "numero": 13,
+            "titulo": "Você não é um Rank E, né?",
+            "sinopse": "Sung Jinwoo, único Caçador capaz de subir de nível e ficar mais forte, leva uma colega de sua irmã para uma raid, para fazê-la desistir de ser Caçadora. Mas algo inesperado acontece ao portal, e o grupo fica preso numa dungeon muito acima de sua habilidade.",
+            "duracao": 24,
+            "diretor": "ほりうちゆうや",
+            "thumb": "https://image.tmdb.org/t/p/original/7qznlqeN3Ccshw6olWEdQMIsygP.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-01-05"
+          },
+          {
+            "numero": 14,
+            "titulo": "Parece que você ainda não percebeu",
+            "sinopse": "Sung Jinwoo e Han Song-yi, colega de sua irmã, estão presos num portal vermelho com uma equipe da Guilda Tigre Branco. O grupo se dividiu, mas a metade supostamente mais forte quase foi aniquilada pelos elfos do gelo, e agora Kim quer saber como o grupo de Jinwoo sobreviveu. Fora do portal, Hwang Dongsoo espera para executar sua vingança.",
+            "duracao": 24,
+            "diretor": "佐々木達也",
+            "thumb": "https://image.tmdb.org/t/p/original/kylozAI9Rf1pp7pZ8nFPK4s1s5n.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-01-12"
+          },
+          {
+            "numero": 15,
+            "titulo": "Um longo caminho pela frente",
+            "sinopse": "Sung Jinwoo entra no Castelo Demoníaco novamente. Um homem misterioso é encontrado na América.",
+            "duracao": 24,
+            "diretor": "古桑孝治",
+            "thumb": "https://image.tmdb.org/t/p/original/ljpLCXeYjx4yHLFbIJFW6LrL3uZ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-01-19"
+          },
+          {
+            "numero": 16,
+            "titulo": "Preciso parar de fingir",
+            "sinopse": "Antes de voltar ao Castelo Demoníaco, Jinwoo causa um alvoroço ao refazer o exame de avaliação de rank.",
+            "duracao": 24,
+            "diretor": "早瀬真紀子",
+            "thumb": "https://image.tmdb.org/t/p/original/jW1QhZUIPZ420pEldWHwrpdyRdt.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-01-26"
+          },
+          {
+            "numero": 17,
+            "titulo": "Nós somos treinados para isso",
+            "sinopse": "Cha Hae-in encontra Jinwoo prestes a fazer uma bobagem às portas do chefe, e se surpreende com o que cheira.",
+            "duracao": 24,
+            "diretor": "戸谷賢都",
+            "thumb": "https://image.tmdb.org/t/p/original/o8cccNR6J3dSuh00elhZgd4Glmu.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-02-02"
+          },
+          {
+            "numero": 18,
+            "titulo": "Não subestime os meus homens",
+            "sinopse": "Os Caçadores são desafiados por Kargalgan e seu poderoso exército. Jinwoo assume o controle da batalha.",
+            "duracao": 24,
+            "diretor": "菊池貴行",
+            "thumb": "https://image.tmdb.org/t/p/original/byJcQpCL4XiTwEl4pMG2HaT2bkr.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-02-09"
+          },
+          {
+            "numero": 19,
+            "titulo": "O 10º Caçador de Rank S",
+            "sinopse": "A reavaliação de Jinwoo assusta o líder da Tigre Branco mais do que o preço dos artefatos assusta Jinwoo.",
+            "duracao": 24,
+            "diretor": "大城丈宗",
+            "thumb": "https://image.tmdb.org/t/p/original/zmRqLXqOMR2zVJ7bn9wwBsakOKh.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-02-16"
+          },
+          {
+            "numero": 20,
+            "titulo": "Estava cansado de olhar pra cima",
+            "sinopse": "O comportamento de um dos demônios surpreende Jinwoo. A Associação decide agir contra as formigas voadoras.",
+            "duracao": 24,
+            "diretor": "佐々木達也",
+            "thumb": "https://image.tmdb.org/t/p/original/unMSFOjTEsQ0rNfqkvQSfE4ar6S.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-02-23"
+          },
+          {
+            "numero": 21,
+            "titulo": "Tudo valeu a pena",
+            "sinopse": "Jinwoo derrota o Monarca Demoníaco e finalmente consegue o último ingrediente do Elixir da Vida para sua mãe.",
+            "duracao": 24,
+            "diretor": "ほりうちゆうや",
+            "thumb": "https://image.tmdb.org/t/p/original/mYvKcjF0LXlo1H3MOb278SsGgow.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTA5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-03-02"
+          },
+          {
+            "numero": 22,
+            "titulo": "Precisamos de um herói",
+            "sinopse": "Os Caçadores Rank S coreanos e japoneses se enfrentam para testar suas forças antes da raid na Ilha de Jeju.",
+            "duracao": 24,
+            "diretor": "徳田大貴",
+            "thumb": "https://image.tmdb.org/t/p/original/qzPInwNpRC417SPuo5NREZuxYu.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTEwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-03-09"
+          },
+          {
+            "numero": 23,
+            "titulo": "Vai ficar ainda mais intenso",
+            "sinopse": "Enquanto os Caçadores coreanos invadem o ninho da rainha, uma grande ameaça ronda os Caçadores japoneses.",
+            "duracao": 24,
+            "diretor": "戸谷賢都",
+            "thumb": "https://image.tmdb.org/t/p/original/dmABjDkzyMmj7PVHbv6lrOzVVCV.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTExLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-03-16"
+          },
+          {
+            "numero": 24,
+            "titulo": "Você é o rei dos humanos?",
+            "sinopse": "Os Caçadores Rank S são salvos por Jinwoo, mas o Rei Formiga ainda deseja desafiar o rei dos humanos.",
+            "duracao": 24,
+            "diretor": "鈴木龍太郎",
+            "thumb": "https://image.tmdb.org/t/p/original/ifo6WIOkMjahicQ7yfDL0F26nJI.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTEyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-03-23"
+          },
+          {
+            "numero": 25,
+            "titulo": "Rumo ao próximo alvo",
+            "sinopse": "Jinwoo faz um movimento para salvar a vida de Cha. A quarta raid da Ilha de Jeju finalmente chega ao fim.",
+            "duracao": 24,
+            "diretor": "中重俊祐",
+            "thumb": "https://image.tmdb.org/t/p/original/9O513PBYuL4RfirPXfxTAeEMTy0.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTI3NTMyLTAyLTEzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-03-30"
+          }
+        ]
+      }
+    ]
   }
 ]
