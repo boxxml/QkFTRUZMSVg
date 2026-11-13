@@ -5154,7 +5154,7 @@
   {
     "id": "77169-cobra-kai",
     "titulo": "Cobra Kai",
-    "status": "Continuing",
+    "status": "Ended",
     "sinopse": "Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a rivalidade dos tempos de escola.",
     "ano": 2018,
     "nota": 8.2,
@@ -5938,7 +5938,7 @@
   {
     "id": "67158-1-contra-todos",
     "titulo": "1 Contra Todos",
-    "status": "Continuing",
+    "status": "Ended",
     "sinopse": "A série conta a história do honesto chefe de família Cadu que vê sua vida mudar drasticamente quando ele é preso, após ser confundido com o maior traficante do país.",
     "ano": 2016,
     "nota": 6.5,
@@ -6345,7 +6345,7 @@
   {
     "id": "62264-ash-vs-evil-dead",
     "titulo": "Ash vs Evil Dead",
-    "status": "Continuing",
+    "status": "Ended",
     "sinopse": "30 anos depois, o caçador de demônios Ash Williams está de volta para enfrentar uma nova praga Deadite. Ele pode ter perdido a mão, mas não o seu toque.",
     "ano": 2015,
     "nota": 7.8,
@@ -6714,6 +6714,337 @@
             "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIyNjQtMDMtMTAubWt2",
             "url_elementum": "",
             "data_lancamento": "2018-04-29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "62146-100-code",
+    "titulo": "100 Code",
+    "status": "Ended",
+    "sinopse": "Jovens loiras de olhos azuis foram assassinadas ao longo dos últimos doze meses. Tommy Conley (Dominic Monaghan, de LOST), um detetive de Nova Iorque, é enviado à Suécia para observar e aconselhar a polícia local nas investigações. Ele se une ao sueco Mikael Eklund (Michael Nyqvist, de Zero Hour), um veterano da homicídios que trabalha de acordo com as regras. Extremamente nacionalista, Mikael não vê com bons olhos a presença de Conley, criticando a cultura americana sempre que pode. Apesar dos dois não se suportarem, eles precisam encontrar uma forma de trabalharem juntos.\n\nA vida pessoal de cada um também é problemática. Conley ainda se sente culpado pela morte de Maggie, sua namorada. Algo que ele precisa deixar de lado quando conhece Maria, uma americana que trabalha em um bar local. Já Eklund precisa descobrir uma forma de se relacionar melhor com sua filha Hanna.",
+    "ano": 2015,
+    "nota": 6.5,
+    "classificacao": "NR",
+    "estudio": "HBO Nordic",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=1waRGZxSb58",
+    "generos": [
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/tg9fpeSvD8QvPOjt1ZASz3GkqT.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/nG93f33al8Zq2tQ3d8oMiQfJlij.jpg",
+    "banner": "",
+    "elenco": [
+      "Michael Nyqvist",
+      "Dominic Monaghan",
+      "Kristoffer Berglund",
+      "Peter Eggers",
+      "Hedda Stiernstedt",
+      "Roisin Murphy"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Piloto",
+            "sinopse": "Nos últimos 12 meses, em Nova York, mulheres jovens e loiras, de olhos azuis, apareceram mortas em campos de asfódelos. O assassino desaparece, mas o detetive Tommy Conley continua atrás dele.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/u0hZhp1TNO2NQDh78z3fyR5jAI6.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-03-06"
+          },
+          {
+            "numero": 2,
+            "titulo": "Flowers in Hell",
+            "sinopse": "Assombrado pelo passado e a morte da namorada Maggie, Conley dedica cada hora acordado a impedir que o assassino encontre suas vítimas.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/nCvZqZmnlhcOwuXunHCenon09Qe.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-03-18"
+          },
+          {
+            "numero": 3,
+            "titulo": "Down the Rabbit Hole",
+            "sinopse": "A equipe e a polícia de Estocolmo vasculham o hospital e cercanias atrás do dentista fugitivo cuja profecia chocante de que haverá mais vítimas atormenta Eklund e Conley.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/9SgLJ8XEgm8Ew3CeSeohychuaNO.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDMubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-03-25"
+          },
+          {
+            "numero": 4,
+            "titulo": "My Only Friend",
+            "sinopse": "O especialista em T.I. Phille descobre uma sala de bate-papo na “Deep Web” chamada “Tentações” onde uma figura sinistra chamada L.H. parece estar recrutando assassinos on-line.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/AonWr582HsVW8xSrEYdXH61lWwT.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDQubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-04-01"
+          },
+          {
+            "numero": 5,
+            "titulo": "The First Blush",
+            "sinopse": "Seguindo a pista do assassino imitador, a equipe encontra outra ligação com L.H. e a sala de bate-papo “Tentações”.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/LhTTzEQaAMmRKenCXNCjpot8Ds.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDUubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-04-08"
+          },
+          {
+            "numero": 6,
+            "titulo": "There Are No Heroes",
+            "sinopse": "Conley é atormentado pelo passado. A namorada morta, Maggie, que era irmã de um conhecido traficante de drogas e armas que Conley tentara rastrear em Nova York, continua a assombrá-lo.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/mCwyuRZYtSDYC7eBYil4DTI5JBv.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDYubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-04-15"
+          },
+          {
+            "numero": 7,
+            "titulo": "The Cop That Hugs",
+            "sinopse": "Martin Lindstrom, um ex-policial frustrado que foi despedido injustamente, quer se vingar. Ele culpa a policia de Estocolmo de arruinar a vida dele e por vingança, provoca caos.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/e6VIxjH45Rc1qEoXuL9j4KTPlSg.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDcubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-04-22"
+          },
+          {
+            "numero": 8,
+            "titulo": "Nobody Sleeps",
+            "sinopse": "Hanna enfim revela o verdadeiro motivo por se ressentir do pai, é algo que a mãe lhe disse no leito de morte.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/xhhcilZwspnuvwHFcKMfqqJxw91.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDgubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-04-29"
+          },
+          {
+            "numero": 9,
+            "titulo": "The Deep Heart's Core",
+            "sinopse": "Com o perfil falso na sala de bate-papo “Tentações”, Phille atrai L.H. Enquanto isso, um novo assassinato chama a atenção da equipe.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/vKXbZjIM9FSrV5MDAAFVid8zm3y.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDkubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-05-06"
+          },
+          {
+            "numero": 10,
+            "titulo": "Secrets",
+            "sinopse": "A equipe acha um container de borracha manchado com o sangue dela. Muito parecido com o que Göran tem no porta-malas quando apanha Hanna passa passarem um fim de semana no campo.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/w0DsV7cl1ZEwG8tAL1uDGRHkbqd.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMTAubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-05-13"
+          },
+          {
+            "numero": 11,
+            "titulo": "Still Loving After All",
+            "sinopse": "Deitado na banheira entre a vida e a morte, Conley tem uma epifania. Ele lembra que as pinturas que viu no apartamento de Forsberg lembram as achadas na cabana de Andrej.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/zOeZB4Hku3RevVDbCxS1wjmVVyz.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMTEubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-05-20"
+          },
+          {
+            "numero": 12,
+            "titulo": "Everytime You Think You're Winning",
+            "sinopse": "Colocando a vida do parceiro acima da prisão de Forsberg, Conley mergulha na água e luta pela vida de Eklund.",
+            "duracao": 43,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/wQeobJxKUd3qrdyTopfaPCFRYmW.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMTIubWt2",
+            "url_elementum": "",
+            "data_lancamento": "2015-05-27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4619-blade-a-serie",
+    "titulo": "Blade: A Série",
+    "status": "Ended",
+    "sinopse": "A veterana do exército, Krista Starr, está em busca do assassino de seu irmão gêmeo. Em meio às investigações, ela descobre uma inacreditável organização de vampiros em Detroit, liderada pelo implacável Marcus Van Sciver. Envolvida nas armações das criaturas da noite, ela vai contar com a relutante ajuda de Blade, o caçador de vampiros - metade humano, metade vampiro. Este anti-herói é dotado de incríveis poderes e armamentos que utiliza em sua luta para dar fim à raça de sugadores de sangue.",
+    "ano": 2006,
+    "nota": 6.4,
+    "classificacao": "14",
+    "estudio": "Spike",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=5mT4cJc5mkA",
+    "generos": [
+      "Action & Adventure e Sci-Fi & Fantasy e Drama e Mistério"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/2XL1XAkk4ZGUmtbc8YDfWG7LX24.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/eF7DaPaNJyIs1cQQJ0ECIc7I11z.jpg",
+    "banner": "",
+    "elenco": [
+      "Sticky Fingaz",
+      "Jill Wagner",
+      "李志傑",
+      "Jessica Gower",
+      "Neil Jackson"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/bdpbXGczc9zvRyYVUvNci1KWnfx.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "",
+            "duracao": 84,
+            "diretor": "Peter O'Fallon",
+            "thumb": "https://image.tmdb.org/t/p/original/fO7nruvvkBzFudRR1bsvvGNhpzv.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNDYxOS0wMS0wMS5ta3Y=",
+            "url_elementum": "",
+            "data_lancamento": "2006-06-28"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Michael Robison",
+            "thumb": "https://image.tmdb.org/t/p/original/aNLWM13KfpNUt1vYzS8PWROGtBk.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNDYxOS0wMS0wMi5ta3Y=",
+            "url_elementum": "",
+            "data_lancamento": "2006-07-05"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "John Fawcett",
+            "thumb": "https://image.tmdb.org/t/p/original/3gVA1dsqXL1ulOuGHzPeT81Mpvc.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNDYxOS0wMS0wMy5ta3Y=",
+            "url_elementum": "",
+            "data_lancamento": "2006-07-12"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/2QnSVlZz3fCQ74tH2GMA2yZOuLa.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNDYxOS0wMS0wNC5ta3Y=",
+            "url_elementum": "",
+            "data_lancamento": "2006-07-19"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Michael Robison",
+            "thumb": "https://image.tmdb.org/t/p/original/ucj7F5i5LvUAo325tj5IXgz1e9V.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNDYxOS0wMS0wNS5ta3Y=",
+            "url_elementum": "",
+            "data_lancamento": "2006-07-26"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Alex Chapple",
+            "thumb": "https://image.tmdb.org/t/p/original/oLIb5ubhsh5C2ldBHG6iRmjvm3z.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNDYxOS0wMS0wNi5ta3Y=",
+            "url_elementum": "",
+            "data_lancamento": "2006-08-02"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "David Staiton",
+            "thumb": "https://image.tmdb.org/t/p/original/kIymmja5C2RkohBbucDMFobhOVh.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNDYxOS0wMS0wNy5ta3Y=",
+            "url_elementum": "",
+            "data_lancamento": "2006-08-09"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Norberto Barba",
+            "thumb": "https://image.tmdb.org/t/p/original/RBVe8sv66nxm7Af6e96KEsD2z9.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNDYxOS0wMS0wOC5ta3Y=",
+            "url_elementum": "",
+            "data_lancamento": "2006-08-16"
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Félix Alcalá",
+            "thumb": "https://image.tmdb.org/t/p/original/5r2fGZn82JCwUqMXYSl2FDIw7rZ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNDYxOS0wMS0wOS5ta3Y=",
+            "url_elementum": "",
+            "data_lancamento": "2006-08-23"
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Brad Turner",
+            "thumb": "https://image.tmdb.org/t/p/original/wMSTdFBASojV6LvrLp8fPl2aBu8.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNDYxOS0wMS0xMC5ta3Y=",
+            "url_elementum": "",
+            "data_lancamento": "2006-08-30"
+          },
+          {
+            "numero": 11,
+            "titulo": "Episódio 11",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "Ken Girotti",
+            "thumb": "https://image.tmdb.org/t/p/original/i0aLjdGOUe6a0SRu44lv72NBvzT.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNDYxOS0wMS0xMS5ta3Y=",
+            "url_elementum": "",
+            "data_lancamento": "2006-09-06"
+          },
+          {
+            "numero": 12,
+            "titulo": "Episódio 12",
+            "sinopse": "",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/igse3GZJhCKPXxD8w6PSdABrMHE.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNDYxOS0wMS0xMi5ta3Y=",
+            "url_elementum": "",
+            "data_lancamento": "2006-09-13"
           }
         ]
       }
