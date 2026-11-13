@@ -4349,5 +4349,267 @@
         ]
       }
     ]
+  },
+  {
+    "id": "157239-alien-earth",
+    "titulo": "Alien: Earth",
+    "status": "Continuing",
+    "sinopse": "Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta.",
+    "ano": 2025,
+    "nota": 7.3,
+    "classificacao": "16",
+    "estudio": "FX",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=IxTYXVyNOfk",
+    "generos": [
+      "Sci-Fi & Fantasy e Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/wEMJxkaVw5hIHax9raBLd82TLAR.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/sVxit4vKQZnrHejeQupBYadP22g.jpg",
+    "banner": "",
+    "elenco": [
+      "Sydney Chandler",
+      "Alex Lawther",
+      "Essie Davis",
+      "Samuel Blenkin",
+      "Babou Ceesay",
+      "Adarsh Gourav"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta. Quando os membros da equipe de resgate procuram sobreviventes entre os destroços, eles encontram misteriosas formas de vida predatórias mais aterrorizantes do que jamais poderiam ter imaginado. Com a descoberta dessa nova ameaça, a equipe de busca precisa lutar para sobreviver e decidir o que fazer com esse achado que pode mudar o planeta Terra para sempre.",
+        "poster": "https://image.tmdb.org/t/p/original/xRs6NpJl14r8gXB29nh4uPgmOyu.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Terra do Nunca",
+            "sinopse": "Nave cai na Terra, e uma irmã sai em busca do irmão desaparecido.",
+            "duracao": 65,
+            "diretor": "Noah Hawley",
+            "thumb": "https://image.tmdb.org/t/p/original/d4cydmliyqDZyBWkxkliiED4B0G.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-08-12"
+          },
+          {
+            "numero": 2,
+            "titulo": "Mr. October",
+            "sinopse": "Corporações em conflito, um reencontro emocionante e uma revelação bombástica.",
+            "duracao": 56,
+            "diretor": "Dana Gonzales",
+            "thumb": "https://image.tmdb.org/t/p/original/cdajiwi3frAqI0XIwsCH5q9P8Hu.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-08-12"
+          },
+          {
+            "numero": 3,
+            "titulo": "Metamorfose",
+            "sinopse": "A equipe retorna com uma carga inesperada e um experimento perturbador acontece.",
+            "duracao": 55,
+            "diretor": "Dana Gonzales",
+            "thumb": "https://image.tmdb.org/t/p/original/4pLJcZUh73j8wSQfB5vAX3jtORj.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-08-19"
+          },
+          {
+            "numero": 4,
+            "titulo": "Observação",
+            "sinopse": "Uma ligação inesperada surge enquanto uma trama secreta coloca todos em perigo.",
+            "duracao": 60,
+            "diretor": "Ugla Hauksdóttir",
+            "thumb": "https://image.tmdb.org/t/p/original/hzE6VJ37veL4p54IicLcI5pDDSJ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-08-26"
+          },
+          {
+            "numero": 5,
+            "titulo": "No Espaço, Ninguém...",
+            "sinopse": "Uma nave espacial em perigo desencadeia uma situação crítica.",
+            "duracao": 66,
+            "diretor": "Noah Hawley",
+            "thumb": "https://image.tmdb.org/t/p/original/hkLVUpJ8HWSAowCxazGDcUOpxLS.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-09-02"
+          },
+          {
+            "numero": 6,
+            "titulo": "Voe",
+            "sinopse": "A tensão aumenta quando inimigos se enfrentam e a curiosidade leva a consequências mortais.",
+            "duracao": 58,
+            "diretor": "Ugla Hauksdóttir",
+            "thumb": "https://image.tmdb.org/t/p/original/ppYjI7rPvsZznQr59XzysFUZTsY.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-09-09"
+          },
+          {
+            "numero": 7,
+            "titulo": "Emersão",
+            "sinopse": "Um plano de fuga leva ao rompimento de facções, traições e um confronto chocante.",
+            "duracao": 46,
+            "diretor": "Dana Gonzales",
+            "thumb": "https://image.tmdb.org/t/p/original/7DLRyfODm9aii0aLgYiuA6r2zwI.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-09-16"
+          },
+          {
+            "numero": 8,
+            "titulo": "Os Monstros de Verdade",
+            "sinopse": "Uma nova dinâmica de poder surge.",
+            "duracao": 48,
+            "diretor": "Dana Gonzales",
+            "thumb": "https://image.tmdb.org/t/p/original/tssL6QBaKUkdXtmPUidrsREIEX5.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-09-23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "200875-it-bem-vindos-a-derry",
+    "titulo": "IT: Bem-Vindos a Derry",
+    "status": "Continuing",
+    "sinopse": "Durante as férias de 1962, em uma pacata cidadezinha chamada Derry, um grupo de sete amigos começa a ver coisas bizarras. Um conta que viu um palhaço, outro que viu uma múmia. Finalmente, acabam descobrindo que estavam todos vendo a mesma coisa: um ser sobrenatural e maligno que pode assumir várias formas. Ele mesmo. O Pennywise.",
+    "ano": 2025,
+    "nota": 8.3,
+    "classificacao": "18",
+    "estudio": "HBO",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=_t4_QgZoyn8",
+    "generos": [
+      "Drama e Mistério"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/gMTfrLvrDaD0zrhpLZ7zXIIpKfJ.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+    "banner": "",
+    "elenco": [
+      "Taylour Paige",
+      "Jovan Adepo",
+      "James Remar",
+      "Stephen Rider",
+      "Matilda Lawler",
+      "Amanda Christine"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/c107TVzzaKER1fJlgRne5TR85en.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "O Piloto",
+            "sinopse": "Enquanto quatro meninos desajustados buscam um colega desaparecido, o major Leroy Hanlon chega à base aérea de Derry.",
+            "duracao": 54,
+            "diretor": "Andy Muschietti",
+            "thumb": "https://image.tmdb.org/t/p/original/uwKrKvprzNW9ACtSB27MlzOpIHL.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjAwODc1LTAxLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-10-26"
+          },
+          {
+            "numero": 2,
+            "titulo": "A Coisa na Escuridão",
+            "sinopse": "Enquanto Charlotte e Will se adaptam à nova vida em Derry, Ronnie se preocupa com o destino de seu pai.",
+            "duracao": 66,
+            "diretor": "Andy Muschietti",
+            "thumb": "https://image.tmdb.org/t/p/original/eYjrjLWIwD6qE148NKHKYcdHKjv.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjAwODc1LTAxLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-02"
+          },
+          {
+            "numero": 3,
+            "titulo": "Agora Você O Vê",
+            "sinopse": "Enquanto Leroy, Pauly e Dick buscam um novo local de escavação, os meninos buscam provas visuais dos fenômenos que vêm enfrentando.",
+            "duracao": 59,
+            "diretor": "Andrew Bernstein",
+            "thumb": "https://image.tmdb.org/t/p/original/n4BGtiqwoFYd5ZX3UmdupeENcq.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjAwODc1LTAxLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-09"
+          },
+          {
+            "numero": 4,
+            "titulo": "O Grande Aparato Giratório do Funcionamento do Nosso Planeta",
+            "sinopse": "Os meninos enfrentam experiências cada vez mais assustadoras, Charlotte tenta ajudar Hank, e o general Shaw intensifica seus esforços.",
+            "duracao": 63,
+            "diretor": "Andrew Bernstein",
+            "thumb": "https://image.tmdb.org/t/p/original/hBKG3nQJ8NzE9U0U5uKQfQD88XY.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjAwODc1LTAxLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-16"
+          },
+          {
+            "numero": 5,
+            "titulo": "Rua Neibolt, 29",
+            "sinopse": "Enquanto os militares chegam à rua Neibolt, os meninos descem aos esgotos com uma missão própria.",
+            "duracao": 56,
+            "diretor": "Emmanuel Osei-Kuffour, Jr.",
+            "thumb": "https://image.tmdb.org/t/p/original/wDTjvS7dTnIko5JukSzgYSa3QQW.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjAwODc1LTAxLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-23"
+          },
+          {
+            "numero": 6,
+            "titulo": "Em Nome do Pai",
+            "sinopse": "Assombrado por visões sombrias, Dick tem uma surpresa no Black Spot. Enquanto isso, os meninos enfrentam seus próprios desafios.",
+            "duracao": 57,
+            "diretor": "Jamie Travis",
+            "thumb": "https://image.tmdb.org/t/p/original/6phQvyEMeX84oeRznxnJWAM91dz.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjAwODc1LTAxLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-30"
+          },
+          {
+            "numero": 7,
+            "titulo": "⁨O Black Spot⁩",
+            "sinopse": "Um ataque ao Black Spot libera forças adormecidas. Após a tragédia, Dick ajuda a descobrir mais um artefato crucial.",
+            "duracao": 62,
+            "diretor": "Andy Muschietti",
+            "thumb": "https://image.tmdb.org/t/p/original/zOAW0v0WLV7vv636Cx8VfSYSktu.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjAwODc1LTAxLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-12-07"
+          },
+          {
+            "numero": 8,
+            "titulo": "Brasas no Inverno",
+            "sinopse": "Com Shaw avançando em sua missão, os Hanlon, Rose, Dick e os meninos percebem que cabe a eles salvar Derry.",
+            "duracao": 69,
+            "diretor": "Andy Muschietti",
+            "thumb": "https://image.tmdb.org/t/p/original/8gqmWZUs4GAH1QfqR2u3aXxX5Q2.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjAwODc1LTAxLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-12-14"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "",
+        "poster": "",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjAwODc1LTAyLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": ""
+          }
+        ]
+      }
+    ]
   }
 ]
