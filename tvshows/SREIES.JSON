@@ -470,5 +470,248 @@
         ]
       }
     ]
+  },
+  {
+    "id": "138502-x-men-97",
+    "titulo": "X-Men '97",
+    "status": "Continuing",
+    "sinopse": "X-Men ’97 revisita a era icônica dos anos 1990, quando os X-Men, um grupo de mutantes que usam seus dons extraordinários para proteger um mundo que os odeia e teme, são desafiados como nunca antes, forçados a enfrentar um novo futuro perigoso e inesperado.",
+    "ano": 2024,
+    "nota": 8.7,
+    "classificacao": "14",
+    "estudio": "Disney+",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=yU_VJpsU8wU",
+    "generos": [
+      "Animação e Action & Adventure e Sci-Fi & Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/yvqC5hw3rkW9vputtZ8PlwYhJRp.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+    "banner": "",
+    "elenco": [],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "Retomando de onde \"X-Men\" parou, os X-Men vivem um período de transição, lidando com a perda do Professor X. E, embora o mundo deles atravesse um momento de calma tensa no que diz respeito às relações entre mutantes e humanos, todos sabem que isso provavelmente é temporário.",
+        "poster": "https://image.tmdb.org/t/p/original/383PV0WolYYQvTriH0NfvMUA28R.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "A Mim, Meus X-Men",
+            "sinopse": "Ciclope corre para encontrar a fonte de uma nova tecnologia anti-mutante.",
+            "duracao": 33,
+            "diretor": "Jake Castorena",
+            "thumb": "https://image.tmdb.org/t/p/original/zLXRYta8yBVXvl1Hr6jjgL6Ofxh.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAxLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-03-20"
+          },
+          {
+            "numero": 2,
+            "titulo": "O Início da Libertação Mutante",
+            "sinopse": "Magneto é levado a julgamento pela ONU e um grupo anti-mutantes testa sua determinação.",
+            "duracao": 33,
+            "diretor": "Chase Conley",
+            "thumb": "https://image.tmdb.org/t/p/original/28IFCY8Ac2DBSwMNiN9JG0KcYWf.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAxLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-03-20"
+          },
+          {
+            "numero": 3,
+            "titulo": "Fogo Encarnado",
+            "sinopse": "A equipe é levada a um confronto trágico com um cientista louco imortal.",
+            "duracao": 33,
+            "diretor": "Emmett Yonemura",
+            "thumb": "https://image.tmdb.org/t/p/original/4OrsWyKwX23DLRvDcIH65hkXkR7.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAxLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-03-27"
+          },
+          {
+            "numero": 4,
+            "titulo": "Motendo / Morte em Vida (1)",
+            "sinopse": "Jubileu revive as maiores aventuras dos X-Men quando é transportada para um video game de 16 bits.",
+            "duracao": 30,
+            "diretor": "Chase Conley",
+            "thumb": "https://image.tmdb.org/t/p/original/tgSlV8iSSiYzQ9NGmzl6m28vdmZ.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAxLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-04-03"
+          },
+          {
+            "numero": 5,
+            "titulo": "Lembre-se Disso",
+            "sinopse": "A equipe vai a Genosha como convidada da ONU enquanto uma entrevista ameaça expor seus segredos.",
+            "duracao": 37,
+            "diretor": "Emmett Yonemura",
+            "thumb": "https://image.tmdb.org/t/p/original/1xrDxXEnRSC9R9Fu5zDba6gnmsp.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAxLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-04-10"
+          },
+          {
+            "numero": 6,
+            "titulo": "Morte em Vida (2)",
+            "sinopse": "Tempestade é forçada a enfrentar seus maiores medos para poder se libertar.",
+            "duracao": 34,
+            "diretor": "Chase Conley",
+            "thumb": "https://image.tmdb.org/t/p/original/wdGC6xOP2qEkUgS9UexR3fHIB1T.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAxLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-04-17"
+          },
+          {
+            "numero": 7,
+            "titulo": "Olhos Brilhantes",
+            "sinopse": "Os X-Men encontram Bolivar Trask, o inventor dos Sentinelas, e percebem que foram manipulados.",
+            "duracao": 34,
+            "diretor": "Emmett Yonemura",
+            "thumb": "https://image.tmdb.org/t/p/original/ajVbdVC5M8snrAeLyRSfPQYGmFP.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAxLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-04-24"
+          },
+          {
+            "numero": 8,
+            "titulo": "Tolerância é Extinção (1)",
+            "sinopse": "Os X-Men precisam se unir para lidar com uma nova ameaça.",
+            "duracao": 34,
+            "diretor": "Chase Conley",
+            "thumb": "https://image.tmdb.org/t/p/original/5XkNl84mTrmg2gtVDBGK3edJerN.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAxLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-05-01"
+          },
+          {
+            "numero": 9,
+            "titulo": "Tolerância é Extinção (2)",
+            "sinopse": "Os X-Men lutam para se reerguerem antes que seja tarde demais.",
+            "duracao": 32,
+            "diretor": "Emmett Yonemura",
+            "thumb": "https://image.tmdb.org/t/p/original/3a0bFAIlfHRiMx9TlvFiePDIfZm.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAxLTA5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-05-08"
+          },
+          {
+            "numero": 10,
+            "titulo": "Tolerância é Extinção (3)",
+            "sinopse": "O sonho dos X-Men é colocado à prova com as relações entre humanos e mutantes em um momento crítico.",
+            "duracao": 43,
+            "diretor": "Chase Conley",
+            "thumb": "https://image.tmdb.org/t/p/original/uuhP8ILtwpIk4edTiZ9Tu6oGQQm.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAxLTEwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2024-05-15"
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "sinopse": "A segunda temporada continua com a heroica equipe de mutantes X-Men, dividida e lançada em diferentes épocas enquanto luta para se adaptar ao retorno para casa. Enquanto isso, na década de 1990, inimigos suspeitos e novas formas de intolerância mutante surgem após a ausência dos X-Men.",
+        "poster": "https://image.tmdb.org/t/p/original/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Dias de Um Passado Futuro",
+            "sinopse": "Forge e Bishop lançam um plano ambicioso para resgatar os X-Men que foram espalhados pelo tempo.",
+            "duracao": 33,
+            "diretor": "Emmett Yonemura",
+            "thumb": "https://image.tmdb.org/t/p/original/5CRyNvTEd1ZjpJrtueadX2Q1WiR.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAyLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-07-01"
+          },
+          {
+            "numero": 2,
+            "titulo": "Uma Força a Ser Reconhecida",
+            "sinopse": "Após o Dia-E, uma força paramilitar secreta surge para tentar preencher o vazio deixado pelos X-Men.",
+            "duracao": 29,
+            "diretor": "Emmett Yonemura",
+            "thumb": "https://image.tmdb.org/t/p/original/yb7DraYTEkE4tanFcWNR3Oivjl3.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAyLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-07-01"
+          },
+          {
+            "numero": 3,
+            "titulo": "A Ascensão do Apocalipse (1)",
+            "sinopse": "O plano de resgate da equipe do Antigo Egito se complica por conta de um visitante inesperado.",
+            "duracao": 29,
+            "diretor": "Chase Conley",
+            "thumb": "https://image.tmdb.org/t/p/original/zKhuSeat4EojcnmAbAb6GWRzoiu.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAyLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-07-01"
+          },
+          {
+            "numero": 4,
+            "titulo": "A Ascensão do Apocalipse (2)",
+            "sinopse": "Uma aliança entre os X-Men e En Sabah Nur começa a ruir quando Rama-Tut busca o poder supremo.",
+            "duracao": 35,
+            "diretor": "Chase Conley",
+            "thumb": "https://image.tmdb.org/t/p/original/rw5XdSt1tStL2uN2m4i6TsX0V2v.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAyLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-07-08"
+          },
+          {
+            "numero": 5,
+            "titulo": "Arma X, Mentiras, e DVDs",
+            "sinopse": "Wolverine, Morfo e um grupo de antigos rivais enfrentam o mais recente experimento da Arma X.",
+            "duracao": 31,
+            "diretor": "Chase Conley",
+            "thumb": "https://image.tmdb.org/t/p/original/tywd0yT6uwDhIOy06JsHyH50Kf2.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAyLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-07-15"
+          },
+          {
+            "numero": 6,
+            "titulo": "Perigo.Exe",
+            "sinopse": "A Mansão X está funcionando novamente, oferecendo a jovens mutantes um novo lugar para chamar de lar. Enquanto isso, a ex-X-Man Polaris retorna ao campus para surpreender a equipe, bem na hora que uma nova ameaça surge.",
+            "duracao": 34,
+            "diretor": "Emmett Yonemura",
+            "thumb": "https://image.tmdb.org/t/p/original/yP1l2mY7DzYawCHo3gGew0elU1d.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAyLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-07-22"
+          },
+          {
+            "numero": 7,
+            "titulo": "Terra Estranha, Coração Selvagem",
+            "sinopse": "Os X-Men viajam para a Terra Selvagem para negociar a libertação de um refém de um grupo extremista, onde se surpreendem ao encontrar um rosto familiar.",
+            "duracao": 30,
+            "diretor": "Emmett Yonemura",
+            "thumb": "https://image.tmdb.org/t/p/original/ve1DiV6wIhb67tC7MI4Zy0LfCB3.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAyLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-07-29"
+          },
+          {
+            "numero": 8,
+            "titulo": "A Mão do Homem Morto",
+            "sinopse": "A equipe da X-Force chega à torre da Corporação X com notícias sinistras de problemas mortais para os X-Men. As equipes se unem enquanto investigam um fantasma do passado.",
+            "duracao": 34,
+            "diretor": "Emmett Yonemura",
+            "thumb": "https://image.tmdb.org/t/p/original/qTJxnopAGQPMgGW7EUxHHnJVSXL.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAyLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-08-05"
+          },
+          {
+            "numero": 9,
+            "titulo": "Sobrevivência do mais apto",
+            "sinopse": "Os X-Men são levados ao limite quando seu passado volta para assombrá-los.",
+            "duracao": 32,
+            "diretor": "Emmett Yonemura",
+            "thumb": "https://image.tmdb.org/t/p/original/4ZS9gq1GkqyWM4GgJhSnAHUMvpr.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9zLWUtci1pLWUtMDIvMTM4NTAyLTAyLTA5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-08-12"
+          }
+        ]
+      }
+    ]
   }
 ]
