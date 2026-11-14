@@ -14040,5 +14040,171 @@
         ]
       }
     ]
+  },
+  {
+    "id": "293610-doctor-x-a-mafia-do-jaleco-branco",
+    "titulo": "Doctor X: A Máfia do Jaleco Branco",
+    "status": "Continuing",
+    "sinopse": "Uma cirurgiã enigmática e brilhante chega a um hospital dominado pelo ego e pela corrupção. Encarando uma oposição brutal, ela resolve casos aparentemente impossíveis.",
+    "ano": 2026,
+    "nota": 9.1,
+    "classificacao": "16",
+    "estudio": "SBS",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=v6KNnhkLnnY",
+    "generos": [
+      "Mistério e Drama e Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/xFnT1WFf4y9durKpIFiwrI0lvxq.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "banner": "",
+    "elenco": [
+      "김지원",
+      "Lee Jung-eun",
+      "손현주",
+      "김우석",
+      "Lee Jin-hee",
+      "Kim Young-min"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/9zMjvgGPokNYCYhSgMGCRQetMmC.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "Em seu primeiro dia no hospital, Gye Su-jeong causa desconforto ao opinar sobre uma cirurgia. Mas ela acaba entrando em ação diante de uma crise.",
+            "duracao": 66,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/3SBnUDLb5Uwds7iWUcGurVdRbwb.jpg",
+            "url_direto": "",
+            "url_elementum": "magnet:?xt=urn:btih:E6A914D0BB6244BBEDB5BF61CB65115FB35315A8",
+            "data_lancamento": "2026-10-09"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "A equipe do hospital não sabe se prioriza um presidente de empresa rico ou uma adolescente, ambos com câncer de pâncreas. Mas Su-jeong não perde tempo.",
+            "duracao": 64,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/9rLahEmO8kFUzHb5dVyEGtDbsqh.jpg",
+            "url_direto": "",
+            "url_elementum": "magnet:?xt=urn:btih:E6A914D0BB6244BBEDB5BF61CB65115FB35315A8",
+            "data_lancamento": "2026-10-10"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "A equipe do hospital desconfia do passado de Su-jeong. Uma funcionária da limpeza desmaia de repente e, como não há cirurgiões disponíveis, Su-jeong precisa tomar uma decisão.",
+            "duracao": 63,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/hLK8IvLmYDUI4Tt8xQK30N21Tl5.jpg",
+            "url_direto": "",
+            "url_elementum": "magnet:?xt=urn:btih:E6A914D0BB6244BBEDB5BF61CB65115FB35315A8",
+            "data_lancamento": "2026-10-16"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "Um novo cirurgião começa a trabalhar no hospital, chamando a atenção de Hui-suk e Su-jeong. Um representante farmacêutico precisa de atendimento médico de emergência.",
+            "duracao": 61,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/vCNYcpaJHHrEKTCtRtpRjlkBNRq.jpg",
+            "url_direto": "",
+            "url_elementum": "magnet:?xt=urn:btih:E6A914D0BB6244BBEDB5BF61CB65115FB35315A8",
+            "data_lancamento": "2026-10-17"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "Su-jeong descobre algo perturbador sobre Na Dae-il e um paciente. Enquanto seus colegas discutem como agir, ela tem a chance de fazê-lo pagar por tudo.",
+            "duracao": 64,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/5G13IhiXd5Lc7R4h9PghV41q3oh.jpg",
+            "url_direto": "",
+            "url_elementum": "magnet:?xt=urn:btih:FA4E4BAF43B6BA625008870E7452D97717290BD9",
+            "data_lancamento": "2026-10-23"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 61,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/r836vmrabCtAK6edlvjOnH1JRhX.jpg",
+            "url_direto": "",
+            "url_elementum": "magnet:?xt=urn:btih:FA4E4BAF43B6BA625008870E7452D97717290BD9",
+            "data_lancamento": "2026-10-24"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 62,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/sS8bCGYzC0qKGOiDqHXXbadAPLz.jpg",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-10-30"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 64,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/r35eEyEA9sfI0AsWiOq6kRMAEEf.jpg",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-10-31"
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "",
+            "duracao": 65,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/gWcHJqQT8XpjIJDFIvM8fZI73g9.jpg",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-06"
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "",
+            "duracao": 65,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/5duZUEJGy5Bzew4INcNOYYqHsqz.jpg",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-07"
+          },
+          {
+            "numero": 11,
+            "titulo": "Episódio 11",
+            "sinopse": "",
+            "duracao": 65,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/dsAhJyGYHIpPyY9ieGx6A35qDk0.jpg",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-13"
+          },
+          {
+            "numero": 12,
+            "titulo": "Episódio 12",
+            "sinopse": "",
+            "duracao": 67,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/z6G6u6SBEsYxDBxmeDHg9tRxrpQ.jpg",
+            "url_direto": "",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-14"
+          }
+        ]
+      }
+    ]
   }
 ]
