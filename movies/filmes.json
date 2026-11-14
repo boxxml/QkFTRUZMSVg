@@ -1,5 +1,147 @@
 [
 {
+  "titulo": "Coringa",
+  "ano": "2019",
+  "url": "",
+  "genero": "Crime, Thriller, Drama",
+  "versoes_disponiveis": [],
+  "tags": "",
+  "elenco": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen, Shea Whigham, Bill Camp, Glenn Fleshler, Leigh Gill, Josh Pais",
+  "elenco_imagens": [
+    {
+      "id": 73421,
+      "nome": "Joaquin Phoenix",
+      "personagem": "Arthur Fleck",
+      "foto": "https://image.tmdb.org/t/p/w500/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+    },
+    {
+      "id": 380,
+      "nome": "Robert De Niro",
+      "personagem": "Murray Franklin",
+      "foto": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "id": 1545693,
+      "nome": "Zazie Beetz",
+      "personagem": "Sophie Dumond",
+      "foto": "https://image.tmdb.org/t/p/w500/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+    },
+    {
+      "id": 4432,
+      "nome": "Frances Conroy",
+      "personagem": "Penny Fleck",
+      "foto": "https://image.tmdb.org/t/p/w500/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+    },
+    {
+      "id": 16841,
+      "nome": "Brett Cullen",
+      "personagem": "Thomas Wayne",
+      "foto": "https://image.tmdb.org/t/p/w500/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg"
+    },
+    {
+      "id": 74242,
+      "nome": "Shea Whigham",
+      "personagem": "Detective Burke",
+      "foto": "https://image.tmdb.org/t/p/w500/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+    },
+    {
+      "id": 121718,
+      "nome": "Bill Camp",
+      "personagem": "Detective Garrity",
+      "foto": "https://image.tmdb.org/t/p/w500/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+    },
+    {
+      "id": 1377670,
+      "nome": "Glenn Fleshler",
+      "personagem": "Randall",
+      "foto": "https://image.tmdb.org/t/p/w500/x1Cef2yPZS7bJTwxI7DX3q0HNcv.jpg"
+    },
+    {
+      "id": 1416396,
+      "nome": "Leigh Gill",
+      "personagem": "Gary",
+      "foto": "https://image.tmdb.org/t/p/w500/stbbWD89FQWa34TNVyxVj5xBVIm.jpg"
+    },
+    {
+      "id": 6181,
+      "nome": "Josh Pais",
+      "personagem": "Hoyt Vaughn",
+      "foto": "https://image.tmdb.org/t/p/w500/uH90fGfLLzYCX02yOW3kH4LMO7n.jpg"
+    },
+    {
+      "id": 2504601,
+      "nome": "Rocco Luna",
+      "personagem": "GiGi Dumond",
+      "foto": ""
+    },
+    {
+      "id": 1231717,
+      "nome": "Marc Maron",
+      "personagem": "Gene Ufland",
+      "foto": "https://image.tmdb.org/t/p/w500/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg"
+    },
+    {
+      "id": 171297,
+      "nome": "Sondra James",
+      "personagem": "Dr. Sally",
+      "foto": "https://image.tmdb.org/t/p/w500/eA2gD2JUtXoaGUSYdwenAzeYvwG.jpg"
+    },
+    {
+      "id": 155547,
+      "nome": "Murphy Guyer",
+      "personagem": "Barry O'Donnell",
+      "foto": "https://image.tmdb.org/t/p/w500/6axiNcYIZmaeRKyfCm3xBHC7KQL.jpg"
+    },
+    {
+      "id": 80149,
+      "nome": "Douglas Hodge",
+      "personagem": "Alfred Pennyworth",
+      "foto": "https://image.tmdb.org/t/p/w500/tENL3Uxt07Rn21o0y0eolwTnkoZ.jpg"
+    },
+    {
+      "id": 1765331,
+      "nome": "Dante Pereira-Olson",
+      "personagem": "Bruce Wayne",
+      "foto": "https://image.tmdb.org/t/p/w500/zqo2pLRyjm1vIU1AVu2IWMDT8zN.jpg"
+    },
+    {
+      "id": 2504604,
+      "nome": "Carrie Louise Putrello",
+      "personagem": "Martha Wayne",
+      "foto": "https://image.tmdb.org/t/p/w500/jPsSCGPkgMAYh9NKcBJNUCW1FLv.jpg"
+    },
+    {
+      "id": 141748,
+      "nome": "Sharon Washington",
+      "personagem": "Social Worker",
+      "foto": "https://image.tmdb.org/t/p/w500/kZktXVoRLaETbNkiMoDBzFpdWVB.jpg"
+    },
+    {
+      "id": 1049916,
+      "nome": "Hannah Gross",
+      "personagem": "Young Penny",
+      "foto": "https://image.tmdb.org/t/p/w500/p94oyYrrywfSH3vkimTL1cbaWQt.jpg"
+    },
+    {
+      "id": 52021,
+      "nome": "Frank Wood",
+      "personagem": "Dr. Stoner",
+      "foto": "https://image.tmdb.org/t/p/w500/er5hLYMwjAYb3saRQcNZED4rtgx.jpg"
+    }
+  ],
+  "sinopse": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.",
+  "nota": "8.1",
+  "classificacao": "16",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=jfVTJm9NilA",
+  "poster": "https://image.tmdb.org/t/p/original/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/uACD19MjHdpLBlzmFSztlwsW5Q6.png",
+  "coletanea": "Coringa: Coleção",
+  "sinopse_coletanea": "Uma série centrada em um comediante de stand-up fracassado que enlouquece e se dedica a uma vida de crime e caos em Gotham City, ao mesmo tempo em que se torna uma figura psicopata infame do crime.",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/cOZ2hOY9VgNANdS2gngbExi9dBh.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg"
+}
+{
   "titulo": "Echo Valley",
   "ano": "2025",
   "url": "",
