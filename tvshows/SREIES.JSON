@@ -13940,5 +13940,105 @@
         ]
       }
     ]
+  },
+  {
+    "id": "333101-a-ilha-do-tesouro",
+    "titulo": "A Ilha do Tesouro",
+    "status": "Continuing",
+    "sinopse": "O jovem Jim Hawkins e sua mãe, Bess, encontram um lendário mapa do tesouro pirata e são arrastados para uma perigosa viagem através do Atlântico. Jim precisa enfrentar motins, violência e traição, experiências que o transformarão para sempre.",
+    "ano": 2026,
+    "nota": 6.7,
+    "classificacao": "14",
+    "estudio": "MGM+",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=ChpfACFzjOg",
+    "generos": [
+      "Action & Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/f8kNFg3QjReMX32geTbWfzMegAM.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+    "banner": "",
+    "elenco": [
+      "David Oyelowo",
+      "Tom Sweet",
+      "Tomer Capone",
+      "Craige Els",
+      "Neil Pendleton",
+      "George Frost"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "O jovem Jim Hawkins e sua mãe, Bess, encontram um lendário mapa do tesouro pirata e são arrastados para uma perigosa viagem através do Atlântico. Jim precisa enfrentar motins, violência e traição, experiências que o transformarão para sempre.",
+        "poster": "https://image.tmdb.org/t/p/original/f8kNFg3QjReMX32geTbWfzMegAM.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Capítulo 1: O Almirante Benbow",
+            "sinopse": "Jim Hawkins e sua mãe, Bess, são arrastados para um mundo perigoso quando um marinheiro é levado à costa com o mapa do tesouro de um pirata. Decididos a buscar o tesouro por conta própria, eles embarcam no Hispaniola, sem saber do perigo a bordo. Estreia da série.",
+            "duracao": 45,
+            "diretor": "Jeremy Lovering",
+            "thumb": "https://image.tmdb.org/t/p/original/72JK3w67KpJkSeEFsHUQzz9yY3x.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzMzMTAxLTAxLTAxLm1rdg==",
+            "url_elementum": "magnet:?xt=urn:btih:csqnc6ztb6pkozcbqu6pdbjkk3ic2msy",
+            "data_lancamento": "2026-10-11"
+          },
+          {
+            "numero": 2,
+            "titulo": "Capítulo 2: Grã-Bretanha",
+            "sinopse": "A bordo do Hispaniola, a viagem se torna uma luta por controle. Bess protege Graham enquanto Long John acumula poder entre a tripulação. Quando a violência eclode, Jim toma uma atutide decisiva que muda o equilíbrio do jogo, o aproximando de Long John.",
+            "duracao": 44,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/rAUIKPwoX7PVTNpzpKrXPiWJFWn.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzMzMTAxLTAxLTAyLm1rdg==",
+            "url_elementum": "magnet:?xt=urn:btih:cb6d6grt5dzbbn7o5jlr5jap3zmvu23l",
+            "data_lancamento": "2026-10-18"
+          },
+          {
+            "numero": 3,
+            "titulo": "Capítulo 3: O Vasto e Eterno Mar",
+            "sinopse": "Alianças são quebradas enquanto a viagem continua. Bess e Graham jogam um jogo de gato e rato enquanto Long John mira em Jim. Quando Graham dá um passo, a verdade aparece, as consequências são fatais e Jim é obrigado a tomar o controle.",
+            "duracao": 45,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/24cxbvEbn8xKSUNNW1Zc1rNEQ9x.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzMzMTAxLTAxLTAzLm1rdg==",
+            "url_elementum": "magnet:?xt=urn:btih:fif4pjy3la4slhpgljtqvn7w6vqemjai",
+            "data_lancamento": "2026-10-25"
+          },
+          {
+            "numero": 4,
+            "titulo": "Capítulo 4: Sao Domingos",
+            "sinopse": "Jim salva a vida de Long John não por lealdade, mas por estratégia. Graham leva Jim ao perigoso mundo da francesa São Domingos, em busca de ganhar sua confiança. Caos se instaura e Long John assume o controle do navio, mas Jim tem uma carta na manga.",
+            "duracao": 46,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/mEPJ9aUD8qFOpiwhNpbvWOoReJa.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzMzMTAxLTAxLTA0Lm1rdg==",
+            "url_elementum": "magnet:?xt=urn:btih:xteeiojk5s5jmnh2zv3dren2soxkrnbf",
+            "data_lancamento": "2026-11-01"
+          },
+          {
+            "numero": 5,
+            "titulo": "Capítulo 5: Ilha do Esqueleto",
+            "sinopse": "Na Ilha do Esqueleto, Jim lidera a busca pelo tesouro de Flint enquanto a paranoia e perigo crescem. A jornada traz consequências fatais enquanto os homens brigam pelo controle. Eles finalmente encontram o tesouro mas antes que qualquer um tome posse, uma força inesperada intervém.",
+            "duracao": 49,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/dc6UgNmdva5ymmqA6vvRlx0DVLT.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzMzMTAxLTAxLTA1Lm1rdg==",
+            "url_elementum": "magnet:?xt=urn:btih:fzqan5b52ckoyswrf3rbdjzaqz4r2apb",
+            "data_lancamento": "2026-11-08"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/1VM9sH9hMeMdWEtrQQl9ljzeRU4.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzMzMTAxLTAxLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-11-15"
+          }
+        ]
+      }
+    ]
   }
 ]
