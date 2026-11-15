@@ -1,5 +1,153 @@
 [
 {
+  "titulo": "Padrões de Morte",
+  "ano": "2026",
+  "url": "",
+  "genero": "Thriller, Mistério",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpkMmNvNHFxbW42c3FkNmc2eDczenR1Z2czemw1Y3NsYQ==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Shawn Ashmore, Elizabeth Mitchell, Jessy Schram, Garret Dillahunt, Brent Bailey, Maddison Bullock, Jobie James, John W Heath, Adam Hampton, Bruce Davis",
+  "elenco_imagens": [
+    {
+      "id": 11023,
+      "nome": "Shawn Ashmore",
+      "personagem": "Max Mason",
+      "foto": "https://image.tmdb.org/t/p/w500/tXA1gFtsp9HWnzlQsaZSoZC8L4r.jpg"
+    },
+    {
+      "id": 31167,
+      "nome": "Elizabeth Mitchell",
+      "personagem": "Jolene Raider",
+      "foto": "https://image.tmdb.org/t/p/w500/tpagVmiCbOQ8CPiRxF5MuZGfZGV.jpg"
+    },
+    {
+      "id": 26974,
+      "nome": "Jessy Schram",
+      "personagem": "Darby Albright",
+      "foto": "https://image.tmdb.org/t/p/w500/971zERWs0pz6CeCmQAG6SQuBrkR.jpg"
+    },
+    {
+      "id": 39520,
+      "nome": "Garret Dillahunt",
+      "personagem": "Lincoln Raider",
+      "foto": "https://image.tmdb.org/t/p/w500/7wHWTkIhre0j9L9CY2t5VVwg630.jpg"
+    },
+    {
+      "id": 1328719,
+      "nome": "Brent Bailey",
+      "personagem": "Reynolds",
+      "foto": "https://image.tmdb.org/t/p/w500/j2sqzs4qshwjlFSp2LccBPLqnq6.jpg"
+    },
+    {
+      "id": 2008605,
+      "nome": "Maddison Bullock",
+      "personagem": "Ava",
+      "foto": "https://image.tmdb.org/t/p/w500/uS380VZ0UVNEg7Ig3OsNowb7wCB.jpg"
+    },
+    {
+      "id": 4676297,
+      "nome": "Jobie James",
+      "personagem": "Detective",
+      "foto": "https://image.tmdb.org/t/p/w500/rBPmr8C0sNw6bxXH6jJfGO4ngBM.jpg"
+    },
+    {
+      "id": 5767116,
+      "nome": "John W Heath",
+      "personagem": "Physician",
+      "foto": ""
+    },
+    {
+      "id": 1743231,
+      "nome": "Adam Hampton",
+      "personagem": "Daniel",
+      "foto": "https://image.tmdb.org/t/p/w500/zsgY4S98225kH0mjcZ4yIQKXSws.jpg"
+    },
+    {
+      "id": 1622069,
+      "nome": "Bruce Davis",
+      "personagem": "Capt.Burnham",
+      "foto": "https://image.tmdb.org/t/p/w500/zS4lu2sT6Tz45K17MnCcq9Pkpk9.jpg"
+    },
+    {
+      "id": 1057642,
+      "nome": "Todd Jenkins",
+      "personagem": "Sam Miller",
+      "foto": "https://image.tmdb.org/t/p/w500/jcIey9TN3dh5EIYBZeXhvvcyPdu.jpg"
+    },
+    {
+      "id": 2042787,
+      "nome": "Mary Buss",
+      "personagem": "Nurse Thompson",
+      "foto": "https://image.tmdb.org/t/p/w500/f9GEPsT6aHRAptDadMjoHcd38Pi.jpg"
+    },
+    {
+      "id": 1827658,
+      "nome": "Connie Franklin",
+      "personagem": "News Reporter",
+      "foto": "https://image.tmdb.org/t/p/w500/4H3MdTfa28ZDBLlk9dIjBUuMKWK.jpg"
+    },
+    {
+      "id": 2037815,
+      "nome": "Whit Kunschik",
+      "personagem": "Rae",
+      "foto": "https://image.tmdb.org/t/p/w500/tsjpR2OMS7MJMo0FcwK5STPbtGM.jpg"
+    },
+    {
+      "id": 1486237,
+      "nome": "Ben Hall",
+      "personagem": "Dr. Meyers",
+      "foto": "https://image.tmdb.org/t/p/w500/kz9OvAxM8n6ouUeireS7W0IlHEO.jpg"
+    },
+    {
+      "id": 41352,
+      "nome": "Van Quattro",
+      "personagem": "Nichols",
+      "foto": "https://image.tmdb.org/t/p/w500/3W7P7vvdf0HV6i1oL2fVRiULV7a.jpg"
+    },
+    {
+      "id": 5259048,
+      "nome": "Rick W. Stiles",
+      "personagem": "Doctor",
+      "foto": ""
+    },
+    {
+      "id": 4798018,
+      "nome": "Renee Krapff",
+      "personagem": "Paramedic",
+      "foto": ""
+    },
+    {
+      "id": 2026961,
+      "nome": "Chandler Ryan",
+      "personagem": "Diane",
+      "foto": "https://image.tmdb.org/t/p/w500/9KLEQVE7Dfce0M7T3c1TDUIpAJC.jpg"
+    },
+    {
+      "id": 3532120,
+      "nome": "Kaylene Snarsky",
+      "personagem": "Sally",
+      "foto": "https://image.tmdb.org/t/p/w500/hx1lKw7pWp0pXoY5UaIqYpAxwgx.jpg"
+    }
+  ],
+  "sinopse": "Quando um enfermeiro da Unidade de Terapia Intensiva se oferece para cuidar de um paciente em coma acusado de assassinar seis mulheres, ele se vê envolvido em uma teia arrepiante de mentiras.",
+  "nota": "6.2",
+  "classificacao": "L",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=0qUlVQq5XOE",
+  "poster": "https://image.tmdb.org/t/p/original/kKQXFHaUzJ5f5D86oUy6Ibh98CP.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/woAG66LiyVHaueMVLBkNbYSgJ4c.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/xvN2oXcBN5CKc3V5fkTzBLm2zNX.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Spidey e Os Vingadores: Equipe Halloween",
   "ano": "2026",
   "url": "",
