@@ -1,5 +1,111 @@
 [
 {
+  "titulo": "Spidey e Os Vingadores: Equipe Halloween",
+  "ano": "2026",
+  "url": "",
+  "genero": "Animação, Aventura, Fantasia, Família",
+  "versoes_disponiveis": [
+    {
+      "label": "TORRENT",
+      "url": "bWFnbmV0Oj94dD11cm46YnRpaDpqMzJlMjZpdjdkejIyN2Nvam9kaWZveXpmNWU1NWo1dQ==",
+      "legenda": ""
+    }
+  ],
+  "tags": "",
+  "elenco": "Nick Fisher, Este Haim, Patrick Stump, Lincoln Bonilla, Armen Taylor, Cruz Flateau, Roger Craig Smith, Maya Tuttle, Nicolas Roye, John Eric Bentley",
+  "elenco_imagens": [
+    {
+      "id": 2246704,
+      "nome": "Nick Fisher",
+      "personagem": "Peter / Spider-Man (Spidey) / Kid at Party (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/k8fEQsNo7HsSePR0WXalDnHi8OS.jpg"
+    },
+    {
+      "id": 1741366,
+      "nome": "Este Haim",
+      "personagem": "Hallows Eve (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/aUVgUkRK980y030GMCNFsvRP9Vh.jpg"
+    },
+    {
+      "id": 135980,
+      "nome": "Patrick Stump",
+      "personagem": "Jack O’Lantern / Party Goer (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/eGhFWcVls6L93lij5iY3thHaSQ6.jpg"
+    },
+    {
+      "id": 1937769,
+      "nome": "Lincoln Bonilla",
+      "personagem": "Tony / Iron Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/f0DChUNUzAHbTLp3azrnG3Gb8LM.jpg"
+    },
+    {
+      "id": 2927722,
+      "nome": "Armen Taylor",
+      "personagem": "Hulk / Levitating Ghost Decoration (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/3si7GEmEl58PYZ8msDH08ukYR08.jpg"
+    },
+    {
+      "id": 3539937,
+      "nome": "Cruz Flateau",
+      "personagem": "T'Challa / Black Panther (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/l05nHHqz3xiDZyR02WfrLyVKbZf.jpg"
+    },
+    {
+      "id": 75038,
+      "nome": "Roger Craig Smith",
+      "personagem": "Captain America / Owner (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/6oE356GbRHAf91Llw7LDpvsAf5L.jpg"
+    },
+    {
+      "id": 2998024,
+      "nome": "Maya Tuttle",
+      "personagem": "Wasp / Woman (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/5hoy9xjZftmC9Q3Jzl5QCglGs29.jpg"
+    },
+    {
+      "id": 181175,
+      "nome": "Nicolas Roye",
+      "personagem": "WEB-STER / Parent (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/mz96EUwWlbAeXrv2ybvx6uAR7Fj.jpg"
+    },
+    {
+      "id": 183507,
+      "nome": "John Eric Bentley",
+      "personagem": "Mr. Von Carnegie / Man (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/2r2ybtn1qDCl3JlKFYklODelvW8.jpg"
+    },
+    {
+      "id": 89599,
+      "nome": "Eric Bauza",
+      "personagem": "Mr. Kim / Dad (voice)",
+      "foto": "https://image.tmdb.org/t/p/w500/lQl3CAkX5mY49bJUCGozO3wE6u1.jpg"
+    },
+    {
+      "id": 5858122,
+      "nome": "Lilou Lang",
+      "personagem": "Daughter (voice)",
+      "foto": ""
+    },
+    {
+      "id": 6512855,
+      "nome": "Delilah Blomberg",
+      "personagem": "Kid (voice)",
+      "foto": ""
+    }
+  ],
+  "sinopse": "Os planos de Halloween de Spidey e dos Vingadores são virados de cabeça para baixo pela misteriosa Hallows' Eve, que usa magia para pregar peças nas crianças que saem para pedir doces e pretende acabar com o Halloween para sempre.",
+  "nota": "6.6",
+  "classificacao": "G",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=gmHs2jiIJmQ",
+  "poster": "https://image.tmdb.org/t/p/original/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/aIiCdNCo889J2QaaOd8TXaGXoO2.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/btlDYC8jYi0PT7GaWmDaFCM4Gf7.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+{
   "titulo": "Echo Valley",
   "ano": "2025",
   "url": "",
