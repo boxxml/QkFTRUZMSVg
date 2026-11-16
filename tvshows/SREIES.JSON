@@ -30426,5 +30426,325 @@
         ]
       }
     ]
+  },
+  {
+    "id": "302658-kurulus-orhan",
+    "titulo": "Kuruluş: Orhan",
+    "status": "Ended",
+    "sinopse": "",
+    "ano": 2025,
+    "nota": 8,
+    "classificacao": "14",
+    "estudio": "atv",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=N71CjPL6suY",
+    "generos": [
+      "Drama e Action & Adventure e War & Politics"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/65K3llBL0wlW0C3pNaQyjWOdwbp.jpg",
+    "banner": "",
+    "elenco": [
+      "Mert Yazıcıoğlu",
+      "Mahassine Merabet",
+      "Alina Boz",
+      "Barış Falay",
+      "Burak Sergen",
+      "Bennu Yıldırımlar"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "sinopse": "",
+        "poster": "https://image.tmdb.org/t/p/original/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episódio 1",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/fm5RULSCe1V0JpnMnC4zb2krGMi.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTAxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-10-29"
+          },
+          {
+            "numero": 2,
+            "titulo": "Episódio 2",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/jkMV61oqPSh9AJxZfHPkCjpPivX.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTAyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-05"
+          },
+          {
+            "numero": 3,
+            "titulo": "Episódio 3",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/Nneu23hFkkFiYWCtPNAc3wCSOv.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTAzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-12"
+          },
+          {
+            "numero": 4,
+            "titulo": "Episódio 4",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/9Cj5ufM4jXdyg7yuHh9PfXxTqoh.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTA0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-19"
+          },
+          {
+            "numero": 5,
+            "titulo": "Episódio 5",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/xYBXTltyHmvGVDeuDXZmZv6j2C4.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTA1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-11-26"
+          },
+          {
+            "numero": 6,
+            "titulo": "Episódio 6",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/riRWkGsom2MylcfRCF6DjRvC4QT.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTA2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-12-03"
+          },
+          {
+            "numero": 7,
+            "titulo": "Episódio 7",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/lilmaku2rajBgTWHVKpndKeJE5a.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTA3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-12-10"
+          },
+          {
+            "numero": 8,
+            "titulo": "Episódio 8",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/6zN1Hkk5DVUru2iVzAJJI7d9Nxz.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTA4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-12-17"
+          },
+          {
+            "numero": 9,
+            "titulo": "Episódio 9",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/h81UlZzLWxs4Q6fBlFhvYFcaqZ3.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTA5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2025-12-24"
+          },
+          {
+            "numero": 10,
+            "titulo": "Episódio 10",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/acIEXFkH77mjIpe4WB7RYi2Hkf1.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTEwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-01-14"
+          },
+          {
+            "numero": 11,
+            "titulo": "Episódio 11",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/bZpp7F5OQQ6V907ICxy9MDgmTNr.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTExLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-01-21"
+          },
+          {
+            "numero": 12,
+            "titulo": "Episódio 12",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/rpQun6Tmy8dLhhjV7Cn96VA1L2l.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTEyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-01-28"
+          },
+          {
+            "numero": 13,
+            "titulo": "Episódio 13",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/1J6TjnRui10WexjhgaUVLMhlJrC.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTEzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-02-04"
+          },
+          {
+            "numero": 14,
+            "titulo": "Episódio 14",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/5EbgQV3ECre81vE9gkdGwNreOSr.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTE0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-02-11"
+          },
+          {
+            "numero": 15,
+            "titulo": "Episódio 15",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/t0ZW6JFaC6ZDEdaz72RkVFSRJhP.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTE1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-02-18"
+          },
+          {
+            "numero": 16,
+            "titulo": "Episódio 16",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/yvYEMI1NNQRbLP8IL9pbkDnTQY2.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTE2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-02-25"
+          },
+          {
+            "numero": 17,
+            "titulo": "Episódio 17",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/qGFslWdObkqjpdwImBvAVP3jyEG.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTE3Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-03-11"
+          },
+          {
+            "numero": 18,
+            "titulo": "Episódio 18",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/mevZcbvfSlr6qvrbaNeiysUgBsc.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTE4Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-03-18"
+          },
+          {
+            "numero": 19,
+            "titulo": "Episódio 19",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/vQTIcpV5IcVPsDhkw81itxteXOu.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTE5Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-03-25"
+          },
+          {
+            "numero": 20,
+            "titulo": "Episódio 20",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/6BD0INIeqzKG7yN5jN7p5vqpSL8.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTIwLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-04-01"
+          },
+          {
+            "numero": 21,
+            "titulo": "Episódio 21",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/g0HPNaZXMdbwmHiIYwsSXg9xqi6.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTIxLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-04-08"
+          },
+          {
+            "numero": 22,
+            "titulo": "Episódio 22",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/hvlt6OelFqrjxa2bVwj8dL2O150.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTIyLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-04-29"
+          },
+          {
+            "numero": 23,
+            "titulo": "Episódio 23",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/7JZVRd5zdwwToE6jiMp69kJla9w.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTIzLm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-06"
+          },
+          {
+            "numero": 24,
+            "titulo": "Episódio 24",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/w0oBB0hNnGpZMqpD4dUnEQX4zNm.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTI0Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-05-20"
+          },
+          {
+            "numero": 25,
+            "titulo": "Episódio 25",
+            "sinopse": "",
+            "duracao": 0,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/vlxjy7y3JAlo54q8l8JxawJJ1oc.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTI1Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-03"
+          },
+          {
+            "numero": 26,
+            "titulo": "Episódio 26",
+            "sinopse": "",
+            "duracao": 150,
+            "diretor": "",
+            "thumb": "https://image.tmdb.org/t/p/original/99MEozKzgBfrwqeuJcsnUYq9VAb.jpg",
+            "url_direto": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzAyNjU4LTAxLTI2Lm1rdg==",
+            "url_elementum": "",
+            "data_lancamento": "2026-06-10"
+          }
+        ]
+      }
+    ]
   }
 ]
