@@ -1,5 +1,185 @@
 [
 {
+    "titulo": "Predador: Terras Selvagens",
+    "ano": "2025",
+    "sinopse": "No futuro, em um planeta remoto, um jovem Predador, rejeitado por seu clã, encontra em Thia uma aliada improvável e embarca em uma jornada traiçoeira em busca do adversário supremo.",
+    "genero": "Ação, Ficção científica, Aventura",
+    "poster": "https://image.tmdb.org/t/p/original/f3yLlUrJDdDL8d4nxywyotN45SL.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4wMS8xMjQyODk4Lm1rdg==",
+    "versao": "Principal / Padrão",
+    "versoes_disponiveis": [
+      {
+        "label": "Principal / Padrão",
+        "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4wMS8xMjQyODk4Lm1rdg==",
+        "legenda": ""
+      }
+    ],
+    "legenda": "",
+    "nota": "7.841",
+    "classificacao": "16",
+    "duracao": "107",
+    "diretor": "Dan Trachtenberg",
+    "elenco": "Elle Fanning, Dimitrius Schuster-Koloamatangi, Ravi Narayan, Michael Homick, Stefan Grube, Reuben De Jong, Cameron Brown, Alison Wright, Matt Duffer, Ross Duffer",
+    "trailer": "",
+    "tags": "",
+    "coletanea": "Predador: Coleção",
+    "sinopse_coletanea": "Uma série de filmes de ação de ficção científica, centrada em uma espécie extraterrestre de classe guerreira, com armamento tecnologicamente avançado, que viaja para a Terra para caçar seres humanos.",
+    "poster_coletanea": "https://image.tmdb.org/t/p/original/A1Z5lNbRCv9hsI2Fv6muUE9XbdM.jpg",
+    "fanart_coletanea": "https://image.tmdb.org/t/p/original/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg",
+    "banner_coletanea": ""
+  },
+  {
+    "titulo": "O Predador: A Caçada",
+    "ano": "2022",
+    "sinopse": "Ambientado há 300 anos na Nação Comanche, esta é a história de Naru, uma guerreira destemida e hábil, criada na sombra dos lendários caçadores que habitam as Grandes Planícies. Quando um perigo ameaça seu povo, ela parte para protegê-los. Porém, sua presa é um predador alienígena altamente evoluído munido com armas tecnologicamente avançadas.",
+    "genero": "Thriller, Ação, Ficção científica",
+    "poster": "https://image.tmdb.org/t/p/original/n2hyhBPIYbwvCSipcawcc8iEAsH.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4wMS83NjY1MDcubWt2",
+    "versao": "Principal / Padrão",
+    "versoes_disponiveis": [
+      {
+        "label": "Principal / Padrão",
+        "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4wMS83NjY1MDcubWt2",
+        "legenda": ""
+      }
+    ],
+    "legenda": "",
+    "nota": "7.636",
+    "classificacao": "16",
+    "duracao": "99",
+    "diretor": "Dan Trachtenberg",
+    "elenco": "Amber Midthunder, Dakota Beavers, Michelle Thrush, Stormee Kipp, Julian Black Antelope, Dane DiLiegro, Stefany Mathias, Bennett Taylor, Mike Paterson, Nelson Leis",
+    "trailer": "",
+    "tags": "",
+    "coletanea": "Predador: Coleção",
+    "sinopse_coletanea": "Uma série de filmes de ação de ficção científica, centrada em uma espécie extraterrestre de classe guerreira, com armamento tecnologicamente avançado, que viaja para a Terra para caçar seres humanos.",
+    "poster_coletanea": "https://image.tmdb.org/t/p/original/A1Z5lNbRCv9hsI2Fv6muUE9XbdM.jpg",
+    "fanart_coletanea": "https://image.tmdb.org/t/p/original/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg",
+    "banner_coletanea": ""
+  },
+  {
+    "titulo": "O Predador",
+    "ano": "2018",
+    "sinopse": "Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna, um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett é chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido em cativeiro.",
+    "genero": "Ficção científica, Ação, Thriller",
+    "poster": "https://image.tmdb.org/t/p/original/8NQd3uDbOsEvpvDRGusZnUbRDOO.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/b96OdaJce7Zu70NYe8vmlfOQUUN.jpg",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4wMS8zNDY5MTAubWt2",
+    "versao": "Principal / Padrão",
+    "versoes_disponiveis": [
+      {
+        "label": "Principal / Padrão",
+        "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4wMS8zNDY5MTAubWt2",
+        "legenda": ""
+      }
+    ],
+    "legenda": "",
+    "nota": "5.615",
+    "classificacao": "18",
+    "duracao": "107",
+    "diretor": "Shane Black",
+    "elenco": "Boyd Holbrook, Trevante Rhodes, Sterling K. Brown, Jacob Tremblay, Keegan-Michael Key, Olivia Munn, Thomas Jane, Alfie Allen, Augusto Aguilera, Jake Busey",
+    "trailer": "",
+    "tags": "",
+    "coletanea": "Predador: Coleção",
+    "sinopse_coletanea": "Uma série de filmes de ação de ficção científica, centrada em uma espécie extraterrestre de classe guerreira, com armamento tecnologicamente avançado, que viaja para a Terra para caçar seres humanos.",
+    "poster_coletanea": "https://image.tmdb.org/t/p/original/A1Z5lNbRCv9hsI2Fv6muUE9XbdM.jpg",
+    "fanart_coletanea": "https://image.tmdb.org/t/p/original/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg",
+    "banner_coletanea": ""
+  },
+  {
+    "titulo": "Predadores",
+    "ano": "2010",
+    "sinopse": "Em um planeta misterioso, um mercenário e um grupo de assassinos a sangue a frio agora são presas. Uma nova raça de alienígenas persegue os humanos pela floresta densa e o grupo precisa se unir se não quiser virar troféu dos caçadores intergalácticos.",
+    "genero": "Ficção científica, Ação, Thriller",
+    "poster": "https://image.tmdb.org/t/p/original/46pJsCB2y8pfmKTNRplcBX03Fqx.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/yVSgw4UyXWg0Edl7KMehdhhgIwL.jpg",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4wMS8zNDg1MS5ta3Y=",
+    "versao": "Principal / Padrão",
+    "versoes_disponiveis": [
+      {
+        "label": "Principal / Padrão",
+        "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4wMS8zNDg1MS5ta3Y=",
+        "legenda": ""
+      }
+    ],
+    "legenda": "",
+    "nota": "6.312",
+    "classificacao": "14",
+    "duracao": "107",
+    "diretor": "Nimród Antal",
+    "elenco": "Adrien Brody, Topher Grace, Alice Braga, Walton Goggins, Олег Тактаров, Laurence Fishburne, Danny Trejo, Louis Ozawa, Mahershala Ali, Carey Jones",
+    "trailer": "",
+    "tags": "",
+    "coletanea": "Predador: Coleção",
+    "sinopse_coletanea": "Uma série de filmes de ação de ficção científica, centrada em uma espécie extraterrestre de classe guerreira, com armamento tecnologicamente avançado, que viaja para a Terra para caçar seres humanos.",
+    "poster_coletanea": "https://image.tmdb.org/t/p/original/A1Z5lNbRCv9hsI2Fv6muUE9XbdM.jpg",
+    "fanart_coletanea": "https://image.tmdb.org/t/p/original/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg",
+    "banner_coletanea": ""
+  },
+  {
+    "titulo": "O Predador 2: A Caçada Continua",
+    "ano": "1990",
+    "sinopse": "Um alienígena predador, invisível e equipado com armas poderosas, desembarca em Los Angeles, devastada pelo conflito de gangues de traficantes rivais, para iniciar seu festival de matança, deixando um rastro de corpos mutilados em seu caminho.",
+    "genero": "Ficção científica, Ação, Thriller",
+    "poster": "https://image.tmdb.org/t/p/original/xBNOmNi4SSB5JAXGlsvgYtWDOuD.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/8GGAXEXaTPMDGa0sCPyFcitvlD9.jpg",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4wMS8xNjkubWt2",
+    "versao": "Principal / Padrão",
+    "versoes_disponiveis": [
+      {
+        "label": "Principal / Padrão",
+        "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4wMS8xNjkubWt2",
+        "legenda": ""
+      }
+    ],
+    "legenda": "",
+    "nota": "6.332",
+    "classificacao": "16",
+    "duracao": "108",
+    "diretor": "Stephen Hopkins",
+    "elenco": "Danny Glover, Gary Busey, Rubén Blades, María Conchita Alonso, Bill Paxton, Robert Davi, Adam Baldwin, Kevin Peter Hall, Kent McCord, Morton Downey, Jr.",
+    "trailer": "",
+    "tags": "",
+    "coletanea": "Predador: Coleção",
+    "sinopse_coletanea": "Uma série de filmes de ação de ficção científica, centrada em uma espécie extraterrestre de classe guerreira, com armamento tecnologicamente avançado, que viaja para a Terra para caçar seres humanos.",
+    "poster_coletanea": "https://image.tmdb.org/t/p/original/A1Z5lNbRCv9hsI2Fv6muUE9XbdM.jpg",
+    "fanart_coletanea": "https://image.tmdb.org/t/p/original/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg",
+    "banner_coletanea": ""
+  },
+  {
+    "titulo": "O Predador",
+    "ano": "1987",
+    "sinopse": "O major Alan \"Dutch\" Schaefer lidera uma equipe de resgate em uma selva da América Central, para tentar encontrar um ministro estrangeiro e funcionários do governo que saíram da rota e se perderam. O exército acredita que eles estejam nas mãos de guerrilheiros, mas o que eles não imaginam é que a floresta esconde uma ameaça mortal, um ser de outro planeta, fortemente armado, que sente enorme prazer em matar.",
+    "genero": "Ficção científica, Ação, Aventura, Thriller",
+    "poster": "https://image.tmdb.org/t/p/original/3RuuLeX487syJrV1olkQCFbHrIv.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4wMS8xMDYubWt2",
+    "versao": "Principal / Padrão",
+    "versoes_disponiveis": [
+      {
+        "label": "Principal / Padrão",
+        "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4wMS8xMDYubWt2",
+        "legenda": ""
+      }
+    ],
+    "legenda": "",
+    "nota": "7.6",
+    "classificacao": "16",
+    "duracao": "107",
+    "diretor": "John McTiernan",
+    "elenco": "Arnold Schwarzenegger, Carl Weathers, Kevin Peter Hall, Elpidia Carrillo, Bill Duke, Jesse Ventura, Sonny Landham, Richard Chaves, R.G. Armstrong, Shane Black",
+    "trailer": "",
+    "tags": "",
+    "coletanea": "Predador: Coleção",
+    "sinopse_coletanea": "Uma série de filmes de ação de ficção científica, centrada em uma espécie extraterrestre de classe guerreira, com armamento tecnologicamente avançado, que viaja para a Terra para caçar seres humanos.",
+    "poster_coletanea": "https://image.tmdb.org/t/p/original/A1Z5lNbRCv9hsI2Fv6muUE9XbdM.jpg",
+    "fanart_coletanea": "https://image.tmdb.org/t/p/original/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg",
+    "banner_coletanea": ""
+  },
+{
   "titulo": "Em Rota de Fuga",
   "ano": "2026",
   "url": "",
