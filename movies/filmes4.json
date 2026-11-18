@@ -3,7 +3,7 @@
     {
       "type": "movie",
       "id": 1551025,
-      "tmdb_id": "1551025",
+      "tmdb_id": 1551025,
       "imdb_id": "tt6611324",
       "title": "Protegendo Estrelas",
       "name": "Protegendo Estrelas",
@@ -12,7 +12,7 @@
       "release_date": "2026-11-18",
       "first_air_date": "",
       "year": "2026",
-      "vote_average": "5.7",
+      "vote_average": 5.7,
       "certification": "12",
       "classification": "12",
       "vote_count": 4,
@@ -159,6 +159,495 @@
           "label": "1080P",
           "quality": "1080p",
           "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsems1d2VjdmNyYW9zdmtmb2RjdjRxZWF1YWJmZjJmZg==",
+          "_linksBase64": true
+        }
+      ],
+      "seasons": [],
+      "tags": []
+    },
+    {
+      "type": "movie",
+      "id": 1061645,
+      "tmdb_id": "1061645",
+      "imdb_id": "tt11773174",
+      "title": "O Brilho do Mar",
+      "name": "O Brilho do Mar",
+      "original_title": "Zeevonk",
+      "overview": "Lena é uma adolescente que perdeu seu pai em um naufrágio e está determinada a provar que o desastre foi causado por uma misteriosa criatura vagando nas profundezas do oceano.",
+      "release_date": "2023-03-29",
+      "first_air_date": "",
+      "year": "2023",
+      "vote_average": "4.2",
+      "certification": "12",
+      "classification": "12",
+      "vote_count": 10,
+      "runtime": 98,
+      "episode_run_time": [],
+      "status": "Released",
+      "tagline": "",
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/jG1ze8wLP3XJwUoKQSmSnzJBxAQ.jpg",
+      "backdrop_path": "/uMAQbLFRoGMgOF0yjXRmjGf4PFd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jG1ze8wLP3XJwUoKQSmSnzJBxAQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/uMAQbLFRoGMgOF0yjXRmjGf4PFd.jpg",
+      "cast": [
+        {
+          "name": "Saar Rogiers",
+          "character": "Lena",
+          "profile_path": "/sXx8bo8R0OVJhMalS5FwQcJbsYi.jpg"
+        },
+        {
+          "name": "Hilde De Baerdemaeker",
+          "character": "Christine",
+          "profile_path": "/AapgA4gqEyTP2uUOtIUFfObYJ1m.jpg"
+        },
+        {
+          "name": "Valentijn Dhaenens",
+          "character": "Antoine",
+          "profile_path": "/mHl2MKRQWTwJazddhYZH2Fo6LNH.jpg"
+        },
+        {
+          "name": "Sverre Rous",
+          "character": "Vincent",
+          "profile_path": "/gnTc7Q8MvuU7TyKHZ6SyxVT6kk9.jpg"
+        },
+        {
+          "name": "Dunia Elwaleed",
+          "character": "Kaz",
+          "profile_path": "/rjvuw49H504CBZHHZTSVTx1Ipko.jpg"
+        },
+        {
+          "name": "Thibaud Dooms",
+          "character": "Jules",
+          "profile_path": "/8aY3dZ5uHlPqvUA2WSiVbODpBQk.jpg"
+        },
+        {
+          "name": "Lia Van Heck",
+          "character": "Fran",
+          "profile_path": null
+        },
+        {
+          "name": "Nika Petrović",
+          "character": "Nora",
+          "profile_path": null
+        },
+        {
+          "name": "Zouzou Ben Chikha",
+          "character": "Marre",
+          "profile_path": "/sekmhziLmKQWXHZCiM1pR0To9H5.jpg"
+        },
+        {
+          "name": "Sebastien Dewaele",
+          "character": "Fluppe",
+          "profile_path": "/ixrwTUcqpCKoR2x1He2eAwC0kfr.jpg"
+        },
+        {
+          "name": "Lynn Van Royen",
+          "character": "Isabel",
+          "profile_path": "/qmfW0VBlO1athYYVeW8fq4tPKqd.jpg"
+        },
+        {
+          "name": "Katelijne Verbeke",
+          "character": "Oma Vincent",
+          "profile_path": "/oRMR61wxs0F3ToXL778HT2NQEsX.jpg"
+        }
+      ],
+      "director": "Domien Huyghe",
+      "trailer": "",
+      "production_companies": [
+        {
+          "id": 3134,
+          "logo_path": "/1w7LQKO5fNzovefxGReUpZlM8e9.png",
+          "name": "A Private View",
+          "origin_country": "BE"
+        },
+        {
+          "id": 44438,
+          "logo_path": "/mnoDqJffaYKJmOQ6plRZYksZPXF.png",
+          "name": "Viking Film",
+          "origin_country": "NL"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BE",
+          "name": "Belgium"
+        },
+        {
+          "iso_3166_1": "NL",
+          "name": "Netherlands"
+        }
+      ],
+      "original_language": "nl",
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "Dutch",
+          "iso_639_1": "nl",
+          "name": "Nederlands"
+        }
+      ],
+      "popularity": 0.4087,
+      "adult": false,
+      "sources": [
+        {
+          "type": "magnet",
+          "label": "1080P",
+          "quality": "1080p",
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDpheTdxMnF1MmF6a2FkNzRjNWkzaGNiMnRxNGF5ZHBibQ==",
+          "_linksBase64": true
+        }
+      ],
+      "seasons": [],
+      "tags": []
+    },
+    {
+      "type": "movie",
+      "id": 1361248,
+      "tmdb_id": "1361248",
+      "imdb_id": "tt33253213",
+      "title": "Sob as Luzes do Natal",
+      "name": "Sob as Luzes do Natal",
+      "original_title": "Christmas Under the Lights",
+      "overview": "Ao voltar à cidade onde nasceu para organizar a festa de Natal, Emily conhece um charmoso artista.",
+      "release_date": "2024-11-27",
+      "first_air_date": "",
+      "year": "2024",
+      "vote_average": "6.1",
+      "certification": "",
+      "classification": "",
+      "vote_count": 17,
+      "runtime": 84,
+      "episode_run_time": [],
+      "status": "Released",
+      "tagline": "",
+      "genres": [
+        "Drama",
+        "Cinema TV"
+      ],
+      "poster_path": "/ojNeqON64ZJcKWCMr1behW73K3Z.jpg",
+      "backdrop_path": "/6sjpWeRcx3xEIa5kzgY9ZWcuMzs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ojNeqON64ZJcKWCMr1behW73K3Z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/6sjpWeRcx3xEIa5kzgY9ZWcuMzs.jpg",
+      "cast": [
+        {
+          "name": "Heather Hemmens",
+          "character": "Emily",
+          "profile_path": "/dVwYV1oVQYeyvlEm0a6rFVYBmEO.jpg"
+        },
+        {
+          "name": "Marco Grazzini",
+          "character": "Luke",
+          "profile_path": "/ml42pjzKn7sjNR5FkpEn5cTjIdZ.jpg"
+        },
+        {
+          "name": "Hilary Jardine",
+          "character": "Taylor",
+          "profile_path": "/qIdAaozFRTNEWt8kP4lq7frFTH3.jpg"
+        },
+        {
+          "name": "Laura Mitchell",
+          "character": "Aurora",
+          "profile_path": "/cw8lcwxx6DKBzoFfMIjdCBMb0NL.jpg"
+        },
+        {
+          "name": "Antonio Cayonne",
+          "character": "Nick",
+          "profile_path": "/bCAxx1cNHsidOLwZys2FJEhsdrd.jpg"
+        },
+        {
+          "name": "Eden Weiss",
+          "character": "Fynne",
+          "profile_path": "/11OxhppBdSFxdIJfkeQsLrXRTih.jpg"
+        }
+      ],
+      "director": "Lucie Guest",
+      "trailer": "",
+      "production_companies": [
+        {
+          "id": 3958,
+          "logo_path": "/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png",
+          "name": "Front Street Pictures",
+          "origin_country": "CA"
+        },
+        {
+          "id": 53015,
+          "logo_path": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+          "name": "Hallmark Media",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "original_language": "en",
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "popularity": 1.8443,
+      "adult": false,
+      "sources": [
+        {
+          "type": "magnet",
+          "label": "1080P",
+          "quality": "1080p",
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDpyN2x4b2ZjMzVrYW16cGF0MnlzeG9xb2pxd2d3cDRneg==",
+          "_linksBase64": true
+        }
+      ],
+      "seasons": [],
+      "tags": []
+    },
+    {
+      "type": "movie",
+      "id": 1368337,
+      "tmdb_id": "1368337",
+      "imdb_id": "tt33764258",
+      "title": "A Odisseia",
+      "name": "A Odisseia",
+      "original_title": "The Odyssey",
+      "overview": "Acompanhe o rei grego Odisseu em sua perigosa jornada de 20 anos para voltar a Ítaca após a Guerra de Troia, enfrentando monstros e deuses enquanto sua esposa Penélope resiste em seu reino.",
+      "release_date": "2026-07-15",
+      "first_air_date": "",
+      "year": "2026",
+      "vote_average": "8.021",
+      "certification": "14",
+      "classification": "14",
+      "vote_count": 5066,
+      "runtime": 172,
+      "episode_run_time": [],
+      "status": "Released",
+      "tagline": "Desafie os deuses.",
+      "genres": [
+        "Aventura",
+        "Ação",
+        "Fantasia"
+      ],
+      "poster_path": "/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
+      "backdrop_path": "/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "cast": [
+        {
+          "name": "Matt Damon",
+          "character": "Odysseus",
+          "profile_path": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+        },
+        {
+          "name": "Tom Holland",
+          "character": "Telemachus",
+          "profile_path": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+        },
+        {
+          "name": "Anne Hathaway",
+          "character": "Penelope",
+          "profile_path": "/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+        },
+        {
+          "name": "Robert Pattinson",
+          "character": "Antinous",
+          "profile_path": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+        },
+        {
+          "name": "Himesh Patel",
+          "character": "Eurylochus",
+          "profile_path": "/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
+        },
+        {
+          "name": "Charlize Theron",
+          "character": "Calypso",
+          "profile_path": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+        },
+        {
+          "name": "John Leguizamo",
+          "character": "Eumaeus",
+          "profile_path": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+        },
+        {
+          "name": "Travis Scott",
+          "character": "Bard",
+          "profile_path": "/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
+        },
+        {
+          "name": "Corey Hawkins",
+          "character": "Polybus",
+          "profile_path": "/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+        },
+        {
+          "name": "Jarreth J. Merz",
+          "character": "Leodes",
+          "profile_path": "/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg"
+        },
+        {
+          "name": "Niko Nicotera",
+          "character": "Peisander",
+          "profile_path": "/ffSAiwXMmvQP1vJuPguLznNpPOI.jpg"
+        },
+        {
+          "name": "Elliot Page",
+          "character": "Sinon",
+          "profile_path": "/eCeFgzS8dYHnMfWQT0oQitCrsSz.jpg"
+        },
+        {
+          "name": "Shiloh Fernandez",
+          "character": "First Trojan",
+          "profile_path": "/ug0p4QtE1Am7JySNClm7u8iISOB.jpg"
+        },
+        {
+          "name": "Rafi Gavron",
+          "character": "Second Trojan",
+          "profile_path": "/avCWoO9fLwEhbT6cvu0TJcSj49g.jpg"
+        },
+        {
+          "name": "Elyes Gabel",
+          "character": "Elatus",
+          "profile_path": "/z9IqYTYxhVR9ADxaksbPQwiYQns.jpg"
+        },
+        {
+          "name": "Iddo Goldberg",
+          "character": "Amphimedon",
+          "profile_path": "/dJGHbLmYKxLy87jduKGm5jDtBnR.jpg"
+        },
+        {
+          "name": "Jamie Harris",
+          "character": "Agelus",
+          "profile_path": "/iqc9RropHWLe2wLCgUHtZZDJ7w.jpg"
+        },
+        {
+          "name": "John Ales",
+          "character": "Beggar in Ithaca",
+          "profile_path": "/rASQsyvYk1VD8hvo2Pi1Tq3Wwlm.jpg"
+        },
+        {
+          "name": "Raimy Lang",
+          "character": "Teenage Antinous",
+          "profile_path": "/blAgz5a4IRmwycftKnrRMfWCYF3.jpg"
+        },
+        {
+          "name": "Mason Cufari",
+          "character": "Teenage Sinon",
+          "profile_path": "/9o9bNDomtugse7iHQtPfVY6S6LM.jpg"
+        },
+        {
+          "name": "Mia Goth",
+          "character": "Melantho",
+          "profile_path": "/rwko7XVaKFcJH1dtAIIsrgLMzHb.jpg"
+        },
+        {
+          "name": "Ryan Hurst",
+          "character": "Mentor",
+          "profile_path": "/467wpYYeeDyF4MeoDMuNp4bwgzH.jpg"
+        },
+        {
+          "name": "Kate Fuglei",
+          "character": "Eurycleia",
+          "profile_path": "/tm9IbjrFfOe3ueImBuHiBYrRIo2.jpg"
+        },
+        {
+          "name": "Benny Safdie",
+          "character": "Agamemnon",
+          "profile_path": "/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
+        },
+        {
+          "name": "Adam Croasdell",
+          "character": "Antinous' Father",
+          "profile_path": "/vTScKZOLq9xPmkbNdOSb5p5kYB8.jpg"
+        },
+        {
+          "name": "Mickey Shilowich",
+          "character": "Infant Telemachus",
+          "profile_path": null
+        },
+        {
+          "name": "Katerina Antemel",
+          "character": "Iphigenia",
+          "profile_path": null
+        },
+        {
+          "name": "Jovan Adepo",
+          "character": "Elpenor",
+          "profile_path": "/aJcuEbYru85meNGzM0oSeW3nsd6.jpg"
+        },
+        {
+          "name": "Andrew Howard",
+          "character": "Polites",
+          "profile_path": "/kba1JeCUYHufjB933G5xPRhO8lV.jpg"
+        },
+        {
+          "name": "Josh Stewart",
+          "character": "Antiphates",
+          "profile_path": "/prgoT9fq5Z2ZCGmC1rrSZkq4wH9.jpg"
+        }
+      ],
+      "director": "Christopher Nolan",
+      "trailer": "https://www.youtube.com/watch?v=fF9hQP0vht8",
+      "production_companies": [
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 9996,
+          "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+          "name": "Syncopy",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "original_language": "en",
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "popularity": 478.6101,
+      "adult": false,
+      "sources": [
+        {
+          "type": "magnet",
+          "label": "SEM COMPACTAÇÃO",
+          "quality": "1080p",
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDoyZTVmNDZhMTI1NjIxNTJlNDdjNWI1MzUwNTM1ZWFhZGE1OThiZmM4",
+          "_linksBase64": true
+        },
+        {
+          "type": "magnet",
+          "label": "1080P",
+          "quality": "1080p",
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDp6bjYzMm5yaWFwcHBmYWpwejdpemV4NHIyeGV4MnJiNQ==",
+          "_linksBase64": true
+        },
+        {
+          "type": "magnet",
+          "label": "4K",
+          "quality": "4K",
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDozYjYzNzk4MWU4NTA0M2I0ZDZiZTNkM2IyOWM4MTQ3MDgxZWQ3ZmE3",
           "_linksBase64": true
         }
       ],
