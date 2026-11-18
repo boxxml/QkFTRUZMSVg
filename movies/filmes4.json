@@ -1,0 +1,169 @@
+{
+  "filmes": [
+    {
+      "type": "movie",
+      "id": 1551025,
+      "tmdb_id": "1551025",
+      "imdb_id": "tt6611324",
+      "title": "Protegendo Estrelas",
+      "name": "Protegendo Estrelas",
+      "original_title": "Guarding Stars",
+      "overview": "Uma guarda-costas pragmática tem que proteger um ator de Hollywood durante as festas de fim de ano, mas o clima esquenta, segredos vêm à tona e o Natal fica bem mais complicado.",
+      "release_date": "2026-11-18",
+      "first_air_date": "",
+      "year": "2026",
+      "vote_average": "5.7",
+      "certification": "12",
+      "classification": "12",
+      "vote_count": 4,
+      "runtime": 109,
+      "episode_run_time": [],
+      "status": "Released",
+      "tagline": "",
+      "genres": [
+        "Comédia",
+        "Romance"
+      ],
+      "poster_path": "/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
+      "backdrop_path": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "cast": [
+        {
+          "name": "Leighton Meester",
+          "character": "Hannah",
+          "profile_path": "/6P8sa2eR2wpNkA1n1NVHREaeXPV.jpg"
+        },
+        {
+          "name": "Jared Padalecki",
+          "character": "Jack",
+          "profile_path": "/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+        },
+        {
+          "name": "Andie MacDowell",
+          "character": "",
+          "profile_path": "/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
+        },
+        {
+          "name": "Walker Hayes",
+          "character": "",
+          "profile_path": "/8kC7c8lO9grfgCP5FxLmEKCKMP6.jpg"
+        },
+        {
+          "name": "Noah LaLonde",
+          "character": "",
+          "profile_path": "/kFN2p5zW8kbsLaEOA4usN88lq86.jpg"
+        },
+        {
+          "name": "Toby Sandeman",
+          "character": "",
+          "profile_path": "/5ZmXTHbRlbkQDtga4Cbk447osUY.jpg"
+        },
+        {
+          "name": "Phil Brooks",
+          "character": "Doghouse",
+          "profile_path": "/357pyjyvFFJLkwBpTopy2KnyDRA.jpg"
+        },
+        {
+          "name": "Ava Max",
+          "character": "Kennedy Monroe",
+          "profile_path": "/ajW6BTIV8ixeevdNTJl557sVynX.jpg"
+        },
+        {
+          "name": "Jake Foy",
+          "character": "Brody",
+          "profile_path": "/zGdd4rmmyab9YXcsI6un06kzbJ9.jpg"
+        },
+        {
+          "name": "Siobhan Williams",
+          "character": "Ella Mae",
+          "profile_path": "/2vU6JzU9SVBDgjvTUV0nMoaOCZc.jpg"
+        },
+        {
+          "name": "Rachael Ancheril",
+          "character": "Taylor",
+          "profile_path": "/3TI7FK8h8eWIX4gCNhxr77i1NAy.jpg"
+        },
+        {
+          "name": "Giles Panton",
+          "character": "Jesse",
+          "profile_path": "/ixZb1aUaL7yScZYLgUU9LS2Grwk.jpg"
+        },
+        {
+          "name": "Zoe Kosovic",
+          "character": "Clementine",
+          "profile_path": "/txYng7NF0ypn9RwYuj424RPNFAn.jpg"
+        },
+        {
+          "name": "Greg Lawson",
+          "character": "Glen",
+          "profile_path": "/7JzK4hRLX29FJRkHwP2OFGgVxqS.jpg"
+        },
+        {
+          "name": "Tess Degenstein",
+          "character": "Deputy Nadine Turner",
+          "profile_path": "/lV2W5s1oR2Hp3PRQtYnOOv6wCgK.jpg"
+        },
+        {
+          "name": "Ryan Mah",
+          "character": "Avram",
+          "profile_path": "/28pyjtzP3uEUTiTBLMNZu9qBWLu.jpg"
+        },
+        {
+          "name": "William Kosovic",
+          "character": "Young Drew",
+          "profile_path": "/cvZfGqmFkehA32phRUxXi83lPgM.jpg"
+        }
+      ],
+      "director": "Elizabeth Allen Rosenbaum",
+      "trailer": "https://www.youtube.com/watch?v=cAq_Vie8uz4",
+      "production_companies": [
+        {
+          "id": 235046,
+          "logo_path": null,
+          "name": "Little Engine Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 320574,
+          "logo_path": null,
+          "name": "Living in the Asterisk",
+          "origin_country": ""
+        },
+        {
+          "id": 313096,
+          "logo_path": null,
+          "name": "Propeller Studios",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "original_language": "en",
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "popularity": 5.9079,
+      "adult": false,
+      "sources": [
+        {
+          "type": "magnet",
+          "label": "1080P",
+          "quality": "1080p",
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDpsems1d2VjdmNyYW9zdmtmb2RjdjRxZWF1YWJmZjJmZg==",
+          "_linksBase64": true
+        }
+      ],
+      "seasons": [],
+      "tags": []
+    }
+  ]
+}
