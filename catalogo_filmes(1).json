@@ -1,580 +1,148 @@
 {
-    "id": "475557-coringa",
-    "tmdb_id": 475557,
-    "titulo": "Coringa",
-    "ano": "2019",
-    "url": "",
-    "genero": "Crime, Thriller, Drama",
-    "nota": 8.112,
-    "classificacao": "16",
-    "duracao": 122,
-    "diretor": "Todd Phillips",
-    "roteiristas": "Todd Phillips, Scott Silver",
-    "estudio": "Warner Bros. Pictures, Joint Effort, Village Roadshow Pictures, Bron Studios, DC Films",
-    "sinopse": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.",
-    "poster": "https://image.tmdb.org/t/p/w500/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
-    "fanart": "https://image.tmdb.org/t/p/w1280/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
-    "trailer": "https://www.youtube.com/watch?v=jfVTJm9NilA",
-    "elenco_imagens": [
-      {
-        "id": 73421,
-        "nome": "Joaquin Phoenix",
-        "personagem": "Arthur Fleck",
-        "imagem": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg",
-        "ordem": 0
-      },
-      {
-        "id": 380,
-        "nome": "Robert De Niro",
-        "personagem": "Murray Franklin",
-        "imagem": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg",
-        "ordem": 1
-      },
-      {
-        "id": 1545693,
-        "nome": "Zazie Beetz",
-        "personagem": "Sophie Dumond",
-        "imagem": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg",
-        "ordem": 2
-      },
-      {
-        "id": 4432,
-        "nome": "Frances Conroy",
-        "personagem": "Penny Fleck",
-        "imagem": "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg",
-        "ordem": 3
-      },
-      {
-        "id": 16841,
-        "nome": "Brett Cullen",
-        "personagem": "Thomas Wayne",
-        "imagem": "https://image.tmdb.org/t/p/w185/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg",
-        "ordem": 4
-      },
-      {
-        "id": 74242,
-        "nome": "Shea Whigham",
-        "personagem": "Detective Burke",
-        "imagem": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg",
-        "ordem": 5
-      },
-      {
-        "id": 121718,
-        "nome": "Bill Camp",
-        "personagem": "Detective Garrity",
-        "imagem": "https://image.tmdb.org/t/p/w185/wxYyJSltCHwU0MTg838SllOlvNT.jpg",
-        "ordem": 6
-      },
-      {
-        "id": 1377670,
-        "nome": "Glenn Fleshler",
-        "personagem": "Randall",
-        "imagem": "https://image.tmdb.org/t/p/w185/x1Cef2yPZS7bJTwxI7DX3q0HNcv.jpg",
-        "ordem": 7
-      },
-      {
-        "id": 1416396,
-        "nome": "Leigh Gill",
-        "personagem": "Gary",
-        "imagem": "https://image.tmdb.org/t/p/w185/stbbWD89FQWa34TNVyxVj5xBVIm.jpg",
-        "ordem": 8
-      },
-      {
-        "id": 6181,
-        "nome": "Josh Pais",
-        "personagem": "Hoyt Vaughn",
-        "imagem": "https://image.tmdb.org/t/p/w185/uH90fGfLLzYCX02yOW3kH4LMO7n.jpg",
-        "ordem": 9
-      },
-      {
-        "id": 2504601,
-        "nome": "Rocco Luna",
-        "personagem": "GiGi Dumond",
-        "imagem": "",
-        "ordem": 10
-      },
-      {
-        "id": 1231717,
-        "nome": "Marc Maron",
-        "personagem": "Gene Ufland",
-        "imagem": "https://image.tmdb.org/t/p/w185/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg",
-        "ordem": 11
-      },
-      {
-        "id": 171297,
-        "nome": "Sondra James",
-        "personagem": "Dr. Sally",
-        "imagem": "https://image.tmdb.org/t/p/w185/eA2gD2JUtXoaGUSYdwenAzeYvwG.jpg",
-        "ordem": 12
-      },
-      {
-        "id": 155547,
-        "nome": "Murphy Guyer",
-        "personagem": "Barry O'Donnell",
-        "imagem": "https://image.tmdb.org/t/p/w185/6axiNcYIZmaeRKyfCm3xBHC7KQL.jpg",
-        "ordem": 13
-      },
-      {
-        "id": 80149,
-        "nome": "Douglas Hodge",
-        "personagem": "Alfred Pennyworth",
-        "imagem": "https://image.tmdb.org/t/p/w185/tENL3Uxt07Rn21o0y0eolwTnkoZ.jpg",
-        "ordem": 14
-      },
-      {
-        "id": 1765331,
-        "nome": "Dante Pereira-Olson",
-        "personagem": "Bruce Wayne",
-        "imagem": "https://image.tmdb.org/t/p/w185/zqo2pLRyjm1vIU1AVu2IWMDT8zN.jpg",
-        "ordem": 15
-      },
-      {
-        "id": 2504604,
-        "nome": "Carrie Louise Putrello",
-        "personagem": "Martha Wayne",
-        "imagem": "https://image.tmdb.org/t/p/w185/jPsSCGPkgMAYh9NKcBJNUCW1FLv.jpg",
-        "ordem": 16
-      },
-      {
-        "id": 141748,
-        "nome": "Sharon Washington",
-        "personagem": "Social Worker",
-        "imagem": "https://image.tmdb.org/t/p/w185/kZktXVoRLaETbNkiMoDBzFpdWVB.jpg",
-        "ordem": 17
-      },
-      {
-        "id": 1049916,
-        "nome": "Hannah Gross",
-        "personagem": "Young Penny",
-        "imagem": "https://image.tmdb.org/t/p/w185/p94oyYrrywfSH3vkimTL1cbaWQt.jpg",
-        "ordem": 18
-      },
-      {
-        "id": 52021,
-        "nome": "Frank Wood",
-        "personagem": "Dr. Stoner",
-        "imagem": "https://image.tmdb.org/t/p/w185/er5hLYMwjAYb3saRQcNZED4rtgx.jpg",
-        "ordem": 19
-      },
-      {
-        "id": 226366,
-        "nome": "Brian Tyree Henry",
-        "personagem": "Carl (Arkham Clerk)",
-        "imagem": "https://image.tmdb.org/t/p/w185/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg",
-        "ordem": 20
-      },
-      {
-        "id": 10691,
-        "nome": "April Grace",
-        "personagem": "Arkham Psychiatrist",
-        "imagem": "https://image.tmdb.org/t/p/w185/nV8nnymN0ClT3xppwhlAtUnjSxa.jpg",
-        "ordem": 21
-      },
-      {
-        "id": 2504614,
-        "nome": "Mick Szal",
-        "personagem": "Woman on Subway",
-        "imagem": "https://image.tmdb.org/t/p/w185/s3A3adaBlROorijl667bYm8FPN7.jpg",
-        "ordem": 22
-      },
-      {
-        "id": 1546229,
-        "nome": "Carl Lundstedt",
-        "personagem": "Wall Street Three",
-        "imagem": "https://image.tmdb.org/t/p/w185/f2AGpZHxYoJthRIIahMx80NYcrc.jpg",
-        "ordem": 23
-      },
-      {
-        "id": 1556258,
-        "nome": "Michael Benz",
-        "personagem": "Wall Street Three",
-        "imagem": "https://image.tmdb.org/t/p/w185/qb3oEBOpc11maO2CeM7SgbfWQEq.jpg",
-        "ordem": 24
-      },
-      {
-        "id": 2439980,
-        "nome": "Ben Warheit",
-        "personagem": "Wall Street Three",
-        "imagem": "https://image.tmdb.org/t/p/w185/nvyjIBONwEvLTL35rSEFMURo3y7.jpg",
-        "ordem": 25
-      },
-      {
-        "id": 1123616,
-        "nome": "Gary Gulman",
-        "personagem": "Comedian",
-        "imagem": "https://image.tmdb.org/t/p/w185/luX8IjBnUrfMAvpkkaGibX7feqG.jpg",
-        "ordem": 26
-      },
-      {
-        "id": 2128773,
-        "nome": "Sam Morril",
-        "personagem": "Open Mic Comic",
-        "imagem": "https://image.tmdb.org/t/p/w185/cM9bWItwSDnR1rPa6Wx3ro6bTKG.jpg",
-        "ordem": 27
-      },
-      {
-        "id": 1631358,
-        "nome": "Chris Redd",
-        "personagem": "Comedy Club Emcee",
-        "imagem": "https://image.tmdb.org/t/p/w185/nTisigWhjdQ10puFLTay9bqYl6s.jpg",
-        "ordem": 28
-      },
-      {
-        "id": 1990682,
-        "nome": "Mandela Bellamy",
-        "personagem": "Mother on Bus",
-        "imagem": "https://image.tmdb.org/t/p/w185/w17tHtYVhwXUmYsltMcQuhB20qK.jpg",
-        "ordem": 29
-      },
-      {
-        "id": 2504634,
-        "nome": "Demetrius Dotson II",
-        "personagem": "Boy on Bus",
-        "imagem": "https://image.tmdb.org/t/p/w185/dTYWuqtZc5D730ZMPQz83DgSyBR.jpg",
-        "ordem": 30
-      },
-      {
-        "id": 1219688,
-        "nome": "Greer Barnes",
-        "personagem": "Haha's Clown",
-        "imagem": "https://image.tmdb.org/t/p/w185/zd1ORoGOMgwEFXlgRyuxO6s4Fpv.jpg",
-        "ordem": 31
-      },
-      {
-        "id": 155549,
-        "nome": "Ray Iannicelli",
-        "personagem": "Haha's Clown",
-        "imagem": "https://image.tmdb.org/t/p/w185/901ocXTlOo5Ynly56DbRyJ1mQTG.jpg",
-        "ordem": 32
-      },
-      {
-        "id": 78320,
-        "nome": "Bryan Callen",
-        "personagem": "Haha's Stripper",
-        "imagem": "https://image.tmdb.org/t/p/w185/dYlYyeKLC6jXl6twAIsqYQCnFlp.jpg",
-        "ordem": 33
-      },
-      {
-        "id": 1292351,
-        "nome": "Peter Hans Benson",
-        "personagem": "Good Morning Host",
-        "imagem": "https://image.tmdb.org/t/p/w185/oSHUozsEBg8Znp1sCAGlAKyKGyE.jpg",
-        "ordem": 34
-      },
-      {
-        "id": 2504641,
-        "nome": "Vito Gerbino",
-        "personagem": "Street Kid",
-        "imagem": "https://image.tmdb.org/t/p/w185/svFNc0PS7MXsFBcRVSRzia9grci.jpg",
-        "ordem": 35
-      },
-      {
-        "id": 2504648,
-        "nome": "Adam Quezada",
-        "personagem": "Street Kid",
-        "imagem": "https://image.tmdb.org/t/p/w185/xnAUuuKo3Xzlwy5Wm0T0G8j7Cqa.jpg",
-        "ordem": 36
-      },
-      {
-        "id": 2504653,
-        "nome": "Xavyer Ureña",
-        "personagem": "Street Kid",
-        "imagem": "https://image.tmdb.org/t/p/w185/vJrd54xmUe88cPpAOGmLvIkkyEy.jpg",
-        "ordem": 37
-      },
-      {
-        "id": 1932297,
-        "nome": "Evan Rosado",
-        "personagem": "Street Kid",
-        "imagem": "https://image.tmdb.org/t/p/w185/c4ObgMeezAzr1Nv887VQWTzinUu.jpg",
-        "ordem": 38
-      },
-      {
-        "id": 2504660,
-        "nome": "Damian Emmanuel",
-        "personagem": "Street Kid",
-        "imagem": "https://image.tmdb.org/t/p/w185/sPW12I5ZX97eSz8Hc9z6Omr8u7J.jpg",
-        "ordem": 39
-      },
-      {
-        "id": 1578632,
-        "nome": "Mike Troll",
-        "personagem": "Clown Protestor",
-        "imagem": "https://image.tmdb.org/t/p/w185/ztr1lqX6A1zTVQrS2DI7jaRTVEd.jpg",
-        "ordem": 40
-      },
-      {
-        "id": 1472882,
-        "nome": "Jane Fergus",
-        "personagem": "IBN Anchorwoman",
-        "imagem": "https://image.tmdb.org/t/p/w185/2OYIcOs8w0BmJ00z7aOlg9dpSSz.jpg",
-        "ordem": 41
-      },
-      {
-        "id": 2305430,
-        "nome": "David Gibson",
-        "personagem": "WBC News Anchor",
-        "imagem": "https://image.tmdb.org/t/p/w185/erQQp4lU9pOcFClh6O4pDF8ICrY.jpg",
-        "ordem": 42
-      },
-      {
-        "id": 2505669,
-        "nome": "Tony D. Head",
-        "personagem": "WGC Anchorman",
-        "imagem": "https://image.tmdb.org/t/p/w185/fyMJ9lLvMqJqjUg6OaAObXmlSaw.jpg",
-        "ordem": 43
-      },
-      {
-        "id": 171689,
-        "nome": "Jeff McCarthy",
-        "personagem": "NCB Anchor",
-        "imagem": "https://image.tmdb.org/t/p/w185/1xyUKIybgVk3raZ054iOO1lhlWE.jpg",
-        "ordem": 44
-      },
-      {
-        "id": 170384,
-        "nome": "Kim Brockington",
-        "personagem": "NCB Co-Anchor",
-        "imagem": "https://image.tmdb.org/t/p/w185/4SA0wsQ4tvgx9MLn9XnCSh2YdK9.jpg",
-        "ordem": 45
-      },
-      {
-        "id": 2505685,
-        "nome": "Troy Roberts",
-        "personagem": "NCB News Reporter",
-        "imagem": "https://image.tmdb.org/t/p/w185/1kdBYD70NuspaHedwW1uEx2gXoa.jpg",
-        "ordem": 46
-      },
-      {
-        "id": 2505692,
-        "nome": "Lou Young",
-        "personagem": "ANC News Reporter",
-        "imagem": "https://image.tmdb.org/t/p/w185/1w5kxjQwlcZSK5PpbqTZkFJi4xD.jpg",
-        "ordem": 47
-      },
-      {
-        "id": 1808635,
-        "nome": "Michael-Scott Druckenmiller",
-        "personagem": "Paramedic",
-        "imagem": "https://image.tmdb.org/t/p/w185/z0UyhGX2ROkk0OHVlkrrO1ogzvY.jpg",
-        "ordem": 48
-      },
-      {
-        "id": 2507402,
-        "nome": "Craig Austin",
-        "personagem": "Paramedic",
-        "imagem": "https://image.tmdb.org/t/p/w185/5gOgJhqepry9uRe0DaggEE2duyK.jpg",
-        "ordem": 49
-      },
-      {
-        "id": 206398,
-        "nome": "John Cenatiempo",
-        "personagem": "Aftermath Police Officer",
-        "imagem": "https://image.tmdb.org/t/p/w185/6cEyUFyS5Tw2LGY0HkjpMjMZDmG.jpg",
-        "ordem": 50
-      },
-      {
-        "id": 2376053,
-        "nome": "Danny Schoch",
-        "personagem": "Aftermath Police Officers",
-        "imagem": "https://image.tmdb.org/t/p/w185/jSlD2U1xViL4W733Y8MlMPWjxRj.jpg",
-        "ordem": 51
-      },
-      {
-        "id": 107509,
-        "nome": "Keith Buterbaugh",
-        "personagem": "Band Leader",
-        "imagem": "https://image.tmdb.org/t/p/w185/7n0VSMTeyTuvLfgv7x2TLG0YD9G.jpg",
-        "ordem": 52
-      },
-      {
-        "id": 1456745,
-        "nome": "James Ciccone",
-        "personagem": "Murray Franklin Band",
-        "imagem": "https://image.tmdb.org/t/p/w185/2dkbTiC8rLovUIh5Vw3YSCsDuWH.jpg",
-        "ordem": 53
-      },
-      {
-        "id": 1454108,
-        "nome": "Rich Campbell",
-        "personagem": "Murray Franklin Band",
-        "imagem": "https://image.tmdb.org/t/p/w185/amrCNOrHqHcvHTtMnjhQsO6h5wo.jpg",
-        "ordem": 54
-      },
-      {
-        "id": 2507441,
-        "nome": "Roger Squitero",
-        "personagem": "Murray Franklin Band",
-        "imagem": "https://image.tmdb.org/t/p/w185/c0lVj8fFoekij1MX8g34Tg5i3j7.jpg",
-        "ordem": 55
-      },
-      {
-        "id": 2507545,
-        "nome": "Steven Elson",
-        "personagem": "Murray Franklin Band",
-        "imagem": "",
-        "ordem": 56
-      },
-      {
-        "id": 2507550,
-        "nome": "Graham Mabry",
-        "personagem": "Murray Franklin Band",
-        "imagem": "",
-        "ordem": 57
-      },
-      {
-        "id": 2507551,
-        "nome": "John Alldred",
-        "personagem": "Murray Franklin Band",
-        "imagem": "",
-        "ordem": 58
-      },
-      {
-        "id": 2507552,
-        "nome": "Alonzo Wright",
-        "personagem": "Murray Franklin Band",
-        "imagem": "https://image.tmdb.org/t/p/w185/7OYX0D8VoptObUTc8Zyve90K3Kw.jpg",
-        "ordem": 59
-      },
-      {
-        "id": 2507566,
-        "nome": "Jack Wilkins",
-        "personagem": "Murray Franklin Band",
-        "imagem": "",
-        "ordem": 60
-      },
-      {
-        "id": 38939,
-        "nome": "Richard Baratta",
-        "personagem": "Murray Franklin Band",
-        "imagem": "",
-        "ordem": 61
-      },
-      {
-        "id": 1918850,
-        "nome": "Mary Kate Malat",
-        "personagem": "Murray Franklin Intern",
-        "imagem": "https://image.tmdb.org/t/p/w185/5VXrmVllmtoKo1CFhxNZN4lOAhg.jpg",
-        "ordem": 62
-      },
-      {
-        "id": 1432058,
-        "nome": "Adrienne Acevedo Lovette",
-        "personagem": "Middle Aged Woman (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/8pVfVZUBucqlA6FngNavrfwMSf7.jpg",
-        "ordem": 63
-      },
-      {
-        "id": 15009,
-        "nome": "Justin Theroux",
-        "personagem": "Ethan Chase (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/6YuPMsLDMoD5BRkzWIjllwFFt5Y.jpg",
-        "ordem": 64
-      },
-      {
-        "id": 1877648,
-        "nome": "Alissa Bourne",
-        "personagem": "Anna (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/8LAhvM01tH29kByHVK6ooivhzHa.jpg",
-        "ordem": 65
-      },
-      {
-        "id": 2281904,
-        "nome": "Jamaal Burcher",
-        "personagem": "Hospital Visitor / Mfs Audience (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/d0Y282nAAAXEs9zmsd7v7jHJkD9.jpg",
-        "ordem": 66
-      },
-      {
-        "id": 1956129,
-        "nome": "John Cashin",
-        "personagem": "Arkham Patient (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/dubgKD1GQOgNAkpK7DbttKrxRiF.jpg",
-        "ordem": 67
-      },
-      {
-        "id": 2172202,
-        "nome": "Jason John Cicalese",
-        "personagem": "Protester / Rioter (uncredited)",
-        "imagem": "",
-        "ordem": 68
-      },
-      {
-        "id": 1217576,
-        "nome": "Brendan Patrick Connor",
-        "personagem": "Mr. Slotnick (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/glP2usW9ojCPkAqdXFDJtJZd6cN.jpg",
-        "ordem": 69
-      },
-      {
-        "id": 162522,
-        "nome": "Blaise Corrigan",
-        "personagem": "Taxi Driver (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/ycsMR3gck2D8jJT6QEtzyrjUmC6.jpg",
-        "ordem": 70
-      },
-      {
-        "id": 1457481,
-        "nome": "Dennis Jay Funny",
-        "personagem": "Gotham Citizen (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/2AsJTV4QrDNTSAPoSOUXruqPWuH.jpg",
-        "ordem": 71
-      },
-      {
-        "id": 2469401,
-        "nome": "James P. Harkins",
-        "personagem": "Thomas Wayne's Body Guard (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/syWufrTFTjrBCkKQ0VOoQlda7e8.jpg",
-        "ordem": 72
-      },
-      {
-        "id": 1494221,
-        "nome": "Joseph Hernandez",
-        "personagem": "Protester / Rioter (uncredited)",
-        "imagem": "",
-        "ordem": 73
-      },
-      {
-        "id": 1829030,
-        "nome": "Ben Heyman",
-        "personagem": "Protestor (uncredited)",
-        "imagem": "",
-        "ordem": 74
-      },
-      {
-        "id": 2235040,
-        "nome": "Graham Maby",
-        "personagem": "Murray Franklin Band (uncredited)",
-        "imagem": "",
-        "ordem": 75
-      },
-      {
-        "id": 2216410,
-        "nome": "Jesse Schratz",
-        "personagem": "Gotham City Sick Kid (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/8BsMB7iayqmngxzVbetl8dfPlsY.jpg",
-        "ordem": 76
-      },
-      {
-        "id": 2551677,
-        "nome": "Isabella Ferreira",
-        "personagem": "Flirting Woman on the Bus (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/8r87nJRJGPt8GLbRxJRuj9nCiyp.jpg",
-        "ordem": 77
-      },
-      {
-        "id": 1691382,
-        "nome": "Shade Rupe",
-        "personagem": "Bartender (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/69dc66AU0CYKVS6OKJro704gZEE.jpg",
-        "ordem": 78
-      },
-      {
-        "id": 5113257,
-        "nome": "Michael Lepre",
-        "personagem": "Arkham Insane Patient (uncredited)",
-        "imagem": "https://image.tmdb.org/t/p/w185/p2RPPprusPYCQfVV82dlsZXPe9k.jpg",
-        "ordem": 79
-      }
-    ]
-  }
+  "filmes": [
+    {
+      "_local_id": "d2f0d132-d07a-4175-9660-224bb93ede9e",
+      "titulo": "Coringa",
+      "titulo_original": "Joker",
+      "tmdb_id": "475557",
+      "ano": "2019",
+      "sinopse": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.",
+      "poster": "https://image.tmdb.org/t/p/w500/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+      "fanart": "https://image.tmdb.org/t/p/w1280/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
+      "genero": "",
+      "nota": 8.112,
+      "elenco": "",
+      "elenco_imagens": [],
+      "versoes_disponiveis": [],
+      "url": "",
+      "coletanea": "Coringa: Coleção",
+      "coletanea_id": "987044",
+      "poster_coletanea": "https://image.tmdb.org/t/p/original/cOZ2hOY9VgNANdS2gngbExi9dBh.jpg",
+      "fanart_coletanea": "https://image.tmdb.org/t/p/original/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg",
+      "sinopse_coletanea": "Uma série centrada em um comediante de stand-up fracassado que enlouquece e se dedica a uma vida de crime e caos em Gotham City, ao mesmo tempo em que se torna uma figura psicopata infame do crime.",
+      "title": "Coringa",
+      "original_title": "Joker",
+      "year": "2019",
+      "vote_average": "8.1",
+      "runtime": "122",
+      "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.",
+      "release_date": "2019-10-01",
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "director": "Todd Phillips",
+      "cast": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz",
+        "Frances Conroy",
+        "Brett Cullen",
+        "Shea Whigham",
+        "Bill Camp",
+        "Glenn Fleshler",
+        "Leigh Gill",
+        "Josh Pais",
+        "Rocco Luna",
+        "Marc Maron",
+        "Sondra James",
+        "Murphy Guyer",
+        "Douglas Hodge"
+      ],
+      "certification": "16",
+      "poster_path": "https://image.tmdb.org/t/p/w500/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w1280/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
+      "trailer": "https://www.youtube.com/watch?v=jfVTJm9NilA",
+      "logo": "https://image.tmdb.org/t/p/original/ckRklE1gzQUzdVQ8BaKL652oO7V.png",
+      "logo_path": "https://image.tmdb.org/t/p/original/ckRklE1gzQUzdVQ8BaKL652oO7V.png"
+    },
+    {
+      "_local_id": "5332134c-3410-4ba6-9844-a131c0cc37cf",
+      "titulo": "Coringa: Delírio a Dois",
+      "titulo_original": "Joker: Folie à Deux",
+      "tmdb_id": "889737",
+      "ano": "2024",
+      "sinopse": "Arthur Fleck está institucionalizado em Arkham à espera do julgamento por seus crimes como Coringa. Enquanto luta com sua dupla identidade, Arthur não apenas se depara com o amor verdadeiro, como encontra a música que sempre esteve dentro dele.",
+      "poster": "https://image.tmdb.org/t/p/w500/9RmVr8dPWicFyPZ5JCQK3NcBNB5.jpg",
+      "fanart": "https://image.tmdb.org/t/p/w1280/AVWlQpVhpudyFsSh3OQIieHHYf.jpg",
+      "genero": "",
+      "nota": 5.392,
+      "elenco": "",
+      "elenco_imagens": [],
+      "versoes_disponiveis": [],
+      "url": "",
+      "coletanea": "Coringa: Coleção",
+      "coletanea_id": "987044",
+      "poster_coletanea": "https://image.tmdb.org/t/p/original/cOZ2hOY9VgNANdS2gngbExi9dBh.jpg",
+      "fanart_coletanea": "https://image.tmdb.org/t/p/original/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg",
+      "sinopse_coletanea": "Uma série centrada em um comediante de stand-up fracassado que enlouquece e se dedica a uma vida de crime e caos em Gotham City, ao mesmo tempo em que se torna uma figura psicopata infame do crime.",
+      "title": "Coringa: Delírio a Dois",
+      "original_title": "Joker: Folie à Deux",
+      "year": "2024",
+      "vote_average": "5.392",
+      "runtime": "138",
+      "overview": "Arthur Fleck está institucionalizado em Arkham à espera do julgamento por seus crimes como Coringa. Enquanto luta com sua dupla identidade, Arthur não apenas se depara com o amor verdadeiro, como encontra a música que sempre esteve dentro dele.",
+      "release_date": "2024-10-01",
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "director": "Todd Phillips",
+      "cast": [
+        "Joaquin Phoenix",
+        "Lady Gaga",
+        "Brendan Gleeson",
+        "Catherine Keener",
+        "Zazie Beetz",
+        "Steve Coogan",
+        "Harry Lawtey",
+        "Leigh Gill",
+        "Ken Leung",
+        "Jacob Lofland",
+        "Bill Smitrovich",
+        "Sharon Washington",
+        "Alfred Rubin Thompson",
+        "Connor Storrie",
+        "Gregg Daniel"
+      ],
+      "certification": "16",
+      "poster_path": "https://image.tmdb.org/t/p/w500/9RmVr8dPWicFyPZ5JCQK3NcBNB5.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w1280/AVWlQpVhpudyFsSh3OQIieHHYf.jpg",
+      "trailer": "https://www.youtube.com/watch?v=kD6LoK5GcGw",
+      "logo": "https://image.tmdb.org/t/p/original/gIOXjK4tS7cYemLEe0w5HuiUGH9.png",
+      "logo_path": "https://image.tmdb.org/t/p/original/gIOXjK4tS7cYemLEe0w5HuiUGH9.png"
+    }
+  ],
+  "coletaneas": [
+    {
+      "tmdb_id": 987044,
+      "nome": "Coringa: Coleção",
+      "filmes": [
+        {
+          "tmdb_id": 475557,
+          "titulo": "Coringa",
+          "ano": "2019",
+          "poster": "https://image.tmdb.org/t/p/original/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg"
+        },
+        {
+          "tmdb_id": 889737,
+          "titulo": "Coringa: Delírio a Dois",
+          "ano": "2024",
+          "poster": "https://image.tmdb.org/t/p/original/9RmVr8dPWicFyPZ5JCQK3NcBNB5.jpg"
+        },
+        "475557",
+        "889737"
+      ],
+      "sinopse": "Uma série centrada em um comediante de stand-up fracassado que enlouquece e se dedica a uma vida de crime e caos em Gotham City, ao mesmo tempo em que se torna uma figura psicopata infame do crime.",
+      "poster": "https://image.tmdb.org/t/p/w500/cOZ2hOY9VgNANdS2gngbExi9dBh.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg",
+      "overview": "Uma série centrada em um comediante de stand-up fracassado que enlouquece e se dedica a uma vida de crime e caos em Gotham City, ao mesmo tempo em que se torna uma figura psicopata infame do crime.",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg",
+      "logo": ""
+    }
+  ]
+}
