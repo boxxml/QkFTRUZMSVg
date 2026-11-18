@@ -1,49 +1,201 @@
 {
   "filmes": [
     {
-      "name": "Avatar: O Caminho da Água",
-      "url": "http://googleapis.com",
-      "poster": "https://tmdb.org",
-      "fanart": "https://tmdb.org",
-      "clearlogo": "https://tmdb.org",
-      "ano": "2022",
-      "coletanea": "Animações Disney",
-      "tags": "4K Ultra HD, Dublado, Mais Vistos",
-      "genero": "Ficção Científica",
-      "estudio": "20th Century Studios",
-      "sinopse": "Jake Sully vive com sua nova família no planeta Pandora. Uma antiga ameaça retorna para terminar o que começou, forçando Jake a trabalhar com Neytiri e o exército da raça Na'vi para proteger seu planeta."
-    },
-    {
-      "name": "Batman (2022)",
-      "url": "http://googleapis.com",
-      "poster": "https://tmdb.org",
-      "fanart": "https://tmdb.org",
-      "ano": "2022",
-      "coletanea": "DC Extended Universe",
-      "tags": "Dublado, IMAX",
-      "genero": "Ação",
-      "estudio": "Warner Bros",
-      "sinopse": "Nos seus dois anos de caça aos criminosos como Batman, Bruce Wayne foi levado às sombras de Gotham City. Com apenas alguns aliados de confiança, o vigilante solitário se estabeleceu como a personificação da vingança."
-    }
-  ],
-  "series": [
-    {
-      "name": "The Last of Us - Temporada 1 Episódio 1",
-      "url": "http://googleapis.com",
-      "poster": "https://tmdb.org",
-      "fanart": "https://tmdb.org",
-      "ano": "2023",
-      "sinopse": "Vinte anos após a destruição da civilização moderna, Joel, um sobrevivente experiente, é contratado para contrabandear Ellie, uma jovem de 14 anos, para fora de uma zona de quarentena opressiva."
-    }
-  ],
-  "musicas": [
-    {
-      "name": "Michael Jackson - Thriller",
-      "url": "http://googleapis.com",
-      "poster": "https://imgur.com",
-      "fanart": "https://imgur.com",
-      "ano": "1983",
-      "sinopse": "O videoclipe icônico de Michael Jackson que revolucionou a indústria da música pop."
+      "type": "movie",
+      "id": 1476746,
+      "tmdb_id": "1476746",
+      "imdb_id": "tt33214716",
+      "title": "A Última Entrega",
+      "name": "A Última Entrega",
+      "original_title": "The Florist",
+      "overview": "Um horticultor discreto, que secretamente é um assassino profissional, vê sua identidade ameaçada ao criar uma amizade inesperada com uma testemunha de corrupção policial.",
+      "release_date": "2026-09-24",
+      "first_air_date": "",
+      "year": "2026",
+      "vote_average": "5.7",
+      "certification": "16",
+      "classification": "16",
+      "vote_count": 40,
+      "runtime": 97,
+      "episode_run_time": [],
+      "status": "Released",
+      "tagline": "",
+      "genres": [
+        "Ação",
+        "Thriller"
+      ],
+      "poster_path": "/iVYJbqGrAgwPAcihayklVRd7ZMF.jpg",
+      "backdrop_path": "/lpk0MwAn0UA3qCy9Iub4xMe15gv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iVYJbqGrAgwPAcihayklVRd7ZMF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/lpk0MwAn0UA3qCy9Iub4xMe15gv.jpg",
+      "cast": [
+        {
+          "name": "Dennis Quaid",
+          "character": "Carl Rikker",
+          "profile_path": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+        },
+        {
+          "name": "Jean Reno",
+          "character": "Charlie",
+          "profile_path": "/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
+        },
+        {
+          "name": "Sky Katz",
+          "character": "Layla",
+          "profile_path": "/xhvma0NjQh8rD5sLfkWIeYt8dAl.jpg"
+        },
+        {
+          "name": "Jim Klock",
+          "character": "Deckard",
+          "profile_path": "/uP9BqJHWhtLmJ2UEmwSiRp4jpp6.jpg"
+        },
+        {
+          "name": "Leonidas Gulaptis",
+          "character": "Woodrock",
+          "profile_path": "/lj1wkVrWnGRaRjuBaRiHFuKAwQr.jpg"
+        },
+        {
+          "name": "Elsa Mollien",
+          "character": "Rebecca",
+          "profile_path": "/bocp1Bcf3wZLNJezr086ahKehZF.jpg"
+        },
+        {
+          "name": "Gabriel 'G-Rod' Rodriguez",
+          "character": "Jason",
+          "profile_path": "/t7GOyMDDMYWRwnQveCEUFDSapk7.jpg"
+        },
+        {
+          "name": "Dominick LaRuffa Jr.",
+          "character": "Lloyd",
+          "profile_path": "/jT7p3USLXvuQexPvEBfGJSTlJ0T.jpg"
+        },
+        {
+          "name": "Anna Schafer",
+          "character": "",
+          "profile_path": "/AtpZOzp7t6ybvB1bJrSwTJfWTyZ.jpg"
+        },
+        {
+          "name": "Dylan Flashner",
+          "character": "Detective Hutton",
+          "profile_path": "/nMDE5OFcc1cSioewYSlJDdbt9X7.jpg"
+        },
+        {
+          "name": "Elle Haymond",
+          "character": "Jess",
+          "profile_path": "/wGu8Thpu7xxPQmbHSApDgRKZ7xk.jpg"
+        },
+        {
+          "name": "Matt Gorsky",
+          "character": "Crime Scene Unit Officer",
+          "profile_path": "/coDqqGlofPFMSws3mXDvMBFAQRv.jpg"
+        },
+        {
+          "name": "Hans Marrero",
+          "character": "Goon #2",
+          "profile_path": "/l3Tc6z8jg5k4qg6mIKk6ZtnwAJ9.jpg"
+        },
+        {
+          "name": "Lillian Santos",
+          "character": "Alice",
+          "profile_path": "/9RNZtUVo01OcIWo2gPjqnxNgzdV.jpg"
+        },
+        {
+          "name": "Garrett Andrew Ahrens",
+          "character": "Detective Fox",
+          "profile_path": "/1GiwZovXDmG9CoNDOUf6uecILnW.jpg"
+        },
+        {
+          "name": "Alec James Polemeni",
+          "character": "The Dealer",
+          "profile_path": "/kpcLMXIsNrYNyZ9wtVL8mkY2o3t.jpg"
+        },
+        {
+          "name": "Jack Panebiaco",
+          "character": "Alex Woodrock",
+          "profile_path": null
+        },
+        {
+          "name": "Pluto Ernsberger",
+          "character": "Ella",
+          "profile_path": null
+        },
+        {
+          "name": "Genoveva Rossi",
+          "character": "Hotel guest (uncredited)",
+          "profile_path": "/nxGQaVZ7CayrlaVZd4iw3wjlHmI.jpg"
+        }
+      ],
+      "director": "Babak Najafi",
+      "trailer": "",
+      "production_companies": [
+        {
+          "id": 137373,
+          "logo_path": "/4OzujMDSLnAm7I0BCPL1D6RIoJ4.png",
+          "name": "CaliWood Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 121204,
+          "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+          "name": "BondIt Media Capital",
+          "origin_country": "US"
+        },
+        {
+          "id": 41735,
+          "logo_path": "/je9Ko1f6iu0AfLL3dINJEaxLvEb.png",
+          "name": "Buffalo 8",
+          "origin_country": "US"
+        },
+        {
+          "id": 43652,
+          "logo_path": null,
+          "name": "Volcanic Films",
+          "origin_country": ""
+        },
+        {
+          "id": 100121,
+          "logo_path": null,
+          "name": "Film Bridge International",
+          "origin_country": "US"
+        },
+        {
+          "id": 242727,
+          "logo_path": null,
+          "name": "Midwest",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "original_language": "en",
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "popularity": 50.6119,
+      "adult": false,
+      "sources": [
+        {
+          "type": "magnet",
+          "label": "Magnet",
+          "quality": "1080p",
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDpkOGJhNDhhOTJlMzI5MGE3NjE0YTQzNzBmYTVlMjg5ZDY2NTQ3Yjc4",
+          "_linksBase64": true
+        }
+      ],
+      "seasons": [],
+      "tags": []
     }
   ]
 }
