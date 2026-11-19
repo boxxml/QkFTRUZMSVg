@@ -1,281 +1,450 @@
 {
   "filmes": [
     {
-      "id": "1551025",
-      "type": "movie",
-      "title": "Protegendo Estrelas",
-      "original_title": "Guarding Stars",
-      "overview": "Uma guarda-costas pragmática tem que proteger um ator de Hollywood durante as festas de fim de ano, mas o clima esquenta, segredos vêm à tona e o Natal fica bem mais complicado.",
-      "poster": "https://image.tmdb.org/t/p/w500/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-      "release_date": "2026-11-18",
-      "first_air_date": "",
-      "vote_average": 7.5,
-      "vote_count": 28,
-      "runtime": 109,
-      "episode_run_time": 109,
+      "type": "tv",
+      "title": "Origem",
+      "original_title": "FROM",
+      "tmdb_id": "124364",
+      "id": 124364,
+      "year": "2022",
+      "overview": "Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe.",
+      "poster": "/eK9ZDIq7gPFRJ0GGaWvgrXLZgXX.jpg",
+      "backdrop": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+      "vote_average": 8.491,
       "genres": [
-        "Romance",
-        "Comédia"
-      ],
-      "tags": [
-        "based on novel or book",
-        "holiday",
-        "montana",
-        "bodyguard",
-        "ranch",
-        "romcom",
-        "christmas",
-        "no-nonsense",
-        "holiday romance",
-        "admiring",
-        "tv movie"
-      ],
-      "studios": [
-        "Little Engine Productions",
-        "Living in the Asterisk",
-        "Propeller Studios"
-      ],
-      "cast": [
-        {
-          "name": "Leighton Meester",
-          "character": "Hannah",
-          "profile": "https://image.tmdb.org/t/p/w185/6P8sa2eR2wpNkA1n1NVHREaeXPV.jpg"
-        },
-        {
-          "name": "Jared Padalecki",
-          "character": "Jack",
-          "profile": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
-        },
-        {
-          "name": "Andie MacDowell",
-          "character": "Connie Stapleton",
-          "profile": "https://image.tmdb.org/t/p/w185/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
-        },
-        {
-          "name": "Walker Hayes",
-          "character": "Sheriff Sanderson",
-          "profile": "https://image.tmdb.org/t/p/w185/8kC7c8lO9grfgCP5FxLmEKCKMP6.jpg"
-        },
-        {
-          "name": "Noah LaLonde",
-          "character": "Hank Stapleton",
-          "profile": "https://image.tmdb.org/t/p/w185/kFN2p5zW8kbsLaEOA4usN88lq86.jpg"
-        },
-        {
-          "name": "Toby Sandeman",
-          "character": "Robbie",
-          "profile": "https://image.tmdb.org/t/p/w185/5ZmXTHbRlbkQDtga4Cbk447osUY.jpg"
-        },
-        {
-          "name": "Phil Brooks",
-          "character": "Doghouse",
-          "profile": "https://image.tmdb.org/t/p/w185/357pyjyvFFJLkwBpTopy2KnyDRA.jpg"
-        },
-        {
-          "name": "Ava Max",
-          "character": "Kennedy Monroe",
-          "profile": "https://image.tmdb.org/t/p/w185/ajW6BTIV8ixeevdNTJl557sVynX.jpg"
-        },
-        {
-          "name": "Jake Foy",
-          "character": "Brody",
-          "profile": "https://image.tmdb.org/t/p/w185/zGdd4rmmyab9YXcsI6un06kzbJ9.jpg"
-        },
-        {
-          "name": "Siobhan Williams",
-          "character": "Ella Mae",
-          "profile": "https://image.tmdb.org/t/p/w185/2vU6JzU9SVBDgjvTUV0nMoaOCZc.jpg"
-        },
-        {
-          "name": "Rachael Ancheril",
-          "character": "Taylor",
-          "profile": "https://image.tmdb.org/t/p/w185/3TI7FK8h8eWIX4gCNhxr77i1NAy.jpg"
-        },
-        {
-          "name": "Giles Panton",
-          "character": "Jesse",
-          "profile": "https://image.tmdb.org/t/p/w185/ixZb1aUaL7yScZYLgUU9LS2Grwk.jpg"
-        },
-        {
-          "name": "Zoe Kosovic",
-          "character": "Clementine",
-          "profile": "https://image.tmdb.org/t/p/w185/txYng7NF0ypn9RwYuj424RPNFAn.jpg"
-        },
-        {
-          "name": "Greg Lawson",
-          "character": "Glen",
-          "profile": "https://image.tmdb.org/t/p/w185/7JzK4hRLX29FJRkHwP2OFGgVxqS.jpg"
-        },
-        {
-          "name": "Tess Degenstein",
-          "character": "Deputy Nadine Turner",
-          "profile": "https://image.tmdb.org/t/p/w185/lV2W5s1oR2Hp3PRQtYnOOv6wCgK.jpg"
-        }
-      ],
-      "director": [
-        "Elizabeth Allen Rosenbaum"
-      ],
-      "certification": "12",
-      "status": "Released",
-      "original_language": "en",
-      "collection": null,
-      "sources": [
-        {
-          "label": "1080P",
-          "quality": "1080P",
-          "language": "por",
-          "url": "magnet:?xt=urn:btih:lzk5wecvcraosvkfodcv4qeauabff2ff&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Protegendo+Estrelas.2026.1080p.WEB-DL.x264.DUAL.5.1",
-          "link": "magnet:?xt=urn:btih:lzk5wecvcraosvkfodcv4qeauabff2ff&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Protegendo+Estrelas.2026.1080p.WEB-DL.x264.DUAL.5.1",
-          "type": "magnet"
-        }
-      ],
-      "seasons": [],
-      "name": "Protegendo Estrelas"
-    },
-    {
-      "id": "1503762",
-      "type": "movie",
-      "title": "Razão e Sensibilidade",
-      "original_title": "Sense and Sensibility",
-      "overview": "Uma nova e irresistível releitura do icônico romance “Razão e Sensibilidade”, de Jane Austen: uma história encantadora, espirituosa e com a qual é fácil se identificar, sobre amor e irmandade.",
-      "poster": "https://image.tmdb.org/t/p/w500/4VHCMXDUfmvvHJ2ruwP59dZrgcW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
-      "release_date": "2026-09-23",
-      "first_air_date": "",
-      "vote_average": 7.2,
-      "vote_count": 172,
-      "runtime": 132,
-      "episode_run_time": 132,
-      "genres": [
+        "Mistério",
         "Drama",
-        "Romance"
+        "Sci-Fi & Fantasy"
       ],
-      "tags": [
-        "class society",
-        "based on novel or book",
-        "england",
-        "feminism",
-        "affectation",
-        "love",
-        "social commentary",
-        "gender roles",
-        "18th century",
-        "courtship",
-        "sisterhood",
-        "searching for love",
-        "social norms",
-        "sister sister relationship",
-        "social criticism",
-        "playful",
-        "inspirational",
-        "period piece",
-        "understated",
-        "overcoming difficulties",
-        "life‑changing mishaps"
-      ],
-      "studios": [
-        "Focus Features",
-        "Working Title",
-        "November Pictures",
-        "Kiddo Films"
-      ],
-      "cast": [
+      "runtime": 0,
+      "certification": "",
+      "sources": [],
+      "seasons": [
         {
-          "name": "Daisy Edgar-Jones",
-          "character": "Elinor Dashwood",
-          "profile": "https://image.tmdb.org/t/p/w185/4Fdc3VSoVhkkEZNx5Zpz3AU6DYz.jpg"
+          "season_number": 1,
+          "name": "Temporada 1",
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Episódio 1",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-01-01.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Episódio 2",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-01-02.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Episódio 3",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-01-03.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Episódio 4",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-01-04.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "Episódio 5",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-01-05.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Episódio 6",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-01-06.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "Episódio 7",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-01-07.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "Episódio 8",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-01-08.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 9,
+              "name": "Episódio 9",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-01-09.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 10,
+              "name": "Episódio 10",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-01-10.mkv"
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Esmé Creed-Miles",
-          "character": "Marianne Dashwood",
-          "profile": "https://image.tmdb.org/t/p/w185/hmGkEC4OWsyDe7ZGVkZ7e1RjViD.jpg"
+          "season_number": 2,
+          "name": "Temporada 2",
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Episódio 1",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-02-01.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Episódio 2",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-02-02.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Episódio 3",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-02-03.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Episódio 4",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-02-04.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "Episódio 5",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-02-05.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Episódio 6",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-02-06.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "Episódio 7",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-02-07.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "Episódio 8",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-02-08.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 9,
+              "name": "Episódio 9",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-02-09.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 10,
+              "name": "Episódio 10",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-02-10.mkv"
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Caitríona Balfe",
-          "character": "Mrs. Dashwood",
-          "profile": "https://image.tmdb.org/t/p/w185/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg"
+          "season_number": 3,
+          "name": "Temporada 3",
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Episódio 1",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-03-01.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Episódio 2",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-03-02.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Episódio 3",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-03-03.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Episódio 4",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-03-04.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "Episódio 5",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-03-05.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Episódio 6",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-03-06.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "Episódio 7",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-03-07.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "Episódio 8",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-03-08.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 9,
+              "name": "Episódio 9",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-03-09.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 10,
+              "name": "Episódio 10",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-03-10.mkv"
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Frank Dillane",
-          "character": "John Willoughby",
-          "profile": "https://image.tmdb.org/t/p/w185/eitUc8e045y8dDfBSm681hU471g.jpg"
-        },
-        {
-          "name": "Herbert Nordrum",
-          "character": "Colonel Brandon",
-          "profile": "https://image.tmdb.org/t/p/w185/wMT9o2WNfLGE4dD8Rkt2Rem4Ljt.jpg"
-        },
-        {
-          "name": "George MacKay",
-          "character": "Edward Ferrars",
-          "profile": "https://image.tmdb.org/t/p/w185/wnDAg1CyCbBCklQAZ9I1dj5X6QY.jpg"
-        },
-        {
-          "name": "Fiona Shaw",
-          "character": "Mrs. Jennings",
-          "profile": "https://image.tmdb.org/t/p/w185/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg"
-        },
-        {
-          "name": "Bodhi Rae Breathnach",
-          "character": "Margaret Dashwood",
-          "profile": "https://image.tmdb.org/t/p/w185/v4PXpYOKUQtcUCp85KAW2bIiS51.jpg"
-        },
-        {
-          "name": "Stacy Martin",
-          "character": "Fanny Dashwood",
-          "profile": "https://image.tmdb.org/t/p/w185/wLPh456xduwDkGgPpaf1KGH9EWz.jpg"
-        },
-        {
-          "name": "Tom Brooke",
-          "character": "John Dashwood",
-          "profile": "https://image.tmdb.org/t/p/w185/pUQ3KyfTLPLkBP8KvCcwEyHUMB7.jpg"
-        },
-        {
-          "name": "Turlough Convery",
-          "character": "Sir John Middleton",
-          "profile": "https://image.tmdb.org/t/p/w185/xDHf65t9vtxmIAmDxp5yMKZUtPt.jpg"
-        },
-        {
-          "name": "Chloe Pirrie",
-          "character": "Lady Middleton",
-          "profile": "https://image.tmdb.org/t/p/w185/t5pUoG5kDk8F0uNQ1reMD8Cd4V0.jpg"
-        },
-        {
-          "name": "Forrest Bothwell",
-          "character": "Robert Ferrars",
-          "profile": "https://image.tmdb.org/t/p/w185/6jvwsH8x0Q1GFmOCvXONQmtZaRI.jpg"
-        },
-        {
-          "name": "Ceara Coveney",
-          "character": "Lucy Steele",
-          "profile": "https://image.tmdb.org/t/p/w185/1zWEshFJ5dSRK37DlfJlQuZEcoO.jpg"
-        },
-        {
-          "name": "Eliot Sumner",
-          "character": "Mr. Palmer",
-          "profile": "https://image.tmdb.org/t/p/w185/8KLyKNKn1BNVrY3VxAlDDCn8A5c.jpg"
+          "season_number": 4,
+          "name": "Temporada 4",
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Episódio 1",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-04-01.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Episódio 2",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-04-02.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Episódio 3",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-04-03.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Episódio 4",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-04-04.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "Episódio 5",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-04-05.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Episódio 6",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-04-06.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "Episódio 7",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-04-07.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "Episódio 8",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-04-08.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 9,
+              "name": "Episódio 9",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-04-09.mkv"
+                }
+              ]
+            },
+            {
+              "episode_number": 10,
+              "name": "Episódio 10",
+              "sources": [
+                {
+                  "label": "Principal",
+                  "url": "https://archive.org/download/t-v-s-h-o-w-s01/124364-04-10.mkv"
+                }
+              ]
+            }
+          ]
         }
-      ],
-      "director": [
-        "Georgia Oakley"
-      ],
-      "certification": "10",
-      "status": "Released",
-      "original_language": "en",
-      "collection": null,
-      "sources": [
-        {
-          "label": "1080P",
-          "quality": "1080P",
-          "language": "por",
-          "url": "magnet:?xt=urn:btih:szhoie6k22q7l5trk6llp3nsvk7f3rce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Raz%C3%A3o+e+Sensibilidade.2026.1080p.WEB-DL.DUAL.5.1",
-          "link": "magnet:?xt=urn:btih:szhoie6k22q7l5trk6llp3nsvk7f3rce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Raz%C3%A3o+e+Sensibilidade.2026.1080p.WEB-DL.DUAL.5.1",
-          "type": "magnet"
-        }
-      ],
-      "seasons": [],
-      "name": "Razão e Sensibilidade"
+      ]
     }
   ]
 }
