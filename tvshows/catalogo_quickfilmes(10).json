@@ -262,6 +262,134 @@
         }
       ],
       "sources": []
+    },
+    {
+      "type": "movie",
+      "id": 1368337,
+      "tmdb_id": "1368337",
+      "imdb_id": "tt33764258",
+      "title": "A Odisseia",
+      "name": "A Odisseia",
+      "original_title": "The Odyssey",
+      "overview": "Acompanhe o rei grego Odisseu em sua perigosa jornada de 20 anos para voltar a Ítaca após a Guerra de Troia, enfrentando monstros e deuses enquanto sua esposa Penélope resiste em seu reino.",
+      "release_date": "2026-07-15",
+      "first_air_date": "",
+      "year": "2026",
+      "vote_average": 8.017,
+      "vote_count": 5144,
+      "certification": "",
+      "genres": [
+        "Aventura",
+        "Ação",
+        "Fantasia"
+      ],
+      "poster_path": "/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
+      "backdrop_path": "/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "cast": [
+        {
+          "name": "Matt Damon",
+          "character": "Odysseus",
+          "profile_path": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+        },
+        {
+          "name": "Tom Holland",
+          "character": "Telemachus",
+          "profile_path": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+        },
+        {
+          "name": "Anne Hathaway",
+          "character": "Penelope",
+          "profile_path": "/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+        },
+        {
+          "name": "Robert Pattinson",
+          "character": "Antinous",
+          "profile_path": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+        },
+        {
+          "name": "Himesh Patel",
+          "character": "Eurylochus",
+          "profile_path": "/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
+        },
+        {
+          "name": "Charlize Theron",
+          "character": "Calypso",
+          "profile_path": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+        },
+        {
+          "name": "John Leguizamo",
+          "character": "Eumaeus",
+          "profile_path": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+        },
+        {
+          "name": "Travis Scott",
+          "character": "Bard",
+          "profile_path": "/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
+        },
+        {
+          "name": "Corey Hawkins",
+          "character": "Polybus",
+          "profile_path": "/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+        },
+        {
+          "name": "Jarreth J. Merz",
+          "character": "Leodes",
+          "profile_path": "/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg"
+        },
+        {
+          "name": "Niko Nicotera",
+          "character": "Peisander",
+          "profile_path": "/ffSAiwXMmvQP1vJuPguLznNpPOI.jpg"
+        },
+        {
+          "name": "Elliot Page",
+          "character": "Sinon",
+          "profile_path": "/eCeFgzS8dYHnMfWQT0oQitCrsSz.jpg"
+        },
+        {
+          "name": "Shiloh Fernandez",
+          "character": "First Trojan",
+          "profile_path": "/ug0p4QtE1Am7JySNClm7u8iISOB.jpg"
+        },
+        {
+          "name": "Rafi Gavron",
+          "character": "Second Trojan",
+          "profile_path": "/avCWoO9fLwEhbT6cvu0TJcSj49g.jpg"
+        },
+        {
+          "name": "Elyes Gabel",
+          "character": "Elatus",
+          "profile_path": "/z9IqYTYxhVR9ADxaksbPQwiYQns.jpg"
+        },
+        {
+          "name": "Iddo Goldberg",
+          "character": "Amphimedon",
+          "profile_path": "/dJGHbLmYKxLy87jduKGm5jDtBnR.jpg"
+        },
+        {
+          "name": "Jamie Harris",
+          "character": "Agelus",
+          "profile_path": "/iqc9RropHWLe2wLCgUHtZZDJ7w.jpg"
+        },
+        {
+          "name": "John Ales",
+          "character": "Beggar in Ithaca",
+          "profile_path": "/rASQsyvYk1VD8hvo2Pi1Tq3Wwlm.jpg"
+        },
+        {
+          "name": "Raimy Lang",
+          "character": "Teenage Antinous",
+          "profile_path": "/blAgz5a4IRmwycftKnrRMfWCYF3.jpg"
+        },
+        {
+          "name": "Mason Cufari",
+          "character": "Teenage Sinon",
+          "profile_path": "/9o9bNDomtugse7iHQtPfVY6S6LM.jpg"
+        }
+      ],
+      "sources": []
     }
   ],
   "series": {}
