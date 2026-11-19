@@ -1,0 +1,137 @@
+{
+  "filmes": {
+    "Coringa": {
+      "titulo_original": "Joker",
+      "tagline": "Coloque um sorriso nessa cara.",
+      "ano": 2019,
+      "estreia": "2019-10-01",
+      "nota": 8.112,
+      "votos": 28727,
+      "classificacao": "",
+      "genero": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "estudio": [
+        "Warner Bros. Pictures",
+        "Joint Effort",
+        "Village Roadshow Pictures",
+        "Bron Studios",
+        "DC Films"
+      ],
+      "pais": [
+        "Canada",
+        "United States of America"
+      ],
+      "imdb": "tt7286456",
+      "tmdb": "475557",
+      "sinopse": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.",
+      "poster": "https://image.tmdb.org/t/p/w500/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
+      "trailer": "https://www.youtube.com/watch?v=jfVTJm9NilA",
+      "elenco": [
+        {
+          "nome": "Joaquin Phoenix",
+          "papel": "Arthur Fleck",
+          "foto": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+        },
+        {
+          "nome": "Robert De Niro",
+          "papel": "Murray Franklin",
+          "foto": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+        },
+        {
+          "nome": "Zazie Beetz",
+          "papel": "Sophie Dumond",
+          "foto": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+        },
+        {
+          "nome": "Frances Conroy",
+          "papel": "Penny Fleck",
+          "foto": "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+        },
+        {
+          "nome": "Brett Cullen",
+          "papel": "Thomas Wayne",
+          "foto": "https://image.tmdb.org/t/p/w185/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg"
+        },
+        {
+          "nome": "Shea Whigham",
+          "papel": "Detective Burke",
+          "foto": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+        },
+        {
+          "nome": "Bill Camp",
+          "papel": "Detective Garrity",
+          "foto": "https://image.tmdb.org/t/p/w185/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+        },
+        {
+          "nome": "Glenn Fleshler",
+          "papel": "Randall",
+          "foto": "https://image.tmdb.org/t/p/w185/x1Cef2yPZS7bJTwxI7DX3q0HNcv.jpg"
+        },
+        {
+          "nome": "Leigh Gill",
+          "papel": "Gary",
+          "foto": "https://image.tmdb.org/t/p/w185/stbbWD89FQWa34TNVyxVj5xBVIm.jpg"
+        },
+        {
+          "nome": "Josh Pais",
+          "papel": "Hoyt Vaughn",
+          "foto": "https://image.tmdb.org/t/p/w185/uH90fGfLLzYCX02yOW3kH4LMO7n.jpg"
+        },
+        {
+          "nome": "Rocco Luna",
+          "papel": "GiGi Dumond",
+          "foto": ""
+        },
+        {
+          "nome": "Marc Maron",
+          "papel": "Gene Ufland",
+          "foto": "https://image.tmdb.org/t/p/w185/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg"
+        },
+        {
+          "nome": "Sondra James",
+          "papel": "Dr. Sally",
+          "foto": "https://image.tmdb.org/t/p/w185/eA2gD2JUtXoaGUSYdwenAzeYvwG.jpg"
+        },
+        {
+          "nome": "Murphy Guyer",
+          "papel": "Barry O'Donnell",
+          "foto": "https://image.tmdb.org/t/p/w185/6axiNcYIZmaeRKyfCm3xBHC7KQL.jpg"
+        },
+        {
+          "nome": "Douglas Hodge",
+          "papel": "Alfred Pennyworth",
+          "foto": "https://image.tmdb.org/t/p/w185/tENL3Uxt07Rn21o0y0eolwTnkoZ.jpg"
+        }
+      ],
+      "duracao": 7320,
+      "diretor": [
+        "Todd Phillips"
+      ],
+      "roteirista": [
+        "Scott Silver",
+        "Todd Phillips"
+      ],
+      "qualidade": {
+        "codec_video": "",
+        "codec_audio": "",
+        "largura": 0,
+        "altura": 0
+      },
+      "url": "",
+      "versoes": [
+        {
+          "qualidade": "1080p",
+          "codec_video": "h264",
+          "url": ""
+        }
+      ],
+      "clearlogo": "",
+      "status": ""
+    }
+  },
+  "series": {}
+}
