@@ -1,6 +1,6 @@
 {
-  "filmes": {
-    "Coringa": {
+  "filmes": [
+    {
       "titulo_original": "Joker",
       "tagline": "Coloque um sorriso nessa cara.",
       "ano": 2019,
@@ -130,8 +130,139 @@
         }
       ],
       "clearlogo": "",
-      "status": ""
+      "status": "",
+      "type": "movie"
+    },
+    {
+      "type": "movie",
+      "id": 508943,
+      "tmdb_id": "508943",
+      "imdb_id": "tt12801262",
+      "title": "Luca",
+      "name": "Luca",
+      "original_title": "Luca",
+      "overview": "Ambientado na bela Riviera Italiana, este longa-metragem da Disney e da Pixar acompanha as aventuras do garoto Luca durante um verão inesquecível repleto de macarronadas, gelatos e passeios incríveis de motoneta ao lado de seu novo amigo Alberto. Mas um grande segredo ameaça colocar fim à diversão: abaixo da superfície da água, eles são monstros marinhos!",
+      "release_date": "2021-06-17",
+      "first_air_date": "",
+      "year": "2021",
+      "vote_average": 7.765,
+      "vote_count": 9243,
+      "certification": "",
+      "genres": [
+        "Animação",
+        "Família",
+        "Fantasia",
+        "Drama",
+        "Comédia"
+      ],
+      "poster_path": "/25Sju0ajhfZfIGHMLx83W2y3Arf.jpg",
+      "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/25Sju0ajhfZfIGHMLx83W2y3Arf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+      "cast": [
+        {
+          "name": "Jacob Tremblay",
+          "character": "Luca Paguro (voice)",
+          "profile_path": "/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+        },
+        {
+          "name": "Jack Dylan Grazer",
+          "character": "Alberto Scorfano (voice)",
+          "profile_path": "/lSE2LLt1ZEVf2n1X2CycTl0ehyV.jpg"
+        },
+        {
+          "name": "Emma Berman",
+          "character": "Giulia Marcovaldo (voice)",
+          "profile_path": "/beQlO4CISBThaTjjPQpufbAoyoW.jpg"
+        },
+        {
+          "name": "Saverio Raimondo",
+          "character": "Ercole Visconti (voice)",
+          "profile_path": "/eGUEX5k06KDvM3ZN0L55haT54XO.jpg"
+        },
+        {
+          "name": "Maya Rudolph",
+          "character": "Daniela Paguro (voice)",
+          "profile_path": "/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
+        },
+        {
+          "name": "Marco Barricelli",
+          "character": "Massimo Marcovaldo (voice)",
+          "profile_path": "/apuu59ph3HXqTXtdXKqUzSHO2OE.jpg"
+        },
+        {
+          "name": "Jim Gaffigan",
+          "character": "Lorenzo Paguro (voice)",
+          "profile_path": "/dhguhHxIrb26jvPznBt8y25Fb2U.jpg"
+        },
+        {
+          "name": "Peter Sohn",
+          "character": "Ciccio (voice)",
+          "profile_path": "/8cQGViF2lXlcsAIvFUMWboXYXIu.jpg"
+        },
+        {
+          "name": "Lorenzo Crisci",
+          "character": "Guido (voice)",
+          "profile_path": null
+        },
+        {
+          "name": "Marina Massironi",
+          "character": "Signora Marsigliese (voice)",
+          "profile_path": "/ekKgiwlhYTJwVPtmgtZxQY4BgjG.jpg"
+        },
+        {
+          "name": "Gino La Monica",
+          "character": "Tomasso (Old Fisherman) (voice)",
+          "profile_path": "/zeOI8QSq5hMcLR9ldWrOAr1mJho.jpg"
+        },
+        {
+          "name": "Sandy Martin",
+          "character": "Grandma Paguro (voice)",
+          "profile_path": "/eX337npL58ObgIQZkIRehLdlvsi.jpg"
+        },
+        {
+          "name": "Giacomo Gianniotti",
+          "character": "Giacomo (Young Fisherman) (voice)",
+          "profile_path": "/gym2kTV6aqHYRK2zFEhVnYBuPiR.jpg"
+        },
+        {
+          "name": "Elisa Gabrielli",
+          "character": "Concetta Aragosta (voice)",
+          "profile_path": "/kPUwjZbbRbOVTYuVVAKNI5wqagA.jpg"
+        },
+        {
+          "name": "Mimi Maynard",
+          "character": "Pinuccia Aragosta (voice)",
+          "profile_path": null
+        },
+        {
+          "name": "Sacha Baron Cohen",
+          "character": "Uncle Ugo (voice)",
+          "profile_path": "/bGzXHu8zwWqUY5gEExSh3deQd2j.jpg"
+        },
+        {
+          "name": "Francesca Fanti",
+          "character": "Maggiore (Cop) (voice)",
+          "profile_path": "/8Kti1mECLgP1QYmkSiDl3EOsCxE.jpg"
+        },
+        {
+          "name": "Jonathan Nichols-Navarro",
+          "character": "Priest (voice)",
+          "profile_path": "/fbX4KkFBhKjDsvlsMUrsJO5tBka.jpg"
+        },
+        {
+          "name": "Enrico Casarosa",
+          "character": "Card Player / Angry Fisherman (voice)",
+          "profile_path": "/1Y5cbZQN7fEZcCNCHUANPNfdVQK.jpg"
+        },
+        {
+          "name": "Jim Pirri",
+          "character": "Mr. Branzino (voice)",
+          "profile_path": "/NwiYr74p08v6WOrZIatyZppAgI.jpg"
+        }
+      ],
+      "sources": []
     }
-  },
+  ],
   "series": {}
 }
