@@ -1,767 +1,130 @@
 {
   "filmes": [
     {
-      "titulo_original": "Joker",
-      "tagline": "Coloque um sorriso nessa cara.",
-      "ano": 2019,
-      "estreia": "2019-10-01",
-      "nota": 8.112,
-      "votos": 28727,
-      "classificacao": "",
-      "genero": [
+      "id": "475557",
+      "tmdb_id": "475557",
+      "type": "movie",
+      "title": "Coringa",
+      "original_title": "Joker",
+      "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.",
+      "release_date": "2019-10-01",
+      "year": "2019",
+      "runtime": 122,
+      "certification": "16",
+      "genres": [
         "Crime",
         "Thriller",
         "Drama"
       ],
-      "estudio": [
+      "tags": [
+        "society",
+        "based on comic",
+        "social commentary",
+        "psychological thriller",
+        "criminal mastermind",
+        "mental illness",
+        "anarchy",
+        "character study",
+        "clown makeup",
+        "outsider",
+        "prophetic",
+        "social realism",
+        "tv host",
+        "1980s",
+        "mother son relationship",
+        "origin story",
+        "falling into madness",
+        "anti-capitalist"
+      ],
+      "production_companies": [
         "Warner Bros. Pictures",
         "Joint Effort",
         "Village Roadshow Pictures",
         "Bron Studios",
         "DC Films"
       ],
-      "pais": [
-        "Canada",
-        "United States of America"
+      "vote_average": 8.112,
+      "vote_count": 28727,
+      "cast": [
+        {
+          "name": "Joaquin Phoenix"
+        },
+        {
+          "name": "Robert De Niro"
+        },
+        {
+          "name": "Zazie Beetz"
+        },
+        {
+          "name": "Frances Conroy"
+        },
+        {
+          "name": "Brett Cullen"
+        },
+        {
+          "name": "Shea Whigham"
+        },
+        {
+          "name": "Bill Camp"
+        },
+        {
+          "name": "Glenn Fleshler"
+        },
+        {
+          "name": "Leigh Gill"
+        },
+        {
+          "name": "Josh Pais"
+        },
+        {
+          "name": "Rocco Luna"
+        },
+        {
+          "name": "Marc Maron"
+        },
+        {
+          "name": "Sondra James"
+        },
+        {
+          "name": "Murphy Guyer"
+        },
+        {
+          "name": "Douglas Hodge"
+        },
+        {
+          "name": "Dante Pereira-Olson"
+        },
+        {
+          "name": "Carrie Louise Putrello"
+        },
+        {
+          "name": "Sharon Washington"
+        },
+        {
+          "name": "Hannah Gross"
+        },
+        {
+          "name": "Frank Wood"
+        }
       ],
-      "imdb": "tt7286456",
-      "tmdb": "475557",
-      "sinopse": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.",
       "poster": "https://image.tmdb.org/t/p/w500/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
-      "trailer": "https://www.youtube.com/watch?v=jfVTJm9NilA",
-      "elenco": [
+      "backdrop": "https://image.tmdb.org/t/p/original/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
+      "logo_path": "",
+      "sources": [
         {
-          "nome": "Joaquin Phoenix",
-          "papel": "Arthur Fleck",
-          "foto": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
-        },
-        {
-          "nome": "Robert De Niro",
-          "papel": "Murray Franklin",
-          "foto": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
-        },
-        {
-          "nome": "Zazie Beetz",
-          "papel": "Sophie Dumond",
-          "foto": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
-        },
-        {
-          "nome": "Frances Conroy",
-          "papel": "Penny Fleck",
-          "foto": "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
-        },
-        {
-          "nome": "Brett Cullen",
-          "papel": "Thomas Wayne",
-          "foto": "https://image.tmdb.org/t/p/w185/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg"
-        },
-        {
-          "nome": "Shea Whigham",
-          "papel": "Detective Burke",
-          "foto": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
-        },
-        {
-          "nome": "Bill Camp",
-          "papel": "Detective Garrity",
-          "foto": "https://image.tmdb.org/t/p/w185/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
-        },
-        {
-          "nome": "Glenn Fleshler",
-          "papel": "Randall",
-          "foto": "https://image.tmdb.org/t/p/w185/x1Cef2yPZS7bJTwxI7DX3q0HNcv.jpg"
-        },
-        {
-          "nome": "Leigh Gill",
-          "papel": "Gary",
-          "foto": "https://image.tmdb.org/t/p/w185/stbbWD89FQWa34TNVyxVj5xBVIm.jpg"
-        },
-        {
-          "nome": "Josh Pais",
-          "papel": "Hoyt Vaughn",
-          "foto": "https://image.tmdb.org/t/p/w185/uH90fGfLLzYCX02yOW3kH4LMO7n.jpg"
-        },
-        {
-          "nome": "Rocco Luna",
-          "papel": "GiGi Dumond",
-          "foto": ""
-        },
-        {
-          "nome": "Marc Maron",
-          "papel": "Gene Ufland",
-          "foto": "https://image.tmdb.org/t/p/w185/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg"
-        },
-        {
-          "nome": "Sondra James",
-          "papel": "Dr. Sally",
-          "foto": "https://image.tmdb.org/t/p/w185/eA2gD2JUtXoaGUSYdwenAzeYvwG.jpg"
-        },
-        {
-          "nome": "Murphy Guyer",
-          "papel": "Barry O'Donnell",
-          "foto": "https://image.tmdb.org/t/p/w185/6axiNcYIZmaeRKyfCm3xBHC7KQL.jpg"
-        },
-        {
-          "nome": "Douglas Hodge",
-          "papel": "Alfred Pennyworth",
-          "foto": "https://image.tmdb.org/t/p/w185/tENL3Uxt07Rn21o0y0eolwTnkoZ.jpg"
+          "label": "Versão",
+          "quality": "1080p",
+          "language": "Dublado",
+          "type": "magnet",
+          "url": "magnet:?xt=urn:btih:b13481b721debb07be2179802322a1ea90e2f35a&xl=1452135010&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.EPISODIO-01.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Dragon+Ball+Super+-+Beerus+S01E01+WEB-DL+1080p+x264+DUAL+2.0"
         }
       ],
-      "duracao": 7320,
-      "diretor": [
-        "Todd Phillips"
-      ],
-      "roteirista": [
-        "Scott Silver",
-        "Todd Phillips"
-      ],
-      "qualidade": {
-        "codec_video": "",
-        "codec_audio": "",
-        "largura": 0,
-        "altura": 0
-      },
-      "url": "",
-      "versoes": [
-        {
-          "qualidade": "1080p",
-          "codec_video": "h264",
-          "url": ""
-        }
-      ],
-      "clearlogo": "",
-      "status": "",
-      "type": "movie"
-    },
-    {
-      "type": "movie",
-      "id": 508943,
-      "tmdb_id": "508943",
-      "imdb_id": "tt12801262",
-      "title": "Luca",
-      "name": "Luca",
-      "original_title": "Luca",
-      "overview": "Ambientado na bela Riviera Italiana, este longa-metragem da Disney e da Pixar acompanha as aventuras do garoto Luca durante um verão inesquecível repleto de macarronadas, gelatos e passeios incríveis de motoneta ao lado de seu novo amigo Alberto. Mas um grande segredo ameaça colocar fim à diversão: abaixo da superfície da água, eles são monstros marinhos!",
-      "release_date": "2021-06-17",
-      "first_air_date": "",
-      "year": "2021",
-      "vote_average": 7.765,
-      "vote_count": 9243,
-      "certification": "",
-      "genres": [
-        "Animação",
-        "Família",
-        "Fantasia",
-        "Drama",
-        "Comédia"
-      ],
-      "poster_path": "/25Sju0ajhfZfIGHMLx83W2y3Arf.jpg",
-      "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
-      "poster": "https://image.tmdb.org/t/p/w500/25Sju0ajhfZfIGHMLx83W2y3Arf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
-      "cast": [
-        {
-          "name": "Jacob Tremblay",
-          "character": "Luca Paguro (voice)",
-          "profile_path": "/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
-        },
-        {
-          "name": "Jack Dylan Grazer",
-          "character": "Alberto Scorfano (voice)",
-          "profile_path": "/lSE2LLt1ZEVf2n1X2CycTl0ehyV.jpg"
-        },
-        {
-          "name": "Emma Berman",
-          "character": "Giulia Marcovaldo (voice)",
-          "profile_path": "/beQlO4CISBThaTjjPQpufbAoyoW.jpg"
-        },
-        {
-          "name": "Saverio Raimondo",
-          "character": "Ercole Visconti (voice)",
-          "profile_path": "/eGUEX5k06KDvM3ZN0L55haT54XO.jpg"
-        },
-        {
-          "name": "Maya Rudolph",
-          "character": "Daniela Paguro (voice)",
-          "profile_path": "/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
-        },
-        {
-          "name": "Marco Barricelli",
-          "character": "Massimo Marcovaldo (voice)",
-          "profile_path": "/apuu59ph3HXqTXtdXKqUzSHO2OE.jpg"
-        },
-        {
-          "name": "Jim Gaffigan",
-          "character": "Lorenzo Paguro (voice)",
-          "profile_path": "/dhguhHxIrb26jvPznBt8y25Fb2U.jpg"
-        },
-        {
-          "name": "Peter Sohn",
-          "character": "Ciccio (voice)",
-          "profile_path": "/8cQGViF2lXlcsAIvFUMWboXYXIu.jpg"
-        },
-        {
-          "name": "Lorenzo Crisci",
-          "character": "Guido (voice)",
-          "profile_path": null
-        },
-        {
-          "name": "Marina Massironi",
-          "character": "Signora Marsigliese (voice)",
-          "profile_path": "/ekKgiwlhYTJwVPtmgtZxQY4BgjG.jpg"
-        },
-        {
-          "name": "Gino La Monica",
-          "character": "Tomasso (Old Fisherman) (voice)",
-          "profile_path": "/zeOI8QSq5hMcLR9ldWrOAr1mJho.jpg"
-        },
-        {
-          "name": "Sandy Martin",
-          "character": "Grandma Paguro (voice)",
-          "profile_path": "/eX337npL58ObgIQZkIRehLdlvsi.jpg"
-        },
-        {
-          "name": "Giacomo Gianniotti",
-          "character": "Giacomo (Young Fisherman) (voice)",
-          "profile_path": "/gym2kTV6aqHYRK2zFEhVnYBuPiR.jpg"
-        },
-        {
-          "name": "Elisa Gabrielli",
-          "character": "Concetta Aragosta (voice)",
-          "profile_path": "/kPUwjZbbRbOVTYuVVAKNI5wqagA.jpg"
-        },
-        {
-          "name": "Mimi Maynard",
-          "character": "Pinuccia Aragosta (voice)",
-          "profile_path": null
-        },
-        {
-          "name": "Sacha Baron Cohen",
-          "character": "Uncle Ugo (voice)",
-          "profile_path": "/bGzXHu8zwWqUY5gEExSh3deQd2j.jpg"
-        },
-        {
-          "name": "Francesca Fanti",
-          "character": "Maggiore (Cop) (voice)",
-          "profile_path": "/8Kti1mECLgP1QYmkSiDl3EOsCxE.jpg"
-        },
-        {
-          "name": "Jonathan Nichols-Navarro",
-          "character": "Priest (voice)",
-          "profile_path": "/fbX4KkFBhKjDsvlsMUrsJO5tBka.jpg"
-        },
-        {
-          "name": "Enrico Casarosa",
-          "character": "Card Player / Angry Fisherman (voice)",
-          "profile_path": "/1Y5cbZQN7fEZcCNCHUANPNfdVQK.jpg"
-        },
-        {
-          "name": "Jim Pirri",
-          "character": "Mr. Branzino (voice)",
-          "profile_path": "/NwiYr74p08v6WOrZIatyZppAgI.jpg"
-        }
-      ],
-      "sources": []
-    },
-    {
-      "type": "movie",
-      "id": 1368337,
-      "tmdb_id": "1368337",
-      "imdb_id": "tt33764258",
-      "title": "A Odisseia",
-      "name": "A Odisseia",
-      "original_title": "The Odyssey",
-      "overview": "Acompanhe o rei grego Odisseu em sua perigosa jornada de 20 anos para voltar a Ítaca após a Guerra de Troia, enfrentando monstros e deuses enquanto sua esposa Penélope resiste em seu reino.",
-      "release_date": "2026-07-15",
-      "first_air_date": "",
-      "year": "2026",
-      "vote_average": 8.017,
-      "vote_count": 5144,
-      "certification": "",
-      "genres": [
-        "Aventura",
-        "Ação",
-        "Fantasia"
-      ],
-      "poster_path": "/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
-      "backdrop_path": "/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
-      "poster": "https://image.tmdb.org/t/p/w500/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
-      "cast": [
-        {
-          "name": "Matt Damon",
-          "character": "Odysseus",
-          "profile_path": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
-        },
-        {
-          "name": "Tom Holland",
-          "character": "Telemachus",
-          "profile_path": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
-        },
-        {
-          "name": "Anne Hathaway",
-          "character": "Penelope",
-          "profile_path": "/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
-        },
-        {
-          "name": "Robert Pattinson",
-          "character": "Antinous",
-          "profile_path": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
-        },
-        {
-          "name": "Himesh Patel",
-          "character": "Eurylochus",
-          "profile_path": "/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
-        },
-        {
-          "name": "Charlize Theron",
-          "character": "Calypso",
-          "profile_path": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
-        },
-        {
-          "name": "John Leguizamo",
-          "character": "Eumaeus",
-          "profile_path": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
-        },
-        {
-          "name": "Travis Scott",
-          "character": "Bard",
-          "profile_path": "/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
-        },
-        {
-          "name": "Corey Hawkins",
-          "character": "Polybus",
-          "profile_path": "/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
-        },
-        {
-          "name": "Jarreth J. Merz",
-          "character": "Leodes",
-          "profile_path": "/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg"
-        },
-        {
-          "name": "Niko Nicotera",
-          "character": "Peisander",
-          "profile_path": "/ffSAiwXMmvQP1vJuPguLznNpPOI.jpg"
-        },
-        {
-          "name": "Elliot Page",
-          "character": "Sinon",
-          "profile_path": "/eCeFgzS8dYHnMfWQT0oQitCrsSz.jpg"
-        },
-        {
-          "name": "Shiloh Fernandez",
-          "character": "First Trojan",
-          "profile_path": "/ug0p4QtE1Am7JySNClm7u8iISOB.jpg"
-        },
-        {
-          "name": "Rafi Gavron",
-          "character": "Second Trojan",
-          "profile_path": "/avCWoO9fLwEhbT6cvu0TJcSj49g.jpg"
-        },
-        {
-          "name": "Elyes Gabel",
-          "character": "Elatus",
-          "profile_path": "/z9IqYTYxhVR9ADxaksbPQwiYQns.jpg"
-        },
-        {
-          "name": "Iddo Goldberg",
-          "character": "Amphimedon",
-          "profile_path": "/dJGHbLmYKxLy87jduKGm5jDtBnR.jpg"
-        },
-        {
-          "name": "Jamie Harris",
-          "character": "Agelus",
-          "profile_path": "/iqc9RropHWLe2wLCgUHtZZDJ7w.jpg"
-        },
-        {
-          "name": "John Ales",
-          "character": "Beggar in Ithaca",
-          "profile_path": "/rASQsyvYk1VD8hvo2Pi1Tq3Wwlm.jpg"
-        },
-        {
-          "name": "Raimy Lang",
-          "character": "Teenage Antinous",
-          "profile_path": "/blAgz5a4IRmwycftKnrRMfWCYF3.jpg"
-        },
-        {
-          "name": "Mason Cufari",
-          "character": "Teenage Sinon",
-          "profile_path": "/9o9bNDomtugse7iHQtPfVY6S6LM.jpg"
-        }
-      ],
-      "sources": []
-    },
-    {
-      "type": "tv",
-      "id": 84773,
-      "tmdb_id": "84773",
-      "imdb_id": "tt7631058",
-      "title": "O Senhor dos Anéis: Os Anéis de Poder",
-      "name": "O Senhor dos Anéis: Os Anéis de Poder",
-      "original_title": "The Lord of the Rings: The Rings of Power",
-      "overview": "Tendo início em uma época de relativa paz, a série acompanha um grupo de personagens que enfrenta o ressurgimento do mal na Terra-média. Das profundezas escuras das Montanhas de Névoa, das majestosas florestas de Lindon, do belíssimo reino da ilha de Númenor, até os confins do mapa, esses reinos e personagens criarão legados que permanecerão vivos muito além de suas partidas.",
-      "release_date": "",
-      "first_air_date": "2022-09-01",
-      "year": "2022",
-      "vote_average": 7.2,
-      "vote_count": 4108,
-      "certification": "",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster_path": "/8FPCnfOftiLTHg5wnJxVdtlF8EN.jpg",
-      "backdrop_path": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-      "poster": "https://image.tmdb.org/t/p/w500/8FPCnfOftiLTHg5wnJxVdtlF8EN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-      "cast": [
-        {
-          "name": "Charlie Vickers",
-          "character": "Sauron",
-          "profile_path": "/52AAfocWk3d8J3a15iznfD3cabW.jpg"
-        },
-        {
-          "name": "Morfydd Clark",
-          "character": "Galadriel",
-          "profile_path": "/kG1Xg85F9yAggCMquo4XouAOjdo.jpg"
-        },
-        {
-          "name": "Robert Aramayo",
-          "character": "Elrond",
-          "profile_path": "/1wqSZVvB018H2mZbemMSn6gH4zq.jpg"
-        },
-        {
-          "name": "Owain Arthur",
-          "character": "Durin IV",
-          "profile_path": "/ljqVjVzp9pgcfTTU3oJbKtnd6im.jpg"
-        },
-        {
-          "name": "Sophia Nomvete",
-          "character": "Disa",
-          "profile_path": "/fRglwdtHHjLGAMIoCkqXwQ9bIfd.jpg"
-        },
-        {
-          "name": "Markella Kavenagh",
-          "character": "Elanor 'Nori' Brandyfoot",
-          "profile_path": "/gHBoS2Ql0ywj6kfkxixqPPryqTQ.jpg"
-        },
-        {
-          "name": "Ismael Cruz Cordova",
-          "character": "Arondir",
-          "profile_path": "/oXcrsQGndk60iFkNB8qFnMHlNzL.jpg"
-        },
-        {
-          "name": "Tyroe Muhafidin",
-          "character": "Theo",
-          "profile_path": "/sPDE7yH0TwbwEp12BU1g2ikS2IH.jpg"
-        },
-        {
-          "name": "Daniel Weyman",
-          "character": "Gandalf",
-          "profile_path": "/6DjebVe6uHAt5RpZOQGt67Eryeb.jpg"
-        }
-      ],
-      "sources": [],
-      "seasons": [
-        {
-          "season_number": 1,
-          "name": "Temporada 1",
-          "overview": "Tendo início em uma época de relativa paz, a série acompanha um grupo de personagens que enfrentam o ressurgimento do mal na Terra-média. Das profundezas escuras das Montanhas de Névoa, das majestosas florestas de Lindon, do belíssimo reino da ilha de Númenor, até os confins do mapa, esses reinos e personagens criarão legados que permanecerão vivos muito além de suas partidas.",
-          "poster_path": "/zHiWupUfXu6tzegibhxfqvhF5F0.jpg",
-          "poster": "https://image.tmdb.org/t/p/w500/zHiWupUfXu6tzegibhxfqvhF5F0.jpg",
-          "air_date": "2022-09-01",
-          "episode_count": 8,
-          "episodes": [
-            {
-              "episode_number": 1,
-              "name": "A Sombra do Passado",
-              "title": "A Sombra do Passado",
-              "overview": "Galadriel é perturbada por sinais do retorno de um antigo mal; Arondir faz uma descoberta inquietante; Elrond é apresentado a um novo empreendimento intrigante; Nori quebra a regra mais arraigada da comunidade Harfoot.",
-              "air_date": "2022-09-01",
-              "runtime": 66,
-              "vote_average": 6.602,
-              "still_path": "/15UCiKw7ujYq0W7nQ4u06l6oENn.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 2,
-              "name": "À Deriva",
-              "title": "À Deriva",
-              "overview": "Galadriel encontra um novo aliado. Elrond é recebido com frieza por um velho amigo. Nori se aventura a ajudar um Estranho. Arondir busca respostas enquanto Bronwyn alerta seu povo sobre uma ameaça.",
-              "air_date": "2022-09-01",
-              "runtime": 68,
-              "vote_average": 6.4,
-              "still_path": "/pxxm7FTgVXj6Yh6Iq9Dj40854cN.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 3,
-              "name": "Adar",
-              "title": "Adar",
-              "overview": "Arondir se torna prisioneiro. Galadriel e Halbrand exploram um reino lendário. Elendil recebe uma nova tarefa. Nori enfrenta as consequências.",
-              "air_date": "2022-09-08",
-              "runtime": 70,
-              "vote_average": 6.288,
-              "still_path": "/phPzXd42PjpcZc5jkVGVwxTY1kA.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 4,
-              "name": "A Grande Onda",
-              "title": "A Grande Onda",
-              "overview": "A fé da Rainha-Regente Míriel é testada. Isildur se encontra em uma encruzilhada. Elrond descobre um segredo. Arondir recebe um ultimato. Theo desobedece Bronwyn.",
-              "air_date": "2022-09-15",
-              "runtime": 72,
-              "vote_average": 6.212,
-              "still_path": "/hkdQY91zh0fSXbYZ8IU1uEPvzAe.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 5,
-              "name": "Partidas",
-              "title": "Partidas",
-              "overview": "Nori questiona seus instintos. Elrond luta para se manter fiel a seu juramento. Halbrand pondera o seu destino. Os sulistas se preparam para o ataque iminente.",
-              "air_date": "2022-09-22",
-              "runtime": 73,
-              "vote_average": 6.052,
-              "still_path": "/jLxeqABrd8nqKq6aLa7wPIszRMU.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 6,
-              "name": "Udûn",
-              "title": "Udûn",
-              "overview": "Adar e seu exército marcham sobre Ostirith.",
-              "air_date": "2022-09-29",
-              "runtime": 70,
-              "vote_average": 6.628,
-              "still_path": "/oGaGLjtdRMXPTcgymD4pUiwD9j1.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 7,
-              "name": "O Olho",
-              "title": "O Olho",
-              "overview": "Os sobreviventes de um cataclisma tentam encontrar abrigo. Os Pés-Peludos enfrentam o mal. Durin se vê dividido entre a amizade e o dever. Adar pensa em um novo nome.",
-              "air_date": "2022-10-06",
-              "runtime": 73,
-              "vote_average": 5.8,
-              "still_path": "/gS6ziDnTQv14AIcZHGrN09Ojfqn.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 8,
-              "name": "A Liga",
-              "title": "A Liga",
-              "overview": "Novas alianças são forjadas.",
-              "air_date": "2022-10-13",
-              "runtime": 73,
-              "vote_average": 6.5,
-              "still_path": "/thh9aJqVR7b5Hj32ogiNNOdd9X6.jpg",
-              "sources": []
-            }
-          ]
-        },
-        {
-          "season_number": 2,
-          "name": "Temporada 2",
-          "overview": "Sauron voltou. Banido por Galadriel, o Senhor Sombrio deve agora confiar na própria astúcia para restituir a força e forjar os lendários Anéis de Poder, ameaçando atar todos os povos da Terra-média à sua vontade sinistra. A 2ª temporada mergulha seus personagens mais amados e vulneráveis em uma onda crescente de escuridão, desafiando cada um a encontrar seu lugar em um mundo à beira da calamidade.",
-          "poster_path": "/7gTV9UiOTm7IsAORWGY3OPQ7OaK.jpg",
-          "poster": "https://image.tmdb.org/t/p/w500/7gTV9UiOTm7IsAORWGY3OPQ7OaK.jpg",
-          "air_date": "2024-08-29",
-          "episode_count": 8,
-          "episodes": [
-            {
-              "episode_number": 1,
-              "name": "Os Élficos Reis sob o Céu",
-              "title": "Os Élficos Reis sob o Céu",
-              "overview": "Sauron barganha com Adar. O Estranho e Nori chegam a terras desconhecidas. Os Três Anéis Élficos são julgados.",
-              "air_date": "2024-08-29",
-              "runtime": 77,
-              "vote_average": 6.333,
-              "still_path": "/8mRngZuqhKTvM5rUZRNsFYux36T.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 2,
-              "name": "Onde as Estrelas São Estranhas",
-              "title": "Onde as Estrelas São Estranhas",
-              "overview": "A escuridão cai sobre Khazad-dûm. Sauron busca novos aliados, e Galadriel também. O Estranho e os Pés-peludos se deparam com a ameaça que se aproxima.",
-              "air_date": "2024-08-29",
-              "runtime": 63,
-              "vote_average": 6.231,
-              "still_path": "/Omt5mxEW6C0DfLsbyTxopYgoiZ.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 3,
-              "name": "A Águia e o Cetro",
-              "title": "A Águia e o Cetro",
-              "overview": "Isildur e um velho amigo se reencontram. Arondir lida com mudanças. Miriel enfrenta uma oposição cada vez mais acirrada. Annatar aconselha Celebrimbor.",
-              "air_date": "2024-08-29",
-              "runtime": 67,
-              "vote_average": 5.659,
-              "still_path": "/zMMkC9bGUT6MrtXGK6UAmSyApIC.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 4,
-              "name": "O Mais Velho",
-              "title": "O Mais Velho",
-              "overview": "O Estranho encontra o que vinha procurando. Arondir e Isildur procuram Theo. Galadriel e Elrond caem em uma armadilha.",
-              "air_date": "2024-09-05",
-              "runtime": 66,
-              "vote_average": 6.212,
-              "still_path": "/5j0f3bnQuXk2KGSdkF6opRq6W3A.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 5,
-              "name": "Recinto Rochoso",
-              "title": "Recinto Rochoso",
-              "overview": "Quando Durin desconfia dos Anéis dos Anãos, Celebrimbor precisa repensar suas prioridades. Entre as marés turbulentas que vêm tomando Númenor, Elendil busca esperança.",
-              "air_date": "2024-09-12",
-              "runtime": 62,
-              "vote_average": 6.13,
-              "still_path": "/aMrrsn8aIK4mNEidCFXuFCHDTKZ.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 6,
-              "name": "Onde Ele Está?",
-              "title": "Onde Ele Está?",
-              "overview": "Galadriel avalia uma proposta. Elendil vai a julgamento. O Estranho se depara com uma encruzilhada. Os planos de Sauron dão frutos.",
-              "air_date": "2024-09-19",
-              "runtime": 64,
-              "vote_average": 5.932,
-              "still_path": "/dDpTdsaS3pobY2eUti5hGjFrUgp.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 7,
-              "name": "Que a Morte Escolheu",
-              "title": "Que a Morte Escolheu",
-              "overview": "O destino de Eregion é selado.",
-              "air_date": "2024-09-26",
-              "runtime": 73,
-              "vote_average": 6.081,
-              "still_path": "/wPXBWFxzfKgD7clsxRxk24hzSqi.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 8,
-              "name": "Sombra e Chama",
-              "title": "Sombra e Chama",
-              "overview": "Os povos livres da Terra-média lutam contra as forças das trevas.",
-              "air_date": "2024-10-03",
-              "runtime": 74,
-              "vote_average": 6.088,
-              "still_path": "/y8QZyos5Xck90iztghsWcIr7yUd.jpg",
-              "sources": []
-            }
-          ]
-        },
-        {
-          "season_number": 3,
-          "name": "Temporada 3",
-          "overview": "A guerra entre os Elfos e Sauron está no auge, mas o Senhor Sombrio age em segredo para forjar um poder que traga a vitória: UM ANEL QUE A TODOS REGE.",
-          "poster_path": "/8FPCnfOftiLTHg5wnJxVdtlF8EN.jpg",
-          "poster": "https://image.tmdb.org/t/p/w500/8FPCnfOftiLTHg5wnJxVdtlF8EN.jpg",
-          "air_date": "2026-11-11",
-          "episode_count": 8,
-          "episodes": [
-            {
-              "episode_number": 1,
-              "name": "Marnûkh",
-              "title": "Marnûkh",
-              "overview": "A guerra entre os Elfos e Sauron se estende. Galadriel relembra um amor perdido. Durin recebe o irmão... e outro convidado inesperado.",
-              "air_date": "2026-11-11",
-              "runtime": 74,
-              "vote_average": 6.244,
-              "still_path": "/o8HVnxoRuw6G8yycLu1a4vGIU7a.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 2,
-              "name": "A Dádiva dos Homens",
-              "title": "A Dádiva dos Homens",
-              "overview": "Um tumulto eclode em Númenor. Theo contempla um novo caminho. Os Anões avaliam as opções. Cientes do plano de Sauron, os Elfos ponderam uma missão.",
-              "air_date": "2026-11-11",
-              "runtime": 69,
-              "vote_average": 5.879,
-              "still_path": "/v7V7AKi5aIP7inzMiAeYRVOuJEc.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 3,
-              "name": "O Fogo Secreto",
-              "title": "O Fogo Secreto",
-              "overview": "Gandalf tenta manter Rhûn longe da guerra. Elendil caça um espião. Marnûkh leva Galadriel e Arondir a Gundabad, deixando Sauron intrigado.",
-              "air_date": "2026-11-11",
-              "runtime": 58,
-              "vote_average": 5.404,
-              "still_path": "/8Yw5p0jpFtk4Lv0M4fc2NTsTysS.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 4,
-              "name": "Gundabad",
-              "title": "Gundabad",
-              "overview": "Em Gundabad, nossos heróis acham menos do que buscavam e mais do que esperavam. Elrond leva Gil-galad a uma missão urgente. Durin defende o trono.",
-              "air_date": "2026-11-11",
-              "runtime": 57,
-              "vote_average": 5.417,
-              "still_path": "/8HFT84AAqfjsqcz1xbx4afQPxQh.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 5,
-              "name": "A Senhora de Lórien",
-              "title": "A Senhora de Lórien",
-              "overview": "Galadriel se reconecta a um amor perdido, e Sauron se aproxima dela. Elrond e Gil-galad chegam a Númenor. Na busca pela paz, Gandalf acaba exagerando.",
-              "air_date": "2026-11-18",
-              "runtime": 56,
-              "vote_average": 4.643,
-              "still_path": "/abNt9f3wSsFjYcpR0sjgPDsUQI6.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 6,
-              "name": "De Valinor",
-              "title": "De Valinor",
-              "overview": "Galadriel recebe uma ajuda inesperada. Sauron explora a vantagem que tem. A tensão em Númenor leva a uma proposta chocante. Thráin age de forma cruel.",
-              "air_date": "2026-11-18",
-              "runtime": 65,
-              "vote_average": 3.778,
-              "still_path": "/qPvN1nNgWwPFdv2twj2tMEohEJ6.jpg",
-              "sources": []
-            },
-            {
-              "episode_number": 7,
-              "name": "Episódio 7",
-              "title": "Episódio 7",
-              "overview": "",
-              "air_date": "2026-11-25",
-              "runtime": null,
-              "vote_average": 0,
-              "still_path": null,
-              "sources": []
-            },
-            {
-              "episode_number": 8,
-              "name": "Episódio 8",
-              "title": "Episódio 8",
-              "overview": "",
-              "air_date": "2026-11-25",
-              "runtime": null,
-              "vote_average": 0,
-              "still_path": null,
-              "sources": []
-            }
-          ]
-        }
-      ]
+      "belongs_to_collection": {
+        "id": "987044",
+        "name": "Coringa: Coleção",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cOZ2hOY9VgNANdS2gngbExi9dBh.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/original/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg"
+      }
     }
-  ],
-  "series": {}
+  ]
 }
