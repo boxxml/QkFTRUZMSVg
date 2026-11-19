@@ -1,160 +1,137 @@
 {
   "filmes": [
     {
-      "id": "475557",
+      "id": "1551025",
       "type": "movie",
-      "title": "Coringa",
-      "original_title": "Joker",
-      "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.",
-      "poster": "https://image.tmdb.org/t/p/w500/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
-      "release_date": "2019-10-01",
+      "title": "Protegendo Estrelas",
+      "original_title": "Guarding Stars",
+      "overview": "Uma guarda-costas pragmática tem que proteger um ator de Hollywood durante as festas de fim de ano, mas o clima esquenta, segredos vêm à tona e o Natal fica bem mais complicado.",
+      "poster": "https://image.tmdb.org/t/p/w500/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "release_date": "2026-11-18",
       "first_air_date": "",
-      "vote_average": 8.112,
-      "vote_count": 28727,
-      "runtime": 122,
-      "episode_run_time": 122,
+      "vote_average": 7.5,
+      "vote_count": 28,
+      "runtime": 109,
+      "episode_run_time": 109,
       "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
+        "Romance",
+        "Comédia"
       ],
       "tags": [
-        "society",
-        "based on comic",
-        "social commentary",
-        "psychological thriller",
-        "criminal mastermind",
-        "mental illness",
-        "anarchy",
-        "character study",
-        "clown makeup",
-        "outsider",
-        "prophetic",
-        "social realism",
-        "tv host",
-        "1980s",
-        "mother son relationship",
-        "origin story",
-        "falling into madness",
-        "anti-capitalist"
+        "based on novel or book",
+        "holiday",
+        "montana",
+        "bodyguard",
+        "ranch",
+        "romcom",
+        "christmas",
+        "no-nonsense",
+        "holiday romance",
+        "admiring",
+        "tv movie"
       ],
       "studios": [
-        "Warner Bros. Pictures",
-        "Joint Effort",
-        "Village Roadshow Pictures",
-        "Bron Studios",
-        "DC Films"
+        "Little Engine Productions",
+        "Living in the Asterisk",
+        "Propeller Studios"
       ],
       "cast": [
         {
-          "name": "Joaquin Phoenix",
-          "character": "Arthur Fleck",
-          "profile": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+          "name": "Leighton Meester",
+          "character": "Hannah",
+          "profile": "https://image.tmdb.org/t/p/w185/6P8sa2eR2wpNkA1n1NVHREaeXPV.jpg"
         },
         {
-          "name": "Robert De Niro",
-          "character": "Murray Franklin",
-          "profile": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+          "name": "Jared Padalecki",
+          "character": "Jack",
+          "profile": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
         },
         {
-          "name": "Zazie Beetz",
-          "character": "Sophie Dumond",
-          "profile": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+          "name": "Andie MacDowell",
+          "character": "Connie Stapleton",
+          "profile": "https://image.tmdb.org/t/p/w185/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
         },
         {
-          "name": "Frances Conroy",
-          "character": "Penny Fleck",
-          "profile": "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+          "name": "Walker Hayes",
+          "character": "Sheriff Sanderson",
+          "profile": "https://image.tmdb.org/t/p/w185/8kC7c8lO9grfgCP5FxLmEKCKMP6.jpg"
         },
         {
-          "name": "Brett Cullen",
-          "character": "Thomas Wayne",
-          "profile": "https://image.tmdb.org/t/p/w185/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg"
+          "name": "Noah LaLonde",
+          "character": "Hank Stapleton",
+          "profile": "https://image.tmdb.org/t/p/w185/kFN2p5zW8kbsLaEOA4usN88lq86.jpg"
         },
         {
-          "name": "Shea Whigham",
-          "character": "Detective Burke",
-          "profile": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+          "name": "Toby Sandeman",
+          "character": "Robbie",
+          "profile": "https://image.tmdb.org/t/p/w185/5ZmXTHbRlbkQDtga4Cbk447osUY.jpg"
         },
         {
-          "name": "Bill Camp",
-          "character": "Detective Garrity",
-          "profile": "https://image.tmdb.org/t/p/w185/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+          "name": "Phil Brooks",
+          "character": "Doghouse",
+          "profile": "https://image.tmdb.org/t/p/w185/357pyjyvFFJLkwBpTopy2KnyDRA.jpg"
         },
         {
-          "name": "Glenn Fleshler",
-          "character": "Randall",
-          "profile": "https://image.tmdb.org/t/p/w185/x1Cef2yPZS7bJTwxI7DX3q0HNcv.jpg"
+          "name": "Ava Max",
+          "character": "Kennedy Monroe",
+          "profile": "https://image.tmdb.org/t/p/w185/ajW6BTIV8ixeevdNTJl557sVynX.jpg"
         },
         {
-          "name": "Leigh Gill",
-          "character": "Gary",
-          "profile": "https://image.tmdb.org/t/p/w185/stbbWD89FQWa34TNVyxVj5xBVIm.jpg"
+          "name": "Jake Foy",
+          "character": "Brody",
+          "profile": "https://image.tmdb.org/t/p/w185/zGdd4rmmyab9YXcsI6un06kzbJ9.jpg"
         },
         {
-          "name": "Josh Pais",
-          "character": "Hoyt Vaughn",
-          "profile": "https://image.tmdb.org/t/p/w185/uH90fGfLLzYCX02yOW3kH4LMO7n.jpg"
+          "name": "Siobhan Williams",
+          "character": "Ella Mae",
+          "profile": "https://image.tmdb.org/t/p/w185/2vU6JzU9SVBDgjvTUV0nMoaOCZc.jpg"
         },
         {
-          "name": "Rocco Luna",
-          "character": "GiGi Dumond",
-          "profile": ""
+          "name": "Rachael Ancheril",
+          "character": "Taylor",
+          "profile": "https://image.tmdb.org/t/p/w185/3TI7FK8h8eWIX4gCNhxr77i1NAy.jpg"
         },
         {
-          "name": "Marc Maron",
-          "character": "Gene Ufland",
-          "profile": "https://image.tmdb.org/t/p/w185/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg"
+          "name": "Giles Panton",
+          "character": "Jesse",
+          "profile": "https://image.tmdb.org/t/p/w185/ixZb1aUaL7yScZYLgUU9LS2Grwk.jpg"
         },
         {
-          "name": "Sondra James",
-          "character": "Dr. Sally",
-          "profile": "https://image.tmdb.org/t/p/w185/eA2gD2JUtXoaGUSYdwenAzeYvwG.jpg"
+          "name": "Zoe Kosovic",
+          "character": "Clementine",
+          "profile": "https://image.tmdb.org/t/p/w185/txYng7NF0ypn9RwYuj424RPNFAn.jpg"
         },
         {
-          "name": "Murphy Guyer",
-          "character": "Barry O'Donnell",
-          "profile": "https://image.tmdb.org/t/p/w185/6axiNcYIZmaeRKyfCm3xBHC7KQL.jpg"
+          "name": "Greg Lawson",
+          "character": "Glen",
+          "profile": "https://image.tmdb.org/t/p/w185/7JzK4hRLX29FJRkHwP2OFGgVxqS.jpg"
         },
         {
-          "name": "Douglas Hodge",
-          "character": "Alfred Pennyworth",
-          "profile": "https://image.tmdb.org/t/p/w185/tENL3Uxt07Rn21o0y0eolwTnkoZ.jpg"
+          "name": "Tess Degenstein",
+          "character": "Deputy Nadine Turner",
+          "profile": "https://image.tmdb.org/t/p/w185/lV2W5s1oR2Hp3PRQtYnOOv6wCgK.jpg"
         }
       ],
       "director": [
-        "Todd Phillips"
+        "Elizabeth Allen Rosenbaum"
       ],
-      "certification": "16",
+      "certification": "12",
       "status": "Released",
       "original_language": "en",
-      "collection": {
-        "id": "987044",
-        "name": "Coringa: Coleção",
-        "poster": "https://image.tmdb.org/t/p/w500/cOZ2hOY9VgNANdS2gngbExi9dBh.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg"
-      },
+      "collection": null,
       "sources": [
         {
           "label": "1080P",
           "quality": "1080P",
           "language": "por",
-          "url": "magnet:?xt=urn:btih:b13481b721debb07be2179802322a1ea90e2f35a&xl=1452135010&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.EPISODIO-01.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Dragon+Ball+Super+-+Beerus+S01E01+WEB-DL+1080p+x264+DUAL+2.0",
-          "link": "magnet:?xt=urn:btih:b13481b721debb07be2179802322a1ea90e2f35a&xl=1452135010&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.EPISODIO-01.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Dragon+Ball+Super+-+Beerus+S01E01+WEB-DL+1080p+x264+DUAL+2.0",
-          "type": "magnet"
-        },
-        {
-          "label": "4k",
-          "quality": "4k",
-          "language": "por",
-          "url": "magnet:?xt=urn:btih:b13481b721debb07be2179802322a1ea90e2f35a&xl=1452135010&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.EPISODIO-01.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Dragon+Ball+Super+-+Beerus+S01E01+WEB-DL+1080p+x264+DUAL+2.0",
-          "link": "magnet:?xt=urn:btih:b13481b721debb07be2179802322a1ea90e2f35a&xl=1452135010&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.EPISODIO-01.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Dragon+Ball+Super+-+Beerus+S01E01+WEB-DL+1080p+x264+DUAL+2.0",
+          "url": "magnet:?xt=urn:btih:lzk5wecvcraosvkfodcv4qeauabff2ff&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Protegendo+Estrelas.2026.1080p.WEB-DL.x264.DUAL.5.1",
+          "link": "magnet:?xt=urn:btih:lzk5wecvcraosvkfodcv4qeauabff2ff&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Protegendo+Estrelas.2026.1080p.WEB-DL.x264.DUAL.5.1",
           "type": "magnet"
         }
       ],
       "seasons": [],
-      "name": "Coringa"
+      "name": "Protegendo Estrelas"
     }
   ]
 }
