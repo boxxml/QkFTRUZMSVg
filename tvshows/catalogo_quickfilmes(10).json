@@ -2,15 +2,18 @@
   "filmes": [
     {
       "id": "475557",
-      "tmdb_id": "475557",
       "type": "movie",
       "title": "Coringa",
       "original_title": "Joker",
       "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.",
+      "poster": "https://image.tmdb.org/t/p/w500/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
       "release_date": "2019-10-01",
-      "year": "2019",
+      "first_air_date": "",
+      "vote_average": 8.112,
+      "vote_count": 28727,
       "runtime": 122,
-      "certification": "16",
+      "episode_run_time": 122,
       "genres": [
         "Crime",
         "Thriller",
@@ -36,102 +39,122 @@
         "falling into madness",
         "anti-capitalist"
       ],
-      "production_companies": [
+      "studios": [
         "Warner Bros. Pictures",
         "Joint Effort",
         "Village Roadshow Pictures",
         "Bron Studios",
         "DC Films"
       ],
-      "vote_average": 8.112,
-      "vote_count": 28727,
       "cast": [
         {
-          "name": "Joaquin Phoenix"
+          "name": "Joaquin Phoenix",
+          "character": "Arthur Fleck",
+          "profile": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
         },
         {
-          "name": "Robert De Niro"
+          "name": "Robert De Niro",
+          "character": "Murray Franklin",
+          "profile": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
         },
         {
-          "name": "Zazie Beetz"
+          "name": "Zazie Beetz",
+          "character": "Sophie Dumond",
+          "profile": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
         },
         {
-          "name": "Frances Conroy"
+          "name": "Frances Conroy",
+          "character": "Penny Fleck",
+          "profile": "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
         },
         {
-          "name": "Brett Cullen"
+          "name": "Brett Cullen",
+          "character": "Thomas Wayne",
+          "profile": "https://image.tmdb.org/t/p/w185/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg"
         },
         {
-          "name": "Shea Whigham"
+          "name": "Shea Whigham",
+          "character": "Detective Burke",
+          "profile": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
         },
         {
-          "name": "Bill Camp"
+          "name": "Bill Camp",
+          "character": "Detective Garrity",
+          "profile": "https://image.tmdb.org/t/p/w185/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
         },
         {
-          "name": "Glenn Fleshler"
+          "name": "Glenn Fleshler",
+          "character": "Randall",
+          "profile": "https://image.tmdb.org/t/p/w185/x1Cef2yPZS7bJTwxI7DX3q0HNcv.jpg"
         },
         {
-          "name": "Leigh Gill"
+          "name": "Leigh Gill",
+          "character": "Gary",
+          "profile": "https://image.tmdb.org/t/p/w185/stbbWD89FQWa34TNVyxVj5xBVIm.jpg"
         },
         {
-          "name": "Josh Pais"
+          "name": "Josh Pais",
+          "character": "Hoyt Vaughn",
+          "profile": "https://image.tmdb.org/t/p/w185/uH90fGfLLzYCX02yOW3kH4LMO7n.jpg"
         },
         {
-          "name": "Rocco Luna"
+          "name": "Rocco Luna",
+          "character": "GiGi Dumond",
+          "profile": ""
         },
         {
-          "name": "Marc Maron"
+          "name": "Marc Maron",
+          "character": "Gene Ufland",
+          "profile": "https://image.tmdb.org/t/p/w185/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg"
         },
         {
-          "name": "Sondra James"
+          "name": "Sondra James",
+          "character": "Dr. Sally",
+          "profile": "https://image.tmdb.org/t/p/w185/eA2gD2JUtXoaGUSYdwenAzeYvwG.jpg"
         },
         {
-          "name": "Murphy Guyer"
+          "name": "Murphy Guyer",
+          "character": "Barry O'Donnell",
+          "profile": "https://image.tmdb.org/t/p/w185/6axiNcYIZmaeRKyfCm3xBHC7KQL.jpg"
         },
         {
-          "name": "Douglas Hodge"
-        },
-        {
-          "name": "Dante Pereira-Olson"
-        },
-        {
-          "name": "Carrie Louise Putrello"
-        },
-        {
-          "name": "Sharon Washington"
-        },
-        {
-          "name": "Hannah Gross"
-        },
-        {
-          "name": "Frank Wood"
+          "name": "Douglas Hodge",
+          "character": "Alfred Pennyworth",
+          "profile": "https://image.tmdb.org/t/p/w185/tENL3Uxt07Rn21o0y0eolwTnkoZ.jpg"
         }
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
-      "logo_path": "",
-      "sources": [
-        {
-          "label": "Versão",
-          "quality": "1080p",
-          "language": "Dublado",
-          "type": "magnet",
-          "url": "magnet:?xt=urn:btih:b13481b721debb07be2179802322a1ea90e2f35a&xl=1452135010&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.EPISODIO-01.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Dragon+Ball+Super+-+Beerus+S01E01+WEB-DL+1080p+x264+DUAL+2.0"
-        },
-        {
-          "label": "Versão",
-          "quality": "5K",
-          "language": "Dublado",
-          "type": "magnet",
-          "url": "magnet:?xt=urn:btih:b13481b721debb07be2179802322a1ea90e2f35a&xl=1452135010&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.EPISODIO-01.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Dragon+Ball+Super+-+Beerus+S01E01+WEB-DL+1080p+x264+DUAL+2.0"
-        }
+      "director": [
+        "Todd Phillips"
       ],
-      "belongs_to_collection": {
+      "certification": "16",
+      "status": "Released",
+      "original_language": "en",
+      "collection": {
         "id": "987044",
         "name": "Coringa: Coleção",
-        "poster_path": "https://image.tmdb.org/t/p/w500/cOZ2hOY9VgNANdS2gngbExi9dBh.jpg",
-        "backdrop_path": "https://image.tmdb.org/t/p/original/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg"
-      }
+        "poster": "https://image.tmdb.org/t/p/w500/cOZ2hOY9VgNANdS2gngbExi9dBh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg"
+      },
+      "sources": [
+        {
+          "label": "1080P",
+          "quality": "1080P",
+          "language": "por",
+          "url": "magnet:?xt=urn:btih:b13481b721debb07be2179802322a1ea90e2f35a&xl=1452135010&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.EPISODIO-01.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Dragon+Ball+Super+-+Beerus+S01E01+WEB-DL+1080p+x264+DUAL+2.0",
+          "link": "magnet:?xt=urn:btih:b13481b721debb07be2179802322a1ea90e2f35a&xl=1452135010&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.EPISODIO-01.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Dragon+Ball+Super+-+Beerus+S01E01+WEB-DL+1080p+x264+DUAL+2.0",
+          "type": "magnet"
+        },
+        {
+          "label": "4k",
+          "quality": "4k",
+          "language": "por",
+          "url": "magnet:?xt=urn:btih:b13481b721debb07be2179802322a1ea90e2f35a&xl=1452135010&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.EPISODIO-01.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Dragon+Ball+Super+-+Beerus+S01E01+WEB-DL+1080p+x264+DUAL+2.0",
+          "link": "magnet:?xt=urn:btih:b13481b721debb07be2179802322a1ea90e2f35a&xl=1452135010&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.EPISODIO-01.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Dragon+Ball+Super+-+Beerus+S01E01+WEB-DL+1080p+x264+DUAL+2.0",
+          "type": "magnet"
+        }
+      ],
+      "seasons": [],
+      "name": "Coringa"
     }
   ]
 }
