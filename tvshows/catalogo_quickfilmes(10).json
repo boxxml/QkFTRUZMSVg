@@ -4313,7 +4313,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-20T17:23:26.289Z",
+      "cast_fetched_at": "2026-11-20T17:41:42.663Z",
       "seasons": [
         {
           "season_number": 1,
@@ -4916,8 +4916,10 @@
               },
               "sources": [
                 {
-                  "label": "Principal",
+                  "label": "TORRENT",
                   "url": "bWFnbmV0Oj94dD11cm46YnRpaDpnNGpza2lzaW11ZmNteXNzMzN2NjN6MmJ2YmloY2FzayZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDEuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV2FyLlMwMUUwMS4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "quality": "1080P",
+                  "language": "PT-BR",
                   "_linksBase64": true
                 }
               ]
@@ -5065,8 +5067,10 @@
               },
               "sources": [
                 {
-                  "label": "Principal",
-                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDpnNGpza2lzaW11ZmNteXNzMzN2NjN6MmJ2YmloY2FzayZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDEuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV2FyLlMwMUUwMi4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "label": "Torrent",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDo2NnhleHVzZms1cGM3bmx2MnUydGxmcnVnYXl4Nnh2ZyZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDIuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV0FSLlMwMUUwMi4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "quality": "1080P",
+                  "language": "PT-BR",
                   "_linksBase64": true
                 }
               ]
@@ -5222,8 +5226,10 @@
               },
               "sources": [
                 {
-                  "label": "Principal",
-                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDpnNGpza2lzaW11ZmNteXNzMzN2NjN6MmJ2YmloY2FzayZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDEuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV2FyLlMwMUUwMy4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "label": "Torrent",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDp0cGg3eGNpNTV4N29oYXhtZGh6b3phN2JqYzQzaWN6eiZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDMuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV0FSLlMwMUUwMy4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "quality": "1080P",
+                  "language": "PT-BR",
                   "_linksBase64": true
                 }
               ]
@@ -5387,8 +5393,10 @@
               },
               "sources": [
                 {
-                  "label": "Principal",
-                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDpnNGpza2lzaW11ZmNteXNzMzN2NjN6MmJ2YmloY2FzayZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDEuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV2FyLlMwMUUwNC4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "label": "Torrent",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDozb3V4c2VkbnB2ZHNtbmdlM2VrbWhtZm5mbmxubWZjbiZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDQuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV0FSLlMwMUUwNC4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "quality": "1080P",
+                  "language": "PT-BR",
                   "_linksBase64": true
                 }
               ]
@@ -5544,8 +5552,10 @@
               },
               "sources": [
                 {
-                  "label": "Principal",
-                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDpnNGpza2lzaW11ZmNteXNzMzN2NjN6MmJ2YmloY2FzayZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDEuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV2FyLlMwMUUwNS4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "label": "Torrent",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDpncnlmaGJya3VwemZmYnVyem1saDRyajN1Zm0zYjM3aCZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDUuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV0FSLlMwMUUwNS4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "quality": "1080P",
+                  "language": "PT-BR",
                   "_linksBase64": true
                 }
               ]
@@ -5701,8 +5711,10 @@
               },
               "sources": [
                 {
-                  "label": "Principal",
-                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDpnNGpza2lzaW11ZmNteXNzMzN2NjN6MmJ2YmloY2FzayZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDEuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV2FyLlMwMUUwNi4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "label": "Torrent",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDpycTVkNDdwcGg1bXBwbmJkbm16dzZyY2ZvdWdzNTJqYiZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDYuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV2FyLlMwMUUwNi4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "quality": "1080P",
+                  "language": "PT-BR",
                   "_linksBase64": true
                 }
               ]
@@ -5858,8 +5870,10 @@
               },
               "sources": [
                 {
-                  "label": "Principal",
-                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDpnNGpza2lzaW11ZmNteXNzMzN2NjN6MmJ2YmloY2FzayZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDEuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV2FyLlMwMUUwNy4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "label": "Torrent",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDp1NHFtcTRlcHcyenRpdnk3aXdja3N1ZHF6ajRtbTJpYSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDcuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV0FSLlMwMUUwNy4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "quality": "1080P",
+                  "language": "PT-BR",
                   "_linksBase64": true
                 }
               ]
@@ -6015,13 +6029,16 @@
               },
               "sources": [
                 {
-                  "label": "Principal",
-                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDpnNGpza2lzaW11ZmNteXNzMzN2NjN6MmJ2YmloY2FzayZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uRVBJU09ESU8tMDEuV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uV2FyLlMwMUUwOC4xMDgwcC5XRUItREwuRFVBTC41LjE=",
+                  "label": "Torrent",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDo0MTEwYjY0MjBiNjQ3M2ZhYTZiZTE5YzUxNjg0MmI4OTg4OWJkYWExJnRyPXVkcDovL3RyYWNrZXIuYml0dG9yLnB3OjEzMzcvYW5ub3VuY2UmdHI9dWRwOi8vdHJhY2tlci5vcGVudHJhY2tyLm9yZzoxMzM3L2Fubm91bmNlJnRyPXVkcDovL3RyYWNrZXIuZGxlci5vcmc6Njk2OS9hbm5vdW5jZSZ0cj11ZHA6Ly9vcGVuLnN0ZWFsdGguc2k6ODAvYW5ub3VuY2UmdHI9dWRwOi8vdHJhY2tlci50b3JyZW50LmV1Lm9yZzo0NTEvYW5ub3VuY2UmdHI9dWRwOi8vZXhvZHVzLmRlc3luYy5jb206Njk2OS9hbm5vdW5jZSZ0cj11ZHA6Ly9vcGVuLmRlbW9uaWkuY29tOjEzMzcvYW5ub3VuY2UmZG49QkFJWEFSQVBJRE8uQ09NLS5FUElTT0RJTy0wOC5XRUItREwuMTA4MFAuTUtWLjUuMS4tRFVCTEFETy1EVUFMLUFVRElPLS5XQVIuUzAxRTA4LjEwODBwLldFQi1ETC5EVUFMLjUuMSU1RA==",
+                  "quality": "1080P",
+                  "language": "PT-BR",
                   "_linksBase64": true
                 }
               ]
             }
-          ]
+          ],
+          "sources": []
         }
       ]
     }
