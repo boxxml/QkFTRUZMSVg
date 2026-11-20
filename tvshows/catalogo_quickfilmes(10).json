@@ -10270,6 +10270,357 @@
           "profile_path": ""
         }
       ]
+    },
+    {
+      "type": "movie",
+      "title": "Vicentina Pede Desculpas",
+      "original_title": "Vicentina Pede Desculpas",
+      "tmdb_id": "1307474",
+      "id": 1307474,
+      "year": "2026",
+      "release_date": "2026-11-05",
+      "overview": "Uma mulher que, aos 75 anos, tem de encarar a morte (e potencial suicídio) de seu filho motorista de ônibus e todos os passageiros, após o ônibus lotado cair de um viaduto. Vicentina decide embarcar em uma jornada para procurar as famílias das vítimas para pedir desculpas.",
+      "tagline": "",
+      "poster": "/z8whdMy00gGskrqSfeuGfE98pGH.jpg",
+      "backdrop": "/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
+      "vote_average": 0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "runtime": 146,
+      "certification": "12",
+      "original_language": "pt",
+      "origin_country": [
+        "BR"
+      ],
+      "production_companies": [
+        "Filmes de Plástico"
+      ],
+      "external_ids": {
+        "imdb_id": "tt33402927",
+        "wikidata_id": "Q140180606",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [
+        {
+          "label": "Torrent",
+          "quality": "1080",
+          "language": "PT-BR",
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDphMWFhNzlmOGY3Yzg5NjEzNWU5ODNkYTM2Mjc0NDlmNjhhMWUyNTI1JmRuPVZpY2VudGluYSUyMFBlZGUlMjBEZXNjdWxwYXMlMjAyMDI2JTIwV0VCLURMJTIwMTA4MHAlMjB4MjY0JTIwTkFDSU9OQUwlMjA1LjEmeGw9MzQ5NDY0MTE2MiZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW5iaXR0b3JyZW50LmNvbSUzQTgwJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci50cmFja2VyZml4LmNvbSUzQTgzJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5vcGVudHJhY2tyLm9yZyUzQTEzMzclMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLnRyYWNrZXJmaXguY29tJTNBODAlMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmNvcHBlcnN1cmZlci50ayUzQTY5NjklMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmxlZWNoZXJzLXBhcmFkaXNlLm9yZyUzQTY5NjklMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZlZGRpZTQubmwlM0E2OTY5JTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGcDRwLmFyZW5hYmcuY29tJTNBMTMzNyUyRmFubm91bmNlJnRyPXVkcCUzQSUyRiUyRmV4cGxvZGllLm9yZyUzQTY5NjklMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ6ZXIwZGF5LmNoJTNBMTMzNyUyRmFubm91bmNlJnRyPXVkcCUzQSUyRiUyRmdsb3RvcnJlbnRzLnB3JTNBNjk2OSUyRmFubm91bmNlJnRyPXVkcCUzQSUyRiUyRnRvcnJlbnQuZ3Jlc2lsbGUub3JnJTNBODAlMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZwNHAuYXJlbmFiZy5jaCUzQTEzMzcmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5pbnRlcm5ldHdhcnJpb3JzLm5ldCUzQTEzMzc="
+        }
+      ],
+      "cast": [
+        {
+          "name": "Rejane Faria",
+          "character": "Vicentina",
+          "profile_path": "/iie8IOxVZF6JXB416EanhE2bqkT.jpg",
+          "order": 0,
+          "id": 1380635
+        },
+        {
+          "name": "Maíra Azevedo",
+          "character": "Joana",
+          "profile_path": "/xYQfXAbP55oGag2JYAP0opVtVRX.jpg",
+          "order": 1,
+          "id": 2521798
+        },
+        {
+          "name": "Thalma de Freitas",
+          "character": "Cleide",
+          "profile_path": "/l5V2w20y5NhvyTOCaEx0dW3CWE.jpg",
+          "order": 2,
+          "id": 1180871
+        },
+        {
+          "name": "Grace Passô",
+          "character": "Isabel",
+          "profile_path": "/xzomAlvVQor81adGhWjf94F6rP0.jpg",
+          "order": 3,
+          "id": 1660398
+        },
+        {
+          "name": "Giovanna Heliodoro",
+          "character": "Gisele",
+          "profile_path": "",
+          "order": 4,
+          "id": 4390185
+        },
+        {
+          "name": "Renato Novaes",
+          "character": "Wesley/Bruno",
+          "profile_path": "/gXdCJC9QPTC60gRwR2ZRPVCCkqX.jpg",
+          "order": 5,
+          "id": 1844397
+        },
+        {
+          "name": "Karine Teles",
+          "character": "",
+          "profile_path": "/tuefwgcWVmjlTs11mvRaxtyKiLp.jpg",
+          "order": 6,
+          "id": 1115320
+        },
+        {
+          "name": "Flávio Bauraqui",
+          "character": "Luiz",
+          "profile_path": "/kqTAOpegEqpssNhrlSYgrFJGX5Y.jpg",
+          "order": 7,
+          "id": 121457
+        },
+        {
+          "name": "Giovanni Venturini",
+          "character": "Fred",
+          "profile_path": "/5a9aRC7a7J4qRlXebuT4Al1Rmax.jpg",
+          "order": 8,
+          "id": 2252913
+        },
+        {
+          "name": "Marisa Revert",
+          "character": "Vera",
+          "profile_path": "",
+          "order": 9,
+          "id": 3399608
+        },
+        {
+          "name": "Fernanda Vianna",
+          "character": "Marta",
+          "profile_path": "/9YxnEdbyc0gSdz140gyBKkRBK3O.jpg",
+          "order": 10,
+          "id": 1171743
+        },
+        {
+          "name": "Clébia Sousa",
+          "character": "Solange",
+          "profile_path": "/kv16b3s2xZFL5uCP3RwZltFaWz4.jpg",
+          "order": 11,
+          "id": 1016255
+        },
+        {
+          "name": "Fábio Leal",
+          "character": "Victor",
+          "profile_path": "/jxC38r6LxQ1ncPUkpgo1D4CNs1w.jpg",
+          "order": 12,
+          "id": 1693271
+        },
+        {
+          "name": "Docy Moreira",
+          "character": "Marluce",
+          "profile_path": "",
+          "order": 13,
+          "id": 4824930
+        },
+        {
+          "name": "Carlos Francisco",
+          "character": "Antônio",
+          "profile_path": "/ihf4bN4GuScyA2QwlzVCnPqOuOo.jpg",
+          "order": 14,
+          "id": 2346588
+        },
+        {
+          "name": "Bárbara Colen",
+          "character": "Amélia",
+          "profile_path": "/mBuvpxBip2ADrmT3xv6Z4cZFOMv.jpg",
+          "order": 15,
+          "id": 1424077
+        },
+        {
+          "name": "Miguelzinho do Cavaco",
+          "character": "Self",
+          "profile_path": "",
+          "order": 16,
+          "id": 6442515
+        }
+      ],
+      "crew": [
+        {
+          "name": "Gabriel Martins",
+          "job": "Director",
+          "department": "Directing",
+          "id": 1300794,
+          "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+        },
+        {
+          "name": "João Gabriel Riveres",
+          "job": "Post Production Supervisor",
+          "department": "Crew",
+          "id": 3168429,
+          "profile_path": ""
+        },
+        {
+          "name": "Karine Assis",
+          "job": "Prop Designer",
+          "department": "Art",
+          "id": 4712725,
+          "profile_path": "/fQxJHwlGWtAY9bUbN0VMmEm0N36.jpg"
+        },
+        {
+          "name": "Vinícius Rezende Morais",
+          "job": "Location Manager",
+          "department": "Production",
+          "id": 6020168,
+          "profile_path": "/z85SQKVhBpfudf8ELi3WtcATeOo.jpg"
+        },
+        {
+          "name": "Vinícius Rezende Morais",
+          "job": "Production Coordinator",
+          "department": "Production",
+          "id": 6020168,
+          "profile_path": "/z85SQKVhBpfudf8ELi3WtcATeOo.jpg"
+        },
+        {
+          "name": "Vinícius Rezende Morais",
+          "job": "Transportation Coordinator",
+          "department": "Crew",
+          "id": 6020168,
+          "profile_path": "/z85SQKVhBpfudf8ELi3WtcATeOo.jpg"
+        },
+        {
+          "name": "Gabriel Martins",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 1300794,
+          "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+        },
+        {
+          "name": "Thiago Macedo Correia",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1305142,
+          "profile_path": "/AneOdRuWVqTem1TvKlBTrqe4efd.jpg"
+        },
+        {
+          "name": "Tiganá Santana",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 2468312,
+          "profile_path": "/8hs7Set9IhBPMuFQsOkoab5YPYv.jpg"
+        },
+        {
+          "name": "Leonardo Feliciano",
+          "job": "Director of Photography",
+          "department": "Camera",
+          "id": 1328848,
+          "profile_path": ""
+        },
+        {
+          "name": "Tiago Bello",
+          "job": "Sound Editor",
+          "department": "Sound",
+          "id": 1428757,
+          "profile_path": ""
+        },
+        {
+          "name": "Tiago Bello",
+          "job": "Sound Mixer",
+          "department": "Sound",
+          "id": 1428757,
+          "profile_path": ""
+        },
+        {
+          "name": "Gustavo Fioravante",
+          "job": "Sound Recordist",
+          "department": "Sound",
+          "id": 1405482,
+          "profile_path": ""
+        },
+        {
+          "name": "Diana Moreira",
+          "job": "Costume Design",
+          "department": "Costume & Make-Up",
+          "id": 2207759,
+          "profile_path": ""
+        },
+        {
+          "name": "Gabriel Martins",
+          "job": "Original Story",
+          "department": "Writing",
+          "id": 1300794,
+          "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+        },
+        {
+          "name": "Gabriel Martins",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 1300794,
+          "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+        },
+        {
+          "name": "Thiago Ricarte",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 1380283,
+          "profile_path": ""
+        },
+        {
+          "name": "Matheus Gyordano",
+          "job": "Producer",
+          "department": "Production",
+          "id": 6488141,
+          "profile_path": ""
+        },
+        {
+          "name": "Yunni Anumaréh",
+          "job": "Producer's Assistant",
+          "department": "Production",
+          "id": 6488143,
+          "profile_path": ""
+        },
+        {
+          "name": "Vanessa Barbosa",
+          "job": "Coordinating Producer",
+          "department": "Production",
+          "id": 1404633,
+          "profile_path": ""
+        },
+        {
+          "name": "Lara Lima",
+          "job": "Line Producer",
+          "department": "Production",
+          "id": 1380281,
+          "profile_path": ""
+        },
+        {
+          "name": "Rimenna Procópio",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 1491716,
+          "profile_path": ""
+        },
+        {
+          "name": "Luna Gomides",
+          "job": "Production Manager",
+          "department": "Production",
+          "id": 3094960,
+          "profile_path": ""
+        },
+        {
+          "name": "Henrique Lapa",
+          "job": "Production Manager",
+          "department": "Production",
+          "id": 3833819,
+          "profile_path": ""
+        }
+      ],
+      "directors": [
+        {
+          "name": "Gabriel Martins",
+          "job": "Director",
+          "department": "Directing",
+          "id": 1300794,
+          "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+        }
+      ],
+      "writers": [
+        {
+          "name": "Gabriel Martins",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 1300794,
+          "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
