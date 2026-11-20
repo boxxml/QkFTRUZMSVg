@@ -13604,7 +13604,7 @@
       "type": "movie",
       "title": "Deus Não Está Morto 2",
       "original_title": "God's Not Dead 2",
-      "tmdb_id": 347126,
+      "tmdb_id": "347126",
       "id": 347126,
       "year": "2016",
       "overview": "Grace Wesley é uma professora cristã que, ao responder uma pergunta feita por uma de suas alunas, Brooke, acaba falando sobre Jesus Cristo em plena sala de aula. Tal situação lhe rende um processo administrativo impulsionado pela diretora Kinney, que não quer que assuntos religiosos sejam tratados dentro da escola. Após se recusar a pedir desculpas pelo ocorrido, Grace é processada pelos pais de Brooke, que acreditam que a polêmica em torno do julgamento possa facilitar a entrada da garota em uma universidade de prestígio.",
@@ -13980,7 +13980,14 @@
         "instagram_id": null,
         "twitter_id": null
       },
-      "sources": [],
+      "sources": [
+        {
+          "url": "aHR0cHM6Ly9pYTYwMDEwMi51cy5hcmNoaXZlLm9yZy8zMS9pdGVtcy9zLWUtci12LWktZC1vLXItZi1pLW0tMS8zNDcxMjYubXA0",
+          "label": "FLIXBOX",
+          "quality": "1080P",
+          "language": "PT-BR"
+        }
+      ],
       "collection_id": 409343,
       "collection_name": "Deus Não Está Morto: Coleção"
     },
@@ -13988,7 +13995,7 @@
       "type": "movie",
       "title": "Deus Não Está Morto: Uma Luz na Escuridão",
       "original_title": "God's Not Dead: A Light in Darkness",
-      "tmdb_id": 454286,
+      "tmdb_id": "454286",
       "id": 454286,
       "year": "2018",
       "overview": "Quando um incêndio terrível atinge a Igreja de Saint James, devastando a congregação e o Pastor Dave, a universidade vizinha, a Hadleigh University, usa a tragédia para tentar despejar a congregação de seu campus. Uma batalha legal se instaura entre a igreja e a comunidade, e o Pastor Dave precisa enfrentar seu amigo de longa data Thomas Ellsworth, o presidente da universidade. Dave recorre a seu irmão, um advogado ateu, para tentar reerguer a igreja.",
@@ -14660,7 +14667,14 @@
         "instagram_id": "godsnotdeadfilm",
         "twitter_id": "godsnotdeadfilm"
       },
-      "sources": [],
+      "sources": [
+        {
+          "url": "aHR0cHM6Ly9pYTYwMDEwMi51cy5hcmNoaXZlLm9yZy8zMS9pdGVtcy9zLWUtci12LWktZC1vLXItZi1pLW0tMS80NTQyODYubXA0",
+          "label": "FLIBOX",
+          "quality": "1080P",
+          "language": "PT-BR"
+        }
+      ],
       "collection_id": 409343,
       "collection_name": "Deus Não Está Morto: Coleção"
     },
@@ -14668,7 +14682,7 @@
       "type": "movie",
       "title": "Deus Não Esta Morto: O Próximo Capítulo",
       "original_title": "God's Not Dead: We The People",
-      "tmdb_id": 793285,
+      "tmdb_id": "793285",
       "id": 793285,
       "year": "2021",
       "overview": "O pastor Dave Hill defende um grupo de famílias cristãs que estudam em casa após receberem uma inspeção surpresa de uma oficial progressista do governo local, que não gostou do que encontrou.",
@@ -14851,7 +14865,14 @@
         "instagram_id": null,
         "twitter_id": null
       },
-      "sources": [],
+      "sources": [
+        {
+          "url": "aHR0cHM6Ly9pYTYwMDEwMi51cy5hcmNoaXZlLm9yZy8zMS9pdGVtcy9zLWUtci12LWktZC1vLXItZi1pLW0tMS83OTMyODUubXA0",
+          "label": "FLIXBOX",
+          "quality": "1080P",
+          "language": "PT-BR"
+        }
+      ],
       "collection_id": 409343,
       "collection_name": "Deus Não Está Morto: Coleção"
     },
@@ -14859,7 +14880,7 @@
       "type": "movie",
       "title": "Deus Não Está Morto: Em Deus Confiamos",
       "original_title": "God's Not Dead: In God We Trust",
-      "tmdb_id": 1024592,
+      "tmdb_id": "1024592",
       "id": 1024592,
       "year": "2024",
       "overview": "\"Ambientado em um período de convulsão política e espiritual, 'Deus Não Está Morto: Em Deus Confiamos' segue o Reverendo David Hill enquanto ele concorre ao Congresso após a morte súbita do titular do cargo\".",
@@ -15214,7 +15235,14 @@
         "instagram_id": null,
         "twitter_id": null
       },
-      "sources": [],
+      "sources": [
+        {
+          "url": "aHR0cHM6Ly9pYTYwMDEwMi51cy5hcmNoaXZlLm9yZy8zMS9pdGVtcy9zLWUtci12LWktZC1vLXItZi1pLW0tMS8xMDI0NTkyLm1wNA==",
+          "label": "FLIXBOX",
+          "quality": "1080P",
+          "language": "PT-BR"
+        }
+      ],
       "collection_id": 409343,
       "collection_name": "Deus Não Está Morto: Coleção"
     }
