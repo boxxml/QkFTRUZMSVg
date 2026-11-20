@@ -11,9 +11,9 @@
       "overview": "Após a filha de Wang Wei ser sequestrada por uma rede criminosa e ele não receber ajuda da polícia corrupta, Wei decide encontrá-la por conta própria. Seu único aliado é Navin, um jornalista implacável cuja esposa desapareceu misteriosamente. Movidos por uma fúria vingativa, a dupla improvável enfrenta os sequestradores impiedosamente neste explosivo confronto de artes marciais.",
       "tagline": "Para salvar seus entes queridos, eles lutarão contra todos.",
       "poster": "/s7hNelWMQCqPTYhZHCtUaSd4hvC.jpg",
-      "backdrop": "/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg",
-      "vote_average": 8.202,
-      "vote_count": 907,
+      "backdrop": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
+      "vote_average": 8.2,
+      "vote_count": 909,
       "genres": [
         "Ação",
         "Crime",
@@ -331,20 +331,6 @@
       ],
       "crew": [
         {
-          "name": "谷垣健治",
-          "job": "Director",
-          "department": "Directing",
-          "id": 1113443,
-          "profile_path": "/2ZV2n02pZq1Sc2szQuyF1HVssi7.jpg"
-        },
-        {
-          "name": "江志強",
-          "job": "Producer",
-          "department": "Production",
-          "id": 1351,
-          "profile_path": "/busx3b3selksB6MrDsLcZzK8CAT.jpg"
-        },
-        {
           "name": "許學文",
           "job": "Producer",
           "department": "Production",
@@ -366,11 +352,25 @@
           "profile_path": "/ApH9Ywk8uDuV6FIIL78iF60mvj1.jpg"
         },
         {
+          "name": "江志強",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1351,
+          "profile_path": "/busx3b3selksB6MrDsLcZzK8CAT.jpg"
+        },
+        {
           "name": "Aram Tertzakian",
           "job": "Executive Producer",
           "department": "Production",
           "id": 1001662,
           "profile_path": "/plxkz2z01MyuDkP68TrUm3x8EY2.jpg"
+        },
+        {
+          "name": "谷垣健治",
+          "job": "Director",
+          "department": "Directing",
+          "id": 1113443,
+          "profile_path": "/2ZV2n02pZq1Sc2szQuyF1HVssi7.jpg"
         },
         {
           "name": "Chris Tonick",
@@ -518,6 +518,13 @@
           "department": "Sound",
           "id": 1056739,
           "profile_path": "/nbzIq2dJ7NJ1Jn6CjWzZcATkcha.jpg"
+        },
+        {
+          "name": "Prach Buapa",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 6685490,
+          "profile_path": "/dbJ8oLuWDhHx9uadupkfx4aTkp3.jpg"
         }
       ],
       "directors": [
@@ -572,7 +579,7 @@
       "tagline": "Nathan Caine não sente dor",
       "poster": "/knIEw2jWOxrb6ugNPEoaiYI6p77.jpg",
       "backdrop": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg",
-      "vote_average": 6.745,
+      "vote_average": 6.7,
       "vote_count": 1884,
       "genres": [
         "Ação",
@@ -813,6 +820,13 @@
           "profile_path": "/6uM5NHBz0Gr3gbx02nr8ww0C7QU.jpg"
         },
         {
+          "name": "Drew Simon",
+          "job": "Producer",
+          "department": "Production",
+          "id": 3393932,
+          "profile_path": "/2B81NagQvIQhOsfhq4L4JGh23Z3.jpg"
+        },
+        {
           "name": "Joby Harold",
           "job": "Producer",
           "department": "Production",
@@ -827,38 +841,10 @@
           "profile_path": "/wJEJ62WNnH2A0pjAwVj0heWYmfI.jpg"
         },
         {
-          "name": "Drew Simon",
-          "job": "Producer",
-          "department": "Production",
-          "id": 3393932,
-          "profile_path": "/2B81NagQvIQhOsfhq4L4JGh23Z3.jpg"
-        },
-        {
-          "name": "Julian Rosenberg",
-          "job": "Producer",
-          "department": "Production",
-          "id": 4881013,
-          "profile_path": ""
-        },
-        {
-          "name": "Josh Adler",
-          "job": "Executive Producer",
-          "department": "Production",
-          "id": 2379438,
-          "profile_path": ""
-        },
-        {
           "name": "Paul Barbeau",
           "job": "Executive Producer",
           "department": "Production",
           "id": 1162589,
-          "profile_path": ""
-        },
-        {
-          "name": "Lars Jacobson",
-          "job": "Executive Producer",
-          "department": "Production",
-          "id": 544863,
           "profile_path": ""
         },
         {
@@ -869,31 +855,31 @@
           "profile_path": "/lgIzcZFHNsFkVN06VJ6XHQfqlMv.jpg"
         },
         {
-          "name": "Christian Wagner",
-          "job": "Editor",
-          "department": "Editing",
-          "id": 6668,
-          "profile_path": ""
-        },
-        {
-          "name": "Ronna Kress",
-          "job": "Casting",
-          "department": "Production",
-          "id": 1720,
-          "profile_path": "/fhimQ6ISyP2frOM9BH5pMsM3fPi.jpg"
-        },
-        {
-          "name": "Kara Lindstrom",
-          "job": "Production Design",
-          "department": "Art",
-          "id": 14609,
-          "profile_path": ""
-        },
-        {
           "name": "Sara Hartinger",
           "job": "Art Direction",
           "department": "Art",
           "id": 2201815,
+          "profile_path": ""
+        },
+        {
+          "name": "Isabel Martens",
+          "job": "Second Assistant Director",
+          "department": "Directing",
+          "id": 1844649,
+          "profile_path": ""
+        },
+        {
+          "name": "Lerié Neethling",
+          "job": "Production Manager",
+          "department": "Production",
+          "id": 4881014,
+          "profile_path": ""
+        },
+        {
+          "name": "Christian Wagner",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 6668,
           "profile_path": ""
         },
         {
@@ -911,24 +897,24 @@
           "profile_path": ""
         },
         {
-          "name": "Lerié Neethling",
-          "job": "Production Manager",
+          "name": "Kara Lindstrom",
+          "job": "Production Designer",
           "department": "Production",
-          "id": 4881014,
+          "id": 14609,
           "profile_path": ""
         },
         {
-          "name": "Isabel Martens",
-          "job": "Second Assistant Director",
-          "department": "Directing",
-          "id": 1844649,
+          "name": "Peter Belcher",
+          "job": "Camera Operator",
+          "department": "Camera",
+          "id": 1318090,
           "profile_path": ""
         },
         {
-          "name": "Justin Muller",
-          "job": "First Assistant Director",
-          "department": "Directing",
-          "id": 2045537,
+          "name": "Lars Jacobson",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 544863,
           "profile_path": ""
         },
         {
@@ -939,52 +925,31 @@
           "profile_path": "/fDJBdH5J50oDuoeRl92gbKP3uZF.jpg"
         },
         {
-          "name": "Luke Tothill",
-          "job": "Third Assistant Director",
-          "department": "Directing",
-          "id": 4615819,
+          "name": "Andrew Luscombe",
+          "job": "Steadicam Operator",
+          "department": "Camera",
+          "id": 1559437,
           "profile_path": ""
         },
         {
-          "name": "Christo van Schalkwyk",
-          "job": "Second Assistant Director",
-          "department": "Directing",
-          "id": 3152796,
+          "name": "Kerry Gregg",
+          "job": "Stunt Coordinator",
+          "department": "Crew",
+          "id": 1410307,
           "profile_path": ""
         },
         {
-          "name": "Kirk Doman",
-          "job": "Supervising Art Director",
-          "department": "Art",
-          "id": 1559432,
+          "name": "Athi Maloy",
+          "job": "Electrician",
+          "department": "Lighting",
+          "id": 4881029,
           "profile_path": ""
         },
         {
-          "name": "Kara Lindstrom",
-          "job": "Production Designer",
-          "department": "Production",
-          "id": 14609,
-          "profile_path": ""
-        },
-        {
-          "name": "Karl Schulschenk",
-          "job": "Storyboard Artist",
-          "department": "Art",
-          "id": 2143750,
-          "profile_path": ""
-        },
-        {
-          "name": "Laurent Demuy",
-          "job": "Sound Re-Recording Assistant",
-          "department": "Sound",
-          "id": 4881018,
-          "profile_path": ""
-        },
-        {
-          "name": "Nico Louw",
-          "job": "Sound Mixer",
-          "department": "Sound",
-          "id": 1609860,
+          "name": "Hadley Petersen",
+          "job": "Electrician",
+          "department": "Lighting",
+          "id": 4881030,
           "profile_path": ""
         },
         {
@@ -995,6 +960,55 @@
           "profile_path": ""
         },
         {
+          "name": "Stanimir Stamatov",
+          "job": "Stunt Coordinator",
+          "department": "Crew",
+          "id": 559371,
+          "profile_path": "/fDJBdH5J50oDuoeRl92gbKP3uZF.jpg"
+        },
+        {
+          "name": "Sakhele Tomose",
+          "job": "Best Boy Grip",
+          "department": "Camera",
+          "id": 3945515,
+          "profile_path": ""
+        },
+        {
+          "name": "Julian Rosenberg",
+          "job": "Producer",
+          "department": "Production",
+          "id": 4881013,
+          "profile_path": ""
+        },
+        {
+          "name": "Josh Adler",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2379438,
+          "profile_path": ""
+        },
+        {
+          "name": "Luke Tothill",
+          "job": "Third Assistant Director",
+          "department": "Directing",
+          "id": 4615819,
+          "profile_path": ""
+        },
+        {
+          "name": "Kirk Doman",
+          "job": "Supervising Art Director",
+          "department": "Art",
+          "id": 1559432,
+          "profile_path": ""
+        },
+        {
+          "name": "Laurent Demuy",
+          "job": "Sound Re-Recording Assistant",
+          "department": "Sound",
+          "id": 4881018,
+          "profile_path": ""
+        },
+        {
           "name": "Cordell McQueen",
           "job": "Special Effects Supervisor",
           "department": "Visual Effects",
@@ -1002,25 +1016,11 @@
           "profile_path": ""
         },
         {
-          "name": "Hristo Dimitrov",
-          "job": "Stunt Double",
-          "department": "Crew",
-          "id": 1368881,
-          "profile_path": "/59xmMrv54CLIIntSocSDB7ItDJU.jpg"
-        },
-        {
-          "name": "Kerry Gregg",
-          "job": "Stunt Coordinator",
-          "department": "Crew",
-          "id": 1410307,
+          "name": "Corne Gildenhuys",
+          "job": "Assistant Editor",
+          "department": "Editing",
+          "id": 2442013,
           "profile_path": ""
-        },
-        {
-          "name": "Paul Hampshire",
-          "job": "Stunt Double",
-          "department": "Crew",
-          "id": 1503832,
-          "profile_path": "/s2fZzuZ9CeJMUPG3Ik7uZVOjwlo.jpg"
         },
         {
           "name": "Radoslav Parvanov",
@@ -1030,18 +1030,25 @@
           "profile_path": ""
         },
         {
-          "name": "Stanimir Stamatov",
-          "job": "Stunt Coordinator",
-          "department": "Crew",
-          "id": 559371,
-          "profile_path": "/fDJBdH5J50oDuoeRl92gbKP3uZF.jpg"
+          "name": "Stephen Knipe",
+          "job": "Key Grip",
+          "department": "Camera",
+          "id": 2533964,
+          "profile_path": ""
         },
         {
-          "name": "Frans Steyn",
-          "job": "Utility Stunts",
+          "name": "Justin Muller",
+          "job": "First Assistant Director",
+          "department": "Directing",
+          "id": 2045537,
+          "profile_path": ""
+        },
+        {
+          "name": "Paul Hampshire",
+          "job": "Stunt Double",
           "department": "Crew",
-          "id": 1844702,
-          "profile_path": "/hwQzBVmavqqn6ZPrfd3Zgqp4Q3W.jpg"
+          "id": 1503832,
+          "profile_path": "/s2fZzuZ9CeJMUPG3Ik7uZVOjwlo.jpg"
         },
         {
           "name": "Shane Abrahams",
@@ -1058,45 +1065,45 @@
           "profile_path": ""
         },
         {
-          "name": "Peter Belcher",
-          "job": "Camera Operator",
-          "department": "Camera",
-          "id": 1318090,
+          "name": "Nico Louw",
+          "job": "Sound Mixer",
+          "department": "Sound",
+          "id": 1609860,
           "profile_path": ""
+        },
+        {
+          "name": "Frans Steyn",
+          "job": "Utility Stunts",
+          "department": "Crew",
+          "id": 1844702,
+          "profile_path": "/hwQzBVmavqqn6ZPrfd3Zgqp4Q3W.jpg"
+        },
+        {
+          "name": "J.P. van der Merwe",
+          "job": "Extras Casting",
+          "department": "Production",
+          "id": 2053177,
+          "profile_path": ""
+        },
+        {
+          "name": "Liezl Geldenhuys",
+          "job": "Script Supervisor",
+          "department": "Directing",
+          "id": 3052867,
+          "profile_path": ""
+        },
+        {
+          "name": "Ronna Kress",
+          "job": "Casting",
+          "department": "Production",
+          "id": 1720,
+          "profile_path": "/fhimQ6ISyP2frOM9BH5pMsM3fPi.jpg"
         },
         {
           "name": "Brandon Daniels",
           "job": "Gaffer",
           "department": "Lighting",
           "id": 2014968,
-          "profile_path": ""
-        },
-        {
-          "name": "Stephen Knipe",
-          "job": "Key Grip",
-          "department": "Camera",
-          "id": 2533964,
-          "profile_path": ""
-        },
-        {
-          "name": "Andrew Luscombe",
-          "job": "\"B\" Camera Operator",
-          "department": "Camera",
-          "id": 1559437,
-          "profile_path": ""
-        },
-        {
-          "name": "Andrew Luscombe",
-          "job": "Steadicam Operator",
-          "department": "Camera",
-          "id": 1559437,
-          "profile_path": ""
-        },
-        {
-          "name": "Athi Maloy",
-          "job": "Electrician",
-          "department": "Lighting",
-          "id": 4881029,
           "profile_path": ""
         },
         {
@@ -1107,31 +1114,10 @@
           "profile_path": ""
         },
         {
-          "name": "Hadley Petersen",
-          "job": "Electrician",
-          "department": "Lighting",
-          "id": 4881030,
-          "profile_path": ""
-        },
-        {
-          "name": "Travers Randall",
-          "job": "Gaffer",
-          "department": "Lighting",
-          "id": 2144327,
-          "profile_path": ""
-        },
-        {
-          "name": "Sakhele Tomose",
-          "job": "Best Boy Grip",
-          "department": "Camera",
-          "id": 3945515,
-          "profile_path": ""
-        },
-        {
-          "name": "Nick Turvey",
-          "job": "Focus Puller",
-          "department": "Camera",
-          "id": 2067566,
+          "name": "Karl Schulschenk",
+          "job": "Storyboard Artist",
+          "department": "Art",
+          "id": 2143750,
           "profile_path": ""
         },
         {
@@ -1142,17 +1128,17 @@
           "profile_path": ""
         },
         {
-          "name": "J.P. van der Merwe",
-          "job": "Extras Casting",
-          "department": "Production",
-          "id": 2053177,
-          "profile_path": ""
+          "name": "Hristo Dimitrov",
+          "job": "Stunt Double",
+          "department": "Crew",
+          "id": 1368881,
+          "profile_path": "/59xmMrv54CLIIntSocSDB7ItDJU.jpg"
         },
         {
-          "name": "Corne Gildenhuys",
-          "job": "Assistant Editor",
-          "department": "Editing",
-          "id": 2442013,
+          "name": "Kara Lindstrom",
+          "job": "Production Design",
+          "department": "Art",
+          "id": 14609,
           "profile_path": ""
         },
         {
@@ -1163,10 +1149,31 @@
           "profile_path": "/aH0HZOyOlGCkGwHmNLm1UdF1n7A.jpg"
         },
         {
-          "name": "Liezl Geldenhuys",
-          "job": "Script Supervisor",
+          "name": "Christo van Schalkwyk",
+          "job": "Second Assistant Director",
           "department": "Directing",
-          "id": 3052867,
+          "id": 3152796,
+          "profile_path": ""
+        },
+        {
+          "name": "Andrew Luscombe",
+          "job": "\"B\" Camera Operator",
+          "department": "Camera",
+          "id": 1559437,
+          "profile_path": ""
+        },
+        {
+          "name": "Travers Randall",
+          "job": "Gaffer",
+          "department": "Lighting",
+          "id": 2144327,
+          "profile_path": ""
+        },
+        {
+          "name": "Nick Turvey",
+          "job": "Focus Puller",
+          "department": "Camera",
+          "id": 2067566,
           "profile_path": ""
         },
         {
@@ -1306,8 +1313,8 @@
       "tagline": "",
       "poster": "/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
       "backdrop": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-      "vote_average": 7.5,
-      "vote_count": 28,
+      "vote_average": 7.4,
+      "vote_count": 37,
       "genres": [
         "Romance",
         "Comédia"
@@ -1568,8 +1575,8 @@
       "tagline": "",
       "poster": "/sMEXKr33hp6f3CJO6igodtRBBLW.jpg",
       "backdrop": "/8Tw90S4hVrvUoqmQWDoO6U4toZT.jpg",
-      "vote_average": 7.1,
-      "vote_count": 8,
+      "vote_average": 6.9,
+      "vote_count": 10,
       "genres": [
         "Ação",
         "Crime",
@@ -1904,7 +1911,7 @@
       "type": "movie",
       "title": "Paraíso Distante",
       "original_title": "The Absence of Eden",
-      "tmdb_id": "639857",
+      "tmdb_id": 639857,
       "id": 639857,
       "year": "2024",
       "release_date": "2024-04-12",
@@ -2118,13 +2125,6 @@
       ],
       "crew": [
         {
-          "name": "Karl Herrmann",
-          "job": "Producer",
-          "department": "Production",
-          "id": 1194379,
-          "profile_path": "/2UQVEGkvIwQLsdohwBxTH635vrP.jpg"
-        },
-        {
           "name": "Marco Perego",
           "job": "Producer",
           "department": "Production",
@@ -2132,17 +2132,17 @@
           "profile_path": "/lU3E0MPJ3LxlusVwcBMiHi4WJGJ.jpg"
         },
         {
+          "name": "Karl Herrmann",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1194379,
+          "profile_path": "/2UQVEGkvIwQLsdohwBxTH635vrP.jpg"
+        },
+        {
           "name": "Julie Yorn",
           "job": "Producer",
           "department": "Production",
           "id": 63989,
-          "profile_path": ""
-        },
-        {
-          "name": "Alexandra Milchan",
-          "job": "Producer",
-          "department": "Production",
-          "id": 75040,
           "profile_path": ""
         },
         {
@@ -2153,6 +2153,13 @@
           "profile_path": ""
         },
         {
+          "name": "Alexandra Milchan",
+          "job": "Producer",
+          "department": "Production",
+          "id": 75040,
+          "profile_path": ""
+        },
+        {
           "name": "Rick Yorn",
           "job": "Producer",
           "department": "Production",
@@ -2160,18 +2167,18 @@
           "profile_path": "/6x0PeymHinuHATH7rmbwZumertm.jpg"
         },
         {
-          "name": "Rick Rapoza",
-          "job": "Writer",
-          "department": "Writing",
-          "id": 1490065,
-          "profile_path": ""
-        },
-        {
           "name": "Marco Perego",
           "job": "Director",
           "department": "Directing",
           "id": 2433993,
           "profile_path": "/lU3E0MPJ3LxlusVwcBMiHi4WJGJ.jpg"
+        },
+        {
+          "name": "Rick Rapoza",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 1490065,
+          "profile_path": ""
         },
         {
           "name": "Zoe Saldaña",
@@ -2302,7 +2309,7 @@
       "type": "movie",
       "title": "Perfeitos Mentirosos",
       "original_title": "Perfectos mentirosos",
-      "tmdb_id": "1568060",
+      "tmdb_id": 1568060,
       "id": 1568060,
       "year": "2026",
       "release_date": "2026-11-20",
@@ -2310,15 +2317,15 @@
       "tagline": "",
       "poster": "/lKgbxuLuupPgIUAw0Ren7ZlOHLg.jpg",
       "backdrop": "/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
-      "vote_average": 8,
-      "vote_count": 1,
+      "vote_average": 0,
+      "vote_count": 0,
       "genres": [
         "Drama",
         "Romance",
         "Thriller"
       ],
       "runtime": 108,
-      "certification": "",
+      "certification": "14",
       "original_language": "es",
       "origin_country": [
         "ES",
@@ -2658,7 +2665,7 @@
       "type": "movie",
       "title": "De Gaulle: A França Livre - Parte 2",
       "original_title": "La Bataille de Gaulle : J'écris ton nom",
-      "tmdb_id": "1165369",
+      "tmdb_id": 1165369,
       "id": 1165369,
       "year": "2026",
       "release_date": "2026-06-26",
@@ -4007,7 +4014,7 @@
       "type": "tv",
       "title": "Guerra",
       "original_title": "WAR",
-      "tmdb_id": "298852",
+      "tmdb_id": 298852,
       "id": 298852,
       "year": "2026",
       "release_date": "2026-10-02",
@@ -4313,7 +4320,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-20T17:23:26.289Z",
+      "cast_fetched_at": "2026-11-20T19:43:30.099Z",
       "seasons": [
         {
           "season_number": 1,
@@ -6029,7 +6036,7 @@
       "type": "tv",
       "title": "12 12 12",
       "original_title": "12 12 12",
-      "tmdb_id": "254630",
+      "tmdb_id": 254630,
       "id": 254630,
       "year": "2026",
       "release_date": "2026-11-12",
@@ -7115,7 +7122,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-20T18:14:26.670Z",
+      "cast_fetched_at": "2026-11-20T19:43:31.349Z",
       "seasons": [
         {
           "season_number": 1,
@@ -9470,7 +9477,7 @@
       "type": "movie",
       "title": "Tipo Irmãs",
       "original_title": "Steps",
-      "tmdb_id": "1595124",
+      "tmdb_id": 1595124,
       "id": 1595124,
       "year": "2026",
       "release_date": "2026-11-20",
