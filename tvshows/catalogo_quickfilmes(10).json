@@ -10621,6 +10621,210 @@
           "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
         }
       ]
+    },
+    {
+      "type": "movie",
+      "title": "Nosso Segredo",
+      "original_title": "Nosso Segredo",
+      "tmdb_id": "1399253",
+      "id": 1399253,
+      "year": "2026",
+      "release_date": "2026-08-27",
+      "overview": "Uma família negra tenta reconstruir sua rotina após uma perda recente. Enquanto cada um foge do luto à sua maneira, o filho caçula guarda um segredo capaz de encarar as raízes de suas dores e, juntos, descobrirem um novo caminho.",
+      "tagline": "",
+      "poster": "/9rH6PU8BduV9cdB6mjbsE51vb8M.jpg",
+      "backdrop": "/mnoxZcYA0v7USpiOAqs2GigVN4z.jpg",
+      "vote_average": 7,
+      "vote_count": 2,
+      "genres": [
+        "Drama",
+        "Fantasia"
+      ],
+      "runtime": 103,
+      "certification": "14",
+      "original_language": "pt",
+      "origin_country": [
+        "BR"
+      ],
+      "production_companies": [
+        "Entrefilmes",
+        "Desvia Produções",
+        "Globo Filmes",
+        "Vitrine Filmes",
+        "Foi Bonita a Festa",
+        "Quarta-feira Filmes",
+        "Produções Grãos da Imagem"
+      ],
+      "external_ids": {
+        "imdb_id": "tt39382724",
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [
+        {
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDp5ajZvanBocnR6dHRhamF4bzNoejNwcTVta2w3bjM2cSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uV0VCLURMLjEwODBQLk1LVi41LjEuLU5BQ0lPTkFMLS5Ob3Nzby5TZWdyZWRvLjIwMjYuMTA4MHAuV0VCLURMLk5BQ0lPTkFMLjUuMQ==",
+          "label": "Torrent",
+          "quality": "1080P",
+          "language": "PT-BR"
+        }
+      ],
+      "cast": [
+        {
+          "name": "Ju Colombo",
+          "character": "Suely",
+          "profile_path": "/f7g8IK2W89VEKVbbhU8Bjon885W.jpg",
+          "order": 0,
+          "id": 497226
+        },
+        {
+          "name": "Robert Frank",
+          "character": "Gilson",
+          "profile_path": "/rFp9xt9TsbzFQxrIc6TZq904DYZ.jpg",
+          "order": 1,
+          "id": 2021082
+        },
+        {
+          "name": "Marisa Revert",
+          "character": "Anamélia",
+          "profile_path": "",
+          "order": 2,
+          "id": 3399608
+        },
+        {
+          "name": "Jessica Gaspar",
+          "character": "Grazi",
+          "profile_path": "",
+          "order": 3,
+          "id": 5106258
+        },
+        {
+          "name": "Efraim Santos",
+          "character": "Tutu",
+          "profile_path": "",
+          "order": 4,
+          "id": 5106259
+        },
+        {
+          "name": "Flip",
+          "character": "Guto",
+          "profile_path": "",
+          "order": 5,
+          "id": 5106260
+        },
+        {
+          "name": "Juan Queiroz",
+          "character": "Sidney",
+          "profile_path": "/41VKeeO2gdU4l1dLkEHjKWgEmcL.jpg",
+          "order": 6,
+          "id": 3730561
+        },
+        {
+          "name": "Gláucia Vandeveld",
+          "character": "Lêda",
+          "profile_path": "",
+          "order": 7,
+          "id": 1884949
+        },
+        {
+          "name": "Matheus Aleluia",
+          "character": "Marcelo",
+          "profile_path": "",
+          "order": 8,
+          "id": 2954733
+        },
+        {
+          "name": "Tássia Reis",
+          "character": "Woman from the bar",
+          "profile_path": "",
+          "order": 9,
+          "id": 2085009
+        }
+      ],
+      "crew": [
+        {
+          "name": "Grace Passô",
+          "job": "Director",
+          "department": "Directing",
+          "id": 1660398,
+          "profile_path": "/xzomAlvVQor81adGhWjf94F6rP0.jpg"
+        },
+        {
+          "name": "Grace Passô",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 1660398,
+          "profile_path": "/xzomAlvVQor81adGhWjf94F6rP0.jpg"
+        },
+        {
+          "name": "João Gabriel Riveres",
+          "job": "Colorist",
+          "department": "Editing",
+          "id": 3168429,
+          "profile_path": ""
+        },
+        {
+          "name": "João Gabriel Riveres",
+          "job": "Post Production Supervisor",
+          "department": "Crew",
+          "id": 3168429,
+          "profile_path": ""
+        },
+        {
+          "name": "Mayara Proença",
+          "job": "Assistant Editor",
+          "department": "Editing",
+          "id": 5917077,
+          "profile_path": ""
+        },
+        {
+          "name": "Vinícius Medeiros",
+          "job": "ADR Recording Engineer",
+          "department": "Sound",
+          "id": 6022873,
+          "profile_path": ""
+        },
+        {
+          "name": "Gabriel Piscitelli",
+          "job": "Online Editor",
+          "department": "Editing",
+          "id": 5046556,
+          "profile_path": ""
+        },
+        {
+          "name": "Amaro Freitas",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 3321487,
+          "profile_path": ""
+        },
+        {
+          "name": "Wilssa Esser",
+          "job": "Director of Photography",
+          "department": "Camera",
+          "id": 1984044,
+          "profile_path": "/aWOTw95SnfV22FPCpKB8iiOWOEg.jpg"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Grace Passô",
+          "job": "Director",
+          "department": "Directing",
+          "id": 1660398,
+          "profile_path": "/xzomAlvVQor81adGhWjf94F6rP0.jpg"
+        }
+      ],
+      "writers": [
+        {
+          "name": "Grace Passô",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 1660398,
+          "profile_path": "/xzomAlvVQor81adGhWjf94F6rP0.jpg"
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
