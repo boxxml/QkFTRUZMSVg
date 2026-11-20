@@ -279,12 +279,15 @@
           "profile_path": ""
         }
       ],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-20T01:12:43.094Z",
       "seasons": [
         {
           "season_number": 1,
           "name": "Temporada 1",
           "overview": "Viajantes desorientados se veem presos em uma cidade misteriosa sem saída, onde forças malévolas brincam com suas mentes e os caçam à noite.",
           "poster_path": "/5LitqF9Qu6e0HweeR2SYFNLa5CZ.jpg",
+          "poster": "/5LitqF9Qu6e0HweeR2SYFNLa5CZ.jpg",
           "backdrop_path": "",
           "air_date": "2022-02-20",
           "vote_average": 6.8,
@@ -2584,6 +2587,7 @@
           "name": "Temporada 2",
           "overview": "Verdades ocultas sobre a natureza e as origens aterrorizantes da cidade começam a vir à tona, enquanto a vida de seus moradores é mergulhada no caos com a chegada de misteriosos recém-chegados.",
           "poster_path": "/foz5XH2DqnAfY7LcjbNxuiQ1L6S.jpg",
+          "poster": "/foz5XH2DqnAfY7LcjbNxuiQ1L6S.jpg",
           "backdrop_path": "",
           "air_date": "2023-04-23",
           "vote_average": 6.4,
@@ -5352,6 +5356,7 @@
           "name": "Temporada 3",
           "overview": "O clima fica mais frio, a comida escaceia e cada dia é mais difícil que o anterior. Será que a luta pela sobrevivência forçará os moradores da cidade a sacrificar a própria humanidade que os diferencia dos monstros que temem?",
           "poster_path": "/qJ7RqaB3V3jqtRsHTJww03j33fH.jpg",
+          "poster": "/qJ7RqaB3V3jqtRsHTJww03j33fH.jpg",
           "backdrop_path": "",
           "air_date": "2024-09-22",
           "vote_average": 6.3,
@@ -8239,6 +8244,7 @@
           "name": "Temporada 4",
           "overview": "Quanto mais perto os moradores chegam das respostas que procuram, mais aterrorizante se torna a busca. Quem é o Homem de Amarelo e o que ele quer? A revelação de Jade e Tabitha será a chave para finalmente voltarem para casa? Por quanto tempo Boyd conseguirá manter a cidade unida, mesmo com seu corpo e mente se deteriorando? E qual será o papel do recém-chegado nos eventos que estão por vir? A quarta temporada abrirá portas que alguns moradores desejarão que tivessem permanecido fechadas.",
           "poster_path": "/6PwA8jhM6KBvAcAGvLOwHjfhXeu.jpg",
+          "poster": "/6PwA8jhM6KBvAcAGvLOwHjfhXeu.jpg",
           "backdrop_path": "",
           "air_date": "2026-04-19",
           "vote_average": 6,
