@@ -6024,6 +6024,3447 @@
           ]
         }
       ]
+    },
+    {
+      "type": "tv",
+      "title": "12 12 12",
+      "original_title": "12 12 12",
+      "tmdb_id": "254630",
+      "id": 254630,
+      "year": "2026",
+      "release_date": "2026-11-12",
+      "overview": "Um roubo leva 12 meses para ser planejado, 12 horas para ser executado e um ladrão que não é capturado em até 12 dias nunca mais será. Ao longo de três linhas do tempo eletrizantes, um agente do FBI e um criminoso profissional travam um jogo mortal de gato e rato pela Europa.",
+      "tagline": "12 meses para planejar. 12 horas para executar. 12 dias para escapar.",
+      "poster": "/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "backdrop": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+      "vote_average": 6.1,
+      "vote_count": 40,
+      "genres": [
+        "Action & Adventure",
+        "Crime",
+        "Drama"
+      ],
+      "runtime": 0,
+      "certification": "16",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "Make It with Gravy",
+        "Inspire Entertainment",
+        "Anonymous Content",
+        "Paramount Television Studios",
+        "Skogland Films",
+        "87 Films"
+      ],
+      "external_ids": {
+        "imdb_id": "tt32375763",
+        "freebase_mid": null,
+        "freebase_id": null,
+        "tvdb_id": 450094,
+        "tvrage_id": null,
+        "wikidata_id": "Q134719215",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [],
+      "status": "Returning Series",
+      "networks": [
+        "Apple TV"
+      ],
+      "created_by": [
+        {
+          "id": 1484102,
+          "name": "Dudi Appleton",
+          "profile_path": ""
+        },
+        {
+          "id": 2148947,
+          "name": "Jim Keeble",
+          "profile_path": ""
+        }
+      ],
+      "number_of_seasons": 1,
+      "number_of_episodes": 8,
+      "cast": [
+        {
+          "name": "Anthony Mackie",
+          "character": "Jack Strickland",
+          "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+          "order": 0,
+          "id": 53650
+        },
+        {
+          "name": "Jamie Dornan",
+          "character": "Paul Galvin",
+          "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
+          "order": 1,
+          "id": 1254583
+        },
+        {
+          "name": "Jack Kesy",
+          "character": "Bobby Galvin",
+          "profile_path": "/z9lMOGw235m2HeCP4xlwQHXkq5X.jpg",
+          "order": 2,
+          "id": 1292258
+        },
+        {
+          "name": "Agathe Rousselle",
+          "character": "Severine",
+          "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
+          "order": 3,
+          "id": 2418333
+        },
+        {
+          "name": "Sallie Harmsen",
+          "character": "Lena",
+          "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
+          "order": 4,
+          "id": 544096
+        },
+        {
+          "name": "Julius Feldmeier",
+          "character": "Alberich",
+          "profile_path": "/pZcM4EMzsng5JqGkoGM6TGHUyJC.jpg",
+          "order": 5,
+          "id": 1170231
+        },
+        {
+          "name": "Jeanne Balibar",
+          "character": "Bazin",
+          "profile_path": "/nvy943Oez5Grrulv3FzLjzN8OSM.jpg",
+          "order": 6,
+          "id": 77191
+        },
+        {
+          "name": "Kali Reis",
+          "character": "Kira",
+          "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+          "order": 7,
+          "id": 3119545
+        }
+      ],
+      "crew": [
+        {
+          "name": "Jamie Dornan",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1254583,
+          "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg"
+        },
+        {
+          "name": "Anthony Mackie",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 53650,
+          "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+        },
+        {
+          "name": "Kari Skogland",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 22140,
+          "profile_path": "/5MSVfb2hKtDo3S386YSHjcdaYDC.jpg"
+        },
+        {
+          "name": "Jason Spire",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2058691,
+          "profile_path": ""
+        },
+        {
+          "name": "Jim Keeble",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2148947,
+          "profile_path": ""
+        },
+        {
+          "name": "Dudi Appleton",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1484102,
+          "profile_path": ""
+        },
+        {
+          "name": "Samantha Corbin-Miller",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1226498,
+          "profile_path": ""
+        },
+        {
+          "name": "David Knoller",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1236641,
+          "profile_path": "/aXjuyd3K4GECpk1iiqaC4nyyTYG.jpg"
+        },
+        {
+          "name": "Garrett Kemble",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 4837051,
+          "profile_path": ""
+        },
+        {
+          "name": "David Levine",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 3028478,
+          "profile_path": ""
+        },
+        {
+          "name": "David Ellison",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 58433,
+          "profile_path": "/gaT9cIEJPm7nWxpJyZWMy4Ayv6y.jpg"
+        },
+        {
+          "name": "Dana Goldberg",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 29018,
+          "profile_path": "/AtiT0HTrrrvVVjZgOXpxKxVFyAb.jpg"
+        },
+        {
+          "name": "Matt Thunell",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 4431386,
+          "profile_path": ""
+        },
+        {
+          "name": "Charnay Mather",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 6654211,
+          "profile_path": ""
+        },
+        {
+          "name": "Gabrielle Mahon",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 1404277,
+          "profile_path": "/l87o3B5CNR3sAe7js2eZgFtZmcu.jpg"
+        },
+        {
+          "name": "Joe Murtagh",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 1744228,
+          "profile_path": "/gUtnpoqIbitzh93wW3YDuZ5Xaft.jpg"
+        },
+        {
+          "name": "Tolula Dada",
+          "job": "Producer",
+          "department": "Production",
+          "id": 3265532,
+          "profile_path": ""
+        },
+        {
+          "name": "Ligosztájeva Annamaria",
+          "job": "Line Producer",
+          "department": "Production",
+          "id": 2341148,
+          "profile_path": ""
+        },
+        {
+          "name": "Kemény Ildikó",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 62982,
+          "profile_path": ""
+        },
+        {
+          "name": "David Minkowski",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 4854,
+          "profile_path": ""
+        },
+        {
+          "name": "Antal Kálmán",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 1409867,
+          "profile_path": ""
+        },
+        {
+          "name": "Tom Coan",
+          "job": "Consulting Producer",
+          "department": "Production",
+          "id": 2497161,
+          "profile_path": ""
+        },
+        {
+          "name": "Anna Broke",
+          "job": "Post Producer",
+          "department": "Production",
+          "id": 2874996,
+          "profile_path": ""
+        },
+        {
+          "name": "Jamie Carragher",
+          "job": "Executive Story Editor",
+          "department": "Writing",
+          "id": 3981234,
+          "profile_path": ""
+        },
+        {
+          "name": "Arnaud Roth",
+          "job": "Production Design",
+          "department": "Art",
+          "id": 1646871,
+          "profile_path": ""
+        },
+        {
+          "name": "Gabrielle Mahon",
+          "job": "Unit Production Manager",
+          "department": "Production",
+          "id": 1404277,
+          "profile_path": "/l87o3B5CNR3sAe7js2eZgFtZmcu.jpg"
+        },
+        {
+          "name": "Roni Rodrigues",
+          "job": "Visual Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 2254793,
+          "profile_path": ""
+        },
+        {
+          "name": "Emma Watterson",
+          "job": "Visual Effects Producer",
+          "department": "Visual Effects",
+          "id": 4017532,
+          "profile_path": ""
+        },
+        {
+          "name": "Lynsey Moore",
+          "job": "Costume Design",
+          "department": "Costume & Make-Up",
+          "id": 2754631,
+          "profile_path": ""
+        },
+        {
+          "name": "Kate Rhodes James",
+          "job": "Casting",
+          "department": "Production",
+          "id": 62257,
+          "profile_path": ""
+        },
+        {
+          "name": "Federico Jusid",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 45546,
+          "profile_path": "/gK4EkeVqDvxuIMlNZB1SZSaGIFS.jpg"
+        },
+        {
+          "name": "Iain Cooke",
+          "job": "Music Supervisor",
+          "department": "Sound",
+          "id": 1606169,
+          "profile_path": ""
+        },
+        {
+          "name": "Keana Bernard",
+          "job": "Music Supervisor",
+          "department": "Sound",
+          "id": 6654407,
+          "profile_path": ""
+        },
+        {
+          "name": "Ciara Glover",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 6654409,
+          "profile_path": ""
+        },
+        {
+          "name": "Bence Fehér",
+          "job": "Production Manager",
+          "department": "Production",
+          "id": 5889777,
+          "profile_path": ""
+        },
+        {
+          "name": "Natalie Damico",
+          "job": "Production Supervisor",
+          "department": "Production",
+          "id": 2520334,
+          "profile_path": ""
+        },
+        {
+          "name": "Bence Derék",
+          "job": "Assistant Production Manager",
+          "department": "Production",
+          "id": 3622316,
+          "profile_path": ""
+        },
+        {
+          "name": "Bimbó-Bereczki Barbara",
+          "job": "Assistant Production Manager",
+          "department": "Production",
+          "id": 6654413,
+          "profile_path": ""
+        },
+        {
+          "name": "Katalin Skuts",
+          "job": "Production Coordinator",
+          "department": "Production",
+          "id": 2188745,
+          "profile_path": ""
+        },
+        {
+          "name": "Zoé Szarvady",
+          "job": "Assistant Production Coordinator",
+          "department": "Production",
+          "id": 6654418,
+          "profile_path": ""
+        },
+        {
+          "name": "Ágnes Hir",
+          "job": "Assistant Production Coordinator",
+          "department": "Production",
+          "id": 6654419,
+          "profile_path": ""
+        },
+        {
+          "name": "Barna Zsófia",
+          "job": "Travel Coordinator",
+          "department": "Production",
+          "id": 6654421,
+          "profile_path": ""
+        },
+        {
+          "name": "Júlia Raczky",
+          "job": "Script Supervisor",
+          "department": "Directing",
+          "id": 3352007,
+          "profile_path": ""
+        },
+        {
+          "name": "Simon X. Frederick",
+          "job": "Script Coordinator",
+          "department": "Directing",
+          "id": 3921131,
+          "profile_path": ""
+        },
+        {
+          "name": "Maddie Haynes",
+          "job": "Script Coordinator",
+          "department": "Directing",
+          "id": 6260720,
+          "profile_path": ""
+        },
+        {
+          "name": "Declan O'Grianna",
+          "job": "\"A\" Camera Operator",
+          "department": "Camera",
+          "id": 4370764,
+          "profile_path": ""
+        },
+        {
+          "name": "Dániel Reich",
+          "job": "\"B\" Camera Operator",
+          "department": "Camera",
+          "id": 1307658,
+          "profile_path": ""
+        },
+        {
+          "name": "Márton Miklauzic",
+          "job": "\"C\" Camera Operator",
+          "department": "Camera",
+          "id": 1372955,
+          "profile_path": "/zcMfpaV4TlsYSp0CidGIQZ99IIA.jpg"
+        },
+        {
+          "name": "Nándor Gulyás",
+          "job": "\"C\" Camera Operator",
+          "department": "Camera",
+          "id": 2146468,
+          "profile_path": ""
+        },
+        {
+          "name": "Gergely Vass",
+          "job": "\"C\" Camera Operator",
+          "department": "Camera",
+          "id": 2073008,
+          "profile_path": ""
+        },
+        {
+          "name": "Tamás Bakos",
+          "job": "First Assistant \"A\" Camera",
+          "department": "Camera",
+          "id": 4940974,
+          "profile_path": ""
+        },
+        {
+          "name": "Dániel Benkő",
+          "job": "First Assistant \"B\" Camera",
+          "department": "Camera",
+          "id": 4940980,
+          "profile_path": ""
+        },
+        {
+          "name": "Marcell Benkő",
+          "job": "First Assistant \"C\" Camera",
+          "department": "Camera",
+          "id": 5964800,
+          "profile_path": ""
+        },
+        {
+          "name": "Tamás Oláh",
+          "job": "First Assistant \"C\" Camera",
+          "department": "Camera",
+          "id": 2062153,
+          "profile_path": ""
+        },
+        {
+          "name": "Tamás Jánossa",
+          "job": "First Assistant \"C\" Camera",
+          "department": "Camera",
+          "id": 2143781,
+          "profile_path": ""
+        },
+        {
+          "name": "Márk Oláh",
+          "job": "First Assistant \"C\" Camera",
+          "department": "Camera",
+          "id": 3352110,
+          "profile_path": ""
+        },
+        {
+          "name": "Tamás Forintos",
+          "job": "Second Assistant \"A\" Camera",
+          "department": "Camera",
+          "id": 4888354,
+          "profile_path": ""
+        },
+        {
+          "name": "Attila Négyesy",
+          "job": "Second Assistant \"B\" Camera",
+          "department": "Camera",
+          "id": 5770540,
+          "profile_path": ""
+        },
+        {
+          "name": "Bálint Ládi",
+          "job": "Second Assistant \"C\" Camera",
+          "department": "Camera",
+          "id": 5948105,
+          "profile_path": ""
+        },
+        {
+          "name": "Horváth Ábel",
+          "job": "Second Assistant \"C\" Camera",
+          "department": "Camera",
+          "id": 6654430,
+          "profile_path": ""
+        },
+        {
+          "name": "Milán Oszkocsil",
+          "job": "Second Assistant \"C\" Camera",
+          "department": "Camera",
+          "id": 6654432,
+          "profile_path": ""
+        },
+        {
+          "name": "Éva Benke",
+          "job": "Second Assistant \"C\" Camera",
+          "department": "Camera",
+          "id": 6654433,
+          "profile_path": ""
+        },
+        {
+          "name": "Martin Reisinger",
+          "job": "Second Assistant \"C\" Camera",
+          "department": "Camera",
+          "id": 6654434,
+          "profile_path": ""
+        },
+        {
+          "name": "Péter 'Tiger' Rácz",
+          "job": "Digital Imaging Technician",
+          "department": "Camera",
+          "id": 2062134,
+          "profile_path": ""
+        },
+        {
+          "name": "Attila Tumbász",
+          "job": "Digital Imaging Technician",
+          "department": "Camera",
+          "id": 2730174,
+          "profile_path": ""
+        },
+        {
+          "name": "Flórián Szűrös",
+          "job": "Data Management Technician",
+          "department": "Production",
+          "id": 6654436,
+          "profile_path": ""
+        },
+        {
+          "name": "Holler Ákos",
+          "job": "Data Management Technician",
+          "department": "Production",
+          "id": 6098507,
+          "profile_path": ""
+        },
+        {
+          "name": "Adam Varadi",
+          "job": "Drone Pilot",
+          "department": "Camera",
+          "id": 1773751,
+          "profile_path": ""
+        },
+        {
+          "name": "János Szárnyas",
+          "job": "Supervising Art Director",
+          "department": "Art",
+          "id": 2917519,
+          "profile_path": ""
+        },
+        {
+          "name": "László Szirmai",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 1394115,
+          "profile_path": ""
+        },
+        {
+          "name": "Linda Bándi",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 1732402,
+          "profile_path": ""
+        },
+        {
+          "name": "Ágnes Bobor",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 2312531,
+          "profile_path": ""
+        },
+        {
+          "name": "Attila Illés",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 1858276,
+          "profile_path": ""
+        },
+        {
+          "name": "Máté Kovácsi",
+          "job": "Standby Art Director",
+          "department": "Art",
+          "id": 3898927,
+          "profile_path": ""
+        },
+        {
+          "name": "László Zorván",
+          "job": "Assistant Art Director",
+          "department": "Art",
+          "id": 6654443,
+          "profile_path": ""
+        },
+        {
+          "name": "Judit Juhász",
+          "job": "Assistant Art Director",
+          "department": "Art",
+          "id": 2736857,
+          "profile_path": ""
+        },
+        {
+          "name": "Szarka Áron",
+          "job": "Assistant Art Director",
+          "department": "Art",
+          "id": 6654444,
+          "profile_path": ""
+        },
+        {
+          "name": "Borbala Szilassi",
+          "job": "Art Department Coordinator",
+          "department": "Art",
+          "id": 4335334,
+          "profile_path": ""
+        },
+        {
+          "name": "Dóra Pámer",
+          "job": "Art Department Assistant",
+          "department": "Art",
+          "id": 6654445,
+          "profile_path": ""
+        },
+        {
+          "name": "Emoke Vagasi",
+          "job": "Clearances Coordinator",
+          "department": "Crew",
+          "id": 1851138,
+          "profile_path": ""
+        },
+        {
+          "name": "Tamás Pál",
+          "job": "Graphic Designer",
+          "department": "Art",
+          "id": 6097901,
+          "profile_path": ""
+        },
+        {
+          "name": "Zsuzsa Mihalek",
+          "job": "Set Decoration",
+          "department": "Art",
+          "id": 63010,
+          "profile_path": ""
+        },
+        {
+          "name": "Petra Halász",
+          "job": "Assistant Set Decoration",
+          "department": "Art",
+          "id": 6654446,
+          "profile_path": ""
+        },
+        {
+          "name": "András Gaál",
+          "job": "Assistant Set Decoration",
+          "department": "Art",
+          "id": 2188768,
+          "profile_path": ""
+        },
+        {
+          "name": "Bianka Szomoru",
+          "job": "Assistant Set Decoration",
+          "department": "Art",
+          "id": 6654447,
+          "profile_path": ""
+        },
+        {
+          "name": "Márk Czirják",
+          "job": "Gaffer",
+          "department": "Lighting",
+          "id": 1773748,
+          "profile_path": ""
+        },
+        {
+          "name": "Belágyi Viktor",
+          "job": "Property Master",
+          "department": "Art",
+          "id": 2504942,
+          "profile_path": ""
+        },
+        {
+          "name": "Ajtai András",
+          "job": "Assistant Property Master",
+          "department": "Art",
+          "id": 2188765,
+          "profile_path": ""
+        },
+        {
+          "name": "Milán Tuska",
+          "job": "Sound Mixer",
+          "department": "Sound",
+          "id": 5135481,
+          "profile_path": ""
+        },
+        {
+          "name": "Kati Chwist",
+          "job": "Costume Supervisor",
+          "department": "Costume & Make-Up",
+          "id": 2115221,
+          "profile_path": ""
+        },
+        {
+          "name": "Rosie Lack",
+          "job": "Assistant Costume Designer",
+          "department": "Costume & Make-Up",
+          "id": 1419610,
+          "profile_path": ""
+        },
+        {
+          "name": "Eszter März",
+          "job": "Assistant Costume Designer",
+          "department": "Costume & Make-Up",
+          "id": 6654449,
+          "profile_path": ""
+        },
+        {
+          "name": "Ruan Swart",
+          "job": "Truck Supervisor",
+          "department": "Costume & Make-Up",
+          "id": 6654450,
+          "profile_path": ""
+        },
+        {
+          "name": "Soma Szalay",
+          "job": "Costume Coordinator",
+          "department": "Costume & Make-Up",
+          "id": 6654452,
+          "profile_path": ""
+        },
+        {
+          "name": "Nancy Martinez-Morrison",
+          "job": "Hair Department Head",
+          "department": "Costume & Make-Up",
+          "id": 2304446,
+          "profile_path": ""
+        },
+        {
+          "name": "Klaudia Király",
+          "job": "Key Hair Stylist",
+          "department": "Costume & Make-Up",
+          "id": 2869689,
+          "profile_path": ""
+        },
+        {
+          "name": "Debbie Zoller",
+          "job": "Makeup Department Head",
+          "department": "Costume & Make-Up",
+          "id": 9333,
+          "profile_path": ""
+        },
+        {
+          "name": "Gerő Anna",
+          "job": "Key Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 2275973,
+          "profile_path": ""
+        },
+        {
+          "name": "Szilvia Homolya",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1831377,
+          "profile_path": ""
+        },
+        {
+          "name": "Renáta Grátz-Kiss",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 6654454,
+          "profile_path": ""
+        },
+        {
+          "name": "Henrik Berendi",
+          "job": "Other",
+          "department": "Costume & Make-Up",
+          "id": 6654455,
+          "profile_path": ""
+        },
+        {
+          "name": "Dániel Hámori",
+          "job": "Prosthetic Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 2533572,
+          "profile_path": ""
+        },
+        {
+          "name": "Gábor Kiszelly",
+          "job": "Special Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 1533488,
+          "profile_path": ""
+        },
+        {
+          "name": "Paul Jennings",
+          "job": "Stunt Coordinator",
+          "department": "Crew",
+          "id": 44006,
+          "profile_path": ""
+        },
+        {
+          "name": "Kata Gábor",
+          "job": "Third Assistant Director",
+          "department": "Directing",
+          "id": 6097829,
+          "profile_path": ""
+        },
+        {
+          "name": "Zsigmond Cholnoky",
+          "job": "Location Manager",
+          "department": "Production",
+          "id": 6654458,
+          "profile_path": ""
+        },
+        {
+          "name": "Gergö Gálbory",
+          "job": "Location Manager",
+          "department": "Production",
+          "id": 4888411,
+          "profile_path": ""
+        },
+        {
+          "name": "Novák Gergely",
+          "job": "Assistant Location Manager",
+          "department": "Production",
+          "id": 3636388,
+          "profile_path": ""
+        },
+        {
+          "name": "József Antal",
+          "job": "Assistant Location Manager",
+          "department": "Production",
+          "id": 6654459,
+          "profile_path": ""
+        },
+        {
+          "name": "György Fazekas",
+          "job": "Transportation Coordinator",
+          "department": "Crew",
+          "id": 6654463,
+          "profile_path": ""
+        },
+        {
+          "name": "Marci Gyalog",
+          "job": "Transportation Captain",
+          "department": "Crew",
+          "id": 6654464,
+          "profile_path": ""
+        },
+        {
+          "name": "Olivér Polgár",
+          "job": "Transportation Captain",
+          "department": "Crew",
+          "id": 3352025,
+          "profile_path": ""
+        },
+        {
+          "name": "Lucy Abraham",
+          "job": "Writers' Assistant",
+          "department": "Writing",
+          "id": 3473861,
+          "profile_path": ""
+        },
+        {
+          "name": "Katalin Baranyi",
+          "job": "Location Casting",
+          "department": "Production",
+          "id": 1551452,
+          "profile_path": ""
+        },
+        {
+          "name": "Arabella Winter",
+          "job": "Music Editor",
+          "department": "Sound",
+          "id": 1816351,
+          "profile_path": ""
+        },
+        {
+          "name": "Gustavo Gini",
+          "job": "Orchestrator",
+          "department": "Sound",
+          "id": 1852598,
+          "profile_path": "/5mwQng26UwWn3cC0jf2dSnLDIvP.jpg"
+        },
+        {
+          "name": "Enea Astori",
+          "job": "Orchestrator",
+          "department": "Sound",
+          "id": 6364092,
+          "profile_path": ""
+        },
+        {
+          "name": "Manuela Gávez",
+          "job": "Orchestrator",
+          "department": "Sound",
+          "id": 6654468,
+          "profile_path": ""
+        },
+        {
+          "name": "Enrico M.R. Fallea",
+          "job": "Orchestrator",
+          "department": "Sound",
+          "id": 6528406,
+          "profile_path": ""
+        },
+        {
+          "name": "Francisco Sokolowicz",
+          "job": "Additional Music",
+          "department": "Crew",
+          "id": 3191234,
+          "profile_path": ""
+        },
+        {
+          "name": "Joe Hadman",
+          "job": "Post Production Coordinator",
+          "department": "Production",
+          "id": 2329556,
+          "profile_path": ""
+        },
+        {
+          "name": "Holly Donoghue",
+          "job": "Post Production Assistant",
+          "department": "Crew",
+          "id": 6654471,
+          "profile_path": ""
+        },
+        {
+          "name": "Rami Sarras Pantoja",
+          "job": "Post Production Supervisor",
+          "department": "Crew",
+          "id": 3239384,
+          "profile_path": ""
+        },
+        {
+          "name": "Dominic P. Grant",
+          "job": "Post Production Supervisor",
+          "department": "Crew",
+          "id": 6654472,
+          "profile_path": ""
+        },
+        {
+          "name": "Kath Smith",
+          "job": "Visual Effects Production Manager",
+          "department": "Visual Effects",
+          "id": 3455963,
+          "profile_path": ""
+        },
+        {
+          "name": "Dorottya Esz",
+          "job": "Visual Effects Coordinator",
+          "department": "Visual Effects",
+          "id": 6654473,
+          "profile_path": ""
+        },
+        {
+          "name": "Jade Carter",
+          "job": "Visual Effects Coordinator",
+          "department": "Visual Effects",
+          "id": 3455946,
+          "profile_path": ""
+        },
+        {
+          "name": "PJ Harling",
+          "job": "Visual Effects Editor",
+          "department": "Crew",
+          "id": 1907979,
+          "profile_path": ""
+        },
+        {
+          "name": "Johnathan Rush",
+          "job": "Sound Re-Recording Mixer",
+          "department": "Sound",
+          "id": 1349056,
+          "profile_path": ""
+        },
+        {
+          "name": "Stanley Chalmers",
+          "job": "Sound Mix Technician",
+          "department": "Sound",
+          "id": 6654474,
+          "profile_path": ""
+        },
+        {
+          "name": "Asa Shoul",
+          "job": "Colorist",
+          "department": "Editing",
+          "id": 134573,
+          "profile_path": ""
+        },
+        {
+          "name": "Tim Drewett",
+          "job": "Colorist",
+          "department": "Editing",
+          "id": 1473168,
+          "profile_path": ""
+        },
+        {
+          "name": "Gareth Parry",
+          "job": "Online Editor",
+          "department": "Editing",
+          "id": 2156147,
+          "profile_path": ""
+        },
+        {
+          "name": "Louise Stewart",
+          "job": "Digital Intermediate Producer",
+          "department": "Editing",
+          "id": 6654488,
+          "profile_path": ""
+        },
+        {
+          "name": "Nina Hartstone",
+          "job": "Sound Supervisor",
+          "department": "Sound",
+          "id": 1406189,
+          "profile_path": ""
+        },
+        {
+          "name": "Eilam Hoffman",
+          "job": "Sound Supervisor",
+          "department": "Sound",
+          "id": 1338973,
+          "profile_path": ""
+        },
+        {
+          "name": "Robert Ireland",
+          "job": "Supervising Sound Editor",
+          "department": "Sound",
+          "id": 1376801,
+          "profile_path": ""
+        },
+        {
+          "name": "Bryan Bowen",
+          "job": "Sound Designer",
+          "department": "Sound",
+          "id": 15331,
+          "profile_path": ""
+        }
+      ],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-20T18:14:26.670Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "overview": "",
+          "poster_path": "/5CSL2ZWR9scRbrN8NqAy5C0MncY.jpg",
+          "poster": "/5CSL2ZWR9scRbrN8NqAy5C0MncY.jpg",
+          "backdrop_path": "",
+          "air_date": "2026-11-12",
+          "vote_average": 3.4,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Anthony Mackie",
+              "character": "Jack Strickland",
+              "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+              "order": 0,
+              "id": 53650
+            },
+            {
+              "name": "Jamie Dornan",
+              "character": "Paul Galvin",
+              "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
+              "order": 1,
+              "id": 1254583
+            },
+            {
+              "name": "Jack Kesy",
+              "character": "Bobby Galvin",
+              "profile_path": "/z9lMOGw235m2HeCP4xlwQHXkq5X.jpg",
+              "order": 2,
+              "id": 1292258
+            },
+            {
+              "name": "Agathe Rousselle",
+              "character": "Severine",
+              "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
+              "order": 3,
+              "id": 2418333
+            },
+            {
+              "name": "Sallie Harmsen",
+              "character": "Lena",
+              "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
+              "order": 4,
+              "id": 544096
+            },
+            {
+              "name": "Julius Feldmeier",
+              "character": "Alberich",
+              "profile_path": "/pZcM4EMzsng5JqGkoGM6TGHUyJC.jpg",
+              "order": 5,
+              "id": 1170231
+            },
+            {
+              "name": "Jeanne Balibar",
+              "character": "Bazin",
+              "profile_path": "/nvy943Oez5Grrulv3FzLjzN8OSM.jpg",
+              "order": 6,
+              "id": 77191
+            },
+            {
+              "name": "Kali Reis",
+              "character": "Kira",
+              "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+              "order": 7,
+              "id": 3119545
+            }
+          ],
+          "crew": [
+            {
+              "name": "Jamie Dornan",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1254583,
+              "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg"
+            },
+            {
+              "name": "Anthony Mackie",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 53650,
+              "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+            },
+            {
+              "name": "Jim Keeble",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2148947,
+              "profile_path": ""
+            },
+            {
+              "name": "Kari Skogland",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 22140,
+              "profile_path": "/5MSVfb2hKtDo3S386YSHjcdaYDC.jpg"
+            },
+            {
+              "name": "Jason Spire",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2058691,
+              "profile_path": ""
+            },
+            {
+              "name": "Dudi Appleton",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1484102,
+              "profile_path": ""
+            },
+            {
+              "name": "Samantha Corbin-Miller",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1226498,
+              "profile_path": ""
+            },
+            {
+              "name": "David Knoller",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1236641,
+              "profile_path": "/aXjuyd3K4GECpk1iiqaC4nyyTYG.jpg"
+            },
+            {
+              "name": "Garrett Kemble",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 4837051,
+              "profile_path": ""
+            },
+            {
+              "name": "David Levine",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 3028478,
+              "profile_path": ""
+            },
+            {
+              "name": "David Ellison",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 58433,
+              "profile_path": "/gaT9cIEJPm7nWxpJyZWMy4Ayv6y.jpg"
+            },
+            {
+              "name": "Dana Goldberg",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 29018,
+              "profile_path": "/AtiT0HTrrrvVVjZgOXpxKxVFyAb.jpg"
+            },
+            {
+              "name": "Matt Thunell",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 4431386,
+              "profile_path": ""
+            },
+            {
+              "name": "Charnay Mather",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 6654211,
+              "profile_path": ""
+            },
+            {
+              "name": "Gabrielle Mahon",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1404277,
+              "profile_path": "/l87o3B5CNR3sAe7js2eZgFtZmcu.jpg"
+            },
+            {
+              "name": "Joe Murtagh",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1744228,
+              "profile_path": "/gUtnpoqIbitzh93wW3YDuZ5Xaft.jpg"
+            },
+            {
+              "name": "Tolula Dada",
+              "job": "Producer",
+              "department": "Production",
+              "id": 3265532,
+              "profile_path": ""
+            },
+            {
+              "name": "Ligosztájeva Annamaria",
+              "job": "Line Producer",
+              "department": "Production",
+              "id": 2341148,
+              "profile_path": ""
+            },
+            {
+              "name": "Kemény Ildikó",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 62982,
+              "profile_path": ""
+            },
+            {
+              "name": "David Minkowski",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 4854,
+              "profile_path": ""
+            },
+            {
+              "name": "Antal Kálmán",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 1409867,
+              "profile_path": ""
+            },
+            {
+              "name": "Tom Coan",
+              "job": "Consulting Producer",
+              "department": "Production",
+              "id": 2497161,
+              "profile_path": ""
+            },
+            {
+              "name": "Anna Broke",
+              "job": "Post Producer",
+              "department": "Production",
+              "id": 2874996,
+              "profile_path": ""
+            },
+            {
+              "name": "Jamie Carragher",
+              "job": "Executive Story Editor",
+              "department": "Writing",
+              "id": 3981234,
+              "profile_path": ""
+            },
+            {
+              "name": "Arnaud Roth",
+              "job": "Production Design",
+              "department": "Art",
+              "id": 1646871,
+              "profile_path": ""
+            },
+            {
+              "name": "Gabrielle Mahon",
+              "job": "Unit Production Manager",
+              "department": "Production",
+              "id": 1404277,
+              "profile_path": "/l87o3B5CNR3sAe7js2eZgFtZmcu.jpg"
+            },
+            {
+              "name": "Roni Rodrigues",
+              "job": "Visual Effects Supervisor",
+              "department": "Visual Effects",
+              "id": 2254793,
+              "profile_path": ""
+            },
+            {
+              "name": "Emma Watterson",
+              "job": "Visual Effects Producer",
+              "department": "Visual Effects",
+              "id": 4017532,
+              "profile_path": ""
+            },
+            {
+              "name": "Lynsey Moore",
+              "job": "Costume Design",
+              "department": "Costume & Make-Up",
+              "id": 2754631,
+              "profile_path": ""
+            },
+            {
+              "name": "Kate Rhodes James",
+              "job": "Casting",
+              "department": "Production",
+              "id": 62257,
+              "profile_path": ""
+            },
+            {
+              "name": "Federico Jusid",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 45546,
+              "profile_path": "/gK4EkeVqDvxuIMlNZB1SZSaGIFS.jpg"
+            },
+            {
+              "name": "Iain Cooke",
+              "job": "Music Supervisor",
+              "department": "Sound",
+              "id": 1606169,
+              "profile_path": ""
+            },
+            {
+              "name": "Keana Bernard",
+              "job": "Music Supervisor",
+              "department": "Sound",
+              "id": 6654407,
+              "profile_path": ""
+            },
+            {
+              "name": "Ciara Glover",
+              "job": "Associate Producer",
+              "department": "Production",
+              "id": 6654409,
+              "profile_path": ""
+            },
+            {
+              "name": "Bence Fehér",
+              "job": "Production Manager",
+              "department": "Production",
+              "id": 5889777,
+              "profile_path": ""
+            },
+            {
+              "name": "Natalie Damico",
+              "job": "Production Supervisor",
+              "department": "Production",
+              "id": 2520334,
+              "profile_path": ""
+            },
+            {
+              "name": "Bence Derék",
+              "job": "Assistant Production Manager",
+              "department": "Production",
+              "id": 3622316,
+              "profile_path": ""
+            },
+            {
+              "name": "Bimbó-Bereczki Barbara",
+              "job": "Assistant Production Manager",
+              "department": "Production",
+              "id": 6654413,
+              "profile_path": ""
+            },
+            {
+              "name": "Katalin Skuts",
+              "job": "Production Coordinator",
+              "department": "Production",
+              "id": 2188745,
+              "profile_path": ""
+            },
+            {
+              "name": "Zoé Szarvady",
+              "job": "Assistant Production Coordinator",
+              "department": "Production",
+              "id": 6654418,
+              "profile_path": ""
+            },
+            {
+              "name": "Ágnes Hir",
+              "job": "Assistant Production Coordinator",
+              "department": "Production",
+              "id": 6654419,
+              "profile_path": ""
+            },
+            {
+              "name": "Barna Zsófia",
+              "job": "Travel Coordinator",
+              "department": "Production",
+              "id": 6654421,
+              "profile_path": ""
+            },
+            {
+              "name": "Júlia Raczky",
+              "job": "Script Supervisor",
+              "department": "Directing",
+              "id": 3352007,
+              "profile_path": ""
+            },
+            {
+              "name": "Simon X. Frederick",
+              "job": "Script Coordinator",
+              "department": "Directing",
+              "id": 3921131,
+              "profile_path": ""
+            },
+            {
+              "name": "Maddie Haynes",
+              "job": "Script Coordinator",
+              "department": "Directing",
+              "id": 6260720,
+              "profile_path": ""
+            },
+            {
+              "name": "Declan O'Grianna",
+              "job": "\"A\" Camera Operator",
+              "department": "Camera",
+              "id": 4370764,
+              "profile_path": ""
+            },
+            {
+              "name": "Dániel Reich",
+              "job": "\"B\" Camera Operator",
+              "department": "Camera",
+              "id": 1307658,
+              "profile_path": ""
+            },
+            {
+              "name": "Márton Miklauzic",
+              "job": "\"C\" Camera Operator",
+              "department": "Camera",
+              "id": 1372955,
+              "profile_path": "/zcMfpaV4TlsYSp0CidGIQZ99IIA.jpg"
+            },
+            {
+              "name": "Nándor Gulyás",
+              "job": "\"C\" Camera Operator",
+              "department": "Camera",
+              "id": 2146468,
+              "profile_path": ""
+            },
+            {
+              "name": "Gergely Vass",
+              "job": "\"C\" Camera Operator",
+              "department": "Camera",
+              "id": 2073008,
+              "profile_path": ""
+            },
+            {
+              "name": "Tamás Bakos",
+              "job": "First Assistant \"A\" Camera",
+              "department": "Camera",
+              "id": 4940974,
+              "profile_path": ""
+            },
+            {
+              "name": "Dániel Benkő",
+              "job": "First Assistant \"B\" Camera",
+              "department": "Camera",
+              "id": 4940980,
+              "profile_path": ""
+            },
+            {
+              "name": "Marcell Benkő",
+              "job": "First Assistant \"C\" Camera",
+              "department": "Camera",
+              "id": 5964800,
+              "profile_path": ""
+            },
+            {
+              "name": "Tamás Oláh",
+              "job": "First Assistant \"C\" Camera",
+              "department": "Camera",
+              "id": 2062153,
+              "profile_path": ""
+            },
+            {
+              "name": "Tamás Jánossa",
+              "job": "First Assistant \"C\" Camera",
+              "department": "Camera",
+              "id": 2143781,
+              "profile_path": ""
+            },
+            {
+              "name": "Márk Oláh",
+              "job": "First Assistant \"C\" Camera",
+              "department": "Camera",
+              "id": 3352110,
+              "profile_path": ""
+            },
+            {
+              "name": "Tamás Forintos",
+              "job": "Second Assistant \"A\" Camera",
+              "department": "Camera",
+              "id": 4888354,
+              "profile_path": ""
+            },
+            {
+              "name": "Attila Négyesy",
+              "job": "Second Assistant \"B\" Camera",
+              "department": "Camera",
+              "id": 5770540,
+              "profile_path": ""
+            },
+            {
+              "name": "Bálint Ládi",
+              "job": "Second Assistant \"C\" Camera",
+              "department": "Camera",
+              "id": 5948105,
+              "profile_path": ""
+            },
+            {
+              "name": "Horváth Ábel",
+              "job": "Second Assistant \"C\" Camera",
+              "department": "Camera",
+              "id": 6654430,
+              "profile_path": ""
+            },
+            {
+              "name": "Milán Oszkocsil",
+              "job": "Second Assistant \"C\" Camera",
+              "department": "Camera",
+              "id": 6654432,
+              "profile_path": ""
+            },
+            {
+              "name": "Éva Benke",
+              "job": "Second Assistant \"C\" Camera",
+              "department": "Camera",
+              "id": 6654433,
+              "profile_path": ""
+            },
+            {
+              "name": "Martin Reisinger",
+              "job": "Second Assistant \"C\" Camera",
+              "department": "Camera",
+              "id": 6654434,
+              "profile_path": ""
+            },
+            {
+              "name": "Péter 'Tiger' Rácz",
+              "job": "Digital Imaging Technician",
+              "department": "Camera",
+              "id": 2062134,
+              "profile_path": ""
+            },
+            {
+              "name": "Attila Tumbász",
+              "job": "Digital Imaging Technician",
+              "department": "Camera",
+              "id": 2730174,
+              "profile_path": ""
+            },
+            {
+              "name": "Flórián Szűrös",
+              "job": "Data Management Technician",
+              "department": "Production",
+              "id": 6654436,
+              "profile_path": ""
+            },
+            {
+              "name": "Holler Ákos",
+              "job": "Data Management Technician",
+              "department": "Production",
+              "id": 6098507,
+              "profile_path": ""
+            },
+            {
+              "name": "Adam Varadi",
+              "job": "Drone Pilot",
+              "department": "Camera",
+              "id": 1773751,
+              "profile_path": ""
+            },
+            {
+              "name": "János Szárnyas",
+              "job": "Supervising Art Director",
+              "department": "Art",
+              "id": 2917519,
+              "profile_path": ""
+            },
+            {
+              "name": "László Szirmai",
+              "job": "Art Direction",
+              "department": "Art",
+              "id": 1394115,
+              "profile_path": ""
+            },
+            {
+              "name": "Linda Bándi",
+              "job": "Art Direction",
+              "department": "Art",
+              "id": 1732402,
+              "profile_path": ""
+            },
+            {
+              "name": "Ágnes Bobor",
+              "job": "Art Direction",
+              "department": "Art",
+              "id": 2312531,
+              "profile_path": ""
+            },
+            {
+              "name": "Attila Illés",
+              "job": "Art Direction",
+              "department": "Art",
+              "id": 1858276,
+              "profile_path": ""
+            },
+            {
+              "name": "Máté Kovácsi",
+              "job": "Standby Art Director",
+              "department": "Art",
+              "id": 3898927,
+              "profile_path": ""
+            },
+            {
+              "name": "László Zorván",
+              "job": "Assistant Art Director",
+              "department": "Art",
+              "id": 6654443,
+              "profile_path": ""
+            },
+            {
+              "name": "Judit Juhász",
+              "job": "Assistant Art Director",
+              "department": "Art",
+              "id": 2736857,
+              "profile_path": ""
+            },
+            {
+              "name": "Szarka Áron",
+              "job": "Assistant Art Director",
+              "department": "Art",
+              "id": 6654444,
+              "profile_path": ""
+            },
+            {
+              "name": "Borbala Szilassi",
+              "job": "Art Department Coordinator",
+              "department": "Art",
+              "id": 4335334,
+              "profile_path": ""
+            },
+            {
+              "name": "Dóra Pámer",
+              "job": "Art Department Assistant",
+              "department": "Art",
+              "id": 6654445,
+              "profile_path": ""
+            },
+            {
+              "name": "Emoke Vagasi",
+              "job": "Clearances Coordinator",
+              "department": "Crew",
+              "id": 1851138,
+              "profile_path": ""
+            },
+            {
+              "name": "Tamás Pál",
+              "job": "Graphic Designer",
+              "department": "Art",
+              "id": 6097901,
+              "profile_path": ""
+            },
+            {
+              "name": "Zsuzsa Mihalek",
+              "job": "Set Decoration",
+              "department": "Art",
+              "id": 63010,
+              "profile_path": ""
+            },
+            {
+              "name": "Petra Halász",
+              "job": "Assistant Set Decoration",
+              "department": "Art",
+              "id": 6654446,
+              "profile_path": ""
+            },
+            {
+              "name": "András Gaál",
+              "job": "Assistant Set Decoration",
+              "department": "Art",
+              "id": 2188768,
+              "profile_path": ""
+            },
+            {
+              "name": "Bianka Szomoru",
+              "job": "Assistant Set Decoration",
+              "department": "Art",
+              "id": 6654447,
+              "profile_path": ""
+            },
+            {
+              "name": "Márk Czirják",
+              "job": "Gaffer",
+              "department": "Lighting",
+              "id": 1773748,
+              "profile_path": ""
+            },
+            {
+              "name": "Belágyi Viktor",
+              "job": "Property Master",
+              "department": "Art",
+              "id": 2504942,
+              "profile_path": ""
+            },
+            {
+              "name": "Ajtai András",
+              "job": "Assistant Property Master",
+              "department": "Art",
+              "id": 2188765,
+              "profile_path": ""
+            },
+            {
+              "name": "Milán Tuska",
+              "job": "Sound Mixer",
+              "department": "Sound",
+              "id": 5135481,
+              "profile_path": ""
+            },
+            {
+              "name": "Kati Chwist",
+              "job": "Costume Supervisor",
+              "department": "Costume & Make-Up",
+              "id": 2115221,
+              "profile_path": ""
+            },
+            {
+              "name": "Rosie Lack",
+              "job": "Assistant Costume Designer",
+              "department": "Costume & Make-Up",
+              "id": 1419610,
+              "profile_path": ""
+            },
+            {
+              "name": "Eszter März",
+              "job": "Assistant Costume Designer",
+              "department": "Costume & Make-Up",
+              "id": 6654449,
+              "profile_path": ""
+            },
+            {
+              "name": "Ruan Swart",
+              "job": "Truck Supervisor",
+              "department": "Costume & Make-Up",
+              "id": 6654450,
+              "profile_path": ""
+            },
+            {
+              "name": "Soma Szalay",
+              "job": "Costume Coordinator",
+              "department": "Costume & Make-Up",
+              "id": 6654452,
+              "profile_path": ""
+            },
+            {
+              "name": "Nancy Martinez-Morrison",
+              "job": "Hair Department Head",
+              "department": "Costume & Make-Up",
+              "id": 2304446,
+              "profile_path": ""
+            },
+            {
+              "name": "Klaudia Király",
+              "job": "Key Hair Stylist",
+              "department": "Costume & Make-Up",
+              "id": 2869689,
+              "profile_path": ""
+            },
+            {
+              "name": "Debbie Zoller",
+              "job": "Makeup Department Head",
+              "department": "Costume & Make-Up",
+              "id": 9333,
+              "profile_path": ""
+            },
+            {
+              "name": "Gerő Anna",
+              "job": "Key Makeup Artist",
+              "department": "Costume & Make-Up",
+              "id": 2275973,
+              "profile_path": ""
+            },
+            {
+              "name": "Szilvia Homolya",
+              "job": "Makeup Artist",
+              "department": "Costume & Make-Up",
+              "id": 1831377,
+              "profile_path": ""
+            },
+            {
+              "name": "Renáta Grátz-Kiss",
+              "job": "Makeup Artist",
+              "department": "Costume & Make-Up",
+              "id": 6654454,
+              "profile_path": ""
+            },
+            {
+              "name": "Henrik Berendi",
+              "job": "Other",
+              "department": "Costume & Make-Up",
+              "id": 6654455,
+              "profile_path": ""
+            },
+            {
+              "name": "Dániel Hámori",
+              "job": "Prosthetic Makeup Artist",
+              "department": "Costume & Make-Up",
+              "id": 2533572,
+              "profile_path": ""
+            },
+            {
+              "name": "Gábor Kiszelly",
+              "job": "Special Effects Supervisor",
+              "department": "Visual Effects",
+              "id": 1533488,
+              "profile_path": ""
+            },
+            {
+              "name": "Paul Jennings",
+              "job": "Stunt Coordinator",
+              "department": "Crew",
+              "id": 44006,
+              "profile_path": ""
+            },
+            {
+              "name": "Kata Gábor",
+              "job": "Third Assistant Director",
+              "department": "Directing",
+              "id": 6097829,
+              "profile_path": ""
+            },
+            {
+              "name": "Zsigmond Cholnoky",
+              "job": "Location Manager",
+              "department": "Production",
+              "id": 6654458,
+              "profile_path": ""
+            },
+            {
+              "name": "Gergö Gálbory",
+              "job": "Location Manager",
+              "department": "Production",
+              "id": 4888411,
+              "profile_path": ""
+            },
+            {
+              "name": "Novák Gergely",
+              "job": "Assistant Location Manager",
+              "department": "Production",
+              "id": 3636388,
+              "profile_path": ""
+            },
+            {
+              "name": "József Antal",
+              "job": "Assistant Location Manager",
+              "department": "Production",
+              "id": 6654459,
+              "profile_path": ""
+            },
+            {
+              "name": "György Fazekas",
+              "job": "Transportation Coordinator",
+              "department": "Crew",
+              "id": 6654463,
+              "profile_path": ""
+            },
+            {
+              "name": "Marci Gyalog",
+              "job": "Transportation Captain",
+              "department": "Crew",
+              "id": 6654464,
+              "profile_path": ""
+            },
+            {
+              "name": "Olivér Polgár",
+              "job": "Transportation Captain",
+              "department": "Crew",
+              "id": 3352025,
+              "profile_path": ""
+            },
+            {
+              "name": "Lucy Abraham",
+              "job": "Writers' Assistant",
+              "department": "Writing",
+              "id": 3473861,
+              "profile_path": ""
+            },
+            {
+              "name": "Katalin Baranyi",
+              "job": "Location Casting",
+              "department": "Production",
+              "id": 1551452,
+              "profile_path": ""
+            },
+            {
+              "name": "Arabella Winter",
+              "job": "Music Editor",
+              "department": "Sound",
+              "id": 1816351,
+              "profile_path": ""
+            },
+            {
+              "name": "Gustavo Gini",
+              "job": "Orchestrator",
+              "department": "Sound",
+              "id": 1852598,
+              "profile_path": "/5mwQng26UwWn3cC0jf2dSnLDIvP.jpg"
+            },
+            {
+              "name": "Enea Astori",
+              "job": "Orchestrator",
+              "department": "Sound",
+              "id": 6364092,
+              "profile_path": ""
+            },
+            {
+              "name": "Manuela Gávez",
+              "job": "Orchestrator",
+              "department": "Sound",
+              "id": 6654468,
+              "profile_path": ""
+            },
+            {
+              "name": "Enrico M.R. Fallea",
+              "job": "Orchestrator",
+              "department": "Sound",
+              "id": 6528406,
+              "profile_path": ""
+            },
+            {
+              "name": "Francisco Sokolowicz",
+              "job": "Additional Music",
+              "department": "Crew",
+              "id": 3191234,
+              "profile_path": ""
+            },
+            {
+              "name": "Joe Hadman",
+              "job": "Post Production Coordinator",
+              "department": "Production",
+              "id": 2329556,
+              "profile_path": ""
+            },
+            {
+              "name": "Holly Donoghue",
+              "job": "Post Production Assistant",
+              "department": "Crew",
+              "id": 6654471,
+              "profile_path": ""
+            },
+            {
+              "name": "Rami Sarras Pantoja",
+              "job": "Post Production Supervisor",
+              "department": "Crew",
+              "id": 3239384,
+              "profile_path": ""
+            },
+            {
+              "name": "Dominic P. Grant",
+              "job": "Post Production Supervisor",
+              "department": "Crew",
+              "id": 6654472,
+              "profile_path": ""
+            },
+            {
+              "name": "Kath Smith",
+              "job": "Visual Effects Production Manager",
+              "department": "Visual Effects",
+              "id": 3455963,
+              "profile_path": ""
+            },
+            {
+              "name": "Dorottya Esz",
+              "job": "Visual Effects Coordinator",
+              "department": "Visual Effects",
+              "id": 6654473,
+              "profile_path": ""
+            },
+            {
+              "name": "Jade Carter",
+              "job": "Visual Effects Coordinator",
+              "department": "Visual Effects",
+              "id": 3455946,
+              "profile_path": ""
+            },
+            {
+              "name": "PJ Harling",
+              "job": "Visual Effects Editor",
+              "department": "Crew",
+              "id": 1907979,
+              "profile_path": ""
+            },
+            {
+              "name": "Johnathan Rush",
+              "job": "Sound Re-Recording Mixer",
+              "department": "Sound",
+              "id": 1349056,
+              "profile_path": ""
+            },
+            {
+              "name": "Stanley Chalmers",
+              "job": "Sound Mix Technician",
+              "department": "Sound",
+              "id": 6654474,
+              "profile_path": ""
+            },
+            {
+              "name": "Asa Shoul",
+              "job": "Colorist",
+              "department": "Editing",
+              "id": 134573,
+              "profile_path": ""
+            },
+            {
+              "name": "Tim Drewett",
+              "job": "Colorist",
+              "department": "Editing",
+              "id": 1473168,
+              "profile_path": ""
+            },
+            {
+              "name": "Gareth Parry",
+              "job": "Online Editor",
+              "department": "Editing",
+              "id": 2156147,
+              "profile_path": ""
+            },
+            {
+              "name": "Louise Stewart",
+              "job": "Digital Intermediate Producer",
+              "department": "Editing",
+              "id": 6654488,
+              "profile_path": ""
+            },
+            {
+              "name": "Nina Hartstone",
+              "job": "Sound Supervisor",
+              "department": "Sound",
+              "id": 1406189,
+              "profile_path": ""
+            },
+            {
+              "name": "Eilam Hoffman",
+              "job": "Sound Supervisor",
+              "department": "Sound",
+              "id": 1338973,
+              "profile_path": ""
+            },
+            {
+              "name": "Robert Ireland",
+              "job": "Supervising Sound Editor",
+              "department": "Sound",
+              "id": 1376801,
+              "profile_path": ""
+            },
+            {
+              "name": "Bryan Bowen",
+              "job": "Sound Designer",
+              "department": "Sound",
+              "id": 15331,
+              "profile_path": ""
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Estou roubando a casa na véspera de Natal enquanto a família está na missa",
+              "original_name": "",
+              "air_date": "2026-11-12",
+              "runtime": 59,
+              "overview": "O maior roubo da história da Europa é colocado em prática.",
+              "still_path": "/zfAMvnN5pgAEA012r9myHA6I7J0.jpg",
+              "vote_average": 3.375,
+              "vote_count": 12,
+              "guest_stars": [
+                {
+                  "name": "Ólafur Darri Ólafsson",
+                  "character": "Blasius Holtz",
+                  "profile_path": "/5ZlxkgsiKh9d4fWzR23sDf8d3HO.jpg",
+                  "order": 500,
+                  "id": 110902
+                },
+                {
+                  "name": "José Garcia",
+                  "character": "Serge Descoteaux",
+                  "profile_path": "/ml8JHunZl2TCBrcaseqtiEfpykm.jpg",
+                  "order": 501,
+                  "id": 24895
+                },
+                {
+                  "name": "Hildegard Schroedter",
+                  "character": "Gunda Erlinger",
+                  "profile_path": "/3QjCc6pdJRe5xYoa1duA7Eaop1M.jpg",
+                  "order": 502,
+                  "id": 571188
+                },
+                {
+                  "name": "Bernd Hölscher",
+                  "character": "Ueli Burkhalter",
+                  "profile_path": "/9EqV6DKyHaEsZd1GdDeH93K3cU.jpg",
+                  "order": 503,
+                  "id": 1886250
+                },
+                {
+                  "name": "Camélia Jordana",
+                  "character": "Ayah Layouni",
+                  "profile_path": "/1yk7yArcgxOzN5OdUoPc8ZNvtAl.jpg",
+                  "order": 504,
+                  "id": 1171510
+                },
+                {
+                  "name": "Merlin Leonhardt",
+                  "character": "Mauro Freuler",
+                  "profile_path": "",
+                  "order": 505,
+                  "id": 1940779
+                },
+                {
+                  "name": "Pit Bukowski",
+                  "character": "Jan Kobel",
+                  "profile_path": "/h4nHsMTehfJvtdZENWy7g9dr7k3.jpg",
+                  "order": 506,
+                  "id": 115421
+                },
+                {
+                  "name": "Peter Miklusz",
+                  "character": "Pirmin Wyrsch",
+                  "profile_path": "/4mthNIYvN34kqVqKaYlVJWNFbv1.jpg",
+                  "order": 507,
+                  "id": 1998990
+                },
+                {
+                  "name": "Arnaud Roth",
+                  "character": "Skipper",
+                  "profile_path": "",
+                  "order": 508,
+                  "id": 1646871
+                },
+                {
+                  "name": "Laurent Winkler",
+                  "character": "Jewelry Salesman",
+                  "profile_path": "/aDkXTEVtVMmMNxnDZv1e7xUtAo1.jpg",
+                  "order": 509,
+                  "id": 2448697
+                },
+                {
+                  "name": "Tamás Szabó Sipos",
+                  "character": "Swiss Cop",
+                  "profile_path": "",
+                  "order": 510,
+                  "id": 2067129
+                },
+                {
+                  "name": "Nicolas Bosc",
+                  "character": "Masked Man",
+                  "profile_path": "/tgzkwrKYg0TPQN0BSPtgxa4Fkpk.jpg",
+                  "order": 511,
+                  "id": 1485538
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Anthony Mackie",
+                  "character": "Jack Strickland",
+                  "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+                  "order": 0,
+                  "id": 53650
+                },
+                {
+                  "name": "Jamie Dornan",
+                  "character": "Paul Galvin",
+                  "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
+                  "order": 1,
+                  "id": 1254583
+                },
+                {
+                  "name": "Jack Kesy",
+                  "character": "Bobby Galvin",
+                  "profile_path": "/z9lMOGw235m2HeCP4xlwQHXkq5X.jpg",
+                  "order": 2,
+                  "id": 1292258
+                },
+                {
+                  "name": "Agathe Rousselle",
+                  "character": "Severine",
+                  "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
+                  "order": 3,
+                  "id": 2418333
+                },
+                {
+                  "name": "Sallie Harmsen",
+                  "character": "Lena",
+                  "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
+                  "order": 4,
+                  "id": 544096
+                },
+                {
+                  "name": "Julius Feldmeier",
+                  "character": "Alberich",
+                  "profile_path": "/pZcM4EMzsng5JqGkoGM6TGHUyJC.jpg",
+                  "order": 5,
+                  "id": 1170231
+                },
+                {
+                  "name": "Jeanne Balibar",
+                  "character": "Bazin",
+                  "profile_path": "/nvy943Oez5Grrulv3FzLjzN8OSM.jpg",
+                  "order": 6,
+                  "id": 77191
+                },
+                {
+                  "name": "Kali Reis",
+                  "character": "",
+                  "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+                  "order": 7,
+                  "id": 3119545
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kari Skogland",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 22140,
+                  "profile_path": "/5MSVfb2hKtDo3S386YSHjcdaYDC.jpg"
+                },
+                {
+                  "name": "David Raedeker",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1182754,
+                  "profile_path": "/iJ2H6wnAQJndLydvbHGDqaZrFDk.jpg"
+                },
+                {
+                  "name": "Dudi Appleton",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1484102,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jim Keeble",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2148947,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Edel McDonnell",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 2236024,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Michael S. Chandler",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1844782,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Myron Hoffert",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1457897,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sarah Kapetanovic",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 5342148,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt34913565",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10497516,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "FLIXBOX",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjU0NjMwLTAxLTAxLm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080P"
+                },
+                {
+                  "label": "Torrent",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDoxYTQ4NTMyNmNjZmRiZTMzZDcxYTRhYmE2NDhhM2UwMTVkZjRlZGExJnRyPXVkcDovL3RyYWNrZXIuYml0dG9yLnB3OjEzMzcvYW5ub3VuY2UmdHI9dWRwOi8vdHJhY2tlci5vcGVudHJhY2tyLm9yZzoxMzM3L2Fubm91bmNlJnRyPXVkcDovL3RyYWNrZXIuZGxlci5vcmc6Njk2OS9hbm5vdW5jZSZ0cj11ZHA6Ly9vcGVuLnN0ZWFsdGguc2k6ODAvYW5ub3VuY2UmdHI9dWRwOi8vdHJhY2tlci50b3JyZW50LmV1Lm9yZzo0NTEvYW5ub3VuY2UmdHI9dWRwOi8vZXhvZHVzLmRlc3luYy5jb206Njk2OS9hbm5vdW5jZSZ0cj11ZHA6Ly9vcGVuLmRlbW9uaWkuY29tOjEzMzcvYW5ub3VuY2UmZG49QkFJWEFSQVBJRE8uQ09NLS5FUElTT0RJTy0wMS5XRUItREwuMTA4MFAuTUtWLjUuMS4tRFVCTEFETy1EVUFMLUFVRElPLS4xMisxMisxMitTMDFFMDErMTA4MHArV0VCLURMK0RVQUwuNS4xKyU1RA==",
+                  "quality": "1080P",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Quero minha auréola de volta.",
+              "original_name": "",
+              "air_date": "2026-11-12",
+              "runtime": 52,
+              "overview": "Um detalhe despercebido ameaça a equipe. A corrida para encontrar Serge coloca Paul e Jack em rota de colisão.",
+              "still_path": "/7TStPkC8HY4StQPxrFb67SXSTzO.jpg",
+              "vote_average": 4.2,
+              "vote_count": 12,
+              "guest_stars": [
+                {
+                  "name": "Ólafur Darri Ólafsson",
+                  "character": "Blasius Holtz",
+                  "profile_path": "/5ZlxkgsiKh9d4fWzR23sDf8d3HO.jpg",
+                  "order": 500,
+                  "id": 110902
+                },
+                {
+                  "name": "José Garcia",
+                  "character": "Serge Descoteaux",
+                  "profile_path": "/ml8JHunZl2TCBrcaseqtiEfpykm.jpg",
+                  "order": 501,
+                  "id": 24895
+                },
+                {
+                  "name": "Hildegard Schroedter",
+                  "character": "Gunda Erlinger",
+                  "profile_path": "/3QjCc6pdJRe5xYoa1duA7Eaop1M.jpg",
+                  "order": 502,
+                  "id": 571188
+                },
+                {
+                  "name": "Bernd Hölscher",
+                  "character": "Ueli Burkhalter",
+                  "profile_path": "/9EqV6DKyHaEsZd1GdDeH93K3cU.jpg",
+                  "order": 503,
+                  "id": 1886250
+                },
+                {
+                  "name": "Camélia Jordana",
+                  "character": "Ayah Layouni",
+                  "profile_path": "/1yk7yArcgxOzN5OdUoPc8ZNvtAl.jpg",
+                  "order": 504,
+                  "id": 1171510
+                },
+                {
+                  "name": "Merlin Leonhardt",
+                  "character": "Mauro Freuler",
+                  "profile_path": "",
+                  "order": 505,
+                  "id": 1940779
+                },
+                {
+                  "name": "Pit Bukowski",
+                  "character": "Jan Kobel",
+                  "profile_path": "/h4nHsMTehfJvtdZENWy7g9dr7k3.jpg",
+                  "order": 506,
+                  "id": 115421
+                },
+                {
+                  "name": "Peter Miklusz",
+                  "character": "Pirmin Wyrsch",
+                  "profile_path": "/4mthNIYvN34kqVqKaYlVJWNFbv1.jpg",
+                  "order": 507,
+                  "id": 1998990
+                },
+                {
+                  "name": "Adam Rothenberg",
+                  "character": "Special Agent Dan Foose",
+                  "profile_path": "/7XuZx1jzApCv1I6csoaVgJy8Xzb.jpg",
+                  "order": 512,
+                  "id": 129099
+                },
+                {
+                  "name": "Wilfried Hochholdinger",
+                  "character": "Florian Kleinmatz",
+                  "profile_path": "/gtJ3bulxrEUQ5UzCLLiiTKPW7FU.jpg",
+                  "order": 513,
+                  "id": 20021
+                },
+                {
+                  "name": "Georg Bütow",
+                  "character": "Captain Huber",
+                  "profile_path": "/wEwXQtpF2dyjjeV8ath6AP9wyqJ.jpg",
+                  "order": 514,
+                  "id": 1719282
+                },
+                {
+                  "name": "Billy Rayner",
+                  "character": "Alan 'Wingnut' McVeigh",
+                  "profile_path": "/xshJYESJIJfVh3zUP8x5pR88qDJ.jpg",
+                  "order": 515,
+                  "id": 2550504
+                },
+                {
+                  "name": "Máté Bede-Fazekas",
+                  "character": "Kommissar Meier",
+                  "profile_path": "/6BMARkBqy1KQnzGhWfvcyo7ET4X.jpg",
+                  "order": 516,
+                  "id": 3555967
+                },
+                {
+                  "name": "Barnabás Réti",
+                  "character": "Swiss Cop",
+                  "profile_path": "/i3mJKgaYfs3sIZlJwOMwuvrIyjn.jpg",
+                  "order": 517,
+                  "id": 1529490
+                },
+                {
+                  "name": "Sára Gellért",
+                  "character": "Crédit Bern Host",
+                  "profile_path": "/dRLmsaAxmnqAfH4hTjzZ7wHs8bX.jpg",
+                  "order": 518,
+                  "id": 5384712
+                },
+                {
+                  "name": "Robert Jackson",
+                  "character": "Kenneth James Dugger",
+                  "profile_path": "/jGAL898QmnnXXkjeYhSE0WIFW4T.jpg",
+                  "order": 519,
+                  "id": 2892343
+                },
+                {
+                  "name": "Bakonyi Péter",
+                  "character": "German Cop",
+                  "profile_path": "",
+                  "order": 520,
+                  "id": 6654498
+                },
+                {
+                  "name": "Roni Rodrigues",
+                  "character": "Repair Channel Guy",
+                  "profile_path": "",
+                  "order": 521,
+                  "id": 2254793
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Anthony Mackie",
+                  "character": "Jack Strickland",
+                  "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+                  "order": 0,
+                  "id": 53650
+                },
+                {
+                  "name": "Jamie Dornan",
+                  "character": "Paul Galvin",
+                  "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
+                  "order": 1,
+                  "id": 1254583
+                },
+                {
+                  "name": "Jack Kesy",
+                  "character": "Bobby Galvin",
+                  "profile_path": "/z9lMOGw235m2HeCP4xlwQHXkq5X.jpg",
+                  "order": 2,
+                  "id": 1292258
+                },
+                {
+                  "name": "Agathe Rousselle",
+                  "character": "Severine",
+                  "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
+                  "order": 3,
+                  "id": 2418333
+                },
+                {
+                  "name": "Sallie Harmsen",
+                  "character": "Lena",
+                  "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
+                  "order": 4,
+                  "id": 544096
+                },
+                {
+                  "name": "Julius Feldmeier",
+                  "character": "Alberich",
+                  "profile_path": "/pZcM4EMzsng5JqGkoGM6TGHUyJC.jpg",
+                  "order": 5,
+                  "id": 1170231
+                },
+                {
+                  "name": "Jeanne Balibar",
+                  "character": "Bazin",
+                  "profile_path": "/nvy943Oez5Grrulv3FzLjzN8OSM.jpg",
+                  "order": 6,
+                  "id": 77191
+                },
+                {
+                  "name": "Kali Reis",
+                  "character": "Kira",
+                  "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+                  "order": 7,
+                  "id": 3119545
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kari Skogland",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 22140,
+                  "profile_path": "/5MSVfb2hKtDo3S386YSHjcdaYDC.jpg"
+                },
+                {
+                  "name": "David Raedeker",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1182754,
+                  "profile_path": "/iJ2H6wnAQJndLydvbHGDqaZrFDk.jpg"
+                },
+                {
+                  "name": "Dudi Appleton",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1484102,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jim Keeble",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2148947,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Michael S. Chandler",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1844782,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Myron Hoffert",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1457897,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sarah Kapetanovic",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 5342148,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Paul Knight",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 25515,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt34913616",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11948102,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "FLIXBOX",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjU0NjMwLTAxLTAyLm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080P"
+                },
+                {
+                  "label": "Versão 2",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDphMjQ0YThiM2Q0MzM2ZjczN2FhNWQ2MDU4ZjgxNDVkZTNjZmI3NDBkJnRyPXVkcDovL3RyYWNrZXIuYml0dG9yLnB3OjEzMzcvYW5ub3VuY2UmdHI9dWRwOi8vdHJhY2tlci5vcGVudHJhY2tyLm9yZzoxMzM3L2Fubm91bmNlJnRyPXVkcDovL3RyYWNrZXIuZGxlci5vcmc6Njk2OS9hbm5vdW5jZSZ0cj11ZHA6Ly9vcGVuLnN0ZWFsdGguc2k6ODAvYW5ub3VuY2UmdHI9dWRwOi8vdHJhY2tlci50b3JyZW50LmV1Lm9yZzo0NTEvYW5ub3VuY2UmdHI9dWRwOi8vZXhvZHVzLmRlc3luYy5jb206Njk2OS9hbm5vdW5jZSZ0cj11ZHA6Ly9vcGVuLmRlbW9uaWkuY29tOjEzMzcvYW5ub3VuY2UmZG49QkFJWEFSQVBJRE8uQ09NLS5FUElTT0RJTy0wMi5XRUItREwuMTA4MFAuTUtWLjUuMS4tRFVCTEFETy1EVUFMLUFVRElPLS4xMisxMisxMitTMDFFMDIrMTA4MHArV0VCLURMK0RVQUwuNS4xKyU1RA==",
+                  "quality": "1080P",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Einfach Obergeil",
+              "original_name": "",
+              "air_date": "2026-11-19",
+              "runtime": 57,
+              "overview": "No coração dos Alpes, dinheiro e lealdades estão divididos. Bobby pensa em trair.",
+              "still_path": "/3316vkuK6fN6Kspw1zp4GBq1iAV.jpg",
+              "vote_average": 2.8,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "Ólafur Darri Ólafsson",
+                  "character": "Blasius Holtz",
+                  "profile_path": "/5ZlxkgsiKh9d4fWzR23sDf8d3HO.jpg",
+                  "order": 500,
+                  "id": 110902
+                },
+                {
+                  "name": "José Garcia",
+                  "character": "Serge Descoteaux",
+                  "profile_path": "/ml8JHunZl2TCBrcaseqtiEfpykm.jpg",
+                  "order": 501,
+                  "id": 24895
+                },
+                {
+                  "name": "Hildegard Schroedter",
+                  "character": "Gunda Erlinger",
+                  "profile_path": "/3QjCc6pdJRe5xYoa1duA7Eaop1M.jpg",
+                  "order": 502,
+                  "id": 571188
+                },
+                {
+                  "name": "Bernd Hölscher",
+                  "character": "Ueli Burkhalter",
+                  "profile_path": "/9EqV6DKyHaEsZd1GdDeH93K3cU.jpg",
+                  "order": 503,
+                  "id": 1886250
+                },
+                {
+                  "name": "Merlin Leonhardt",
+                  "character": "Mauro Freuler",
+                  "profile_path": "",
+                  "order": 505,
+                  "id": 1940779
+                },
+                {
+                  "name": "Pit Bukowski",
+                  "character": "Jan Kobel",
+                  "profile_path": "/h4nHsMTehfJvtdZENWy7g9dr7k3.jpg",
+                  "order": 506,
+                  "id": 115421
+                },
+                {
+                  "name": "Wilfried Hochholdinger",
+                  "character": "Florian Kleinmatz",
+                  "profile_path": "/gtJ3bulxrEUQ5UzCLLiiTKPW7FU.jpg",
+                  "order": 513,
+                  "id": 20021
+                },
+                {
+                  "name": "Georg Bütow",
+                  "character": "Captain Huber",
+                  "profile_path": "/wEwXQtpF2dyjjeV8ath6AP9wyqJ.jpg",
+                  "order": 514,
+                  "id": 1719282
+                },
+                {
+                  "name": "Billy Rayner",
+                  "character": "Alan 'Wingnut' McVeigh",
+                  "profile_path": "/xshJYESJIJfVh3zUP8x5pR88qDJ.jpg",
+                  "order": 515,
+                  "id": 2550504
+                },
+                {
+                  "name": "Lela Loren",
+                  "character": "Sarah Niles",
+                  "profile_path": "/1MROHIj3FQ6Apcz5qeEDWqlJpdu.jpg",
+                  "order": 522,
+                  "id": 203781
+                },
+                {
+                  "name": "Csákvári Krisztián",
+                  "character": "Tibor Kadar",
+                  "profile_path": "/yneYGvCihZ1e0rHVljMxU0pyImr.jpg",
+                  "order": 523,
+                  "id": 2503035
+                },
+                {
+                  "name": "Fred Faber",
+                  "character": "TZA Controller",
+                  "profile_path": "/mD0MP93tujZG2as5WDMCaH9BhMj.jpg",
+                  "order": 524,
+                  "id": 5019343
+                },
+                {
+                  "name": "Kosynus Tomi",
+                  "character": "TZA Security Guard",
+                  "profile_path": "",
+                  "order": 525,
+                  "id": 2077399
+                },
+                {
+                  "name": "Nicolas Hackenberg",
+                  "character": "Taxi Driver",
+                  "profile_path": "/8Wtcf3shwuMt2ngsMvjyyx4LEoB.jpg",
+                  "order": 526,
+                  "id": 4112826
+                },
+                {
+                  "name": "Dávid Snopek",
+                  "character": "Credit Bern Security Guard",
+                  "profile_path": "",
+                  "order": 527,
+                  "id": 4526064
+                },
+                {
+                  "name": "Bálind Dénes",
+                  "character": "Railway Security Guard",
+                  "profile_path": "",
+                  "order": 528,
+                  "id": 2069540
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Anthony Mackie",
+                  "character": "Jack Strickland",
+                  "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+                  "order": 0,
+                  "id": 53650
+                },
+                {
+                  "name": "Jamie Dornan",
+                  "character": "Paul Galvin",
+                  "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
+                  "order": 1,
+                  "id": 1254583
+                },
+                {
+                  "name": "Jack Kesy",
+                  "character": "Bobby Galvin",
+                  "profile_path": "/z9lMOGw235m2HeCP4xlwQHXkq5X.jpg",
+                  "order": 2,
+                  "id": 1292258
+                },
+                {
+                  "name": "Agathe Rousselle",
+                  "character": "Severine",
+                  "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
+                  "order": 3,
+                  "id": 2418333
+                },
+                {
+                  "name": "Sallie Harmsen",
+                  "character": "Lena",
+                  "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
+                  "order": 4,
+                  "id": 544096
+                },
+                {
+                  "name": "Julius Feldmeier",
+                  "character": "Alberich",
+                  "profile_path": "/pZcM4EMzsng5JqGkoGM6TGHUyJC.jpg",
+                  "order": 5,
+                  "id": 1170231
+                },
+                {
+                  "name": "Jeanne Balibar",
+                  "character": "Bazin",
+                  "profile_path": "/nvy943Oez5Grrulv3FzLjzN8OSM.jpg",
+                  "order": 6,
+                  "id": 77191
+                },
+                {
+                  "name": "Kali Reis",
+                  "character": "Kira",
+                  "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+                  "order": 7,
+                  "id": 3119545
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Samantha Corbin-Miller",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1226498,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ellen Kuras",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 313,
+                  "profile_path": "/karbKVM0CPdRXbmLp4XX9oLQXSb.jpg"
+                },
+                {
+                  "name": "Carl Sundberg",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 555771,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Robert Frost",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 5957907,
+                  "profile_path": "/sdBPKiHIK3PxK3LTG2IATwXform.jpg"
+                },
+                {
+                  "name": "Dot Kopek",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 3165227,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Alex Gibb",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1635519,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Petr Matousek",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 6489167,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Therese Friel",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 2768266,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt36598097",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11948103,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Torrent",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjU0NjMwLTAxLTAzLm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080P"
+                },
+                {
+                  "label": "Torrent",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDo4MmY0Y2QyZDRmN2MwZGY3ZjNlNWE3ZGI3MzUzZTE0NWRlMjc1YmMxJnRyPXVkcDovL3RyYWNrZXIuYml0dG9yLnB3OjEzMzcvYW5ub3VuY2UmdHI9dWRwOi8vdHJhY2tlci5vcGVudHJhY2tyLm9yZzoxMzM3L2Fubm91bmNlJnRyPXVkcDovL3RyYWNrZXIuZGxlci5vcmc6Njk2OS9hbm5vdW5jZSZ0cj11ZHA6Ly9vcGVuLnN0ZWFsdGguc2k6ODAvYW5ub3VuY2UmdHI9dWRwOi8vdHJhY2tlci50b3JyZW50LmV1Lm9yZzo0NTEvYW5ub3VuY2UmdHI9dWRwOi8vZXhvZHVzLmRlc3luYy5jb206Njk2OS9hbm5vdW5jZSZ0cj11ZHA6Ly9vcGVuLmRlbW9uaWkuY29tOjEzMzcvYW5ub3VuY2UmZG49QkFJWEFSQVBJRE8uQ09NLS5FUElTT0RJTy0wMy5XRUItREwuMTA4MFAuTUtWLjUuMS4tRFVCTEFETy1EVUFMLUFVRElPLS4xMisxMisxMitTMDFFMDMrMTA4MHArV0VCLURMK0RVQUwuNS4xKyU1RA==",
+                  "quality": "1080P",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Episódio 4",
+              "original_name": "",
+              "air_date": "2026-11-26",
+              "runtime": 48,
+              "overview": "",
+              "still_path": "/lX6DVAOFbrx5Lcw0J95yv8zWcEQ.jpg",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Anthony Mackie",
+                  "character": "Jack Strickland",
+                  "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+                  "order": 0,
+                  "id": 53650
+                },
+                {
+                  "name": "Jamie Dornan",
+                  "character": "Paul Galvin",
+                  "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
+                  "order": 1,
+                  "id": 1254583
+                },
+                {
+                  "name": "Jack Kesy",
+                  "character": "Bobby Galvin",
+                  "profile_path": "/z9lMOGw235m2HeCP4xlwQHXkq5X.jpg",
+                  "order": 2,
+                  "id": 1292258
+                },
+                {
+                  "name": "Agathe Rousselle",
+                  "character": "Severine",
+                  "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
+                  "order": 3,
+                  "id": 2418333
+                },
+                {
+                  "name": "Sallie Harmsen",
+                  "character": "Lena",
+                  "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
+                  "order": 4,
+                  "id": 544096
+                },
+                {
+                  "name": "Julius Feldmeier",
+                  "character": "Alberich",
+                  "profile_path": "/pZcM4EMzsng5JqGkoGM6TGHUyJC.jpg",
+                  "order": 5,
+                  "id": 1170231
+                },
+                {
+                  "name": "Jeanne Balibar",
+                  "character": "Bazin",
+                  "profile_path": "/nvy943Oez5Grrulv3FzLjzN8OSM.jpg",
+                  "order": 6,
+                  "id": 77191
+                },
+                {
+                  "name": "Kali Reis",
+                  "character": "Kira",
+                  "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+                  "order": 7,
+                  "id": 3119545
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Joe Murtagh",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1744228,
+                  "profile_path": "/gUtnpoqIbitzh93wW3YDuZ5Xaft.jpg"
+                },
+                {
+                  "name": "Ellen Kuras",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 313,
+                  "profile_path": "/karbKVM0CPdRXbmLp4XX9oLQXSb.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt36598099",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11948104,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "FLIXBOX",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjU0NjMwLTAxLTA0Lm1rdg==",
+                  "language": "FLIXBOX"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "Episódio 5",
+              "original_name": "",
+              "air_date": "2026-12-03",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Anthony Mackie",
+                  "character": "Jack Strickland",
+                  "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+                  "order": 0,
+                  "id": 53650
+                },
+                {
+                  "name": "Jamie Dornan",
+                  "character": "Paul Galvin",
+                  "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
+                  "order": 1,
+                  "id": 1254583
+                },
+                {
+                  "name": "Jack Kesy",
+                  "character": "Bobby Galvin",
+                  "profile_path": "/z9lMOGw235m2HeCP4xlwQHXkq5X.jpg",
+                  "order": 2,
+                  "id": 1292258
+                },
+                {
+                  "name": "Agathe Rousselle",
+                  "character": "Severine",
+                  "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
+                  "order": 3,
+                  "id": 2418333
+                },
+                {
+                  "name": "Sallie Harmsen",
+                  "character": "Lena",
+                  "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
+                  "order": 4,
+                  "id": 544096
+                },
+                {
+                  "name": "Julius Feldmeier",
+                  "character": "Alberich",
+                  "profile_path": "/pZcM4EMzsng5JqGkoGM6TGHUyJC.jpg",
+                  "order": 5,
+                  "id": 1170231
+                },
+                {
+                  "name": "Jeanne Balibar",
+                  "character": "Bazin",
+                  "profile_path": "/nvy943Oez5Grrulv3FzLjzN8OSM.jpg",
+                  "order": 6,
+                  "id": 77191
+                },
+                {
+                  "name": "Kali Reis",
+                  "character": "Kira",
+                  "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+                  "order": 7,
+                  "id": 3119545
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Samantha Corbin-Miller",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1226498,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jamie Carragher",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 3981234,
+                  "profile_path": ""
+                },
+                {
+                  "name": "福永壮志",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1462259,
+                  "profile_path": "/cczyrwMQbsIMJeC3fCUM2NZCoDA.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt36598104",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11948105,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "FLIXBOX",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjU0NjMwLTAxLTA1Lm1rdg==",
+                  "language": "FLIXBOX"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Episódio 6",
+              "original_name": "",
+              "air_date": "2026-12-10",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Anthony Mackie",
+                  "character": "Jack Strickland",
+                  "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+                  "order": 0,
+                  "id": 53650
+                },
+                {
+                  "name": "Jamie Dornan",
+                  "character": "Paul Galvin",
+                  "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
+                  "order": 1,
+                  "id": 1254583
+                },
+                {
+                  "name": "Jack Kesy",
+                  "character": "Bobby Galvin",
+                  "profile_path": "/z9lMOGw235m2HeCP4xlwQHXkq5X.jpg",
+                  "order": 2,
+                  "id": 1292258
+                },
+                {
+                  "name": "Agathe Rousselle",
+                  "character": "Severine",
+                  "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
+                  "order": 3,
+                  "id": 2418333
+                },
+                {
+                  "name": "Sallie Harmsen",
+                  "character": "Lena",
+                  "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
+                  "order": 4,
+                  "id": 544096
+                },
+                {
+                  "name": "Julius Feldmeier",
+                  "character": "Alberich",
+                  "profile_path": "/pZcM4EMzsng5JqGkoGM6TGHUyJC.jpg",
+                  "order": 5,
+                  "id": 1170231
+                },
+                {
+                  "name": "Jeanne Balibar",
+                  "character": "Bazin",
+                  "profile_path": "/nvy943Oez5Grrulv3FzLjzN8OSM.jpg",
+                  "order": 6,
+                  "id": 77191
+                },
+                {
+                  "name": "Kali Reis",
+                  "character": "Kira",
+                  "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+                  "order": 7,
+                  "id": 3119545
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Joe Murtagh",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1744228,
+                  "profile_path": "/gUtnpoqIbitzh93wW3YDuZ5Xaft.jpg"
+                },
+                {
+                  "name": "Tolula Dada",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 3265532,
+                  "profile_path": ""
+                },
+                {
+                  "name": "福永壮志",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1462259,
+                  "profile_path": "/cczyrwMQbsIMJeC3fCUM2NZCoDA.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt36598108",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11948106,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "FLIXBOX",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjU0NjMwLTAxLTA2Lm1rdg==",
+                  "language": "FLIXBOX"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "Episódio 7",
+              "original_name": "",
+              "air_date": "2026-12-17",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Anthony Mackie",
+                  "character": "Jack Strickland",
+                  "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+                  "order": 0,
+                  "id": 53650
+                },
+                {
+                  "name": "Jamie Dornan",
+                  "character": "Paul Galvin",
+                  "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
+                  "order": 1,
+                  "id": 1254583
+                },
+                {
+                  "name": "Jack Kesy",
+                  "character": "Bobby Galvin",
+                  "profile_path": "/z9lMOGw235m2HeCP4xlwQHXkq5X.jpg",
+                  "order": 2,
+                  "id": 1292258
+                },
+                {
+                  "name": "Agathe Rousselle",
+                  "character": "Severine",
+                  "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
+                  "order": 3,
+                  "id": 2418333
+                },
+                {
+                  "name": "Sallie Harmsen",
+                  "character": "Lena",
+                  "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
+                  "order": 4,
+                  "id": 544096
+                },
+                {
+                  "name": "Julius Feldmeier",
+                  "character": "Alberich",
+                  "profile_path": "/pZcM4EMzsng5JqGkoGM6TGHUyJC.jpg",
+                  "order": 5,
+                  "id": 1170231
+                },
+                {
+                  "name": "Jeanne Balibar",
+                  "character": "Bazin",
+                  "profile_path": "/nvy943Oez5Grrulv3FzLjzN8OSM.jpg",
+                  "order": 6,
+                  "id": 77191
+                },
+                {
+                  "name": "Kali Reis",
+                  "character": "",
+                  "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+                  "order": 7,
+                  "id": 3119545
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kari Skogland",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 22140,
+                  "profile_path": "/5MSVfb2hKtDo3S386YSHjcdaYDC.jpg"
+                },
+                {
+                  "name": "Dudi Appleton",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1484102,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jim Keeble",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2148947,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt36598112",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11948107,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "FLIXBOX",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjU0NjMwLTAxLTA3Lm1rdg==",
+                  "language": "FLIXBOX"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "Episódio 8",
+              "original_name": "",
+              "air_date": "2026-12-24",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Anthony Mackie",
+                  "character": "Jack Strickland",
+                  "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+                  "order": 0,
+                  "id": 53650
+                },
+                {
+                  "name": "Jamie Dornan",
+                  "character": "Paul Galvin",
+                  "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
+                  "order": 1,
+                  "id": 1254583
+                },
+                {
+                  "name": "Jack Kesy",
+                  "character": "Bobby Galvin",
+                  "profile_path": "/z9lMOGw235m2HeCP4xlwQHXkq5X.jpg",
+                  "order": 2,
+                  "id": 1292258
+                },
+                {
+                  "name": "Agathe Rousselle",
+                  "character": "Severine",
+                  "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
+                  "order": 3,
+                  "id": 2418333
+                },
+                {
+                  "name": "Sallie Harmsen",
+                  "character": "Lena",
+                  "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
+                  "order": 4,
+                  "id": 544096
+                },
+                {
+                  "name": "Julius Feldmeier",
+                  "character": "Alberich",
+                  "profile_path": "/pZcM4EMzsng5JqGkoGM6TGHUyJC.jpg",
+                  "order": 5,
+                  "id": 1170231
+                },
+                {
+                  "name": "Jeanne Balibar",
+                  "character": "Bazin",
+                  "profile_path": "/nvy943Oez5Grrulv3FzLjzN8OSM.jpg",
+                  "order": 6,
+                  "id": 77191
+                },
+                {
+                  "name": "Kali Reis",
+                  "character": "Kira",
+                  "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+                  "order": 7,
+                  "id": 3119545
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kari Skogland",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 22140,
+                  "profile_path": "/5MSVfb2hKtDo3S386YSHjcdaYDC.jpg"
+                },
+                {
+                  "name": "Dudi Appleton",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1484102,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jim Keeble",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2148947,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt36598118",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11948108,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "FLIXBOX",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjU0NjMwLTAxLTA4Lm1rdg==",
+                  "language": "FLIXBOX"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
