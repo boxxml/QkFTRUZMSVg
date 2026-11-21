@@ -224538,6 +224538,508 @@
           "profile_path": ""
         }
       ]
+    },
+    {
+      "type": "movie",
+      "title": "O Preço dos Pecados",
+      "original_title": "Peter Five Eight",
+      "tmdb_id": "974878",
+      "id": 974878,
+      "year": "2024",
+      "release_date": "2024-03-22",
+      "overview": "Sam é uma corretora de imóveis que vive em uma pequena comunidade nas montanhas. Mas por trás de sua vida de glamour, ela guarda um passado sombrio que está prestes a ser revelado com a chegada de um misterioso homem à cidade.",
+      "tagline": "",
+      "poster": "/m9y6xjozdFDkT6JDWhHhx6MXn4C.jpg",
+      "backdrop": "/cVHd71dNH5xPtquY8KxFyLzKnlC.jpg",
+      "vote_average": 4.4,
+      "vote_count": 15,
+      "genres": [
+        "Ação",
+        "Thriller",
+        "Comédia",
+        "Drama"
+      ],
+      "runtime": 101,
+      "certification": "",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "Ascent Films",
+        "Forever Safe Productions"
+      ],
+      "external_ids": {
+        "imdb_id": "tt15005606",
+        "wikidata_id": "Q112135884",
+        "facebook_id": null,
+        "instagram_id": "@peter_five_eight",
+        "twitter_id": null
+      },
+      "sources": [
+        {
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDpqMmNtNnZkdndsemx3a3lvZ2drbXFsYmF4YmNyZGtqbyZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uV0VCLURMLjEwODBQLk1LVi4tRFVCTEFETy1EVUFMLUFVRElPLS5PK1ByZSVDMyVBN28rZG9zK1BlY2Fkb3MuMjAyNC4xMDgwcC5XRUItREwuRFVBTC4yLjA=",
+          "label": "Torrent",
+          "quality": "1080P",
+          "language": "Português / Inglês"
+        }
+      ],
+      "cast": [
+        {
+          "name": "Kevin Spacey",
+          "character": "Peter",
+          "profile_path": "/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg",
+          "order": 0,
+          "id": 1979
+        },
+        {
+          "name": "Jet Jandreau",
+          "character": "Sam",
+          "profile_path": "/iZvmi8Q4mLwKk1ePLomGlspqLkA.jpg",
+          "order": 1,
+          "id": 3146133
+        },
+        {
+          "name": "Rebecca De Mornay",
+          "character": "Brenda",
+          "profile_path": "/zC2RrrdZv4UKUtHgCfKD6bJY1Qy.jpg",
+          "order": 2,
+          "id": 28412
+        },
+        {
+          "name": "Jake Weber",
+          "character": "Lock",
+          "profile_path": "/z1RTh4qvyMFha8nKd5Uw1dKwkZz.jpg",
+          "order": 3,
+          "id": 4177
+        },
+        {
+          "name": "Michael Emery",
+          "character": "Travis",
+          "profile_path": "/98R6yBq9bJpXQKsWPjratVlgeOr.jpg",
+          "order": 4,
+          "id": 1262888
+        },
+        {
+          "name": "Garrett Smith",
+          "character": "Grant",
+          "profile_path": "",
+          "order": 5,
+          "id": 1264313
+        },
+        {
+          "name": "Dale Dobson",
+          "character": "Willoughby",
+          "profile_path": "/g1CnnGBVF88NN0ZTjV2hdsq1zoZ.jpg",
+          "order": 6,
+          "id": 3545826
+        },
+        {
+          "name": "John Otrin",
+          "character": "Preacher",
+          "profile_path": "/pszSyyhGYG5DrRTQTaBPPHLn7Ga.jpg",
+          "order": 7,
+          "id": 102576
+        },
+        {
+          "name": "Kelley Poling",
+          "character": "Jen",
+          "profile_path": "/yCr4e8pdxK7PyBaeuPHqsyHxsdO.jpg",
+          "order": 8,
+          "id": 2934768
+        },
+        {
+          "name": "Michele Farbman",
+          "character": "Darla",
+          "profile_path": "/8krlBIhJFbNILJib4691d0qyIlD.jpg",
+          "order": 9,
+          "id": 3546498
+        },
+        {
+          "name": "Elizabeth Harnett",
+          "character": "Marlene",
+          "profile_path": "/k7ZcGuZBhXZUzGgXhlCVX7xqbys.jpg",
+          "order": 10,
+          "id": 2568494
+        },
+        {
+          "name": "Tom McElroy",
+          "character": "Bearded Man",
+          "profile_path": "/l1ax4H90ZidFm1IVrNqrrCeqDZs.jpg",
+          "order": 11,
+          "id": 1840452
+        },
+        {
+          "name": "Suzanne Petri",
+          "character": "Neighbor Lady",
+          "profile_path": "/idm1wiAJtcIHYBq7CNeDfH40l1B.jpg",
+          "order": 12,
+          "id": 2206048
+        },
+        {
+          "name": "Michael Chinn",
+          "character": "Patron",
+          "profile_path": "/suWPDXiaDuLGAe66DHv0ZXO3SB2.jpg",
+          "order": 13,
+          "id": 1188568
+        },
+        {
+          "name": "Erika Keck",
+          "character": "Madeline",
+          "profile_path": "/oTuAFUtIwzcQJ79kcDdF7AaTTuf.jpg",
+          "order": 14,
+          "id": 3546499
+        },
+        {
+          "name": "Nicholas Fabrio",
+          "character": "Bartender",
+          "profile_path": "/ccQFAJLte69kYkHJYqO2hPapJCe.jpg",
+          "order": 15,
+          "id": 3546500
+        },
+        {
+          "name": "Sophia De Mornay-O'Neal",
+          "character": "Hana (as Sophia De Mornay-O'Neal)",
+          "profile_path": "/jNf8OA9yiGu9hnrLpQ48eEmJkPp.jpg",
+          "order": 16,
+          "id": 3546501
+        },
+        {
+          "name": "Jack Trout",
+          "character": "Rick",
+          "profile_path": "/65MPYdtJclQhIa8ApqPJW6B33q5.jpg",
+          "order": 17,
+          "id": 3546502
+        },
+        {
+          "name": "Marguerite Beebe",
+          "character": "Cashier (as Marquerite Beebe)",
+          "profile_path": "/1KYBmiaBvPhBpCjShdJMBONp93.jpg",
+          "order": 18,
+          "id": 3546503
+        },
+        {
+          "name": "Anna Sinreich",
+          "character": "Georgette",
+          "profile_path": "",
+          "order": 19,
+          "id": 3546504
+        },
+        {
+          "name": "Cliff Flowers",
+          "character": "Yocal",
+          "profile_path": "",
+          "order": 20,
+          "id": 3546505
+        },
+        {
+          "name": "Jason Mac",
+          "character": "Jerry",
+          "profile_path": "/kdYOxra9VQKeAQzVYvJniZSbu8d.jpg",
+          "order": 21,
+          "id": 1344782
+        },
+        {
+          "name": "Bella Altamura",
+          "character": "Young Woman",
+          "profile_path": "/owZbVENam8GdtD3LcotDWmSIaPX.jpg",
+          "order": 22,
+          "id": 3546506
+        },
+        {
+          "name": "Christopher Cates",
+          "character": "Chauffeur",
+          "profile_path": "",
+          "order": 23,
+          "id": 3546507
+        }
+      ],
+      "crew": [
+        {
+          "name": "Michael Zaiko Hall",
+          "job": "Director",
+          "department": "Directing",
+          "id": 2588768,
+          "profile_path": "/nyY8rXwSSry6o33d869DEF6syjU.jpg"
+        },
+        {
+          "name": "Michael Zaiko Hall",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 2588768,
+          "profile_path": "/nyY8rXwSSry6o33d869DEF6syjU.jpg"
+        },
+        {
+          "name": "Mason Cooper",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 2039273,
+          "profile_path": ""
+        },
+        {
+          "name": "Michael Zaiko Hall",
+          "job": "Producer",
+          "department": "Production",
+          "id": 2588768,
+          "profile_path": "/nyY8rXwSSry6o33d869DEF6syjU.jpg"
+        },
+        {
+          "name": "Jet Jandreau",
+          "job": "Producer",
+          "department": "Production",
+          "id": 3146133,
+          "profile_path": "/iZvmi8Q4mLwKk1ePLomGlspqLkA.jpg"
+        },
+        {
+          "name": "John Lerchen",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1774935,
+          "profile_path": ""
+        },
+        {
+          "name": "Nicolas T. Silva",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 3546509,
+          "profile_path": ""
+        },
+        {
+          "name": "Harvey Davis",
+          "job": "Music",
+          "department": "Sound",
+          "id": 3546511,
+          "profile_path": ""
+        },
+        {
+          "name": "Eric Liberacki",
+          "job": "Director of Photography",
+          "department": "Camera",
+          "id": 2336619,
+          "profile_path": ""
+        },
+        {
+          "name": "Nigel Galt",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 5019,
+          "profile_path": ""
+        },
+        {
+          "name": "John Jackson",
+          "job": "Casting",
+          "department": "Production",
+          "id": 21691,
+          "profile_path": ""
+        },
+        {
+          "name": "Paige Smith",
+          "job": "Production Design",
+          "department": "Art",
+          "id": 2409003,
+          "profile_path": ""
+        },
+        {
+          "name": "Renonda Anderson",
+          "job": "Key Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1878445,
+          "profile_path": ""
+        },
+        {
+          "name": "Hannah Brooke",
+          "job": "Key Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 3046865,
+          "profile_path": ""
+        },
+        {
+          "name": "Deazmondpaul Lerner",
+          "job": "Key Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 3546515,
+          "profile_path": ""
+        },
+        {
+          "name": "Loyda Martinez",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 3546517,
+          "profile_path": ""
+        },
+        {
+          "name": "Natalie Mcdonald",
+          "job": "Key Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 3546518,
+          "profile_path": ""
+        },
+        {
+          "name": "Rocksanne Ramirez",
+          "job": "Key Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 3546519,
+          "profile_path": ""
+        },
+        {
+          "name": "Elaina Willis",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 3546520,
+          "profile_path": ""
+        },
+        {
+          "name": "Jordan Graves",
+          "job": "Unit Production Manager",
+          "department": "Production",
+          "id": 1939248,
+          "profile_path": "/3b0brt3BmuoyrZcVaDP6VAehW6K.jpg"
+        },
+        {
+          "name": "Michael Villalobos",
+          "job": "Second Second Assistant Director",
+          "department": "Directing",
+          "id": 3546521,
+          "profile_path": ""
+        },
+        {
+          "name": "Alex Wilson",
+          "job": "Assistant Director",
+          "department": "Directing",
+          "id": 2614033,
+          "profile_path": ""
+        },
+        {
+          "name": "Morgan Harvey",
+          "job": "Props",
+          "department": "Art",
+          "id": 3546522,
+          "profile_path": ""
+        },
+        {
+          "name": "Morgan Harvey",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 3546522,
+          "profile_path": ""
+        },
+        {
+          "name": "Steve Grider",
+          "job": "Sound Mixer",
+          "department": "Sound",
+          "id": 1802250,
+          "profile_path": ""
+        },
+        {
+          "name": "David Gullberg",
+          "job": "Boom Operator",
+          "department": "Sound",
+          "id": 3546524,
+          "profile_path": ""
+        },
+        {
+          "name": "Henry Maynard",
+          "job": "Sound Re-Recording Mixer",
+          "department": "Sound",
+          "id": 2956064,
+          "profile_path": ""
+        },
+        {
+          "name": "Mark McBryde",
+          "job": "Foley Artist",
+          "department": "Sound",
+          "id": 1558855,
+          "profile_path": ""
+        },
+        {
+          "name": "Mark McBryde",
+          "job": "Foley Editor",
+          "department": "Sound",
+          "id": 1558855,
+          "profile_path": ""
+        },
+        {
+          "name": "Carlos Cabrera-Mayol",
+          "job": "Key Grip",
+          "department": "Camera",
+          "id": 2986190,
+          "profile_path": ""
+        },
+        {
+          "name": "Joshua George",
+          "job": "Best Boy Grip",
+          "department": "Camera",
+          "id": 2398845,
+          "profile_path": ""
+        },
+        {
+          "name": "Allie Seibert",
+          "job": "First Assistant Camera",
+          "department": "Camera",
+          "id": 3546526,
+          "profile_path": ""
+        },
+        {
+          "name": "Justin Thompson",
+          "job": "Gaffer",
+          "department": "Lighting",
+          "id": 2083235,
+          "profile_path": ""
+        },
+        {
+          "name": "Mason Cooper",
+          "job": "Music Supervisor",
+          "department": "Sound",
+          "id": 2039273,
+          "profile_path": ""
+        },
+        {
+          "name": "Nathanael Lathrop",
+          "job": "Production Assistant",
+          "department": "Production",
+          "id": 3546529,
+          "profile_path": ""
+        },
+        {
+          "name": "Jerome Saverimuttu",
+          "job": "Production Assistant",
+          "department": "Production",
+          "id": 3546530,
+          "profile_path": ""
+        },
+        {
+          "name": "Oliver Caspersen",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 2735312,
+          "profile_path": "/5aM6XChsoDfLsPSks8Sw3XFqeUC.jpg"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Michael Zaiko Hall",
+          "job": "Director",
+          "department": "Directing",
+          "id": 2588768,
+          "profile_path": "/nyY8rXwSSry6o33d869DEF6syjU.jpg"
+        }
+      ],
+      "writers": [
+        {
+          "name": "Michael Zaiko Hall",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 2588768,
+          "profile_path": "/nyY8rXwSSry6o33d869DEF6syjU.jpg"
+        },
+        {
+          "name": "Oliver Caspersen",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 2735312,
+          "profile_path": "/5aM6XChsoDfLsPSks8Sw3XFqeUC.jpg"
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
