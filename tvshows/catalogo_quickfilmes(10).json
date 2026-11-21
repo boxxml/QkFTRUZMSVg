@@ -23586,6 +23586,3395 @@
           ]
         }
       ]
+    },
+    {
+      "type": "tv",
+      "title": "Alien: Earth",
+      "original_title": "Alien: Earth",
+      "tmdb_id": "157239",
+      "id": 157239,
+      "year": "2025",
+      "release_date": "2025-08-12",
+      "overview": "Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta.",
+      "tagline": "Era mais seguro no espaço.",
+      "poster": "/wEMJxkaVw5hIHax9raBLd82TLAR.jpg",
+      "backdrop": "/sVxit4vKQZnrHejeQupBYadP22g.jpg",
+      "vote_average": 7.284,
+      "vote_count": 1213,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "runtime": 0,
+      "certification": "16",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "FX Productions",
+        "Scott Free Productions",
+        "26 Keys Productions"
+      ],
+      "external_ids": {
+        "imdb_id": "tt13623632",
+        "freebase_mid": null,
+        "freebase_id": null,
+        "tvdb_id": 458912,
+        "tvrage_id": null,
+        "wikidata_id": "Q116200246",
+        "facebook_id": "alienearthfx",
+        "instagram_id": "alienearthfx",
+        "twitter_id": null
+      },
+      "sources": [],
+      "status": "Returning Series",
+      "networks": [
+        "FX",
+        "Hulu"
+      ],
+      "created_by": [
+        {
+          "id": 202816,
+          "name": "Noah Hawley",
+          "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+        }
+      ],
+      "number_of_seasons": 1,
+      "number_of_episodes": 8,
+      "cast": [
+        {
+          "name": "Sydney Chandler",
+          "character": "Wendy",
+          "profile_path": "/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg",
+          "order": 0,
+          "id": 2754753
+        },
+        {
+          "name": "Alex Lawther",
+          "character": "Joe DiMaggio Hermit",
+          "profile_path": "/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg",
+          "order": 1,
+          "id": 1379277
+        },
+        {
+          "name": "Essie Davis",
+          "character": "Dame Sylvia",
+          "profile_path": "/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg",
+          "order": 2,
+          "id": 33449
+        },
+        {
+          "name": "Samuel Blenkin",
+          "character": "Boy Kavalier",
+          "profile_path": "/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg",
+          "order": 3,
+          "id": 2500348
+        },
+        {
+          "name": "Babou Ceesay",
+          "character": "Kumi Morrow",
+          "profile_path": "/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg",
+          "order": 4,
+          "id": 41044
+        },
+        {
+          "name": "Adarsh Gourav",
+          "character": "Slightly",
+          "profile_path": "/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg",
+          "order": 5,
+          "id": 1605786
+        },
+        {
+          "name": "Erana James",
+          "character": "Curly",
+          "profile_path": "/4LSba8f5KN4hXqjnz6RTNAcOS4C.jpg",
+          "order": 6,
+          "id": 1708744
+        },
+        {
+          "name": "Lily Newmark",
+          "character": "Nibs",
+          "profile_path": "/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg",
+          "order": 7,
+          "id": 1881105
+        },
+        {
+          "name": "Jonathan Ajayi",
+          "character": "Smee",
+          "profile_path": "/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg",
+          "order": 8,
+          "id": 2559238
+        },
+        {
+          "name": "David Rysdahl",
+          "character": "Arthur Sylvia",
+          "profile_path": "/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg",
+          "order": 9,
+          "id": 1541178
+        },
+        {
+          "name": "Diêm Camille",
+          "character": "Siberian",
+          "profile_path": "/8vaZcGTC3ClMGT4Vdxpf5gUVl47.jpg",
+          "order": 10,
+          "id": 2040125
+        },
+        {
+          "name": "Moe Bar-El",
+          "character": "Benjamin Rashidi",
+          "profile_path": "/3P24nebiTXbfy9WCfc4p4VRtpu0.jpg",
+          "order": 11,
+          "id": 1935849
+        },
+        {
+          "name": "Adrian Edmondson",
+          "character": "Atom Eins",
+          "profile_path": "/btwSD67CRm3lgouhLDbVockucra.jpg",
+          "order": 12,
+          "id": 98464
+        },
+        {
+          "name": "Timothy Olyphant",
+          "character": "Kirsh",
+          "profile_path": "/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg",
+          "order": 13,
+          "id": 18082
+        }
+      ],
+      "crew": [
+        {
+          "name": "Noah Hawley",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 202816,
+          "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+        },
+        {
+          "name": "Jeff Russo",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 1219207,
+          "profile_path": "/xmH1qDuU8KC2evd7GXd0hCWWny1.jpg"
+        },
+        {
+          "name": "Jonathan Rothbart",
+          "job": "Visual Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 957874,
+          "profile_path": ""
+        },
+        {
+          "name": "James Ledwell",
+          "job": "Visual Effects Producer",
+          "department": "Visual Effects",
+          "id": 2092310,
+          "profile_path": ""
+        },
+        {
+          "name": "Ridley Scott",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 578,
+          "profile_path": "/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg"
+        },
+        {
+          "name": "David W. Zucker",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1218831,
+          "profile_path": ""
+        },
+        {
+          "name": "Joseph E. Iberti",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1123059,
+          "profile_path": ""
+        },
+        {
+          "name": "Dana Gonzales",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 963861,
+          "profile_path": "/iuOOySMCHUdmfnfqMNx2oDxdKtV.jpg"
+        },
+        {
+          "name": "Clayton Krueger",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1962333,
+          "profile_path": ""
+        },
+        {
+          "name": "Dan O'Bannon",
+          "job": "Other",
+          "department": "Writing",
+          "id": 5045,
+          "profile_path": "/cg7v9I6bgfJTacud7KHG6cTXBcY.jpg"
+        },
+        {
+          "name": "Ronald Shusett",
+          "job": "Other",
+          "department": "Writing",
+          "id": 5046,
+          "profile_path": "/fNfdVzGnrp1PKfdhCdUWOvp36J9.jpg"
+        },
+        {
+          "name": "Michael Garcia",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 3709368,
+          "profile_path": ""
+        },
+        {
+          "name": "Bob DeLaurentis",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 1226143,
+          "profile_path": ""
+        },
+        {
+          "name": "Migizi Pensoneau",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 3239678,
+          "profile_path": ""
+        },
+        {
+          "name": "Bobak Esfarjani",
+          "job": "Supervising Producer",
+          "department": "Production",
+          "id": 1457981,
+          "profile_path": "/nbedZ3RyioQ3XHh4Tmwfl5Yb81M.jpg"
+        },
+        {
+          "name": "Lisa Long",
+          "job": "Supervising Producer",
+          "department": "Production",
+          "id": 3814647,
+          "profile_path": ""
+        },
+        {
+          "name": "Erin Smith",
+          "job": "Supervising Producer",
+          "department": "Production",
+          "id": 1396406,
+          "profile_path": ""
+        },
+        {
+          "name": "Regis Kimble",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1231379,
+          "profile_path": ""
+        },
+        {
+          "name": "Maria Melnik",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1851664,
+          "profile_path": ""
+        },
+        {
+          "name": "Chris Lowenstein",
+          "job": "Producer",
+          "department": "Production",
+          "id": 76481,
+          "profile_path": "/wxYoCMzKfueRDL3AMJTcmH5E4Yk.jpg"
+        },
+        {
+          "name": "Kristy Reed",
+          "job": "Producer",
+          "department": "Production",
+          "id": 5622914,
+          "profile_path": ""
+        },
+        {
+          "name": "Darin McLeod",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1308628,
+          "profile_path": ""
+        },
+        {
+          "name": "Cory Faulkner",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 1814869,
+          "profile_path": ""
+        },
+        {
+          "name": "Christine Lavaf",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 2621141,
+          "profile_path": ""
+        },
+        {
+          "name": "Marjorie Chodorov",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 1651245,
+          "profile_path": ""
+        },
+        {
+          "name": "Kate Rhodes James",
+          "job": "Casting",
+          "department": "Production",
+          "id": 62257,
+          "profile_path": ""
+        },
+        {
+          "name": "Joseph E. Iberti",
+          "job": "Unit Production Manager",
+          "department": "Production",
+          "id": 1123059,
+          "profile_path": ""
+        },
+        {
+          "name": "Apinat 'Obb' Siricharoenjit",
+          "job": "Line Producer",
+          "department": "Production",
+          "id": 2869162,
+          "profile_path": ""
+        },
+        {
+          "name": "Apinat 'Obb' Siricharoenjit",
+          "job": "Unit Production Manager",
+          "department": "Production",
+          "id": 2869162,
+          "profile_path": ""
+        },
+        {
+          "name": "Padchar 'Boom' Kongsillawat",
+          "job": "Production Manager",
+          "department": "Production",
+          "id": 5622925,
+          "profile_path": ""
+        },
+        {
+          "name": "Jessica Bail",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 4399003,
+          "profile_path": ""
+        },
+        {
+          "name": "Maggie Phillips",
+          "job": "Music Supervisor",
+          "department": "Sound",
+          "id": 1544312,
+          "profile_path": "/f8j9qwDui9IvamxUZzql1zSXVh7.jpg"
+        },
+        {
+          "name": "Suttirat Anne Larlarb",
+          "job": "Costume Design",
+          "department": "Costume & Make-Up",
+          "id": 141570,
+          "profile_path": "/xePBzChM1Pr2viBfzj8NLZdBZVI.jpg"
+        },
+        {
+          "name": "Rob Inch",
+          "job": "Second Unit Director",
+          "department": "Directing",
+          "id": 40713,
+          "profile_path": "/ihuAlrMLqovvyoNq42MJ4ZauvJz.jpg"
+        },
+        {
+          "name": "Dominic Capon",
+          "job": "Set Decoration",
+          "department": "Art",
+          "id": 966721,
+          "profile_path": ""
+        },
+        {
+          "name": "Thitiya Tongbai",
+          "job": "Location Casting",
+          "department": "Production",
+          "id": 1469288,
+          "profile_path": ""
+        },
+        {
+          "name": "Warakarn Waruttamangkoon",
+          "job": "Supervising Art Director",
+          "department": "Art",
+          "id": 2020298,
+          "profile_path": ""
+        },
+        {
+          "name": "Pashelle L. Latino",
+          "job": "Costume Supervisor",
+          "department": "Costume & Make-Up",
+          "id": 2039456,
+          "profile_path": ""
+        },
+        {
+          "name": "Sriratrana Wattanavitkul",
+          "job": "Costume Supervisor",
+          "department": "Costume & Make-Up",
+          "id": 3430214,
+          "profile_path": ""
+        },
+        {
+          "name": "Ampa Bunruaeng",
+          "job": "Other",
+          "department": "Costume & Make-Up",
+          "id": 6386773,
+          "profile_path": ""
+        },
+        {
+          "name": "Lee Gilmore",
+          "job": "Sound Designer",
+          "department": "Sound",
+          "id": 1360099,
+          "profile_path": ""
+        },
+        {
+          "name": "Lee Gilmore",
+          "job": "Supervising Sound Editor",
+          "department": "Sound",
+          "id": 1360099,
+          "profile_path": ""
+        },
+        {
+          "name": "Brad North",
+          "job": "Supervising Sound Editor",
+          "department": "Sound",
+          "id": 1440299,
+          "profile_path": ""
+        },
+        {
+          "name": "Joe DeAngelis",
+          "job": "Sound Re-Recording Mixer",
+          "department": "Sound",
+          "id": 1743268,
+          "profile_path": ""
+        },
+        {
+          "name": "Chris Terhune",
+          "job": "Sound Designer",
+          "department": "Sound",
+          "id": 1338484,
+          "profile_path": ""
+        },
+        {
+          "name": "Nolan McNaughton",
+          "job": "Sound Designer",
+          "department": "Sound",
+          "id": 2874122,
+          "profile_path": ""
+        },
+        {
+          "name": "Nolan McNaughton",
+          "job": "Sound Effects Editor",
+          "department": "Sound",
+          "id": 2874122,
+          "profile_path": ""
+        },
+        {
+          "name": "Justin M. Davey",
+          "job": "Sound Designer",
+          "department": "Sound",
+          "id": 222362,
+          "profile_path": ""
+        },
+        {
+          "name": "Byron Wilson",
+          "job": "Dialogue Editor",
+          "department": "Sound",
+          "id": 1546856,
+          "profile_path": ""
+        },
+        {
+          "name": "Tim Walston",
+          "job": "Sound Effects Editor",
+          "department": "Sound",
+          "id": 1357061,
+          "profile_path": ""
+        },
+        {
+          "name": "Smokey Cloud",
+          "job": "Sound Editor",
+          "department": "Sound",
+          "id": 113042,
+          "profile_path": ""
+        },
+        {
+          "name": "ბესო კაჭარავა",
+          "job": "Other",
+          "department": "Sound",
+          "id": 2554193,
+          "profile_path": ""
+        },
+        {
+          "name": "Ben Schor",
+          "job": "Music Editor",
+          "department": "Sound",
+          "id": 1355970,
+          "profile_path": ""
+        },
+        {
+          "name": "Biko Gogaladze",
+          "job": "Foley Artist",
+          "department": "Sound",
+          "id": 2812726,
+          "profile_path": ""
+        },
+        {
+          "name": "Sophie Quinn",
+          "job": "Casting Associate",
+          "department": "Production",
+          "id": 6402502,
+          "profile_path": ""
+        },
+        {
+          "name": "View Lenbury",
+          "job": "Casting Associate",
+          "department": "Production",
+          "id": 2897873,
+          "profile_path": ""
+        },
+        {
+          "name": "Piyanit Ambavat",
+          "job": "Casting Assistant",
+          "department": "Production",
+          "id": 2802364,
+          "profile_path": ""
+        },
+        {
+          "name": "Sahattaya Khrongchon",
+          "job": "Casting Assistant",
+          "department": "Production",
+          "id": 6402507,
+          "profile_path": ""
+        },
+        {
+          "name": "Peter Noden",
+          "job": "Casting Assistant",
+          "department": "Production",
+          "id": 5533020,
+          "profile_path": ""
+        },
+        {
+          "name": "Craig Henighan",
+          "job": "Other",
+          "department": "Sound",
+          "id": 1340345,
+          "profile_path": "/zbAUSlm457ZoS5C7kfmuVXu5xsk.jpg"
+        }
+      ],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-21T00:31:10.584Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "overview": "Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta. Quando os membros da equipe de resgate procuram sobreviventes entre os destroços, eles encontram misteriosas formas de vida predatórias mais aterrorizantes do que jamais poderiam ter imaginado. Com a descoberta dessa nova ameaça, a equipe de busca precisa lutar para sobreviver e decidir o que fazer com esse achado que pode mudar o planeta Terra para sempre.",
+          "poster_path": "/xRs6NpJl14r8gXB29nh4uPgmOyu.jpg",
+          "poster": "/xRs6NpJl14r8gXB29nh4uPgmOyu.jpg",
+          "backdrop_path": "",
+          "air_date": "2025-08-12",
+          "vote_average": 7.2,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Sydney Chandler",
+              "character": "Wendy",
+              "profile_path": "/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg",
+              "order": 0,
+              "id": 2754753
+            },
+            {
+              "name": "Alex Lawther",
+              "character": "Joe DiMaggio Hermit",
+              "profile_path": "/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg",
+              "order": 1,
+              "id": 1379277
+            },
+            {
+              "name": "Essie Davis",
+              "character": "Dame Sylvia",
+              "profile_path": "/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg",
+              "order": 2,
+              "id": 33449
+            },
+            {
+              "name": "Samuel Blenkin",
+              "character": "Boy Kavalier",
+              "profile_path": "/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg",
+              "order": 3,
+              "id": 2500348
+            },
+            {
+              "name": "Babou Ceesay",
+              "character": "Kumi Morrow",
+              "profile_path": "/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg",
+              "order": 4,
+              "id": 41044
+            },
+            {
+              "name": "Adarsh Gourav",
+              "character": "Slightly",
+              "profile_path": "/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg",
+              "order": 5,
+              "id": 1605786
+            },
+            {
+              "name": "Erana James",
+              "character": "Curly",
+              "profile_path": "/4LSba8f5KN4hXqjnz6RTNAcOS4C.jpg",
+              "order": 6,
+              "id": 1708744
+            },
+            {
+              "name": "Lily Newmark",
+              "character": "Nibs",
+              "profile_path": "/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg",
+              "order": 7,
+              "id": 1881105
+            },
+            {
+              "name": "Jonathan Ajayi",
+              "character": "Smee",
+              "profile_path": "/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg",
+              "order": 8,
+              "id": 2559238
+            },
+            {
+              "name": "David Rysdahl",
+              "character": "Arthur Sylvia",
+              "profile_path": "/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg",
+              "order": 9,
+              "id": 1541178
+            },
+            {
+              "name": "Diêm Camille",
+              "character": "Siberian",
+              "profile_path": "/8vaZcGTC3ClMGT4Vdxpf5gUVl47.jpg",
+              "order": 10,
+              "id": 2040125
+            },
+            {
+              "name": "Moe Bar-El",
+              "character": "Benjamin Rashidi",
+              "profile_path": "/3P24nebiTXbfy9WCfc4p4VRtpu0.jpg",
+              "order": 11,
+              "id": 1935849
+            },
+            {
+              "name": "Adrian Edmondson",
+              "character": "Atom Eins",
+              "profile_path": "/btwSD67CRm3lgouhLDbVockucra.jpg",
+              "order": 12,
+              "id": 98464
+            },
+            {
+              "name": "Timothy Olyphant",
+              "character": "Kirsh",
+              "profile_path": "/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg",
+              "order": 13,
+              "id": 18082
+            }
+          ],
+          "crew": [
+            {
+              "name": "Noah Hawley",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 202816,
+              "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+            },
+            {
+              "name": "Jeff Russo",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 1219207,
+              "profile_path": "/xmH1qDuU8KC2evd7GXd0hCWWny1.jpg"
+            },
+            {
+              "name": "Jonathan Rothbart",
+              "job": "Visual Effects Supervisor",
+              "department": "Visual Effects",
+              "id": 957874,
+              "profile_path": ""
+            },
+            {
+              "name": "James Ledwell",
+              "job": "Visual Effects Producer",
+              "department": "Visual Effects",
+              "id": 2092310,
+              "profile_path": ""
+            },
+            {
+              "name": "Ridley Scott",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 578,
+              "profile_path": "/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg"
+            },
+            {
+              "name": "David W. Zucker",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1218831,
+              "profile_path": ""
+            },
+            {
+              "name": "Joseph E. Iberti",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1123059,
+              "profile_path": ""
+            },
+            {
+              "name": "Dana Gonzales",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 963861,
+              "profile_path": "/iuOOySMCHUdmfnfqMNx2oDxdKtV.jpg"
+            },
+            {
+              "name": "Clayton Krueger",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1962333,
+              "profile_path": ""
+            },
+            {
+              "name": "Dan O'Bannon",
+              "job": "Other",
+              "department": "Writing",
+              "id": 5045,
+              "profile_path": "/cg7v9I6bgfJTacud7KHG6cTXBcY.jpg"
+            },
+            {
+              "name": "Ronald Shusett",
+              "job": "Other",
+              "department": "Writing",
+              "id": 5046,
+              "profile_path": "/fNfdVzGnrp1PKfdhCdUWOvp36J9.jpg"
+            },
+            {
+              "name": "Michael Garcia",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 3709368,
+              "profile_path": ""
+            },
+            {
+              "name": "Bob DeLaurentis",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1226143,
+              "profile_path": ""
+            },
+            {
+              "name": "Migizi Pensoneau",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 3239678,
+              "profile_path": ""
+            },
+            {
+              "name": "Bobak Esfarjani",
+              "job": "Supervising Producer",
+              "department": "Production",
+              "id": 1457981,
+              "profile_path": "/nbedZ3RyioQ3XHh4Tmwfl5Yb81M.jpg"
+            },
+            {
+              "name": "Lisa Long",
+              "job": "Supervising Producer",
+              "department": "Production",
+              "id": 3814647,
+              "profile_path": ""
+            },
+            {
+              "name": "Erin Smith",
+              "job": "Supervising Producer",
+              "department": "Production",
+              "id": 1396406,
+              "profile_path": ""
+            },
+            {
+              "name": "Regis Kimble",
+              "job": "Producer",
+              "department": "Production",
+              "id": 1231379,
+              "profile_path": ""
+            },
+            {
+              "name": "Maria Melnik",
+              "job": "Producer",
+              "department": "Production",
+              "id": 1851664,
+              "profile_path": ""
+            },
+            {
+              "name": "Chris Lowenstein",
+              "job": "Producer",
+              "department": "Production",
+              "id": 76481,
+              "profile_path": "/wxYoCMzKfueRDL3AMJTcmH5E4Yk.jpg"
+            },
+            {
+              "name": "Kristy Reed",
+              "job": "Producer",
+              "department": "Production",
+              "id": 5622914,
+              "profile_path": ""
+            },
+            {
+              "name": "Darin McLeod",
+              "job": "Producer",
+              "department": "Production",
+              "id": 1308628,
+              "profile_path": ""
+            },
+            {
+              "name": "Cory Faulkner",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 1814869,
+              "profile_path": ""
+            },
+            {
+              "name": "Christine Lavaf",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 2621141,
+              "profile_path": ""
+            },
+            {
+              "name": "Marjorie Chodorov",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 1651245,
+              "profile_path": ""
+            },
+            {
+              "name": "Kate Rhodes James",
+              "job": "Casting",
+              "department": "Production",
+              "id": 62257,
+              "profile_path": ""
+            },
+            {
+              "name": "Joseph E. Iberti",
+              "job": "Unit Production Manager",
+              "department": "Production",
+              "id": 1123059,
+              "profile_path": ""
+            },
+            {
+              "name": "Apinat 'Obb' Siricharoenjit",
+              "job": "Line Producer",
+              "department": "Production",
+              "id": 2869162,
+              "profile_path": ""
+            },
+            {
+              "name": "Apinat 'Obb' Siricharoenjit",
+              "job": "Unit Production Manager",
+              "department": "Production",
+              "id": 2869162,
+              "profile_path": ""
+            },
+            {
+              "name": "Padchar 'Boom' Kongsillawat",
+              "job": "Production Manager",
+              "department": "Production",
+              "id": 5622925,
+              "profile_path": ""
+            },
+            {
+              "name": "Jessica Bail",
+              "job": "Associate Producer",
+              "department": "Production",
+              "id": 4399003,
+              "profile_path": ""
+            },
+            {
+              "name": "Maggie Phillips",
+              "job": "Music Supervisor",
+              "department": "Sound",
+              "id": 1544312,
+              "profile_path": "/f8j9qwDui9IvamxUZzql1zSXVh7.jpg"
+            },
+            {
+              "name": "Suttirat Anne Larlarb",
+              "job": "Costume Design",
+              "department": "Costume & Make-Up",
+              "id": 141570,
+              "profile_path": "/xePBzChM1Pr2viBfzj8NLZdBZVI.jpg"
+            },
+            {
+              "name": "Rob Inch",
+              "job": "Second Unit Director",
+              "department": "Directing",
+              "id": 40713,
+              "profile_path": "/ihuAlrMLqovvyoNq42MJ4ZauvJz.jpg"
+            },
+            {
+              "name": "Dominic Capon",
+              "job": "Set Decoration",
+              "department": "Art",
+              "id": 966721,
+              "profile_path": ""
+            },
+            {
+              "name": "Thitiya Tongbai",
+              "job": "Location Casting",
+              "department": "Production",
+              "id": 1469288,
+              "profile_path": ""
+            },
+            {
+              "name": "Warakarn Waruttamangkoon",
+              "job": "Supervising Art Director",
+              "department": "Art",
+              "id": 2020298,
+              "profile_path": ""
+            },
+            {
+              "name": "Pashelle L. Latino",
+              "job": "Costume Supervisor",
+              "department": "Costume & Make-Up",
+              "id": 2039456,
+              "profile_path": ""
+            },
+            {
+              "name": "Sriratrana Wattanavitkul",
+              "job": "Costume Supervisor",
+              "department": "Costume & Make-Up",
+              "id": 3430214,
+              "profile_path": ""
+            },
+            {
+              "name": "Ampa Bunruaeng",
+              "job": "Other",
+              "department": "Costume & Make-Up",
+              "id": 6386773,
+              "profile_path": ""
+            },
+            {
+              "name": "Lee Gilmore",
+              "job": "Sound Designer",
+              "department": "Sound",
+              "id": 1360099,
+              "profile_path": ""
+            },
+            {
+              "name": "Lee Gilmore",
+              "job": "Supervising Sound Editor",
+              "department": "Sound",
+              "id": 1360099,
+              "profile_path": ""
+            },
+            {
+              "name": "Brad North",
+              "job": "Supervising Sound Editor",
+              "department": "Sound",
+              "id": 1440299,
+              "profile_path": ""
+            },
+            {
+              "name": "Joe DeAngelis",
+              "job": "Sound Re-Recording Mixer",
+              "department": "Sound",
+              "id": 1743268,
+              "profile_path": ""
+            },
+            {
+              "name": "Chris Terhune",
+              "job": "Sound Designer",
+              "department": "Sound",
+              "id": 1338484,
+              "profile_path": ""
+            },
+            {
+              "name": "Nolan McNaughton",
+              "job": "Sound Designer",
+              "department": "Sound",
+              "id": 2874122,
+              "profile_path": ""
+            },
+            {
+              "name": "Nolan McNaughton",
+              "job": "Sound Effects Editor",
+              "department": "Sound",
+              "id": 2874122,
+              "profile_path": ""
+            },
+            {
+              "name": "Justin M. Davey",
+              "job": "Sound Designer",
+              "department": "Sound",
+              "id": 222362,
+              "profile_path": ""
+            },
+            {
+              "name": "Byron Wilson",
+              "job": "Dialogue Editor",
+              "department": "Sound",
+              "id": 1546856,
+              "profile_path": ""
+            },
+            {
+              "name": "Tim Walston",
+              "job": "Sound Effects Editor",
+              "department": "Sound",
+              "id": 1357061,
+              "profile_path": ""
+            },
+            {
+              "name": "Smokey Cloud",
+              "job": "Sound Editor",
+              "department": "Sound",
+              "id": 113042,
+              "profile_path": ""
+            },
+            {
+              "name": "ბესო კაჭარავა",
+              "job": "Other",
+              "department": "Sound",
+              "id": 2554193,
+              "profile_path": ""
+            },
+            {
+              "name": "Ben Schor",
+              "job": "Music Editor",
+              "department": "Sound",
+              "id": 1355970,
+              "profile_path": ""
+            },
+            {
+              "name": "Biko Gogaladze",
+              "job": "Foley Artist",
+              "department": "Sound",
+              "id": 2812726,
+              "profile_path": ""
+            },
+            {
+              "name": "Sophie Quinn",
+              "job": "Casting Associate",
+              "department": "Production",
+              "id": 6402502,
+              "profile_path": ""
+            },
+            {
+              "name": "View Lenbury",
+              "job": "Casting Associate",
+              "department": "Production",
+              "id": 2897873,
+              "profile_path": ""
+            },
+            {
+              "name": "Piyanit Ambavat",
+              "job": "Casting Assistant",
+              "department": "Production",
+              "id": 2802364,
+              "profile_path": ""
+            },
+            {
+              "name": "Sahattaya Khrongchon",
+              "job": "Casting Assistant",
+              "department": "Production",
+              "id": 6402507,
+              "profile_path": ""
+            },
+            {
+              "name": "Peter Noden",
+              "job": "Casting Assistant",
+              "department": "Production",
+              "id": 5533020,
+              "profile_path": ""
+            },
+            {
+              "name": "Craig Henighan",
+              "job": "Other",
+              "department": "Sound",
+              "id": 1340345,
+              "profile_path": "/zbAUSlm457ZoS5C7kfmuVXu5xsk.jpg"
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Terra do Nunca",
+              "original_name": "",
+              "air_date": "2025-08-12",
+              "runtime": 65,
+              "overview": "Nave cai na Terra, e uma irmã sai em busca do irmão desaparecido.",
+              "still_path": "/d4cydmliyqDZyBWkxkliiED4B0G.jpg",
+              "vote_average": 7.373,
+              "vote_count": 126,
+              "guest_stars": [
+                {
+                  "name": "Richa Shukla Moorjani",
+                  "character": "Zoya Zaveri",
+                  "profile_path": "/sjVT48HG4swvjkWhWR3cBExZt6S.jpg",
+                  "order": 500,
+                  "id": 1376747
+                },
+                {
+                  "name": "Lloyd Everitt",
+                  "character": "Hoyt",
+                  "profile_path": "/u0PfebFsRQgeD1sNMJY0iT5rLL3.jpg",
+                  "order": 501,
+                  "id": 1863435
+                },
+                {
+                  "name": "Michael Smiley",
+                  "character": "Shmuel",
+                  "profile_path": "/4HOhgb9W3Jsp5H5LpdMZS2nLv6z.jpg",
+                  "order": 502,
+                  "id": 17078
+                },
+                {
+                  "name": "Florence Bensberg",
+                  "character": "Marcy",
+                  "profile_path": "/Aj8gfRGuvp6EtsQK25l4Jc0SBrK.jpg",
+                  "order": 503,
+                  "id": 3115352
+                },
+                {
+                  "name": "สหจักร บุญธนกิจ",
+                  "character": "Chief Nagg",
+                  "profile_path": "/a36MI02S0f11bJZjBoxkZTsUDAK.jpg",
+                  "order": 504,
+                  "id": 521673
+                },
+                {
+                  "name": "Pattarasuda Anumanrajadhon",
+                  "character": "Ops Hamm",
+                  "profile_path": "/vKJnN1GUFnf4TGWOQ0UYt1WFunI.jpg",
+                  "order": 505,
+                  "id": 1898006
+                },
+                {
+                  "name": "Dean Alexandrou",
+                  "character": "Bergerfeld",
+                  "profile_path": "/AlCgiPYhLlgQPYZBBa7SHKBaCOR.jpg",
+                  "order": 506,
+                  "id": 94384
+                },
+                {
+                  "name": "Tayme Thapthimthong",
+                  "character": "Anant",
+                  "profile_path": "/Aq9AHZ7wSRFbdPZnPOupAAAHUnV.jpg",
+                  "order": 507,
+                  "id": 5166476
+                },
+                {
+                  "name": "ปริญญา อินทชัย",
+                  "character": "Brahma",
+                  "profile_path": "",
+                  "order": 508,
+                  "id": 545645
+                },
+                {
+                  "name": "Rishi Kuppa",
+                  "character": "Child Slightly",
+                  "profile_path": "/742aqmixeu2d6PJ7bDL0QjgNThl.jpg",
+                  "order": 509,
+                  "id": 3263784
+                },
+                {
+                  "name": "Lorelei Winterfrost",
+                  "character": "Child Curly",
+                  "profile_path": "",
+                  "order": 510,
+                  "id": 1362639
+                },
+                {
+                  "name": "Elsie Lees",
+                  "character": "Child Nibs",
+                  "profile_path": "",
+                  "order": 511,
+                  "id": 5622911
+                },
+                {
+                  "name": "Riotafari Gardner",
+                  "character": "Child Smee",
+                  "profile_path": "",
+                  "order": 512,
+                  "id": 5581460
+                },
+                {
+                  "name": "Remi Dabiri-McQuaid",
+                  "character": "Child Tootles",
+                  "profile_path": "",
+                  "order": 513,
+                  "id": 4364359
+                },
+                {
+                  "name": "Victoria Masoma",
+                  "character": "Sullivan",
+                  "profile_path": "",
+                  "order": 514,
+                  "id": 5622912
+                },
+                {
+                  "name": "ธนพล จุกสีดา",
+                  "character": "Dinsdale",
+                  "profile_path": "/mQiStBnFgzTyTJcWilqhUs5VoBu.jpg",
+                  "order": 515,
+                  "id": 94387
+                },
+                {
+                  "name": "ณัฏฐ์ เทพหัสดิน ณ อยุธยา",
+                  "character": "Cortez",
+                  "profile_path": "/4KHTecNTUshnyap4wtjD7xhrvVC.jpg",
+                  "order": 516,
+                  "id": 1153073
+                },
+                {
+                  "name": "Maksim Maltykov",
+                  "character": "Technician #1",
+                  "profile_path": "",
+                  "order": 517,
+                  "id": 5622913
+                },
+                {
+                  "name": "Malik Tyshawn Louis",
+                  "character": "Technician #2",
+                  "profile_path": "",
+                  "order": 518,
+                  "id": 3930647
+                },
+                {
+                  "name": "Kamolpon Akaradolyakul",
+                  "character": "Crying Girl",
+                  "profile_path": "",
+                  "order": 519,
+                  "id": 5622915
+                },
+                {
+                  "name": "Prachaya Kummuang",
+                  "character": "Hermit's Roommate (Father)",
+                  "profile_path": "",
+                  "order": 520,
+                  "id": 5622916
+                },
+                {
+                  "name": "Thopat Khammueang",
+                  "character": "Hermit's Roommate (Mother)",
+                  "profile_path": "",
+                  "order": 521,
+                  "id": 5622917
+                },
+                {
+                  "name": "Boonluksa Khummuang",
+                  "character": "Hermit's Roommate (Child #1)",
+                  "profile_path": "",
+                  "order": 522,
+                  "id": 5622918
+                },
+                {
+                  "name": "Boonyada Khummuang",
+                  "character": "Hermit's Roommate (Child #2)",
+                  "profile_path": "",
+                  "order": 523,
+                  "id": 5622920
+                },
+                {
+                  "name": "Mariam Khummaung",
+                  "character": "Hermit's Roommate (Grandmother)",
+                  "profile_path": "",
+                  "order": 524,
+                  "id": 4229649
+                },
+                {
+                  "name": "Lev Hawley",
+                  "character": "Hermit (Child)",
+                  "profile_path": "",
+                  "order": 525,
+                  "id": 5609255
+                },
+                {
+                  "name": "Noah Hawley",
+                  "character": "Hermit & Marcy's Dad",
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg",
+                  "order": 526,
+                  "id": 202816
+                },
+                {
+                  "name": "Margaret Klimova",
+                  "character": "Marcy (Infant)",
+                  "profile_path": "",
+                  "order": 527,
+                  "id": 5622921
+                },
+                {
+                  "name": "Murad Yapici",
+                  "character": "Middle Eastern Member of the 5",
+                  "profile_path": "",
+                  "order": 528,
+                  "id": 4164428
+                },
+                {
+                  "name": "Lois-Tere Howard",
+                  "character": "African Member of the 5",
+                  "profile_path": "",
+                  "order": 529,
+                  "id": 5622922
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Sydney Chandler",
+                  "character": "Wendy",
+                  "profile_path": "/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg",
+                  "order": 0,
+                  "id": 2754753
+                },
+                {
+                  "name": "Alex Lawther",
+                  "character": "Joe DiMaggio Hermit",
+                  "profile_path": "/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg",
+                  "order": 1,
+                  "id": 1379277
+                },
+                {
+                  "name": "Essie Davis",
+                  "character": "Dame Sylvia",
+                  "profile_path": "/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg",
+                  "order": 2,
+                  "id": 33449
+                },
+                {
+                  "name": "Samuel Blenkin",
+                  "character": "Boy Kavalier",
+                  "profile_path": "/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg",
+                  "order": 3,
+                  "id": 2500348
+                },
+                {
+                  "name": "Babou Ceesay",
+                  "character": "Kumi Morrow",
+                  "profile_path": "/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg",
+                  "order": 4,
+                  "id": 41044
+                },
+                {
+                  "name": "Adarsh Gourav",
+                  "character": "Slightly",
+                  "profile_path": "/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg",
+                  "order": 5,
+                  "id": 1605786
+                },
+                {
+                  "name": "Erana James",
+                  "character": "Curly",
+                  "profile_path": "/4LSba8f5KN4hXqjnz6RTNAcOS4C.jpg",
+                  "order": 6,
+                  "id": 1708744
+                },
+                {
+                  "name": "Lily Newmark",
+                  "character": "Nibs",
+                  "profile_path": "/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg",
+                  "order": 7,
+                  "id": 1881105
+                },
+                {
+                  "name": "Jonathan Ajayi",
+                  "character": "Smee",
+                  "profile_path": "/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg",
+                  "order": 8,
+                  "id": 2559238
+                },
+                {
+                  "name": "David Rysdahl",
+                  "character": "Arthur Sylvia",
+                  "profile_path": "/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg",
+                  "order": 9,
+                  "id": 1541178
+                },
+                {
+                  "name": "Diêm Camille",
+                  "character": "Siberian",
+                  "profile_path": "/8vaZcGTC3ClMGT4Vdxpf5gUVl47.jpg",
+                  "order": 10,
+                  "id": 2040125
+                },
+                {
+                  "name": "Moe Bar-El",
+                  "character": "Benjamin Rashidi",
+                  "profile_path": "/3P24nebiTXbfy9WCfc4p4VRtpu0.jpg",
+                  "order": 11,
+                  "id": 1935849
+                },
+                {
+                  "name": "Adrian Edmondson",
+                  "character": "Atom Eins",
+                  "profile_path": "/btwSD67CRm3lgouhLDbVockucra.jpg",
+                  "order": 12,
+                  "id": 98464
+                },
+                {
+                  "name": "Timothy Olyphant",
+                  "character": "Kirsh",
+                  "profile_path": "/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg",
+                  "order": 13,
+                  "id": 18082
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Noah Hawley",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 202816,
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+                },
+                {
+                  "name": "Noah Hawley",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 202816,
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+                },
+                {
+                  "name": "Dana Gonzales",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 963861,
+                  "profile_path": "/iuOOySMCHUdmfnfqMNx2oDxdKtV.jpg"
+                },
+                {
+                  "name": "Regis Kimble",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1231379,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Cory Faulkner",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1814869,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Regan Kosior",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 1814750,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Matt Osborne",
+                  "job": "Colorist",
+                  "department": "Editing",
+                  "id": 4390387,
+                  "profile_path": "/gYzNwSaCyRc6onucvFrdoblxTNN.jpg"
+                },
+                {
+                  "name": "Andy Nicholson",
+                  "job": "Production Design",
+                  "department": "Art",
+                  "id": 9820,
+                  "profile_path": "/vKStSNLQi11k5MW5LuVMLfAygGR.jpg"
+                },
+                {
+                  "name": "Cornelia Ott",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 40752,
+                  "profile_path": "/e6stsBddUF9iG9V9fTWhRBTnqMn.jpg"
+                },
+                {
+                  "name": "Jason Knox-Johnston",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 962164,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Kuladee 'Gai' Suchatanun",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 1387764,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Mark Rosinski",
+                  "job": "Set Decoration",
+                  "department": "Art",
+                  "id": 968035,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Wanchat Praingam",
+                  "job": "Set Decoration",
+                  "department": "Art",
+                  "id": 2604020,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Suntad 'Eve' Pansombat",
+                  "job": "Set Decoration",
+                  "department": "Art",
+                  "id": 6064356,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt13623634",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10929566,
+                "tvrage_id": null,
+                "wikidata_id": "Q135747101"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTAxLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Mr. October",
+              "original_name": "",
+              "air_date": "2025-08-12",
+              "runtime": 56,
+              "overview": "Corporações em conflito, um reencontro emocionante e uma revelação bombástica.",
+              "still_path": "/cdajiwi3frAqI0XIwsCH5q9P8Hu.jpg",
+              "vote_average": 7.358,
+              "vote_count": 116,
+              "guest_stars": [
+                {
+                  "name": "Lloyd Everitt",
+                  "character": "Hoyt",
+                  "profile_path": "/u0PfebFsRQgeD1sNMJY0iT5rLL3.jpg",
+                  "order": 501,
+                  "id": 1863435
+                },
+                {
+                  "name": "Florence Bensberg",
+                  "character": "Marcy",
+                  "profile_path": "/Aj8gfRGuvp6EtsQK25l4Jc0SBrK.jpg",
+                  "order": 503,
+                  "id": 3115352
+                },
+                {
+                  "name": "สหจักร บุญธนกิจ",
+                  "character": "Chief Nagg",
+                  "profile_path": "/a36MI02S0f11bJZjBoxkZTsUDAK.jpg",
+                  "order": 504,
+                  "id": 521673
+                },
+                {
+                  "name": "Pattarasuda Anumanrajadhon",
+                  "character": "Ops Hamm",
+                  "profile_path": "/vKJnN1GUFnf4TGWOQ0UYt1WFunI.jpg",
+                  "order": 505,
+                  "id": 1898006
+                },
+                {
+                  "name": "Dean Alexandrou",
+                  "character": "Bergerfeld",
+                  "profile_path": "/AlCgiPYhLlgQPYZBBa7SHKBaCOR.jpg",
+                  "order": 506,
+                  "id": 94384
+                },
+                {
+                  "name": "Tayme Thapthimthong",
+                  "character": "Anant",
+                  "profile_path": "/Aq9AHZ7wSRFbdPZnPOupAAAHUnV.jpg",
+                  "order": 507,
+                  "id": 5166476
+                },
+                {
+                  "name": "ปริญญา อินทชัย",
+                  "character": "Brahma",
+                  "profile_path": "",
+                  "order": 508,
+                  "id": 545645
+                },
+                {
+                  "name": "Lorelei Winterfrost",
+                  "character": "Child Curly",
+                  "profile_path": "",
+                  "order": 510,
+                  "id": 1362639
+                },
+                {
+                  "name": "Remi Dabiri-McQuaid",
+                  "character": "Child Tootles",
+                  "profile_path": "",
+                  "order": 513,
+                  "id": 4364359
+                },
+                {
+                  "name": "ณัฏฐ์ เทพหัสดิน ณ อยุธยา",
+                  "character": "Cortez",
+                  "profile_path": "/4KHTecNTUshnyap4wtjD7xhrvVC.jpg",
+                  "order": 516,
+                  "id": 1153073
+                },
+                {
+                  "name": "Lev Hawley",
+                  "character": "Hermit (Child)",
+                  "profile_path": "",
+                  "order": 525,
+                  "id": 5609255
+                },
+                {
+                  "name": "Noah Hawley",
+                  "character": "Hermit & Marcy's Dad",
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg",
+                  "order": 526,
+                  "id": 202816
+                },
+                {
+                  "name": "David Bark-Jones",
+                  "character": "Wealthy Tower Resident",
+                  "profile_path": "/o7boLMouTkmVMME15YsiH1vn4Ut.jpg",
+                  "order": 533,
+                  "id": 1053979
+                },
+                {
+                  "name": "Byron Bishop",
+                  "character": "Tanaka",
+                  "profile_path": "/niGZtLYRLFtOvphsAmI7N8UcKDj.jpg",
+                  "order": 534,
+                  "id": 94392
+                },
+                {
+                  "name": "Stephen Thomas",
+                  "character": "HR Bot (voice)",
+                  "profile_path": "",
+                  "order": 535,
+                  "id": 3792430
+                },
+                {
+                  "name": "Amir Boutrous",
+                  "character": "Rahim",
+                  "profile_path": "/rtIdTRX7Pn7JY073FZN99DrWiu.jpg",
+                  "order": 539,
+                  "id": 1771325
+                },
+                {
+                  "name": "Karen Aldridge",
+                  "character": "Chibuzo",
+                  "profile_path": "/9hBfSIawa72L0MPt81ZBzlIYeug.jpg",
+                  "order": 540,
+                  "id": 1782455
+                },
+                {
+                  "name": "Jamie Bisping",
+                  "character": "Malachite",
+                  "profile_path": "/iM8j1OVIdkxZ8hfwPYOcmknx94p.jpg",
+                  "order": 541,
+                  "id": 4565644
+                },
+                {
+                  "name": "Sandra Yi Sencindiver",
+                  "character": "Yutani",
+                  "profile_path": "/zjX4lI5PZ0bd6sJ1tlfYayyy1WG.jpg",
+                  "order": 548,
+                  "id": 1476906
+                },
+                {
+                  "name": "Kit Young",
+                  "character": "Tootles",
+                  "profile_path": "/6wL0uEnRJsY67NCAj5KpmGkgr2A.jpg",
+                  "order": 549,
+                  "id": 2361755
+                },
+                {
+                  "name": "Cameron Brown",
+                  "character": "Xenomorph (uncredited)",
+                  "profile_path": "/jLEKQbppMDHeiFX23bxrcmT5dmh.jpg",
+                  "order": 555,
+                  "id": 1856011
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Sydney Chandler",
+                  "character": "Wendy",
+                  "profile_path": "/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg",
+                  "order": 0,
+                  "id": 2754753
+                },
+                {
+                  "name": "Alex Lawther",
+                  "character": "Joe DiMaggio Hermit",
+                  "profile_path": "/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg",
+                  "order": 1,
+                  "id": 1379277
+                },
+                {
+                  "name": "Essie Davis",
+                  "character": "Dame Sylvia",
+                  "profile_path": "/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg",
+                  "order": 2,
+                  "id": 33449
+                },
+                {
+                  "name": "Samuel Blenkin",
+                  "character": "Boy Kavalier",
+                  "profile_path": "/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg",
+                  "order": 3,
+                  "id": 2500348
+                },
+                {
+                  "name": "Babou Ceesay",
+                  "character": "Kumi Morrow",
+                  "profile_path": "/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg",
+                  "order": 4,
+                  "id": 41044
+                },
+                {
+                  "name": "Adarsh Gourav",
+                  "character": "Slightly",
+                  "profile_path": "/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg",
+                  "order": 5,
+                  "id": 1605786
+                },
+                {
+                  "name": "Erana James",
+                  "character": "Curly",
+                  "profile_path": "/4LSba8f5KN4hXqjnz6RTNAcOS4C.jpg",
+                  "order": 6,
+                  "id": 1708744
+                },
+                {
+                  "name": "Lily Newmark",
+                  "character": "Nibs",
+                  "profile_path": "/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg",
+                  "order": 7,
+                  "id": 1881105
+                },
+                {
+                  "name": "Jonathan Ajayi",
+                  "character": "Smee",
+                  "profile_path": "/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg",
+                  "order": 8,
+                  "id": 2559238
+                },
+                {
+                  "name": "David Rysdahl",
+                  "character": "Arthur Sylvia",
+                  "profile_path": "/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg",
+                  "order": 9,
+                  "id": 1541178
+                },
+                {
+                  "name": "Diêm Camille",
+                  "character": "Siberian",
+                  "profile_path": "/8vaZcGTC3ClMGT4Vdxpf5gUVl47.jpg",
+                  "order": 10,
+                  "id": 2040125
+                },
+                {
+                  "name": "Moe Bar-El",
+                  "character": "Benjamin Rashidi",
+                  "profile_path": "/3P24nebiTXbfy9WCfc4p4VRtpu0.jpg",
+                  "order": 11,
+                  "id": 1935849
+                },
+                {
+                  "name": "Adrian Edmondson",
+                  "character": "Atom Eins",
+                  "profile_path": "/btwSD67CRm3lgouhLDbVockucra.jpg",
+                  "order": 12,
+                  "id": 98464
+                },
+                {
+                  "name": "Timothy Olyphant",
+                  "character": "Kirsh",
+                  "profile_path": "/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg",
+                  "order": 13,
+                  "id": 18082
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Noah Hawley",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 202816,
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+                },
+                {
+                  "name": "Dana Gonzales",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 963861,
+                  "profile_path": "/iuOOySMCHUdmfnfqMNx2oDxdKtV.jpg"
+                },
+                {
+                  "name": "Regis Kimble",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1231379,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Cory Faulkner",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1814869,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Franco",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 21222,
+                  "profile_path": "/xp82WfpjYNLFKB2wg4FQE99dPmZ.jpg"
+                },
+                {
+                  "name": "Gregory J. Pawlik Jr.",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1495958,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ashley Bell",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 2240425,
+                  "profile_path": "/ls5NvwUdSYXy9aVR3x1OQOvffnQ.jpg"
+                },
+                {
+                  "name": "Matt Osborne",
+                  "job": "Colorist",
+                  "department": "Editing",
+                  "id": 4390387,
+                  "profile_path": "/gYzNwSaCyRc6onucvFrdoblxTNN.jpg"
+                },
+                {
+                  "name": "Andy Nicholson",
+                  "job": "Production Design",
+                  "department": "Art",
+                  "id": 9820,
+                  "profile_path": "/vKStSNLQi11k5MW5LuVMLfAygGR.jpg"
+                },
+                {
+                  "name": "Cornelia Ott",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 40752,
+                  "profile_path": "/e6stsBddUF9iG9V9fTWhRBTnqMn.jpg"
+                },
+                {
+                  "name": "Jason Knox-Johnston",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 962164,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Shira Hockman",
+                  "job": "Art Direction",
+                  "department": "Art",
+                  "id": 1518764,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt32572892",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10945242,
+                "tvrage_id": null,
+                "wikidata_id": "Q135898169"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTAyLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Metamorfose",
+              "original_name": "",
+              "air_date": "2025-08-19",
+              "runtime": 55,
+              "overview": "A equipe retorna com uma carga inesperada e um experimento perturbador acontece.",
+              "still_path": "/4pLJcZUh73j8wSQfB5vAX3jtORj.jpg",
+              "vote_average": 6.87,
+              "vote_count": 100,
+              "guest_stars": [
+                {
+                  "name": "สหจักร บุญธนกิจ",
+                  "character": "Chief Nagg",
+                  "profile_path": "/a36MI02S0f11bJZjBoxkZTsUDAK.jpg",
+                  "order": 504,
+                  "id": 521673
+                },
+                {
+                  "name": "Elsie Lees",
+                  "character": "Child Nibs",
+                  "profile_path": "",
+                  "order": 511,
+                  "id": 5622911
+                },
+                {
+                  "name": "Devinron Ready",
+                  "character": "Prodigy Soldier",
+                  "profile_path": "",
+                  "order": 536,
+                  "id": 1560240
+                },
+                {
+                  "name": "Sandra Yi Sencindiver",
+                  "character": "Yutani",
+                  "profile_path": "/zjX4lI5PZ0bd6sJ1tlfYayyy1WG.jpg",
+                  "order": 548,
+                  "id": 1476906
+                },
+                {
+                  "name": "Kit Young",
+                  "character": "Tootles",
+                  "profile_path": "/6wL0uEnRJsY67NCAj5KpmGkgr2A.jpg",
+                  "order": 549,
+                  "id": 2361755
+                },
+                {
+                  "name": "Cameron Brown",
+                  "character": "Xenomorph (uncredited)",
+                  "profile_path": "/jLEKQbppMDHeiFX23bxrcmT5dmh.jpg",
+                  "order": 555,
+                  "id": 1856011
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Sydney Chandler",
+                  "character": "Wendy",
+                  "profile_path": "/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg",
+                  "order": 0,
+                  "id": 2754753
+                },
+                {
+                  "name": "Alex Lawther",
+                  "character": "Joe DiMaggio Hermit",
+                  "profile_path": "/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg",
+                  "order": 1,
+                  "id": 1379277
+                },
+                {
+                  "name": "Essie Davis",
+                  "character": "Dame Sylvia",
+                  "profile_path": "/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg",
+                  "order": 2,
+                  "id": 33449
+                },
+                {
+                  "name": "Samuel Blenkin",
+                  "character": "Boy Kavalier",
+                  "profile_path": "/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg",
+                  "order": 3,
+                  "id": 2500348
+                },
+                {
+                  "name": "Babou Ceesay",
+                  "character": "Kumi Morrow",
+                  "profile_path": "/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg",
+                  "order": 4,
+                  "id": 41044
+                },
+                {
+                  "name": "Adarsh Gourav",
+                  "character": "Slightly",
+                  "profile_path": "/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg",
+                  "order": 5,
+                  "id": 1605786
+                },
+                {
+                  "name": "Erana James",
+                  "character": "Curly",
+                  "profile_path": "/4LSba8f5KN4hXqjnz6RTNAcOS4C.jpg",
+                  "order": 6,
+                  "id": 1708744
+                },
+                {
+                  "name": "Lily Newmark",
+                  "character": "Nibs",
+                  "profile_path": "/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg",
+                  "order": 7,
+                  "id": 1881105
+                },
+                {
+                  "name": "Jonathan Ajayi",
+                  "character": "Smee",
+                  "profile_path": "/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg",
+                  "order": 8,
+                  "id": 2559238
+                },
+                {
+                  "name": "David Rysdahl",
+                  "character": "Arthur Sylvia",
+                  "profile_path": "/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg",
+                  "order": 9,
+                  "id": 1541178
+                },
+                {
+                  "name": "Diêm Camille",
+                  "character": "Siberian",
+                  "profile_path": "/8vaZcGTC3ClMGT4Vdxpf5gUVl47.jpg",
+                  "order": 10,
+                  "id": 2040125
+                },
+                {
+                  "name": "Moe Bar-El",
+                  "character": "Benjamin Rashidi",
+                  "profile_path": "/3P24nebiTXbfy9WCfc4p4VRtpu0.jpg",
+                  "order": 11,
+                  "id": 1935849
+                },
+                {
+                  "name": "Adrian Edmondson",
+                  "character": "Atom Eins",
+                  "profile_path": "/btwSD67CRm3lgouhLDbVockucra.jpg",
+                  "order": 12,
+                  "id": 98464
+                },
+                {
+                  "name": "Timothy Olyphant",
+                  "character": "Kirsh",
+                  "profile_path": "/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg",
+                  "order": 13,
+                  "id": 18082
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Noah Hawley",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 202816,
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+                },
+                {
+                  "name": "Dana Gonzales",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 963861,
+                  "profile_path": "/iuOOySMCHUdmfnfqMNx2oDxdKtV.jpg"
+                },
+                {
+                  "name": "Bob DeLaurentis",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1226143,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Cory Faulkner",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1814869,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Franco",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 21222,
+                  "profile_path": "/xp82WfpjYNLFKB2wg4FQE99dPmZ.jpg"
+                },
+                {
+                  "name": "Gregory J. Pawlik Jr.",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1495958,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ashley Bell",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 2240425,
+                  "profile_path": "/ls5NvwUdSYXy9aVR3x1OQOvffnQ.jpg"
+                },
+                {
+                  "name": "Jason Knox-Johnston",
+                  "job": "Production Design",
+                  "department": "Art",
+                  "id": 962164,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Robin August",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 2724813,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Andy Nicholson",
+                  "job": "Production Design",
+                  "department": "Art",
+                  "id": 9820,
+                  "profile_path": "/vKStSNLQi11k5MW5LuVMLfAygGR.jpg"
+                },
+                {
+                  "name": "Cornelia Ott",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 40752,
+                  "profile_path": "/e6stsBddUF9iG9V9fTWhRBTnqMn.jpg"
+                },
+                {
+                  "name": "Shira Hockman",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 1518764,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt32572895",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10945243,
+                "tvrage_id": null,
+                "wikidata_id": "Q135933490"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTAzLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Observação",
+              "original_name": "",
+              "air_date": "2025-08-26",
+              "runtime": 60,
+              "overview": "Uma ligação inesperada surge enquanto uma trama secreta coloca todos em perigo.",
+              "still_path": "/hzE6VJ37veL4p54IicLcI5pDDSJ.jpg",
+              "vote_average": 6.989,
+              "vote_count": 92,
+              "guest_stars": [
+                {
+                  "name": "Anjana Ghogar",
+                  "character": "Meera Singh",
+                  "profile_path": "",
+                  "order": 537,
+                  "id": 3645997
+                },
+                {
+                  "name": "Thomas Dambrowski",
+                  "character": "Second Officer",
+                  "profile_path": "",
+                  "order": 538,
+                  "id": 5659194
+                },
+                {
+                  "name": "Kit Young",
+                  "character": "Tootles / Isaac",
+                  "profile_path": "/6wL0uEnRJsY67NCAj5KpmGkgr2A.jpg",
+                  "order": 550,
+                  "id": 2361755
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Sydney Chandler",
+                  "character": "Wendy",
+                  "profile_path": "/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg",
+                  "order": 0,
+                  "id": 2754753
+                },
+                {
+                  "name": "Alex Lawther",
+                  "character": "Joe DiMaggio Hermit",
+                  "profile_path": "/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg",
+                  "order": 1,
+                  "id": 1379277
+                },
+                {
+                  "name": "Essie Davis",
+                  "character": "Dame Sylvia",
+                  "profile_path": "/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg",
+                  "order": 2,
+                  "id": 33449
+                },
+                {
+                  "name": "Samuel Blenkin",
+                  "character": "Boy Kavalier",
+                  "profile_path": "/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg",
+                  "order": 3,
+                  "id": 2500348
+                },
+                {
+                  "name": "Babou Ceesay",
+                  "character": "Kumi Morrow",
+                  "profile_path": "/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg",
+                  "order": 4,
+                  "id": 41044
+                },
+                {
+                  "name": "Adarsh Gourav",
+                  "character": "Slightly",
+                  "profile_path": "/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg",
+                  "order": 5,
+                  "id": 1605786
+                },
+                {
+                  "name": "Erana James",
+                  "character": "Curly",
+                  "profile_path": "/4LSba8f5KN4hXqjnz6RTNAcOS4C.jpg",
+                  "order": 6,
+                  "id": 1708744
+                },
+                {
+                  "name": "Lily Newmark",
+                  "character": "Nibs",
+                  "profile_path": "/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg",
+                  "order": 7,
+                  "id": 1881105
+                },
+                {
+                  "name": "Jonathan Ajayi",
+                  "character": "Smee",
+                  "profile_path": "/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg",
+                  "order": 8,
+                  "id": 2559238
+                },
+                {
+                  "name": "David Rysdahl",
+                  "character": "Arthur Sylvia",
+                  "profile_path": "/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg",
+                  "order": 9,
+                  "id": 1541178
+                },
+                {
+                  "name": "Diêm Camille",
+                  "character": "Siberian",
+                  "profile_path": "/8vaZcGTC3ClMGT4Vdxpf5gUVl47.jpg",
+                  "order": 10,
+                  "id": 2040125
+                },
+                {
+                  "name": "Moe Bar-El",
+                  "character": "Benjamin Rashidi",
+                  "profile_path": "/3P24nebiTXbfy9WCfc4p4VRtpu0.jpg",
+                  "order": 11,
+                  "id": 1935849
+                },
+                {
+                  "name": "Adrian Edmondson",
+                  "character": "Atom Eins",
+                  "profile_path": "/btwSD67CRm3lgouhLDbVockucra.jpg",
+                  "order": 12,
+                  "id": 98464
+                },
+                {
+                  "name": "Timothy Olyphant",
+                  "character": "Kirsh",
+                  "profile_path": "/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg",
+                  "order": 13,
+                  "id": 18082
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Noah Hawley",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 202816,
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+                },
+                {
+                  "name": "Bobak Esfarjani",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1457981,
+                  "profile_path": "/nbedZ3RyioQ3XHh4Tmwfl5Yb81M.jpg"
+                },
+                {
+                  "name": "Ugla Hauksdóttir",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1433935,
+                  "profile_path": "/5NlHPFVyzVZ8bMrSWiXHoQ9E9vA.jpg"
+                },
+                {
+                  "name": "David Franco",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 21222,
+                  "profile_path": "/xp82WfpjYNLFKB2wg4FQE99dPmZ.jpg"
+                },
+                {
+                  "name": "Gregory J. Pawlik Jr.",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1495958,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ashley Bell",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 2240425,
+                  "profile_path": "/ls5NvwUdSYXy9aVR3x1OQOvffnQ.jpg"
+                },
+                {
+                  "name": "Jason Knox-Johnston",
+                  "job": "Production Design",
+                  "department": "Art",
+                  "id": 962164,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Curtis Thurber",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1626114,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Andy Nicholson",
+                  "job": "Production Design",
+                  "department": "Art",
+                  "id": 9820,
+                  "profile_path": "/vKStSNLQi11k5MW5LuVMLfAygGR.jpg"
+                },
+                {
+                  "name": "Shira Hockman",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 1518764,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt32572896",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10945244,
+                "tvrage_id": null,
+                "wikidata_id": "Q136047809"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTA0Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "No Espaço, Ninguém...",
+              "original_name": "",
+              "air_date": "2025-09-02",
+              "runtime": 66,
+              "overview": "Uma nave espacial em perigo desencadeia uma situação crítica.",
+              "still_path": "/hkLVUpJ8HWSAowCxazGDcUOpxLS.jpg",
+              "vote_average": 7.438,
+              "vote_count": 97,
+              "guest_stars": [
+                {
+                  "name": "Richa Shukla Moorjani",
+                  "character": "Zoya Zaveri",
+                  "profile_path": "/sjVT48HG4swvjkWhWR3cBExZt6S.jpg",
+                  "order": 500,
+                  "id": 1376747
+                },
+                {
+                  "name": "Michael Smiley",
+                  "character": "Shmuel",
+                  "profile_path": "/4HOhgb9W3Jsp5H5LpdMZS2nLv6z.jpg",
+                  "order": 502,
+                  "id": 17078
+                },
+                {
+                  "name": "Victoria Masoma",
+                  "character": "Sullivan",
+                  "profile_path": "",
+                  "order": 514,
+                  "id": 5622912
+                },
+                {
+                  "name": "ธนพล จุกสีดา",
+                  "character": "Dinsdale",
+                  "profile_path": "/mQiStBnFgzTyTJcWilqhUs5VoBu.jpg",
+                  "order": 515,
+                  "id": 94387
+                },
+                {
+                  "name": "Byron Bishop",
+                  "character": "Tanaka",
+                  "profile_path": "/niGZtLYRLFtOvphsAmI7N8UcKDj.jpg",
+                  "order": 534,
+                  "id": 94392
+                },
+                {
+                  "name": "Amir Boutrous",
+                  "character": "Rahim",
+                  "profile_path": "/rtIdTRX7Pn7JY073FZN99DrWiu.jpg",
+                  "order": 539,
+                  "id": 1771325
+                },
+                {
+                  "name": "Karen Aldridge",
+                  "character": "Chibuzo",
+                  "profile_path": "/9hBfSIawa72L0MPt81ZBzlIYeug.jpg",
+                  "order": 540,
+                  "id": 1782455
+                },
+                {
+                  "name": "Jamie Bisping",
+                  "character": "Malachite",
+                  "profile_path": "/iM8j1OVIdkxZ8hfwPYOcmknx94p.jpg",
+                  "order": 541,
+                  "id": 4565644
+                },
+                {
+                  "name": "Andy Yu",
+                  "character": "Mr. Teng",
+                  "profile_path": "/cD8lsEvP0Jjp1ZiJPLjndQnMHAT.jpg",
+                  "order": 542,
+                  "id": 1475792
+                },
+                {
+                  "name": "Max Rinehart",
+                  "character": "Bronski",
+                  "profile_path": "/sB5CfqrRR8oyzB07vY27MmcqsJu.jpg",
+                  "order": 543,
+                  "id": 1523657
+                },
+                {
+                  "name": "Enzo Cilenti",
+                  "character": "Petrovich",
+                  "profile_path": "/lGFHPUsOlAnncpZLfdFXCGq2nji.jpg",
+                  "order": 544,
+                  "id": 91494
+                },
+                {
+                  "name": "Tom Moya",
+                  "character": "Clem",
+                  "profile_path": "/h4uE7wqkC26Fc9lsB6DhmBejcZh.jpg",
+                  "order": 545,
+                  "id": 5622909
+                },
+                {
+                  "name": "Haddy Ceesay",
+                  "character": "Estelle",
+                  "profile_path": "",
+                  "order": 546,
+                  "id": 5601559
+                },
+                {
+                  "name": "Sandra Yi Sencindiver",
+                  "character": "Yutani",
+                  "profile_path": "/zjX4lI5PZ0bd6sJ1tlfYayyy1WG.jpg",
+                  "order": 548,
+                  "id": 1476906
+                },
+                {
+                  "name": "Cameron Brown",
+                  "character": "Xenomorph (uncredited)",
+                  "profile_path": "/jLEKQbppMDHeiFX23bxrcmT5dmh.jpg",
+                  "order": 555,
+                  "id": 1856011
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Sydney Chandler",
+                  "character": "Wendy",
+                  "profile_path": "/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg",
+                  "order": 0,
+                  "id": 2754753
+                },
+                {
+                  "name": "Alex Lawther",
+                  "character": "Joe DiMaggio Hermit",
+                  "profile_path": "/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg",
+                  "order": 1,
+                  "id": 1379277
+                },
+                {
+                  "name": "Essie Davis",
+                  "character": "Dame Sylvia",
+                  "profile_path": "/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg",
+                  "order": 2,
+                  "id": 33449
+                },
+                {
+                  "name": "Samuel Blenkin",
+                  "character": "Boy Kavalier",
+                  "profile_path": "/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg",
+                  "order": 3,
+                  "id": 2500348
+                },
+                {
+                  "name": "Babou Ceesay",
+                  "character": "Kumi Morrow",
+                  "profile_path": "/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg",
+                  "order": 4,
+                  "id": 41044
+                },
+                {
+                  "name": "Adarsh Gourav",
+                  "character": "Slightly",
+                  "profile_path": "/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg",
+                  "order": 5,
+                  "id": 1605786
+                },
+                {
+                  "name": "Erana James",
+                  "character": "Curly",
+                  "profile_path": "/4LSba8f5KN4hXqjnz6RTNAcOS4C.jpg",
+                  "order": 6,
+                  "id": 1708744
+                },
+                {
+                  "name": "Lily Newmark",
+                  "character": "Nibs",
+                  "profile_path": "/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg",
+                  "order": 7,
+                  "id": 1881105
+                },
+                {
+                  "name": "Jonathan Ajayi",
+                  "character": "Smee",
+                  "profile_path": "/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg",
+                  "order": 8,
+                  "id": 2559238
+                },
+                {
+                  "name": "David Rysdahl",
+                  "character": "Arthur Sylvia",
+                  "profile_path": "/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg",
+                  "order": 9,
+                  "id": 1541178
+                },
+                {
+                  "name": "Diêm Camille",
+                  "character": "Siberian",
+                  "profile_path": "/8vaZcGTC3ClMGT4Vdxpf5gUVl47.jpg",
+                  "order": 10,
+                  "id": 2040125
+                },
+                {
+                  "name": "Moe Bar-El",
+                  "character": "Benjamin Rashidi",
+                  "profile_path": "/3P24nebiTXbfy9WCfc4p4VRtpu0.jpg",
+                  "order": 11,
+                  "id": 1935849
+                },
+                {
+                  "name": "Adrian Edmondson",
+                  "character": "Atom Eins",
+                  "profile_path": "/btwSD67CRm3lgouhLDbVockucra.jpg",
+                  "order": 12,
+                  "id": 98464
+                },
+                {
+                  "name": "Timothy Olyphant",
+                  "character": "Kirsh",
+                  "profile_path": "/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg",
+                  "order": 13,
+                  "id": 18082
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Noah Hawley",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 202816,
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+                },
+                {
+                  "name": "Noah Hawley",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 202816,
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+                },
+                {
+                  "name": "Regis Kimble",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1231379,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Cory Faulkner",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1814869,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Regan Kosior",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 1814750,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Colin Watkinson",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 964328,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Andy Nicholson",
+                  "job": "Production Design",
+                  "department": "Art",
+                  "id": 9820,
+                  "profile_path": "/vKStSNLQi11k5MW5LuVMLfAygGR.jpg"
+                },
+                {
+                  "name": "Cornelia Ott",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 40752,
+                  "profile_path": "/e6stsBddUF9iG9V9fTWhRBTnqMn.jpg"
+                },
+                {
+                  "name": "Jason Knox-Johnston",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 962164,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Shira Hockman",
+                  "job": "Art Direction",
+                  "department": "Art",
+                  "id": 1518764,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt32572899",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10945247,
+                "tvrage_id": null,
+                "wikidata_id": "Q136093322"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTA1Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Voe",
+              "original_name": "",
+              "air_date": "2025-09-09",
+              "runtime": 58,
+              "overview": "A tensão aumenta quando inimigos se enfrentam e a curiosidade leva a consequências mortais.",
+              "still_path": "/ppYjI7rPvsZznQr59XzysFUZTsY.jpg",
+              "vote_average": 6.798,
+              "vote_count": 84,
+              "guest_stars": [
+                {
+                  "name": "Byron Bishop",
+                  "character": "Tanaka",
+                  "profile_path": "/niGZtLYRLFtOvphsAmI7N8UcKDj.jpg",
+                  "order": 534,
+                  "id": 94392
+                },
+                {
+                  "name": "Andre Flynn",
+                  "character": "Barrister McAfee",
+                  "profile_path": "/4aqMxVqMNl1j0V15b7rcJytcUIY.jpg",
+                  "order": 547,
+                  "id": 1871889
+                },
+                {
+                  "name": "Sandra Yi Sencindiver",
+                  "character": "Yutani",
+                  "profile_path": "/zjX4lI5PZ0bd6sJ1tlfYayyy1WG.jpg",
+                  "order": 548,
+                  "id": 1476906
+                },
+                {
+                  "name": "Kit Young",
+                  "character": "Isaac",
+                  "profile_path": "/6wL0uEnRJsY67NCAj5KpmGkgr2A.jpg",
+                  "order": 551,
+                  "id": 2361755
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Sydney Chandler",
+                  "character": "Wendy",
+                  "profile_path": "/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg",
+                  "order": 0,
+                  "id": 2754753
+                },
+                {
+                  "name": "Alex Lawther",
+                  "character": "Joe DiMaggio Hermit",
+                  "profile_path": "/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg",
+                  "order": 1,
+                  "id": 1379277
+                },
+                {
+                  "name": "Essie Davis",
+                  "character": "Dame Sylvia",
+                  "profile_path": "/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg",
+                  "order": 2,
+                  "id": 33449
+                },
+                {
+                  "name": "Samuel Blenkin",
+                  "character": "Boy Kavalier",
+                  "profile_path": "/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg",
+                  "order": 3,
+                  "id": 2500348
+                },
+                {
+                  "name": "Babou Ceesay",
+                  "character": "Kumi Morrow",
+                  "profile_path": "/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg",
+                  "order": 4,
+                  "id": 41044
+                },
+                {
+                  "name": "Adarsh Gourav",
+                  "character": "Slightly",
+                  "profile_path": "/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg",
+                  "order": 5,
+                  "id": 1605786
+                },
+                {
+                  "name": "Erana James",
+                  "character": "Curly",
+                  "profile_path": "/4LSba8f5KN4hXqjnz6RTNAcOS4C.jpg",
+                  "order": 6,
+                  "id": 1708744
+                },
+                {
+                  "name": "Lily Newmark",
+                  "character": "Nibs",
+                  "profile_path": "/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg",
+                  "order": 7,
+                  "id": 1881105
+                },
+                {
+                  "name": "Jonathan Ajayi",
+                  "character": "Smee",
+                  "profile_path": "/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg",
+                  "order": 8,
+                  "id": 2559238
+                },
+                {
+                  "name": "David Rysdahl",
+                  "character": "Arthur Sylvia",
+                  "profile_path": "/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg",
+                  "order": 9,
+                  "id": 1541178
+                },
+                {
+                  "name": "Diêm Camille",
+                  "character": "Siberian",
+                  "profile_path": "/8vaZcGTC3ClMGT4Vdxpf5gUVl47.jpg",
+                  "order": 10,
+                  "id": 2040125
+                },
+                {
+                  "name": "Moe Bar-El",
+                  "character": "Benjamin Rashidi",
+                  "profile_path": "/3P24nebiTXbfy9WCfc4p4VRtpu0.jpg",
+                  "order": 11,
+                  "id": 1935849
+                },
+                {
+                  "name": "Adrian Edmondson",
+                  "character": "Atom Eins",
+                  "profile_path": "/btwSD67CRm3lgouhLDbVockucra.jpg",
+                  "order": 12,
+                  "id": 98464
+                },
+                {
+                  "name": "Timothy Olyphant",
+                  "character": "Kirsh",
+                  "profile_path": "/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg",
+                  "order": 13,
+                  "id": 18082
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Noah Hawley",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 202816,
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+                },
+                {
+                  "name": "Ugla Hauksdóttir",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1433935,
+                  "profile_path": "/5NlHPFVyzVZ8bMrSWiXHoQ9E9vA.jpg"
+                },
+                {
+                  "name": "David Franco",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 21222,
+                  "profile_path": "/xp82WfpjYNLFKB2wg4FQE99dPmZ.jpg"
+                },
+                {
+                  "name": "Gregory J. Pawlik Jr.",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1495958,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ashley Bell",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 2240425,
+                  "profile_path": "/ls5NvwUdSYXy9aVR3x1OQOvffnQ.jpg"
+                },
+                {
+                  "name": "Lisa Long",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 3814647,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jason Knox-Johnston",
+                  "job": "Production Design",
+                  "department": "Art",
+                  "id": 962164,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Curtis Thurber",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1626114,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Andy Nicholson",
+                  "job": "Production Design",
+                  "department": "Art",
+                  "id": 9820,
+                  "profile_path": "/vKStSNLQi11k5MW5LuVMLfAygGR.jpg"
+                },
+                {
+                  "name": "Shira Hockman",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 1518764,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt32572904",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10945246,
+                "tvrage_id": null,
+                "wikidata_id": "Q136235829"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTA2Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "Emersão",
+              "original_name": "",
+              "air_date": "2025-09-16",
+              "runtime": 46,
+              "overview": "Um plano de fuga leva ao rompimento de facções, traições e um confronto chocante.",
+              "still_path": "/7DLRyfODm9aii0aLgYiuA6r2zwI.jpg",
+              "vote_average": 7.289,
+              "vote_count": 83,
+              "guest_stars": [
+                {
+                  "name": "Kit Young",
+                  "character": "Isaac",
+                  "profile_path": "/6wL0uEnRJsY67NCAj5KpmGkgr2A.jpg",
+                  "order": 551,
+                  "id": 2361755
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Sydney Chandler",
+                  "character": "Wendy",
+                  "profile_path": "/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg",
+                  "order": 0,
+                  "id": 2754753
+                },
+                {
+                  "name": "Alex Lawther",
+                  "character": "Joe DiMaggio Hermit",
+                  "profile_path": "/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg",
+                  "order": 1,
+                  "id": 1379277
+                },
+                {
+                  "name": "Essie Davis",
+                  "character": "Dame Sylvia",
+                  "profile_path": "/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg",
+                  "order": 2,
+                  "id": 33449
+                },
+                {
+                  "name": "Samuel Blenkin",
+                  "character": "Boy Kavalier",
+                  "profile_path": "/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg",
+                  "order": 3,
+                  "id": 2500348
+                },
+                {
+                  "name": "Babou Ceesay",
+                  "character": "Kumi Morrow",
+                  "profile_path": "/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg",
+                  "order": 4,
+                  "id": 41044
+                },
+                {
+                  "name": "Adarsh Gourav",
+                  "character": "Slightly",
+                  "profile_path": "/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg",
+                  "order": 5,
+                  "id": 1605786
+                },
+                {
+                  "name": "Erana James",
+                  "character": "Curly",
+                  "profile_path": "/4LSba8f5KN4hXqjnz6RTNAcOS4C.jpg",
+                  "order": 6,
+                  "id": 1708744
+                },
+                {
+                  "name": "Lily Newmark",
+                  "character": "Nibs",
+                  "profile_path": "/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg",
+                  "order": 7,
+                  "id": 1881105
+                },
+                {
+                  "name": "Jonathan Ajayi",
+                  "character": "Smee",
+                  "profile_path": "/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg",
+                  "order": 8,
+                  "id": 2559238
+                },
+                {
+                  "name": "David Rysdahl",
+                  "character": "Arthur Sylvia",
+                  "profile_path": "/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg",
+                  "order": 9,
+                  "id": 1541178
+                },
+                {
+                  "name": "Diêm Camille",
+                  "character": "Siberian",
+                  "profile_path": "/8vaZcGTC3ClMGT4Vdxpf5gUVl47.jpg",
+                  "order": 10,
+                  "id": 2040125
+                },
+                {
+                  "name": "Moe Bar-El",
+                  "character": "Benjamin Rashidi",
+                  "profile_path": "/3P24nebiTXbfy9WCfc4p4VRtpu0.jpg",
+                  "order": 11,
+                  "id": 1935849
+                },
+                {
+                  "name": "Adrian Edmondson",
+                  "character": "Atom Eins",
+                  "profile_path": "/btwSD67CRm3lgouhLDbVockucra.jpg",
+                  "order": 12,
+                  "id": 98464
+                },
+                {
+                  "name": "Timothy Olyphant",
+                  "character": "Kirsh",
+                  "profile_path": "/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg",
+                  "order": 13,
+                  "id": 18082
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Noah Hawley",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 202816,
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+                },
+                {
+                  "name": "Dana Gonzales",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 963861,
+                  "profile_path": "/iuOOySMCHUdmfnfqMNx2oDxdKtV.jpg"
+                },
+                {
+                  "name": "Cory Faulkner",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1814869,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Regan Kosior",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 1814750,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Franco",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 21222,
+                  "profile_path": "/xp82WfpjYNLFKB2wg4FQE99dPmZ.jpg"
+                },
+                {
+                  "name": "Jason Knox-Johnston",
+                  "job": "Production Design",
+                  "department": "Art",
+                  "id": 962164,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Robin August",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 2724813,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Maria Melnik",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1851664,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Bella Gonzales",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 2426279,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Shira Hockman",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 1518764,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt32572903",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10945245,
+                "tvrage_id": null,
+                "wikidata_id": "Q136341226"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTA3Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "Os Monstros de Verdade",
+              "original_name": "",
+              "air_date": "2025-09-23",
+              "runtime": 48,
+              "overview": "Uma nova dinâmica de poder surge.",
+              "still_path": "/tssL6QBaKUkdXtmPUidrsREIEX5.jpg",
+              "vote_average": 7.241,
+              "vote_count": 81,
+              "guest_stars": [
+                {
+                  "name": "Florence Bensberg",
+                  "character": "Marcy",
+                  "profile_path": "/Aj8gfRGuvp6EtsQK25l4Jc0SBrK.jpg",
+                  "order": 503,
+                  "id": 3115352
+                },
+                {
+                  "name": "Elsie Lees",
+                  "character": "Child Nibs",
+                  "profile_path": "",
+                  "order": 511,
+                  "id": 5622911
+                },
+                {
+                  "name": "Remi Dabiri-McQuaid",
+                  "character": "Child Tootles",
+                  "profile_path": "",
+                  "order": 513,
+                  "id": 4364359
+                },
+                {
+                  "name": "Sandra Yi Sencindiver",
+                  "character": "Yutani",
+                  "profile_path": "/zjX4lI5PZ0bd6sJ1tlfYayyy1WG.jpg",
+                  "order": 548,
+                  "id": 1476906
+                },
+                {
+                  "name": "Ron Smoorenburg",
+                  "character": "TR-1 Security",
+                  "profile_path": "/5oXVFByoJXq5WdelBb0uI5VEUak.jpg",
+                  "order": 552,
+                  "id": 955264
+                },
+                {
+                  "name": "Lev Hawley",
+                  "character": "Hermit Child",
+                  "profile_path": "",
+                  "order": 553,
+                  "id": 5609255
+                },
+                {
+                  "name": "Noah Hawley",
+                  "character": "Hermit's Father",
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg",
+                  "order": 554,
+                  "id": 202816
+                },
+                {
+                  "name": "วรินทร ญารุจนนทน์",
+                  "character": "Body Man",
+                  "profile_path": "",
+                  "order": 556,
+                  "id": 3639563
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Sydney Chandler",
+                  "character": "Wendy",
+                  "profile_path": "/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg",
+                  "order": 0,
+                  "id": 2754753
+                },
+                {
+                  "name": "Alex Lawther",
+                  "character": "Joe DiMaggio Hermit",
+                  "profile_path": "/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg",
+                  "order": 1,
+                  "id": 1379277
+                },
+                {
+                  "name": "Essie Davis",
+                  "character": "Dame Sylvia",
+                  "profile_path": "/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg",
+                  "order": 2,
+                  "id": 33449
+                },
+                {
+                  "name": "Samuel Blenkin",
+                  "character": "Boy Kavalier",
+                  "profile_path": "/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg",
+                  "order": 3,
+                  "id": 2500348
+                },
+                {
+                  "name": "Babou Ceesay",
+                  "character": "Kumi Morrow",
+                  "profile_path": "/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg",
+                  "order": 4,
+                  "id": 41044
+                },
+                {
+                  "name": "Adarsh Gourav",
+                  "character": "Slightly",
+                  "profile_path": "/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg",
+                  "order": 5,
+                  "id": 1605786
+                },
+                {
+                  "name": "Erana James",
+                  "character": "Curly",
+                  "profile_path": "/4LSba8f5KN4hXqjnz6RTNAcOS4C.jpg",
+                  "order": 6,
+                  "id": 1708744
+                },
+                {
+                  "name": "Lily Newmark",
+                  "character": "Nibs",
+                  "profile_path": "/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg",
+                  "order": 7,
+                  "id": 1881105
+                },
+                {
+                  "name": "Jonathan Ajayi",
+                  "character": "Smee",
+                  "profile_path": "/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg",
+                  "order": 8,
+                  "id": 2559238
+                },
+                {
+                  "name": "David Rysdahl",
+                  "character": "Arthur Sylvia",
+                  "profile_path": "/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg",
+                  "order": 9,
+                  "id": 1541178
+                },
+                {
+                  "name": "Diêm Camille",
+                  "character": "Siberian",
+                  "profile_path": "/8vaZcGTC3ClMGT4Vdxpf5gUVl47.jpg",
+                  "order": 10,
+                  "id": 2040125
+                },
+                {
+                  "name": "Moe Bar-El",
+                  "character": "Benjamin Rashidi",
+                  "profile_path": "/3P24nebiTXbfy9WCfc4p4VRtpu0.jpg",
+                  "order": 11,
+                  "id": 1935849
+                },
+                {
+                  "name": "Adrian Edmondson",
+                  "character": "Atom Eins",
+                  "profile_path": "/btwSD67CRm3lgouhLDbVockucra.jpg",
+                  "order": 12,
+                  "id": 98464
+                },
+                {
+                  "name": "Timothy Olyphant",
+                  "character": "Kirsh",
+                  "profile_path": "/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg",
+                  "order": 13,
+                  "id": 18082
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Noah Hawley",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 202816,
+                  "profile_path": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+                },
+                {
+                  "name": "Dana Gonzales",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 963861,
+                  "profile_path": "/iuOOySMCHUdmfnfqMNx2oDxdKtV.jpg"
+                },
+                {
+                  "name": "Regis Kimble",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1231379,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Cory Faulkner",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1814869,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Regan Kosior",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 1814750,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Franco",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 21222,
+                  "profile_path": "/xp82WfpjYNLFKB2wg4FQE99dPmZ.jpg"
+                },
+                {
+                  "name": "Jason Knox-Johnston",
+                  "job": "Production Design",
+                  "department": "Art",
+                  "id": 962164,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Migizi Pensoneau",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 3239678,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Bella Gonzales",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 2426279,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Shira Hockman",
+                  "job": "Supervising Art Director",
+                  "department": "Art",
+                  "id": 1518764,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt32572889",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10945248,
+                "tvrage_id": null,
+                "wikidata_id": "Q136375280"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU3MjM5LTAxLTA4Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
