@@ -47499,6 +47499,3707 @@
           ]
         }
       ]
+    },
+    {
+      "type": "tv",
+      "title": "A Casa dos Espíritos",
+      "original_title": "The House of the Spirits",
+      "tmdb_id": "259702",
+      "id": 259702,
+      "year": "2026",
+      "release_date": "2026-04-29",
+      "overview": "A Casa dos Espíritos é uma saga familiar de 8 episódios que mostra as vidas de mulheres revolucionárias e resilientes - Clara, a avó; Blanca, a filha; e Alba, a neta - ao longo de meio século em um país sul-americano remoto e conservador forjado por desastres, conflito de classes e magia.",
+      "tagline": "",
+      "poster": "/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
+      "backdrop": "/u2nBtDrTOIi9u78c02bL0A3lo7Y.jpg",
+      "vote_average": 8.438,
+      "vote_count": 89,
+      "genres": [
+        "Drama"
+      ],
+      "runtime": 0,
+      "certification": "18",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "FilmNation Entertainment",
+        "Hyphenate Media Group",
+        "Amazon MGM Studios"
+      ],
+      "external_ids": {
+        "imdb_id": "tt33022938",
+        "freebase_mid": null,
+        "freebase_id": null,
+        "tvdb_id": 452532,
+        "tvrage_id": null,
+        "wikidata_id": "Q133898534",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [],
+      "status": "Ended",
+      "networks": [
+        "Prime Video"
+      ],
+      "created_by": [
+        {
+          "id": 1689175,
+          "name": "Francisca Alegría",
+          "profile_path": "/oOX9X8ey79tAsVc4D1qsDqmdlDT.jpg"
+        },
+        {
+          "id": 955954,
+          "name": "Fernanda Urrejola",
+          "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg"
+        }
+      ],
+      "number_of_seasons": 1,
+      "number_of_episodes": 8,
+      "cast": [
+        {
+          "name": "Alfonso Herrera",
+          "character": "Esteban Trueba",
+          "profile_path": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg",
+          "order": 0,
+          "id": 220496
+        },
+        {
+          "name": "Dolores Fonzi",
+          "character": "Clara del Valle",
+          "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
+          "order": 1,
+          "id": 74909
+        },
+        {
+          "name": "Nicole Wallace",
+          "character": "Clara del Valle (joven)",
+          "profile_path": "/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+          "order": 2,
+          "id": 2527414
+        },
+        {
+          "name": "Sara Becker",
+          "character": "Blanca Trueba del Valle (joven)",
+          "profile_path": "/ftg5TO6txxQbbaxgefMncLIDDhD.jpg",
+          "order": 3,
+          "id": 2689361
+        },
+        {
+          "name": "Nicolás Contreras",
+          "character": "Pedro Tercero (joven)",
+          "profile_path": "/rydLY62VyGl25RS9nGZfhOFETRz.jpg",
+          "order": 4,
+          "id": 3258339
+        },
+        {
+          "name": "Fernanda Castillo",
+          "character": "Férula",
+          "profile_path": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
+          "order": 5,
+          "id": 1303064
+        },
+        {
+          "name": "Néstor Cantillana",
+          "character": "Pedro Segundo García",
+          "profile_path": "/1wtd7uBC6w3MlJiIhSDCbXpiqcW.jpg",
+          "order": 6,
+          "id": 66901
+        },
+        {
+          "name": "Fernanda Urrejola",
+          "character": "Blanca Trueba del Valle",
+          "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg",
+          "order": 7,
+          "id": 955954
+        },
+        {
+          "name": "Pablo Macaya",
+          "character": "Pedro Tercero",
+          "profile_path": "/nSXZVclzWT0UziJhCOWRRFgarXG.jpg",
+          "order": 8,
+          "id": 1569236
+        },
+        {
+          "name": "Rocío Hernández",
+          "character": "Alba García",
+          "profile_path": "/ptJYYFe2KjI7jZKcVuncpVbVzzh.jpg",
+          "order": 9,
+          "id": 2603922
+        },
+        {
+          "name": "Aline Küppenheim",
+          "character": "Nívea del Valle",
+          "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
+          "order": 10,
+          "id": 71208
+        },
+        {
+          "name": "Eduard Fernández",
+          "character": "Severo del Valle",
+          "profile_path": "/1oBOegVHnzjNAU3PFsulfYApEb8.jpg",
+          "order": 11,
+          "id": 87015
+        },
+        {
+          "name": "Chiara Parravicini",
+          "character": "Rosa del Valle",
+          "profile_path": "/9GtTNSOjHJ05HeMcud9uGoEXtm2.jpg",
+          "order": 12,
+          "id": 1731989
+        },
+        {
+          "name": "Juan Pablo Raba",
+          "character": "Tío Marcos",
+          "profile_path": "/xXgB3pOpYWs8NlePS0QrRiYV5FD.jpg",
+          "order": 13,
+          "id": 937009
+        },
+        {
+          "name": "Francesca Turco",
+          "character": "Clara del Valle (niña)",
+          "profile_path": "",
+          "order": 14,
+          "id": 6313348
+        },
+        {
+          "name": "Noelia Coñuenao",
+          "character": "Pancha García",
+          "profile_path": "",
+          "order": 15,
+          "id": 6313350
+        },
+        {
+          "name": "Luis Dubó",
+          "character": "Pedro García \"El Viejo\"",
+          "profile_path": "",
+          "order": 16,
+          "id": 6313352
+        },
+        {
+          "name": "Consuelo Holzapfel",
+          "character": "Ester Trueba",
+          "profile_path": "/s4h8MuopqU9OpyAbFWBgZKool1i.jpg",
+          "order": 17,
+          "id": 1636548
+        },
+        {
+          "name": "Emilio Edwards",
+          "character": "Jean de Satigny",
+          "profile_path": "/rWx92qURAC0xklBlhvJHOqMWbwD.jpg",
+          "order": 18,
+          "id": 973766
+        },
+        {
+          "name": "Diego Mayegas",
+          "character": "Jaime Trueba del Valle (joven)",
+          "profile_path": "",
+          "order": 19,
+          "id": 6313358
+        },
+        {
+          "name": "Amparo Noguera",
+          "character": "Marta Mora",
+          "profile_path": "/9VYxx11lDsWDoj0CcbHhTcymHA1.jpg",
+          "order": 20,
+          "id": 225012
+        },
+        {
+          "name": "Antonia Zegers",
+          "character": "Luisa Mora",
+          "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg",
+          "order": 21,
+          "id": 141624
+        },
+        {
+          "name": "Catalina Saavedra",
+          "character": "Nora Mora",
+          "profile_path": "/z4VVmyuL3BfIjRMFUUPS987hJET.jpg",
+          "order": 22,
+          "id": 98236
+        },
+        {
+          "name": "Pedro de Tavira",
+          "character": "Esteban García",
+          "profile_path": "/kigTOGrMC6MUS7PyeNRk0aAcFQR.jpg",
+          "order": 23,
+          "id": 2061882
+        },
+        {
+          "name": "Juanita Reale",
+          "character": "Alba García (niña)",
+          "profile_path": "",
+          "order": 24,
+          "id": 3590400
+        },
+        {
+          "name": "Gabriela Aguilera",
+          "character": "Nana",
+          "profile_path": "/saxbX6VpTqP4B1m5KqRi0EA7Voc.jpg",
+          "order": 25,
+          "id": 590877
+        },
+        {
+          "name": "Nicolás Francella",
+          "character": "Miguel",
+          "profile_path": "/tlWkiXvp97e7g23L2OQi79QyVMB.jpg",
+          "order": 26,
+          "id": 1208258
+        },
+        {
+          "name": "Pedro Fontaine",
+          "character": "Jaime Trueba del Valle",
+          "profile_path": "/uL6ZRVsvdyl6V5LGJvWk9DB34iZ.jpg",
+          "order": 27,
+          "id": 1524300
+        },
+        {
+          "name": "Carmen Zabala",
+          "character": "Ana Díaz",
+          "profile_path": "/j1JBfqzZjejsjXu0qbM1bzZFksB.jpg",
+          "order": 28,
+          "id": 2525259
+        },
+        {
+          "name": "Maribel Verdú",
+          "character": "Tránsito Soto",
+          "profile_path": "/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg",
+          "order": 29,
+          "id": 16971
+        },
+        {
+          "name": "Marcelo Alonso",
+          "character": "General Hurtado",
+          "profile_path": "/3DIMHQpAq2q2q8cBNHvsYxdSKl4.jpg",
+          "order": 30,
+          "id": 225010
+        },
+        {
+          "name": "Martín Sepúlveda",
+          "character": "Pedro Tercero (pre adolescente)",
+          "profile_path": "",
+          "order": 31,
+          "id": 6313373
+        },
+        {
+          "name": "Simona Gnecco",
+          "character": "Blanca Trueba del Valle (pre adolescente)",
+          "profile_path": "",
+          "order": 32,
+          "id": 6313375
+        },
+        {
+          "name": "Amelia Rodríguez",
+          "character": "Blanca Trueba del Valle (niña)",
+          "profile_path": "",
+          "order": 33,
+          "id": 6313378
+        },
+        {
+          "name": "Raúl Muñoz",
+          "character": "Pedro Tercero (niño)",
+          "profile_path": "",
+          "order": 34,
+          "id": 6313379
+        }
+      ],
+      "crew": [
+        {
+          "name": "Isabel Allende",
+          "job": "Novel",
+          "department": "Writing",
+          "id": 23330,
+          "profile_path": "/3509p9F5b4qjYgUerxXLiLLtQqy.jpg"
+        },
+        {
+          "name": "Eva Longoria",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 52605,
+          "profile_path": "/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
+        },
+        {
+          "name": "Isabel Allende",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 23330,
+          "profile_path": "/3509p9F5b4qjYgUerxXLiLLtQqy.jpg"
+        },
+        {
+          "name": "Francisca Alegría",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1689175,
+          "profile_path": "/oOX9X8ey79tAsVc4D1qsDqmdlDT.jpg"
+        },
+        {
+          "name": "Fernanda Urrejola",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 955954,
+          "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg"
+        },
+        {
+          "name": "Courtney Saladino Gurney",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2817131,
+          "profile_path": ""
+        },
+        {
+          "name": "Ben Spector",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2127520,
+          "profile_path": ""
+        },
+        {
+          "name": "Juan de Dios Larraín",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1075100,
+          "profile_path": ""
+        },
+        {
+          "name": "Pablo Larraín",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 225009,
+          "profile_path": "/4vP5MatNdE6Ku1iJbboWZPya18b.jpg"
+        },
+        {
+          "name": "Stefanie Berk",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2237369,
+          "profile_path": ""
+        },
+        {
+          "name": "Adam Berkowitz",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 4572988,
+          "profile_path": "/7hyYQ8PXlXg7q8OvOwhGhwstXcT.jpg"
+        },
+        {
+          "name": "Glen Basner",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1018975,
+          "profile_path": "/b1AeRfraZMHCSBJeDV3I4YoIVGO.jpg"
+        },
+        {
+          "name": "Andrés Wood",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 71203,
+          "profile_path": "/5HfXcNhAGv1j8crUOmpDmkWi5WM.jpg"
+        },
+        {
+          "name": "Alex Sandoval Tapia",
+          "job": "Data Wrangler",
+          "department": "Camera",
+          "id": 6204923,
+          "profile_path": ""
+        },
+        {
+          "name": "Tomas Videla",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 2528834,
+          "profile_path": ""
+        },
+        {
+          "name": "Mauricio López",
+          "job": "Sound Re-Recording Mixer",
+          "department": "Sound",
+          "id": 1407620,
+          "profile_path": ""
+        },
+        {
+          "name": "Axel Linari",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2842707,
+          "profile_path": ""
+        },
+        {
+          "name": "Mariane Hartard",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1615222,
+          "profile_path": ""
+        },
+        {
+          "name": "Chelsey Lora",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 1540172,
+          "profile_path": ""
+        },
+        {
+          "name": "Carola Carter",
+          "job": "Line Producer",
+          "department": "Production",
+          "id": 962006,
+          "profile_path": ""
+        },
+        {
+          "name": "Germán Maggiori",
+          "job": "Script Consultant",
+          "department": "Writing",
+          "id": 2562607,
+          "profile_path": ""
+        },
+        {
+          "name": "Natalia Quevedo",
+          "job": "Script Consultant",
+          "department": "Writing",
+          "id": 5095113,
+          "profile_path": ""
+        },
+        {
+          "name": "Álvaro Asela",
+          "job": "Post Production Supervisor",
+          "department": "Crew",
+          "id": 3636114,
+          "profile_path": ""
+        },
+        {
+          "name": "Alejandro Valente",
+          "job": "Visual Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 2371367,
+          "profile_path": ""
+        },
+        {
+          "name": "Wernher Schurmann",
+          "job": "Stunt Coordinator",
+          "department": "Crew",
+          "id": 1571128,
+          "profile_path": ""
+        },
+        {
+          "name": "Roberto Matus",
+          "job": "Casting",
+          "department": "Production",
+          "id": 567819,
+          "profile_path": ""
+        },
+        {
+          "name": "Alejandro Reza",
+          "job": "Casting",
+          "department": "Production",
+          "id": 954433,
+          "profile_path": "/zSfDAHDTvGtUit92oaiHh6Mka7b.jpg"
+        }
+      ],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-21T01:00:25.502Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "overview": "A Casa dos Espíritos é uma saga familiar de 8 episódios que mostra as vidas de mulheres revolucionárias e resilientes - Clara, a avó; Blanca, a filha; e Alba, a neta - ao longo de meio século em um país sul-americano remoto e conservador forjado por desastres, conflito de classes e magia.",
+          "poster_path": "/jLDEa4aCP4LJAiIyBfMHEnDPYRi.jpg",
+          "poster": "/jLDEa4aCP4LJAiIyBfMHEnDPYRi.jpg",
+          "backdrop_path": "",
+          "air_date": "2026-04-29",
+          "vote_average": 8,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Alfonso Herrera",
+              "character": "Esteban Trueba",
+              "profile_path": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg",
+              "order": 0,
+              "id": 220496
+            },
+            {
+              "name": "Dolores Fonzi",
+              "character": "Clara del Valle",
+              "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
+              "order": 1,
+              "id": 74909
+            },
+            {
+              "name": "Nicole Wallace",
+              "character": "Clara del Valle (joven)",
+              "profile_path": "/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+              "order": 2,
+              "id": 2527414
+            },
+            {
+              "name": "Sara Becker",
+              "character": "Blanca Trueba del Valle (joven)",
+              "profile_path": "/ftg5TO6txxQbbaxgefMncLIDDhD.jpg",
+              "order": 3,
+              "id": 2689361
+            },
+            {
+              "name": "Nicolás Contreras",
+              "character": "Pedro Tercero (joven)",
+              "profile_path": "/rydLY62VyGl25RS9nGZfhOFETRz.jpg",
+              "order": 4,
+              "id": 3258339
+            },
+            {
+              "name": "Fernanda Castillo",
+              "character": "Férula",
+              "profile_path": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
+              "order": 5,
+              "id": 1303064
+            },
+            {
+              "name": "Néstor Cantillana",
+              "character": "Pedro Segundo García",
+              "profile_path": "/1wtd7uBC6w3MlJiIhSDCbXpiqcW.jpg",
+              "order": 6,
+              "id": 66901
+            },
+            {
+              "name": "Fernanda Urrejola",
+              "character": "Blanca Trueba del Valle",
+              "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg",
+              "order": 7,
+              "id": 955954
+            },
+            {
+              "name": "Pablo Macaya",
+              "character": "Pedro Tercero",
+              "profile_path": "/nSXZVclzWT0UziJhCOWRRFgarXG.jpg",
+              "order": 8,
+              "id": 1569236
+            },
+            {
+              "name": "Rocío Hernández",
+              "character": "Alba García",
+              "profile_path": "/ptJYYFe2KjI7jZKcVuncpVbVzzh.jpg",
+              "order": 9,
+              "id": 2603922
+            },
+            {
+              "name": "Aline Küppenheim",
+              "character": "Nívea del Valle",
+              "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
+              "order": 10,
+              "id": 71208
+            },
+            {
+              "name": "Eduard Fernández",
+              "character": "Severo del Valle",
+              "profile_path": "/1oBOegVHnzjNAU3PFsulfYApEb8.jpg",
+              "order": 11,
+              "id": 87015
+            },
+            {
+              "name": "Chiara Parravicini",
+              "character": "Rosa del Valle",
+              "profile_path": "/9GtTNSOjHJ05HeMcud9uGoEXtm2.jpg",
+              "order": 12,
+              "id": 1731989
+            },
+            {
+              "name": "Juan Pablo Raba",
+              "character": "Tío Marcos",
+              "profile_path": "/xXgB3pOpYWs8NlePS0QrRiYV5FD.jpg",
+              "order": 13,
+              "id": 937009
+            },
+            {
+              "name": "Francesca Turco",
+              "character": "Clara del Valle (niña)",
+              "profile_path": "",
+              "order": 14,
+              "id": 6313348
+            },
+            {
+              "name": "Noelia Coñuenao",
+              "character": "Pancha García",
+              "profile_path": "",
+              "order": 15,
+              "id": 6313350
+            },
+            {
+              "name": "Luis Dubó",
+              "character": "Pedro García \"El Viejo\"",
+              "profile_path": "",
+              "order": 16,
+              "id": 6313352
+            },
+            {
+              "name": "Consuelo Holzapfel",
+              "character": "Ester Trueba",
+              "profile_path": "/s4h8MuopqU9OpyAbFWBgZKool1i.jpg",
+              "order": 17,
+              "id": 1636548
+            },
+            {
+              "name": "Emilio Edwards",
+              "character": "Jean de Satigny",
+              "profile_path": "/rWx92qURAC0xklBlhvJHOqMWbwD.jpg",
+              "order": 18,
+              "id": 973766
+            },
+            {
+              "name": "Diego Mayegas",
+              "character": "Jaime Trueba del Valle (joven)",
+              "profile_path": "",
+              "order": 19,
+              "id": 6313358
+            },
+            {
+              "name": "Amparo Noguera",
+              "character": "Marta Mora",
+              "profile_path": "/9VYxx11lDsWDoj0CcbHhTcymHA1.jpg",
+              "order": 20,
+              "id": 225012
+            },
+            {
+              "name": "Antonia Zegers",
+              "character": "Luisa Mora",
+              "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg",
+              "order": 21,
+              "id": 141624
+            },
+            {
+              "name": "Catalina Saavedra",
+              "character": "Nora Mora",
+              "profile_path": "/z4VVmyuL3BfIjRMFUUPS987hJET.jpg",
+              "order": 22,
+              "id": 98236
+            },
+            {
+              "name": "Pedro de Tavira",
+              "character": "Esteban García",
+              "profile_path": "/kigTOGrMC6MUS7PyeNRk0aAcFQR.jpg",
+              "order": 23,
+              "id": 2061882
+            },
+            {
+              "name": "Juanita Reale",
+              "character": "Alba García (niña)",
+              "profile_path": "",
+              "order": 24,
+              "id": 3590400
+            },
+            {
+              "name": "Gabriela Aguilera",
+              "character": "Nana",
+              "profile_path": "/saxbX6VpTqP4B1m5KqRi0EA7Voc.jpg",
+              "order": 25,
+              "id": 590877
+            },
+            {
+              "name": "Nicolás Francella",
+              "character": "Miguel",
+              "profile_path": "/tlWkiXvp97e7g23L2OQi79QyVMB.jpg",
+              "order": 26,
+              "id": 1208258
+            },
+            {
+              "name": "Pedro Fontaine",
+              "character": "Jaime Trueba del Valle",
+              "profile_path": "/uL6ZRVsvdyl6V5LGJvWk9DB34iZ.jpg",
+              "order": 27,
+              "id": 1524300
+            },
+            {
+              "name": "Carmen Zabala",
+              "character": "Ana Díaz",
+              "profile_path": "/j1JBfqzZjejsjXu0qbM1bzZFksB.jpg",
+              "order": 28,
+              "id": 2525259
+            },
+            {
+              "name": "Maribel Verdú",
+              "character": "Tránsito Soto",
+              "profile_path": "/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg",
+              "order": 29,
+              "id": 16971
+            },
+            {
+              "name": "Marcelo Alonso",
+              "character": "General Hurtado",
+              "profile_path": "/3DIMHQpAq2q2q8cBNHvsYxdSKl4.jpg",
+              "order": 30,
+              "id": 225010
+            },
+            {
+              "name": "Martín Sepúlveda",
+              "character": "Pedro Tercero (pre adolescente)",
+              "profile_path": "",
+              "order": 31,
+              "id": 6313373
+            },
+            {
+              "name": "Simona Gnecco",
+              "character": "Blanca Trueba del Valle (pre adolescente)",
+              "profile_path": "",
+              "order": 32,
+              "id": 6313375
+            },
+            {
+              "name": "Amelia Rodríguez",
+              "character": "Blanca Trueba del Valle (niña)",
+              "profile_path": "",
+              "order": 33,
+              "id": 6313378
+            },
+            {
+              "name": "Raúl Muñoz",
+              "character": "Pedro Tercero (niño)",
+              "profile_path": "",
+              "order": 34,
+              "id": 6313379
+            }
+          ],
+          "crew": [
+            {
+              "name": "Isabel Allende",
+              "job": "Novel",
+              "department": "Writing",
+              "id": 23330,
+              "profile_path": "/3509p9F5b4qjYgUerxXLiLLtQqy.jpg"
+            },
+            {
+              "name": "Eva Longoria",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 52605,
+              "profile_path": "/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
+            },
+            {
+              "name": "Isabel Allende",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 23330,
+              "profile_path": "/3509p9F5b4qjYgUerxXLiLLtQqy.jpg"
+            },
+            {
+              "name": "Francisca Alegría",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1689175,
+              "profile_path": "/oOX9X8ey79tAsVc4D1qsDqmdlDT.jpg"
+            },
+            {
+              "name": "Fernanda Urrejola",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 955954,
+              "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg"
+            },
+            {
+              "name": "Courtney Saladino Gurney",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2817131,
+              "profile_path": ""
+            },
+            {
+              "name": "Ben Spector",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2127520,
+              "profile_path": ""
+            },
+            {
+              "name": "Juan de Dios Larraín",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1075100,
+              "profile_path": ""
+            },
+            {
+              "name": "Pablo Larraín",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 225009,
+              "profile_path": "/4vP5MatNdE6Ku1iJbboWZPya18b.jpg"
+            },
+            {
+              "name": "Stefanie Berk",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2237369,
+              "profile_path": ""
+            },
+            {
+              "name": "Adam Berkowitz",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 4572988,
+              "profile_path": "/7hyYQ8PXlXg7q8OvOwhGhwstXcT.jpg"
+            },
+            {
+              "name": "Glen Basner",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1018975,
+              "profile_path": "/b1AeRfraZMHCSBJeDV3I4YoIVGO.jpg"
+            },
+            {
+              "name": "Andrés Wood",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 71203,
+              "profile_path": "/5HfXcNhAGv1j8crUOmpDmkWi5WM.jpg"
+            },
+            {
+              "name": "Alex Sandoval Tapia",
+              "job": "Data Wrangler",
+              "department": "Camera",
+              "id": 6204923,
+              "profile_path": ""
+            },
+            {
+              "name": "Tomas Videla",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 2528834,
+              "profile_path": ""
+            },
+            {
+              "name": "Mauricio López",
+              "job": "Sound Re-Recording Mixer",
+              "department": "Sound",
+              "id": 1407620,
+              "profile_path": ""
+            },
+            {
+              "name": "Axel Linari",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2842707,
+              "profile_path": ""
+            },
+            {
+              "name": "Mariane Hartard",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1615222,
+              "profile_path": ""
+            },
+            {
+              "name": "Chelsey Lora",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1540172,
+              "profile_path": ""
+            },
+            {
+              "name": "Carola Carter",
+              "job": "Line Producer",
+              "department": "Production",
+              "id": 962006,
+              "profile_path": ""
+            },
+            {
+              "name": "Germán Maggiori",
+              "job": "Script Consultant",
+              "department": "Writing",
+              "id": 2562607,
+              "profile_path": ""
+            },
+            {
+              "name": "Natalia Quevedo",
+              "job": "Script Consultant",
+              "department": "Writing",
+              "id": 5095113,
+              "profile_path": ""
+            },
+            {
+              "name": "Álvaro Asela",
+              "job": "Post Production Supervisor",
+              "department": "Crew",
+              "id": 3636114,
+              "profile_path": ""
+            },
+            {
+              "name": "Alejandro Valente",
+              "job": "Visual Effects Supervisor",
+              "department": "Visual Effects",
+              "id": 2371367,
+              "profile_path": ""
+            },
+            {
+              "name": "Wernher Schurmann",
+              "job": "Stunt Coordinator",
+              "department": "Crew",
+              "id": 1571128,
+              "profile_path": ""
+            },
+            {
+              "name": "Roberto Matus",
+              "job": "Casting",
+              "department": "Production",
+              "id": 567819,
+              "profile_path": ""
+            },
+            {
+              "name": "Alejandro Reza",
+              "job": "Casting",
+              "department": "Production",
+              "id": 954433,
+              "profile_path": "/zSfDAHDTvGtUit92oaiHh6Mka7b.jpg"
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Rosa, a Bela",
+              "original_name": "",
+              "air_date": "2026-04-29",
+              "runtime": 46,
+              "overview": "Alba retorna à casa de sua família e descobre os diários de sua avó Clara. Durante a leitura, ela embarca numa jornada esclarecedora através do tempo, descobrindo as forças que moldaram o destino de Clara, e os ecos que ainda moldam o seu próprio destino.",
+              "still_path": "/xzdqMGtzUc0i5X2Hc3XTuWEHLCy.jpg",
+              "vote_average": 7.1,
+              "vote_count": 4,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alfonso Herrera",
+                  "character": "Esteban Trueba",
+                  "profile_path": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg",
+                  "order": 0,
+                  "id": 220496
+                },
+                {
+                  "name": "Dolores Fonzi",
+                  "character": "Clara del Valle",
+                  "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
+                  "order": 1,
+                  "id": 74909
+                },
+                {
+                  "name": "Nicole Wallace",
+                  "character": "Clara del Valle (joven)",
+                  "profile_path": "/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+                  "order": 2,
+                  "id": 2527414
+                },
+                {
+                  "name": "Sara Becker",
+                  "character": "Blanca Trueba del Valle (joven)",
+                  "profile_path": "/ftg5TO6txxQbbaxgefMncLIDDhD.jpg",
+                  "order": 3,
+                  "id": 2689361
+                },
+                {
+                  "name": "Nicolás Contreras",
+                  "character": "Pedro Tercero (joven)",
+                  "profile_path": "/rydLY62VyGl25RS9nGZfhOFETRz.jpg",
+                  "order": 4,
+                  "id": 3258339
+                },
+                {
+                  "name": "Fernanda Castillo",
+                  "character": "Férula",
+                  "profile_path": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
+                  "order": 5,
+                  "id": 1303064
+                },
+                {
+                  "name": "Néstor Cantillana",
+                  "character": "Pedro Segundo García",
+                  "profile_path": "/1wtd7uBC6w3MlJiIhSDCbXpiqcW.jpg",
+                  "order": 6,
+                  "id": 66901
+                },
+                {
+                  "name": "Fernanda Urrejola",
+                  "character": "Blanca Trueba del Valle",
+                  "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg",
+                  "order": 7,
+                  "id": 955954
+                },
+                {
+                  "name": "Pablo Macaya",
+                  "character": "Pedro Tercero",
+                  "profile_path": "/nSXZVclzWT0UziJhCOWRRFgarXG.jpg",
+                  "order": 8,
+                  "id": 1569236
+                },
+                {
+                  "name": "Rocío Hernández",
+                  "character": "Alba García",
+                  "profile_path": "/ptJYYFe2KjI7jZKcVuncpVbVzzh.jpg",
+                  "order": 9,
+                  "id": 2603922
+                },
+                {
+                  "name": "Aline Küppenheim",
+                  "character": "Nívea del Valle",
+                  "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
+                  "order": 10,
+                  "id": 71208
+                },
+                {
+                  "name": "Eduard Fernández",
+                  "character": "Severo del Valle",
+                  "profile_path": "/1oBOegVHnzjNAU3PFsulfYApEb8.jpg",
+                  "order": 11,
+                  "id": 87015
+                },
+                {
+                  "name": "Chiara Parravicini",
+                  "character": "Rosa del Valle",
+                  "profile_path": "/9GtTNSOjHJ05HeMcud9uGoEXtm2.jpg",
+                  "order": 12,
+                  "id": 1731989
+                },
+                {
+                  "name": "Juan Pablo Raba",
+                  "character": "Tío Marcos",
+                  "profile_path": "/xXgB3pOpYWs8NlePS0QrRiYV5FD.jpg",
+                  "order": 13,
+                  "id": 937009
+                },
+                {
+                  "name": "Francesca Turco",
+                  "character": "Clara del Valle (niña)",
+                  "profile_path": "",
+                  "order": 14,
+                  "id": 6313348
+                },
+                {
+                  "name": "Noelia Coñuenao",
+                  "character": "Pancha García",
+                  "profile_path": "",
+                  "order": 15,
+                  "id": 6313350
+                },
+                {
+                  "name": "Luis Dubó",
+                  "character": "Pedro García \"El Viejo\"",
+                  "profile_path": "",
+                  "order": 16,
+                  "id": 6313352
+                },
+                {
+                  "name": "Consuelo Holzapfel",
+                  "character": "Ester Trueba",
+                  "profile_path": "/s4h8MuopqU9OpyAbFWBgZKool1i.jpg",
+                  "order": 17,
+                  "id": 1636548
+                },
+                {
+                  "name": "Emilio Edwards",
+                  "character": "Jean de Satigny",
+                  "profile_path": "/rWx92qURAC0xklBlhvJHOqMWbwD.jpg",
+                  "order": 18,
+                  "id": 973766
+                },
+                {
+                  "name": "Diego Mayegas",
+                  "character": "Jaime Trueba del Valle (joven)",
+                  "profile_path": "",
+                  "order": 19,
+                  "id": 6313358
+                },
+                {
+                  "name": "Amparo Noguera",
+                  "character": "Marta Mora",
+                  "profile_path": "/9VYxx11lDsWDoj0CcbHhTcymHA1.jpg",
+                  "order": 20,
+                  "id": 225012
+                },
+                {
+                  "name": "Antonia Zegers",
+                  "character": "Luisa Mora",
+                  "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg",
+                  "order": 21,
+                  "id": 141624
+                },
+                {
+                  "name": "Catalina Saavedra",
+                  "character": "Nora Mora",
+                  "profile_path": "/z4VVmyuL3BfIjRMFUUPS987hJET.jpg",
+                  "order": 22,
+                  "id": 98236
+                },
+                {
+                  "name": "Pedro de Tavira",
+                  "character": "Esteban García",
+                  "profile_path": "/kigTOGrMC6MUS7PyeNRk0aAcFQR.jpg",
+                  "order": 23,
+                  "id": 2061882
+                },
+                {
+                  "name": "Juanita Reale",
+                  "character": "Alba García (niña)",
+                  "profile_path": "",
+                  "order": 24,
+                  "id": 3590400
+                },
+                {
+                  "name": "Gabriela Aguilera",
+                  "character": "Nana",
+                  "profile_path": "/saxbX6VpTqP4B1m5KqRi0EA7Voc.jpg",
+                  "order": 25,
+                  "id": 590877
+                },
+                {
+                  "name": "Nicolás Francella",
+                  "character": "Miguel",
+                  "profile_path": "/tlWkiXvp97e7g23L2OQi79QyVMB.jpg",
+                  "order": 26,
+                  "id": 1208258
+                },
+                {
+                  "name": "Pedro Fontaine",
+                  "character": "Jaime Trueba del Valle",
+                  "profile_path": "/uL6ZRVsvdyl6V5LGJvWk9DB34iZ.jpg",
+                  "order": 27,
+                  "id": 1524300
+                },
+                {
+                  "name": "Carmen Zabala",
+                  "character": "Ana Díaz",
+                  "profile_path": "/j1JBfqzZjejsjXu0qbM1bzZFksB.jpg",
+                  "order": 28,
+                  "id": 2525259
+                },
+                {
+                  "name": "Maribel Verdú",
+                  "character": "Tránsito Soto",
+                  "profile_path": "/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg",
+                  "order": 29,
+                  "id": 16971
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Francisca Alegría",
+                  "job": "Screenplay",
+                  "department": "Writing",
+                  "id": 1689175,
+                  "profile_path": "/oOX9X8ey79tAsVc4D1qsDqmdlDT.jpg"
+                },
+                {
+                  "name": "Fernanda Urrejola",
+                  "job": "Screenplay",
+                  "department": "Writing",
+                  "id": 955954,
+                  "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg"
+                },
+                {
+                  "name": "Francisca Alegría",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1689175,
+                  "profile_path": "/oOX9X8ey79tAsVc4D1qsDqmdlDT.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTAxLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Las Tres Marías",
+              "original_name": "",
+              "air_date": "2026-04-29",
+              "runtime": 45,
+              "overview": "Após a tragédia que se abateu sobre ele na cidade, Esteban Trueba se instala na propriedade rural de Las Tres Marías, ao sul do país, determinado a construir um império. Enquanto isso, Clara del Valle, guiada por sua mãe, Nívea, e seu tio Marcos, começa a despertar para um mundo de presságios e dons ocultos. Dois caminhos opostos se cruzam, dando origem à história de uma única família.",
+              "still_path": "/aXco31lravDUQ26qf0EihyWIjNx.jpg",
+              "vote_average": 8.2,
+              "vote_count": 3,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alfonso Herrera",
+                  "character": "Esteban Trueba",
+                  "profile_path": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg",
+                  "order": 0,
+                  "id": 220496
+                },
+                {
+                  "name": "Dolores Fonzi",
+                  "character": "Clara del Valle",
+                  "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
+                  "order": 1,
+                  "id": 74909
+                },
+                {
+                  "name": "Nicole Wallace",
+                  "character": "Clara del Valle (joven)",
+                  "profile_path": "/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+                  "order": 2,
+                  "id": 2527414
+                },
+                {
+                  "name": "Sara Becker",
+                  "character": "Blanca Trueba del Valle (joven)",
+                  "profile_path": "/ftg5TO6txxQbbaxgefMncLIDDhD.jpg",
+                  "order": 3,
+                  "id": 2689361
+                },
+                {
+                  "name": "Nicolás Contreras",
+                  "character": "Pedro Tercero (joven)",
+                  "profile_path": "/rydLY62VyGl25RS9nGZfhOFETRz.jpg",
+                  "order": 4,
+                  "id": 3258339
+                },
+                {
+                  "name": "Fernanda Castillo",
+                  "character": "Férula",
+                  "profile_path": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
+                  "order": 5,
+                  "id": 1303064
+                },
+                {
+                  "name": "Néstor Cantillana",
+                  "character": "Pedro Segundo García",
+                  "profile_path": "/1wtd7uBC6w3MlJiIhSDCbXpiqcW.jpg",
+                  "order": 6,
+                  "id": 66901
+                },
+                {
+                  "name": "Fernanda Urrejola",
+                  "character": "Blanca Trueba del Valle",
+                  "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg",
+                  "order": 7,
+                  "id": 955954
+                },
+                {
+                  "name": "Pablo Macaya",
+                  "character": "Pedro Tercero",
+                  "profile_path": "/nSXZVclzWT0UziJhCOWRRFgarXG.jpg",
+                  "order": 8,
+                  "id": 1569236
+                },
+                {
+                  "name": "Rocío Hernández",
+                  "character": "Alba García",
+                  "profile_path": "/ptJYYFe2KjI7jZKcVuncpVbVzzh.jpg",
+                  "order": 9,
+                  "id": 2603922
+                },
+                {
+                  "name": "Aline Küppenheim",
+                  "character": "Nívea del Valle",
+                  "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
+                  "order": 10,
+                  "id": 71208
+                },
+                {
+                  "name": "Eduard Fernández",
+                  "character": "Severo del Valle",
+                  "profile_path": "/1oBOegVHnzjNAU3PFsulfYApEb8.jpg",
+                  "order": 11,
+                  "id": 87015
+                },
+                {
+                  "name": "Chiara Parravicini",
+                  "character": "Rosa del Valle",
+                  "profile_path": "/9GtTNSOjHJ05HeMcud9uGoEXtm2.jpg",
+                  "order": 12,
+                  "id": 1731989
+                },
+                {
+                  "name": "Juan Pablo Raba",
+                  "character": "Tío Marcos",
+                  "profile_path": "/xXgB3pOpYWs8NlePS0QrRiYV5FD.jpg",
+                  "order": 13,
+                  "id": 937009
+                },
+                {
+                  "name": "Francesca Turco",
+                  "character": "Clara del Valle (niña)",
+                  "profile_path": "",
+                  "order": 14,
+                  "id": 6313348
+                },
+                {
+                  "name": "Noelia Coñuenao",
+                  "character": "Pancha García",
+                  "profile_path": "",
+                  "order": 15,
+                  "id": 6313350
+                },
+                {
+                  "name": "Luis Dubó",
+                  "character": "Pedro García \"El Viejo\"",
+                  "profile_path": "",
+                  "order": 16,
+                  "id": 6313352
+                },
+                {
+                  "name": "Consuelo Holzapfel",
+                  "character": "Ester Trueba",
+                  "profile_path": "/s4h8MuopqU9OpyAbFWBgZKool1i.jpg",
+                  "order": 17,
+                  "id": 1636548
+                },
+                {
+                  "name": "Emilio Edwards",
+                  "character": "Jean de Satigny",
+                  "profile_path": "/rWx92qURAC0xklBlhvJHOqMWbwD.jpg",
+                  "order": 18,
+                  "id": 973766
+                },
+                {
+                  "name": "Diego Mayegas",
+                  "character": "Jaime Trueba del Valle (joven)",
+                  "profile_path": "",
+                  "order": 19,
+                  "id": 6313358
+                },
+                {
+                  "name": "Amparo Noguera",
+                  "character": "Marta Mora",
+                  "profile_path": "/9VYxx11lDsWDoj0CcbHhTcymHA1.jpg",
+                  "order": 20,
+                  "id": 225012
+                },
+                {
+                  "name": "Antonia Zegers",
+                  "character": "Luisa Mora",
+                  "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg",
+                  "order": 21,
+                  "id": 141624
+                },
+                {
+                  "name": "Catalina Saavedra",
+                  "character": "Nora Mora",
+                  "profile_path": "/z4VVmyuL3BfIjRMFUUPS987hJET.jpg",
+                  "order": 22,
+                  "id": 98236
+                },
+                {
+                  "name": "Pedro de Tavira",
+                  "character": "Esteban García",
+                  "profile_path": "/kigTOGrMC6MUS7PyeNRk0aAcFQR.jpg",
+                  "order": 23,
+                  "id": 2061882
+                },
+                {
+                  "name": "Juanita Reale",
+                  "character": "Alba García (niña)",
+                  "profile_path": "",
+                  "order": 24,
+                  "id": 3590400
+                },
+                {
+                  "name": "Gabriela Aguilera",
+                  "character": "Nana",
+                  "profile_path": "/saxbX6VpTqP4B1m5KqRi0EA7Voc.jpg",
+                  "order": 25,
+                  "id": 590877
+                },
+                {
+                  "name": "Nicolás Francella",
+                  "character": "Miguel",
+                  "profile_path": "/tlWkiXvp97e7g23L2OQi79QyVMB.jpg",
+                  "order": 26,
+                  "id": 1208258
+                },
+                {
+                  "name": "Pedro Fontaine",
+                  "character": "Jaime Trueba del Valle",
+                  "profile_path": "/uL6ZRVsvdyl6V5LGJvWk9DB34iZ.jpg",
+                  "order": 27,
+                  "id": 1524300
+                },
+                {
+                  "name": "Carmen Zabala",
+                  "character": "Ana Díaz",
+                  "profile_path": "/j1JBfqzZjejsjXu0qbM1bzZFksB.jpg",
+                  "order": 28,
+                  "id": 2525259
+                },
+                {
+                  "name": "Maribel Verdú",
+                  "character": "Tránsito Soto",
+                  "profile_path": "/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg",
+                  "order": 29,
+                  "id": 16971
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTAyLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Clara, Clarividente",
+              "original_name": "",
+              "air_date": "2026-04-29",
+              "runtime": 52,
+              "overview": "Esteban leva Clara para sua nova casa na capital, \"a casarão de esquina\". Após o nascimento de Blanca, a filha dos dois, a família - incluindo a irmã de Esteban, Férula - viaja para Las Tres Marías, onde Clara descobre o passado sombrio do marido e percebe que seu destino está ligado a Pancha García e seus descendentes.",
+              "still_path": "/6K9SEfzvanGIpOsfVXBdzapN5le.jpg",
+              "vote_average": 8,
+              "vote_count": 2,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alfonso Herrera",
+                  "character": "Esteban Trueba",
+                  "profile_path": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg",
+                  "order": 0,
+                  "id": 220496
+                },
+                {
+                  "name": "Dolores Fonzi",
+                  "character": "Clara del Valle",
+                  "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
+                  "order": 1,
+                  "id": 74909
+                },
+                {
+                  "name": "Nicole Wallace",
+                  "character": "Clara del Valle (joven)",
+                  "profile_path": "/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+                  "order": 2,
+                  "id": 2527414
+                },
+                {
+                  "name": "Sara Becker",
+                  "character": "Blanca Trueba del Valle (joven)",
+                  "profile_path": "/ftg5TO6txxQbbaxgefMncLIDDhD.jpg",
+                  "order": 3,
+                  "id": 2689361
+                },
+                {
+                  "name": "Nicolás Contreras",
+                  "character": "Pedro Tercero (joven)",
+                  "profile_path": "/rydLY62VyGl25RS9nGZfhOFETRz.jpg",
+                  "order": 4,
+                  "id": 3258339
+                },
+                {
+                  "name": "Fernanda Castillo",
+                  "character": "Férula",
+                  "profile_path": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
+                  "order": 5,
+                  "id": 1303064
+                },
+                {
+                  "name": "Néstor Cantillana",
+                  "character": "Pedro Segundo García",
+                  "profile_path": "/1wtd7uBC6w3MlJiIhSDCbXpiqcW.jpg",
+                  "order": 6,
+                  "id": 66901
+                },
+                {
+                  "name": "Fernanda Urrejola",
+                  "character": "Blanca Trueba del Valle",
+                  "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg",
+                  "order": 7,
+                  "id": 955954
+                },
+                {
+                  "name": "Pablo Macaya",
+                  "character": "Pedro Tercero",
+                  "profile_path": "/nSXZVclzWT0UziJhCOWRRFgarXG.jpg",
+                  "order": 8,
+                  "id": 1569236
+                },
+                {
+                  "name": "Rocío Hernández",
+                  "character": "Alba García",
+                  "profile_path": "/ptJYYFe2KjI7jZKcVuncpVbVzzh.jpg",
+                  "order": 9,
+                  "id": 2603922
+                },
+                {
+                  "name": "Aline Küppenheim",
+                  "character": "Nívea del Valle",
+                  "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
+                  "order": 10,
+                  "id": 71208
+                },
+                {
+                  "name": "Eduard Fernández",
+                  "character": "Severo del Valle",
+                  "profile_path": "/1oBOegVHnzjNAU3PFsulfYApEb8.jpg",
+                  "order": 11,
+                  "id": 87015
+                },
+                {
+                  "name": "Chiara Parravicini",
+                  "character": "Rosa del Valle",
+                  "profile_path": "/9GtTNSOjHJ05HeMcud9uGoEXtm2.jpg",
+                  "order": 12,
+                  "id": 1731989
+                },
+                {
+                  "name": "Juan Pablo Raba",
+                  "character": "Tío Marcos",
+                  "profile_path": "/xXgB3pOpYWs8NlePS0QrRiYV5FD.jpg",
+                  "order": 13,
+                  "id": 937009
+                },
+                {
+                  "name": "Francesca Turco",
+                  "character": "Clara del Valle (niña)",
+                  "profile_path": "",
+                  "order": 14,
+                  "id": 6313348
+                },
+                {
+                  "name": "Noelia Coñuenao",
+                  "character": "Pancha García",
+                  "profile_path": "",
+                  "order": 15,
+                  "id": 6313350
+                },
+                {
+                  "name": "Luis Dubó",
+                  "character": "Pedro García \"El Viejo\"",
+                  "profile_path": "",
+                  "order": 16,
+                  "id": 6313352
+                },
+                {
+                  "name": "Consuelo Holzapfel",
+                  "character": "Ester Trueba",
+                  "profile_path": "/s4h8MuopqU9OpyAbFWBgZKool1i.jpg",
+                  "order": 17,
+                  "id": 1636548
+                },
+                {
+                  "name": "Emilio Edwards",
+                  "character": "Jean de Satigny",
+                  "profile_path": "/rWx92qURAC0xklBlhvJHOqMWbwD.jpg",
+                  "order": 18,
+                  "id": 973766
+                },
+                {
+                  "name": "Diego Mayegas",
+                  "character": "Jaime Trueba del Valle (joven)",
+                  "profile_path": "",
+                  "order": 19,
+                  "id": 6313358
+                },
+                {
+                  "name": "Amparo Noguera",
+                  "character": "Marta Mora",
+                  "profile_path": "/9VYxx11lDsWDoj0CcbHhTcymHA1.jpg",
+                  "order": 20,
+                  "id": 225012
+                },
+                {
+                  "name": "Antonia Zegers",
+                  "character": "Luisa Mora",
+                  "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg",
+                  "order": 21,
+                  "id": 141624
+                },
+                {
+                  "name": "Catalina Saavedra",
+                  "character": "Nora Mora",
+                  "profile_path": "/z4VVmyuL3BfIjRMFUUPS987hJET.jpg",
+                  "order": 22,
+                  "id": 98236
+                },
+                {
+                  "name": "Pedro de Tavira",
+                  "character": "Esteban García",
+                  "profile_path": "/kigTOGrMC6MUS7PyeNRk0aAcFQR.jpg",
+                  "order": 23,
+                  "id": 2061882
+                },
+                {
+                  "name": "Juanita Reale",
+                  "character": "Alba García (niña)",
+                  "profile_path": "",
+                  "order": 24,
+                  "id": 3590400
+                },
+                {
+                  "name": "Gabriela Aguilera",
+                  "character": "Nana",
+                  "profile_path": "/saxbX6VpTqP4B1m5KqRi0EA7Voc.jpg",
+                  "order": 25,
+                  "id": 590877
+                },
+                {
+                  "name": "Nicolás Francella",
+                  "character": "Miguel",
+                  "profile_path": "/tlWkiXvp97e7g23L2OQi79QyVMB.jpg",
+                  "order": 26,
+                  "id": 1208258
+                },
+                {
+                  "name": "Pedro Fontaine",
+                  "character": "Jaime Trueba del Valle",
+                  "profile_path": "/uL6ZRVsvdyl6V5LGJvWk9DB34iZ.jpg",
+                  "order": 27,
+                  "id": 1524300
+                },
+                {
+                  "name": "Carmen Zabala",
+                  "character": "Ana Díaz",
+                  "profile_path": "/j1JBfqzZjejsjXu0qbM1bzZFksB.jpg",
+                  "order": 28,
+                  "id": 2525259
+                },
+                {
+                  "name": "Maribel Verdú",
+                  "character": "Tránsito Soto",
+                  "profile_path": "/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg",
+                  "order": 29,
+                  "id": 16971
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTAzLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Os Amantes",
+              "original_name": "",
+              "air_date": "2026-05-06",
+              "runtime": 54,
+              "overview": "Blanca e Pedro Tercero, filho do capataz, crescem passando os verões juntos em Las Tres Marías. O amor proibido entre eles aumenta a cada ano que passa e acaba virando uma paixão selvagem e perigosa. Quando Trueba descobre o relacionamento, toda a fúria que mantinha reprimida vem à tona, ameaçando a segurança de sua própria esposa e de sua filha.",
+              "still_path": "/oIP5Ym97QfSS7svoPRO07ezHcYW.jpg",
+              "vote_average": 7.5,
+              "vote_count": 1,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alfonso Herrera",
+                  "character": "Esteban Trueba",
+                  "profile_path": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg",
+                  "order": 0,
+                  "id": 220496
+                },
+                {
+                  "name": "Dolores Fonzi",
+                  "character": "Clara del Valle",
+                  "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
+                  "order": 1,
+                  "id": 74909
+                },
+                {
+                  "name": "Nicole Wallace",
+                  "character": "Clara del Valle (joven)",
+                  "profile_path": "/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+                  "order": 2,
+                  "id": 2527414
+                },
+                {
+                  "name": "Sara Becker",
+                  "character": "Blanca Trueba del Valle (joven)",
+                  "profile_path": "/ftg5TO6txxQbbaxgefMncLIDDhD.jpg",
+                  "order": 3,
+                  "id": 2689361
+                },
+                {
+                  "name": "Nicolás Contreras",
+                  "character": "Pedro Tercero (joven)",
+                  "profile_path": "/rydLY62VyGl25RS9nGZfhOFETRz.jpg",
+                  "order": 4,
+                  "id": 3258339
+                },
+                {
+                  "name": "Fernanda Castillo",
+                  "character": "Férula",
+                  "profile_path": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
+                  "order": 5,
+                  "id": 1303064
+                },
+                {
+                  "name": "Néstor Cantillana",
+                  "character": "Pedro Segundo García",
+                  "profile_path": "/1wtd7uBC6w3MlJiIhSDCbXpiqcW.jpg",
+                  "order": 6,
+                  "id": 66901
+                },
+                {
+                  "name": "Fernanda Urrejola",
+                  "character": "Blanca Trueba del Valle",
+                  "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg",
+                  "order": 7,
+                  "id": 955954
+                },
+                {
+                  "name": "Pablo Macaya",
+                  "character": "Pedro Tercero",
+                  "profile_path": "/nSXZVclzWT0UziJhCOWRRFgarXG.jpg",
+                  "order": 8,
+                  "id": 1569236
+                },
+                {
+                  "name": "Rocío Hernández",
+                  "character": "Alba García",
+                  "profile_path": "/ptJYYFe2KjI7jZKcVuncpVbVzzh.jpg",
+                  "order": 9,
+                  "id": 2603922
+                },
+                {
+                  "name": "Aline Küppenheim",
+                  "character": "Nívea del Valle",
+                  "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
+                  "order": 10,
+                  "id": 71208
+                },
+                {
+                  "name": "Eduard Fernández",
+                  "character": "Severo del Valle",
+                  "profile_path": "/1oBOegVHnzjNAU3PFsulfYApEb8.jpg",
+                  "order": 11,
+                  "id": 87015
+                },
+                {
+                  "name": "Chiara Parravicini",
+                  "character": "Rosa del Valle",
+                  "profile_path": "/9GtTNSOjHJ05HeMcud9uGoEXtm2.jpg",
+                  "order": 12,
+                  "id": 1731989
+                },
+                {
+                  "name": "Juan Pablo Raba",
+                  "character": "Tío Marcos",
+                  "profile_path": "/xXgB3pOpYWs8NlePS0QrRiYV5FD.jpg",
+                  "order": 13,
+                  "id": 937009
+                },
+                {
+                  "name": "Francesca Turco",
+                  "character": "Clara del Valle (niña)",
+                  "profile_path": "",
+                  "order": 14,
+                  "id": 6313348
+                },
+                {
+                  "name": "Noelia Coñuenao",
+                  "character": "Pancha García",
+                  "profile_path": "",
+                  "order": 15,
+                  "id": 6313350
+                },
+                {
+                  "name": "Luis Dubó",
+                  "character": "Pedro García \"El Viejo\"",
+                  "profile_path": "",
+                  "order": 16,
+                  "id": 6313352
+                },
+                {
+                  "name": "Consuelo Holzapfel",
+                  "character": "Ester Trueba",
+                  "profile_path": "/s4h8MuopqU9OpyAbFWBgZKool1i.jpg",
+                  "order": 17,
+                  "id": 1636548
+                },
+                {
+                  "name": "Emilio Edwards",
+                  "character": "Jean de Satigny",
+                  "profile_path": "/rWx92qURAC0xklBlhvJHOqMWbwD.jpg",
+                  "order": 18,
+                  "id": 973766
+                },
+                {
+                  "name": "Diego Mayegas",
+                  "character": "Jaime Trueba del Valle (joven)",
+                  "profile_path": "",
+                  "order": 19,
+                  "id": 6313358
+                },
+                {
+                  "name": "Amparo Noguera",
+                  "character": "Marta Mora",
+                  "profile_path": "/9VYxx11lDsWDoj0CcbHhTcymHA1.jpg",
+                  "order": 20,
+                  "id": 225012
+                },
+                {
+                  "name": "Antonia Zegers",
+                  "character": "Luisa Mora",
+                  "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg",
+                  "order": 21,
+                  "id": 141624
+                },
+                {
+                  "name": "Catalina Saavedra",
+                  "character": "Nora Mora",
+                  "profile_path": "/z4VVmyuL3BfIjRMFUUPS987hJET.jpg",
+                  "order": 22,
+                  "id": 98236
+                },
+                {
+                  "name": "Pedro de Tavira",
+                  "character": "Esteban García",
+                  "profile_path": "/kigTOGrMC6MUS7PyeNRk0aAcFQR.jpg",
+                  "order": 23,
+                  "id": 2061882
+                },
+                {
+                  "name": "Juanita Reale",
+                  "character": "Alba García (niña)",
+                  "profile_path": "",
+                  "order": 24,
+                  "id": 3590400
+                },
+                {
+                  "name": "Gabriela Aguilera",
+                  "character": "Nana",
+                  "profile_path": "/saxbX6VpTqP4B1m5KqRi0EA7Voc.jpg",
+                  "order": 25,
+                  "id": 590877
+                },
+                {
+                  "name": "Nicolás Francella",
+                  "character": "Miguel",
+                  "profile_path": "/tlWkiXvp97e7g23L2OQi79QyVMB.jpg",
+                  "order": 26,
+                  "id": 1208258
+                },
+                {
+                  "name": "Pedro Fontaine",
+                  "character": "Jaime Trueba del Valle",
+                  "profile_path": "/uL6ZRVsvdyl6V5LGJvWk9DB34iZ.jpg",
+                  "order": 27,
+                  "id": 1524300
+                },
+                {
+                  "name": "Carmen Zabala",
+                  "character": "Ana Díaz",
+                  "profile_path": "/j1JBfqzZjejsjXu0qbM1bzZFksB.jpg",
+                  "order": 28,
+                  "id": 2525259
+                },
+                {
+                  "name": "Maribel Verdú",
+                  "character": "Tránsito Soto",
+                  "profile_path": "/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg",
+                  "order": 29,
+                  "id": 16971
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTA0Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "O Tempo dos Espíritos",
+              "original_name": "",
+              "air_date": "2026-05-06",
+              "runtime": 45,
+              "overview": "Clara se recupera da violência que sofreu do marido graças ao amor e cuidado de suas irmãs astrais, Luisa, Nora e Marta Mora. Com a ajuda delas, ela transforma a casa grande de esquina, seguindo o conselho dos espíritos, para abrigar os necessitados, artistas e aqueles em busca da espiritualidade. Enquanto isso, Blanca sobrevive à ausência de Pedro, embarcando em uma jornada rumo ao desconhecido.",
+              "still_path": "/nDhxI0RSKhVvGnnHxwR7LnNLAJj.jpg",
+              "vote_average": 8.5,
+              "vote_count": 2,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alfonso Herrera",
+                  "character": "Esteban Trueba",
+                  "profile_path": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg",
+                  "order": 0,
+                  "id": 220496
+                },
+                {
+                  "name": "Dolores Fonzi",
+                  "character": "Clara del Valle",
+                  "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
+                  "order": 1,
+                  "id": 74909
+                },
+                {
+                  "name": "Nicole Wallace",
+                  "character": "Clara del Valle (joven)",
+                  "profile_path": "/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+                  "order": 2,
+                  "id": 2527414
+                },
+                {
+                  "name": "Sara Becker",
+                  "character": "Blanca Trueba del Valle (joven)",
+                  "profile_path": "/ftg5TO6txxQbbaxgefMncLIDDhD.jpg",
+                  "order": 3,
+                  "id": 2689361
+                },
+                {
+                  "name": "Nicolás Contreras",
+                  "character": "Pedro Tercero (joven)",
+                  "profile_path": "/rydLY62VyGl25RS9nGZfhOFETRz.jpg",
+                  "order": 4,
+                  "id": 3258339
+                },
+                {
+                  "name": "Fernanda Castillo",
+                  "character": "Férula",
+                  "profile_path": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
+                  "order": 5,
+                  "id": 1303064
+                },
+                {
+                  "name": "Néstor Cantillana",
+                  "character": "Pedro Segundo García",
+                  "profile_path": "/1wtd7uBC6w3MlJiIhSDCbXpiqcW.jpg",
+                  "order": 6,
+                  "id": 66901
+                },
+                {
+                  "name": "Fernanda Urrejola",
+                  "character": "Blanca Trueba del Valle",
+                  "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg",
+                  "order": 7,
+                  "id": 955954
+                },
+                {
+                  "name": "Pablo Macaya",
+                  "character": "Pedro Tercero",
+                  "profile_path": "/nSXZVclzWT0UziJhCOWRRFgarXG.jpg",
+                  "order": 8,
+                  "id": 1569236
+                },
+                {
+                  "name": "Rocío Hernández",
+                  "character": "Alba García",
+                  "profile_path": "/ptJYYFe2KjI7jZKcVuncpVbVzzh.jpg",
+                  "order": 9,
+                  "id": 2603922
+                },
+                {
+                  "name": "Aline Küppenheim",
+                  "character": "Nívea del Valle",
+                  "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
+                  "order": 10,
+                  "id": 71208
+                },
+                {
+                  "name": "Eduard Fernández",
+                  "character": "Severo del Valle",
+                  "profile_path": "/1oBOegVHnzjNAU3PFsulfYApEb8.jpg",
+                  "order": 11,
+                  "id": 87015
+                },
+                {
+                  "name": "Chiara Parravicini",
+                  "character": "Rosa del Valle",
+                  "profile_path": "/9GtTNSOjHJ05HeMcud9uGoEXtm2.jpg",
+                  "order": 12,
+                  "id": 1731989
+                },
+                {
+                  "name": "Juan Pablo Raba",
+                  "character": "Tío Marcos",
+                  "profile_path": "/xXgB3pOpYWs8NlePS0QrRiYV5FD.jpg",
+                  "order": 13,
+                  "id": 937009
+                },
+                {
+                  "name": "Francesca Turco",
+                  "character": "Clara del Valle (niña)",
+                  "profile_path": "",
+                  "order": 14,
+                  "id": 6313348
+                },
+                {
+                  "name": "Noelia Coñuenao",
+                  "character": "Pancha García",
+                  "profile_path": "",
+                  "order": 15,
+                  "id": 6313350
+                },
+                {
+                  "name": "Luis Dubó",
+                  "character": "Pedro García \"El Viejo\"",
+                  "profile_path": "",
+                  "order": 16,
+                  "id": 6313352
+                },
+                {
+                  "name": "Consuelo Holzapfel",
+                  "character": "Ester Trueba",
+                  "profile_path": "/s4h8MuopqU9OpyAbFWBgZKool1i.jpg",
+                  "order": 17,
+                  "id": 1636548
+                },
+                {
+                  "name": "Emilio Edwards",
+                  "character": "Jean de Satigny",
+                  "profile_path": "/rWx92qURAC0xklBlhvJHOqMWbwD.jpg",
+                  "order": 18,
+                  "id": 973766
+                },
+                {
+                  "name": "Diego Mayegas",
+                  "character": "Jaime Trueba del Valle (joven)",
+                  "profile_path": "",
+                  "order": 19,
+                  "id": 6313358
+                },
+                {
+                  "name": "Amparo Noguera",
+                  "character": "Marta Mora",
+                  "profile_path": "/9VYxx11lDsWDoj0CcbHhTcymHA1.jpg",
+                  "order": 20,
+                  "id": 225012
+                },
+                {
+                  "name": "Antonia Zegers",
+                  "character": "Luisa Mora",
+                  "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg",
+                  "order": 21,
+                  "id": 141624
+                },
+                {
+                  "name": "Catalina Saavedra",
+                  "character": "Nora Mora",
+                  "profile_path": "/z4VVmyuL3BfIjRMFUUPS987hJET.jpg",
+                  "order": 22,
+                  "id": 98236
+                },
+                {
+                  "name": "Pedro de Tavira",
+                  "character": "Esteban García",
+                  "profile_path": "/kigTOGrMC6MUS7PyeNRk0aAcFQR.jpg",
+                  "order": 23,
+                  "id": 2061882
+                },
+                {
+                  "name": "Juanita Reale",
+                  "character": "Alba García (niña)",
+                  "profile_path": "",
+                  "order": 24,
+                  "id": 3590400
+                },
+                {
+                  "name": "Gabriela Aguilera",
+                  "character": "Nana",
+                  "profile_path": "/saxbX6VpTqP4B1m5KqRi0EA7Voc.jpg",
+                  "order": 25,
+                  "id": 590877
+                },
+                {
+                  "name": "Nicolás Francella",
+                  "character": "Miguel",
+                  "profile_path": "/tlWkiXvp97e7g23L2OQi79QyVMB.jpg",
+                  "order": 26,
+                  "id": 1208258
+                },
+                {
+                  "name": "Pedro Fontaine",
+                  "character": "Jaime Trueba del Valle",
+                  "profile_path": "/uL6ZRVsvdyl6V5LGJvWk9DB34iZ.jpg",
+                  "order": 27,
+                  "id": 1524300
+                },
+                {
+                  "name": "Carmen Zabala",
+                  "character": "Ana Díaz",
+                  "profile_path": "/j1JBfqzZjejsjXu0qbM1bzZFksB.jpg",
+                  "order": 28,
+                  "id": 2525259
+                },
+                {
+                  "name": "Maribel Verdú",
+                  "character": "Tránsito Soto",
+                  "profile_path": "/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg",
+                  "order": 29,
+                  "id": 16971
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTA1Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "A Menina Alba",
+              "original_name": "",
+              "air_date": "2026-05-13",
+              "runtime": 46,
+              "overview": "O nascimento de Alba ameniza feridas antigas. Blanca ganha dinheiro com suas criaturas de cerâmica, sem saber que sua tia Rosa já as bordava décadas antes. Clara está no auge de sua mediunidade ao lado das Irmãs Mora e seus anfitriões excêntricos, compartilhando risos e conhecimento espiritual, mas uma visita do passado causa uma reviravolta na vida dela.",
+              "still_path": "/9S7MUxrjMNRfojmqONiaEodBuBF.jpg",
+              "vote_average": 6,
+              "vote_count": 2,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alfonso Herrera",
+                  "character": "Esteban Trueba",
+                  "profile_path": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg",
+                  "order": 0,
+                  "id": 220496
+                },
+                {
+                  "name": "Dolores Fonzi",
+                  "character": "Clara del Valle",
+                  "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
+                  "order": 1,
+                  "id": 74909
+                },
+                {
+                  "name": "Nicole Wallace",
+                  "character": "Clara del Valle (joven)",
+                  "profile_path": "/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+                  "order": 2,
+                  "id": 2527414
+                },
+                {
+                  "name": "Sara Becker",
+                  "character": "Blanca Trueba del Valle (joven)",
+                  "profile_path": "/ftg5TO6txxQbbaxgefMncLIDDhD.jpg",
+                  "order": 3,
+                  "id": 2689361
+                },
+                {
+                  "name": "Nicolás Contreras",
+                  "character": "Pedro Tercero (joven)",
+                  "profile_path": "/rydLY62VyGl25RS9nGZfhOFETRz.jpg",
+                  "order": 4,
+                  "id": 3258339
+                },
+                {
+                  "name": "Fernanda Castillo",
+                  "character": "Férula",
+                  "profile_path": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
+                  "order": 5,
+                  "id": 1303064
+                },
+                {
+                  "name": "Néstor Cantillana",
+                  "character": "Pedro Segundo García",
+                  "profile_path": "/1wtd7uBC6w3MlJiIhSDCbXpiqcW.jpg",
+                  "order": 6,
+                  "id": 66901
+                },
+                {
+                  "name": "Fernanda Urrejola",
+                  "character": "Blanca Trueba del Valle",
+                  "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg",
+                  "order": 7,
+                  "id": 955954
+                },
+                {
+                  "name": "Pablo Macaya",
+                  "character": "Pedro Tercero",
+                  "profile_path": "/nSXZVclzWT0UziJhCOWRRFgarXG.jpg",
+                  "order": 8,
+                  "id": 1569236
+                },
+                {
+                  "name": "Rocío Hernández",
+                  "character": "Alba García",
+                  "profile_path": "/ptJYYFe2KjI7jZKcVuncpVbVzzh.jpg",
+                  "order": 9,
+                  "id": 2603922
+                },
+                {
+                  "name": "Aline Küppenheim",
+                  "character": "Nívea del Valle",
+                  "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
+                  "order": 10,
+                  "id": 71208
+                },
+                {
+                  "name": "Eduard Fernández",
+                  "character": "Severo del Valle",
+                  "profile_path": "/1oBOegVHnzjNAU3PFsulfYApEb8.jpg",
+                  "order": 11,
+                  "id": 87015
+                },
+                {
+                  "name": "Chiara Parravicini",
+                  "character": "Rosa del Valle",
+                  "profile_path": "/9GtTNSOjHJ05HeMcud9uGoEXtm2.jpg",
+                  "order": 12,
+                  "id": 1731989
+                },
+                {
+                  "name": "Juan Pablo Raba",
+                  "character": "Tío Marcos",
+                  "profile_path": "/xXgB3pOpYWs8NlePS0QrRiYV5FD.jpg",
+                  "order": 13,
+                  "id": 937009
+                },
+                {
+                  "name": "Francesca Turco",
+                  "character": "Clara del Valle (niña)",
+                  "profile_path": "",
+                  "order": 14,
+                  "id": 6313348
+                },
+                {
+                  "name": "Noelia Coñuenao",
+                  "character": "Pancha García",
+                  "profile_path": "",
+                  "order": 15,
+                  "id": 6313350
+                },
+                {
+                  "name": "Luis Dubó",
+                  "character": "Pedro García \"El Viejo\"",
+                  "profile_path": "",
+                  "order": 16,
+                  "id": 6313352
+                },
+                {
+                  "name": "Consuelo Holzapfel",
+                  "character": "Ester Trueba",
+                  "profile_path": "/s4h8MuopqU9OpyAbFWBgZKool1i.jpg",
+                  "order": 17,
+                  "id": 1636548
+                },
+                {
+                  "name": "Emilio Edwards",
+                  "character": "Jean de Satigny",
+                  "profile_path": "/rWx92qURAC0xklBlhvJHOqMWbwD.jpg",
+                  "order": 18,
+                  "id": 973766
+                },
+                {
+                  "name": "Diego Mayegas",
+                  "character": "Jaime Trueba del Valle (joven)",
+                  "profile_path": "",
+                  "order": 19,
+                  "id": 6313358
+                },
+                {
+                  "name": "Amparo Noguera",
+                  "character": "Marta Mora",
+                  "profile_path": "/9VYxx11lDsWDoj0CcbHhTcymHA1.jpg",
+                  "order": 20,
+                  "id": 225012
+                },
+                {
+                  "name": "Antonia Zegers",
+                  "character": "Luisa Mora",
+                  "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg",
+                  "order": 21,
+                  "id": 141624
+                },
+                {
+                  "name": "Catalina Saavedra",
+                  "character": "Nora Mora",
+                  "profile_path": "/z4VVmyuL3BfIjRMFUUPS987hJET.jpg",
+                  "order": 22,
+                  "id": 98236
+                },
+                {
+                  "name": "Pedro de Tavira",
+                  "character": "Esteban García",
+                  "profile_path": "/kigTOGrMC6MUS7PyeNRk0aAcFQR.jpg",
+                  "order": 23,
+                  "id": 2061882
+                },
+                {
+                  "name": "Juanita Reale",
+                  "character": "Alba García (niña)",
+                  "profile_path": "",
+                  "order": 24,
+                  "id": 3590400
+                },
+                {
+                  "name": "Gabriela Aguilera",
+                  "character": "Nana",
+                  "profile_path": "/saxbX6VpTqP4B1m5KqRi0EA7Voc.jpg",
+                  "order": 25,
+                  "id": 590877
+                },
+                {
+                  "name": "Nicolás Francella",
+                  "character": "Miguel",
+                  "profile_path": "/tlWkiXvp97e7g23L2OQi79QyVMB.jpg",
+                  "order": 26,
+                  "id": 1208258
+                },
+                {
+                  "name": "Pedro Fontaine",
+                  "character": "Jaime Trueba del Valle",
+                  "profile_path": "/uL6ZRVsvdyl6V5LGJvWk9DB34iZ.jpg",
+                  "order": 27,
+                  "id": 1524300
+                },
+                {
+                  "name": "Carmen Zabala",
+                  "character": "Ana Díaz",
+                  "profile_path": "/j1JBfqzZjejsjXu0qbM1bzZFksB.jpg",
+                  "order": 28,
+                  "id": 2525259
+                },
+                {
+                  "name": "Maribel Verdú",
+                  "character": "Tránsito Soto",
+                  "profile_path": "/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg",
+                  "order": 29,
+                  "id": 16971
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTA2Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "O Terror",
+              "original_name": "",
+              "air_date": "2026-05-13",
+              "runtime": 56,
+              "overview": "Aos dezoito anos, Alba Trueba descobre a paixão e a política através de seu relacionamento com Miguel, enquanto o país se encontra dividido. Em meio a uma crise que atinge sua própria família, a revelação de um segredo guardado por muito tempo a abala profundamente, e a ruptura política da nação determinará para sempre o rumo de sua vida.",
+              "still_path": "/xoVg3pf5AABHSCc40G07sGA3VlB.jpg",
+              "vote_average": 9,
+              "vote_count": 2,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alfonso Herrera",
+                  "character": "Esteban Trueba",
+                  "profile_path": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg",
+                  "order": 0,
+                  "id": 220496
+                },
+                {
+                  "name": "Dolores Fonzi",
+                  "character": "Clara del Valle",
+                  "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
+                  "order": 1,
+                  "id": 74909
+                },
+                {
+                  "name": "Nicole Wallace",
+                  "character": "Clara del Valle (joven)",
+                  "profile_path": "/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+                  "order": 2,
+                  "id": 2527414
+                },
+                {
+                  "name": "Sara Becker",
+                  "character": "Blanca Trueba del Valle (joven)",
+                  "profile_path": "/ftg5TO6txxQbbaxgefMncLIDDhD.jpg",
+                  "order": 3,
+                  "id": 2689361
+                },
+                {
+                  "name": "Nicolás Contreras",
+                  "character": "Pedro Tercero (joven)",
+                  "profile_path": "/rydLY62VyGl25RS9nGZfhOFETRz.jpg",
+                  "order": 4,
+                  "id": 3258339
+                },
+                {
+                  "name": "Fernanda Castillo",
+                  "character": "Férula",
+                  "profile_path": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
+                  "order": 5,
+                  "id": 1303064
+                },
+                {
+                  "name": "Néstor Cantillana",
+                  "character": "Pedro Segundo García",
+                  "profile_path": "/1wtd7uBC6w3MlJiIhSDCbXpiqcW.jpg",
+                  "order": 6,
+                  "id": 66901
+                },
+                {
+                  "name": "Fernanda Urrejola",
+                  "character": "Blanca Trueba del Valle",
+                  "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg",
+                  "order": 7,
+                  "id": 955954
+                },
+                {
+                  "name": "Pablo Macaya",
+                  "character": "Pedro Tercero",
+                  "profile_path": "/nSXZVclzWT0UziJhCOWRRFgarXG.jpg",
+                  "order": 8,
+                  "id": 1569236
+                },
+                {
+                  "name": "Rocío Hernández",
+                  "character": "Alba García",
+                  "profile_path": "/ptJYYFe2KjI7jZKcVuncpVbVzzh.jpg",
+                  "order": 9,
+                  "id": 2603922
+                },
+                {
+                  "name": "Aline Küppenheim",
+                  "character": "Nívea del Valle",
+                  "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
+                  "order": 10,
+                  "id": 71208
+                },
+                {
+                  "name": "Eduard Fernández",
+                  "character": "Severo del Valle",
+                  "profile_path": "/1oBOegVHnzjNAU3PFsulfYApEb8.jpg",
+                  "order": 11,
+                  "id": 87015
+                },
+                {
+                  "name": "Chiara Parravicini",
+                  "character": "Rosa del Valle",
+                  "profile_path": "/9GtTNSOjHJ05HeMcud9uGoEXtm2.jpg",
+                  "order": 12,
+                  "id": 1731989
+                },
+                {
+                  "name": "Juan Pablo Raba",
+                  "character": "Tío Marcos",
+                  "profile_path": "/xXgB3pOpYWs8NlePS0QrRiYV5FD.jpg",
+                  "order": 13,
+                  "id": 937009
+                },
+                {
+                  "name": "Francesca Turco",
+                  "character": "Clara del Valle (niña)",
+                  "profile_path": "",
+                  "order": 14,
+                  "id": 6313348
+                },
+                {
+                  "name": "Noelia Coñuenao",
+                  "character": "Pancha García",
+                  "profile_path": "",
+                  "order": 15,
+                  "id": 6313350
+                },
+                {
+                  "name": "Luis Dubó",
+                  "character": "Pedro García \"El Viejo\"",
+                  "profile_path": "",
+                  "order": 16,
+                  "id": 6313352
+                },
+                {
+                  "name": "Consuelo Holzapfel",
+                  "character": "Ester Trueba",
+                  "profile_path": "/s4h8MuopqU9OpyAbFWBgZKool1i.jpg",
+                  "order": 17,
+                  "id": 1636548
+                },
+                {
+                  "name": "Emilio Edwards",
+                  "character": "Jean de Satigny",
+                  "profile_path": "/rWx92qURAC0xklBlhvJHOqMWbwD.jpg",
+                  "order": 18,
+                  "id": 973766
+                },
+                {
+                  "name": "Diego Mayegas",
+                  "character": "Jaime Trueba del Valle (joven)",
+                  "profile_path": "",
+                  "order": 19,
+                  "id": 6313358
+                },
+                {
+                  "name": "Amparo Noguera",
+                  "character": "Marta Mora",
+                  "profile_path": "/9VYxx11lDsWDoj0CcbHhTcymHA1.jpg",
+                  "order": 20,
+                  "id": 225012
+                },
+                {
+                  "name": "Antonia Zegers",
+                  "character": "Luisa Mora",
+                  "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg",
+                  "order": 21,
+                  "id": 141624
+                },
+                {
+                  "name": "Catalina Saavedra",
+                  "character": "Nora Mora",
+                  "profile_path": "/z4VVmyuL3BfIjRMFUUPS987hJET.jpg",
+                  "order": 22,
+                  "id": 98236
+                },
+                {
+                  "name": "Pedro de Tavira",
+                  "character": "Esteban García",
+                  "profile_path": "/kigTOGrMC6MUS7PyeNRk0aAcFQR.jpg",
+                  "order": 23,
+                  "id": 2061882
+                },
+                {
+                  "name": "Juanita Reale",
+                  "character": "Alba García (niña)",
+                  "profile_path": "",
+                  "order": 24,
+                  "id": 3590400
+                },
+                {
+                  "name": "Gabriela Aguilera",
+                  "character": "Nana",
+                  "profile_path": "/saxbX6VpTqP4B1m5KqRi0EA7Voc.jpg",
+                  "order": 25,
+                  "id": 590877
+                },
+                {
+                  "name": "Nicolás Francella",
+                  "character": "Miguel",
+                  "profile_path": "/tlWkiXvp97e7g23L2OQi79QyVMB.jpg",
+                  "order": 26,
+                  "id": 1208258
+                },
+                {
+                  "name": "Pedro Fontaine",
+                  "character": "Jaime Trueba del Valle",
+                  "profile_path": "/uL6ZRVsvdyl6V5LGJvWk9DB34iZ.jpg",
+                  "order": 27,
+                  "id": 1524300
+                },
+                {
+                  "name": "Carmen Zabala",
+                  "character": "Ana Díaz",
+                  "profile_path": "/j1JBfqzZjejsjXu0qbM1bzZFksB.jpg",
+                  "order": 28,
+                  "id": 2525259
+                },
+                {
+                  "name": "Maribel Verdú",
+                  "character": "Tránsito Soto",
+                  "profile_path": "/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg",
+                  "order": 29,
+                  "id": 16971
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTA3Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "A Hora da Verdade",
+              "original_name": "",
+              "air_date": "2026-05-13",
+              "runtime": 58,
+              "overview": "O país enfrenta uma ditadura violenta enquanto a família se desfaz. Alba usa seus privilégios e faz o que pode para ajudar os mais necessitados, descobrindo que ninguém escapa do próprio destino.",
+              "still_path": "/rluJN7FrmGV1xrjZMX8yzdS3216.jpg",
+              "vote_average": 9.5,
+              "vote_count": 2,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alfonso Herrera",
+                  "character": "Esteban Trueba",
+                  "profile_path": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg",
+                  "order": 0,
+                  "id": 220496
+                },
+                {
+                  "name": "Dolores Fonzi",
+                  "character": "Clara del Valle",
+                  "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
+                  "order": 1,
+                  "id": 74909
+                },
+                {
+                  "name": "Nicole Wallace",
+                  "character": "Clara del Valle (joven)",
+                  "profile_path": "/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+                  "order": 2,
+                  "id": 2527414
+                },
+                {
+                  "name": "Sara Becker",
+                  "character": "Blanca Trueba del Valle (joven)",
+                  "profile_path": "/ftg5TO6txxQbbaxgefMncLIDDhD.jpg",
+                  "order": 3,
+                  "id": 2689361
+                },
+                {
+                  "name": "Nicolás Contreras",
+                  "character": "Pedro Tercero (joven)",
+                  "profile_path": "/rydLY62VyGl25RS9nGZfhOFETRz.jpg",
+                  "order": 4,
+                  "id": 3258339
+                },
+                {
+                  "name": "Fernanda Castillo",
+                  "character": "Férula",
+                  "profile_path": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
+                  "order": 5,
+                  "id": 1303064
+                },
+                {
+                  "name": "Néstor Cantillana",
+                  "character": "Pedro Segundo García",
+                  "profile_path": "/1wtd7uBC6w3MlJiIhSDCbXpiqcW.jpg",
+                  "order": 6,
+                  "id": 66901
+                },
+                {
+                  "name": "Fernanda Urrejola",
+                  "character": "Blanca Trueba del Valle",
+                  "profile_path": "/afkhSEav2fAf0t1MSqozgl06kZr.jpg",
+                  "order": 7,
+                  "id": 955954
+                },
+                {
+                  "name": "Pablo Macaya",
+                  "character": "Pedro Tercero",
+                  "profile_path": "/nSXZVclzWT0UziJhCOWRRFgarXG.jpg",
+                  "order": 8,
+                  "id": 1569236
+                },
+                {
+                  "name": "Rocío Hernández",
+                  "character": "Alba García",
+                  "profile_path": "/ptJYYFe2KjI7jZKcVuncpVbVzzh.jpg",
+                  "order": 9,
+                  "id": 2603922
+                },
+                {
+                  "name": "Aline Küppenheim",
+                  "character": "Nívea del Valle",
+                  "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
+                  "order": 10,
+                  "id": 71208
+                },
+                {
+                  "name": "Eduard Fernández",
+                  "character": "Severo del Valle",
+                  "profile_path": "/1oBOegVHnzjNAU3PFsulfYApEb8.jpg",
+                  "order": 11,
+                  "id": 87015
+                },
+                {
+                  "name": "Chiara Parravicini",
+                  "character": "Rosa del Valle",
+                  "profile_path": "/9GtTNSOjHJ05HeMcud9uGoEXtm2.jpg",
+                  "order": 12,
+                  "id": 1731989
+                },
+                {
+                  "name": "Juan Pablo Raba",
+                  "character": "Tío Marcos",
+                  "profile_path": "/xXgB3pOpYWs8NlePS0QrRiYV5FD.jpg",
+                  "order": 13,
+                  "id": 937009
+                },
+                {
+                  "name": "Francesca Turco",
+                  "character": "Clara del Valle (niña)",
+                  "profile_path": "",
+                  "order": 14,
+                  "id": 6313348
+                },
+                {
+                  "name": "Noelia Coñuenao",
+                  "character": "Pancha García",
+                  "profile_path": "",
+                  "order": 15,
+                  "id": 6313350
+                },
+                {
+                  "name": "Luis Dubó",
+                  "character": "Pedro García \"El Viejo\"",
+                  "profile_path": "",
+                  "order": 16,
+                  "id": 6313352
+                },
+                {
+                  "name": "Consuelo Holzapfel",
+                  "character": "Ester Trueba",
+                  "profile_path": "/s4h8MuopqU9OpyAbFWBgZKool1i.jpg",
+                  "order": 17,
+                  "id": 1636548
+                },
+                {
+                  "name": "Emilio Edwards",
+                  "character": "Jean de Satigny",
+                  "profile_path": "/rWx92qURAC0xklBlhvJHOqMWbwD.jpg",
+                  "order": 18,
+                  "id": 973766
+                },
+                {
+                  "name": "Diego Mayegas",
+                  "character": "Jaime Trueba del Valle (joven)",
+                  "profile_path": "",
+                  "order": 19,
+                  "id": 6313358
+                },
+                {
+                  "name": "Amparo Noguera",
+                  "character": "Marta Mora",
+                  "profile_path": "/9VYxx11lDsWDoj0CcbHhTcymHA1.jpg",
+                  "order": 20,
+                  "id": 225012
+                },
+                {
+                  "name": "Antonia Zegers",
+                  "character": "Luisa Mora",
+                  "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg",
+                  "order": 21,
+                  "id": 141624
+                },
+                {
+                  "name": "Catalina Saavedra",
+                  "character": "Nora Mora",
+                  "profile_path": "/z4VVmyuL3BfIjRMFUUPS987hJET.jpg",
+                  "order": 22,
+                  "id": 98236
+                },
+                {
+                  "name": "Pedro de Tavira",
+                  "character": "Esteban García",
+                  "profile_path": "/kigTOGrMC6MUS7PyeNRk0aAcFQR.jpg",
+                  "order": 23,
+                  "id": 2061882
+                },
+                {
+                  "name": "Juanita Reale",
+                  "character": "Alba García (niña)",
+                  "profile_path": "",
+                  "order": 24,
+                  "id": 3590400
+                },
+                {
+                  "name": "Gabriela Aguilera",
+                  "character": "Nana",
+                  "profile_path": "/saxbX6VpTqP4B1m5KqRi0EA7Voc.jpg",
+                  "order": 25,
+                  "id": 590877
+                },
+                {
+                  "name": "Nicolás Francella",
+                  "character": "Miguel",
+                  "profile_path": "/tlWkiXvp97e7g23L2OQi79QyVMB.jpg",
+                  "order": 26,
+                  "id": 1208258
+                },
+                {
+                  "name": "Pedro Fontaine",
+                  "character": "Jaime Trueba del Valle",
+                  "profile_path": "/uL6ZRVsvdyl6V5LGJvWk9DB34iZ.jpg",
+                  "order": 27,
+                  "id": 1524300
+                },
+                {
+                  "name": "Carmen Zabala",
+                  "character": "Ana Díaz",
+                  "profile_path": "/j1JBfqzZjejsjXu0qbM1bzZFksB.jpg",
+                  "order": 28,
+                  "id": 2525259
+                },
+                {
+                  "name": "Maribel Verdú",
+                  "character": "Tránsito Soto",
+                  "profile_path": "/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg",
+                  "order": 29,
+                  "id": 16971
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU5NzAyLTAxLTA4Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tv",
+      "title": "A Dama",
+      "original_title": "The Lady",
+      "tmdb_id": "298425",
+      "id": 298425,
+      "year": "2026",
+      "release_date": "2026-02-22",
+      "overview": "Camareira real Jane Andrews saiu da pobreza e chegou ao palácio, até que uma condenação por homicídio acabou com seu conto de fadas.",
+      "tagline": "",
+      "poster": "/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg",
+      "backdrop": "/y1Xg6NPRD8QFbgOVer16ynjGYUp.jpg",
+      "vote_average": 6.643,
+      "vote_count": 14,
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "runtime": 0,
+      "certification": "16",
+      "original_language": "en",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        "Left Bank Pictures",
+        "BritBox International",
+        "ITV Studios"
+      ],
+      "external_ids": {
+        "imdb_id": "tt34885250",
+        "freebase_mid": null,
+        "freebase_id": null,
+        "tvdb_id": 461667,
+        "tvrage_id": null,
+        "wikidata_id": "Q134411988",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [],
+      "status": "Ended",
+      "networks": [
+        "ITV1"
+      ],
+      "created_by": [
+        {
+          "id": 195618,
+          "name": "Debbie O'Malley",
+          "profile_path": ""
+        }
+      ],
+      "number_of_seasons": 1,
+      "number_of_episodes": 4,
+      "cast": [
+        {
+          "name": "Mia McKenna-Bruce",
+          "character": "Jane Andrews",
+          "profile_path": "/zVmrUsxaLDiWyIKtMxX5N12D6G8.jpg",
+          "order": 0,
+          "id": 113236
+        },
+        {
+          "name": "Natalie Dormer",
+          "character": "Sarah Ferguson",
+          "profile_path": "/vvl6bi59rQhoTjNZMHyRUX9zXLU.jpg",
+          "order": 1,
+          "id": 58502
+        },
+        {
+          "name": "Philip Glenister",
+          "character": "DCI Jim Dickie",
+          "profile_path": "/6JCHlKKJnKyBjJxvITnBOSTKSSq.jpg",
+          "order": 2,
+          "id": 55689
+        },
+        {
+          "name": "Ophelia Lovibond",
+          "character": "Aleksandra",
+          "profile_path": "/oH5fas23dQpLN5wrYcL02Nn0YmD.jpg",
+          "order": 3,
+          "id": 82639
+        },
+        {
+          "name": "Claire Skinner",
+          "character": "June Andrews",
+          "profile_path": "/odJEMUo4utv11ylHLmrOgbhUQHZ.jpg",
+          "order": 4,
+          "id": 42641
+        },
+        {
+          "name": "Daniel Ryan",
+          "character": "David Andrews",
+          "profile_path": "/hBi6cMtlc4FXfCSfDvU68U70bwj.jpg",
+          "order": 5,
+          "id": 1221066
+        },
+        {
+          "name": "Ed Speleers",
+          "character": "Thomas Cressman",
+          "profile_path": "/hDWyZwBEMRklqNllfUinYajJJk6.jpg",
+          "order": 6,
+          "id": 25438
+        },
+        {
+          "name": "James Anderson",
+          "character": "Rick Cressman",
+          "profile_path": "/tbdEmbxtvw3MfCtoeQCP8fr9QuA.jpg",
+          "order": 7,
+          "id": 2750343
+        },
+        {
+          "name": "Jack Alldridge",
+          "character": "David Cressman",
+          "profile_path": "/zz3IDRqx7wM26KTwptjDH63st5c.jpg",
+          "order": 8,
+          "id": 5339561
+        },
+        {
+          "name": "Sophie Simnett",
+          "character": "Claudia",
+          "profile_path": "/iJjXQETOTcbRCa3FYQrvrwhr6tT.jpg",
+          "order": 9,
+          "id": 1715074
+        }
+      ],
+      "crew": [
+        {
+          "name": "Florence Haddon-Cave",
+          "job": "Producer",
+          "department": "Production",
+          "id": 5627621,
+          "profile_path": ""
+        },
+        {
+          "name": "Chris Roe",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 1972517,
+          "profile_path": ""
+        },
+        {
+          "name": "Agnieszka Liggett",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 108565,
+          "profile_path": ""
+        },
+        {
+          "name": "Olivia Scott-Webb",
+          "job": "Casting",
+          "department": "Production",
+          "id": 1599387,
+          "profile_path": ""
+        },
+        {
+          "name": "Ricardo Cruz (Hijo)",
+          "job": "Stunt Coordinator",
+          "department": "Crew",
+          "id": 3510652,
+          "profile_path": "/e8Co2fQsDrRypkrwmYEsFnArPC1.jpg"
+        }
+      ],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-21T01:02:00.821Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "overview": "",
+          "poster_path": "/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg",
+          "poster": "/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg",
+          "backdrop_path": "",
+          "air_date": "2026-02-22",
+          "vote_average": 7.1,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Mia McKenna-Bruce",
+              "character": "Jane Andrews",
+              "profile_path": "/zVmrUsxaLDiWyIKtMxX5N12D6G8.jpg",
+              "order": 0,
+              "id": 113236
+            },
+            {
+              "name": "Natalie Dormer",
+              "character": "Sarah Ferguson",
+              "profile_path": "/vvl6bi59rQhoTjNZMHyRUX9zXLU.jpg",
+              "order": 1,
+              "id": 58502
+            },
+            {
+              "name": "Philip Glenister",
+              "character": "DCI Jim Dickie",
+              "profile_path": "/6JCHlKKJnKyBjJxvITnBOSTKSSq.jpg",
+              "order": 2,
+              "id": 55689
+            },
+            {
+              "name": "Ophelia Lovibond",
+              "character": "Aleksandra",
+              "profile_path": "/oH5fas23dQpLN5wrYcL02Nn0YmD.jpg",
+              "order": 3,
+              "id": 82639
+            },
+            {
+              "name": "Claire Skinner",
+              "character": "June Andrews",
+              "profile_path": "/odJEMUo4utv11ylHLmrOgbhUQHZ.jpg",
+              "order": 4,
+              "id": 42641
+            },
+            {
+              "name": "Daniel Ryan",
+              "character": "David Andrews",
+              "profile_path": "/hBi6cMtlc4FXfCSfDvU68U70bwj.jpg",
+              "order": 5,
+              "id": 1221066
+            },
+            {
+              "name": "Ed Speleers",
+              "character": "Thomas Cressman",
+              "profile_path": "/hDWyZwBEMRklqNllfUinYajJJk6.jpg",
+              "order": 6,
+              "id": 25438
+            },
+            {
+              "name": "James Anderson",
+              "character": "Rick Cressman",
+              "profile_path": "/tbdEmbxtvw3MfCtoeQCP8fr9QuA.jpg",
+              "order": 7,
+              "id": 2750343
+            },
+            {
+              "name": "Jack Alldridge",
+              "character": "David Cressman",
+              "profile_path": "/zz3IDRqx7wM26KTwptjDH63st5c.jpg",
+              "order": 8,
+              "id": 5339561
+            },
+            {
+              "name": "Sophie Simnett",
+              "character": "Claudia",
+              "profile_path": "/iJjXQETOTcbRCa3FYQrvrwhr6tT.jpg",
+              "order": 9,
+              "id": 1715074
+            },
+            {
+              "name": "Anastasia Hille",
+              "character": "Barbara Cressman",
+              "profile_path": "/7xEVIVIizaKG624qheOpCz3I4YE.jpg",
+              "order": 10,
+              "id": 66791
+            }
+          ],
+          "crew": [
+            {
+              "name": "Florence Haddon-Cave",
+              "job": "Producer",
+              "department": "Production",
+              "id": 5627621,
+              "profile_path": ""
+            },
+            {
+              "name": "Chris Roe",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 1972517,
+              "profile_path": ""
+            },
+            {
+              "name": "Agnieszka Liggett",
+              "job": "Editor",
+              "department": "Editing",
+              "id": 108565,
+              "profile_path": ""
+            },
+            {
+              "name": "Olivia Scott-Webb",
+              "job": "Casting",
+              "department": "Production",
+              "id": 1599387,
+              "profile_path": ""
+            },
+            {
+              "name": "Ricardo Cruz (Hijo)",
+              "job": "Stunt Coordinator",
+              "department": "Crew",
+              "id": 3510652,
+              "profile_path": "/e8Co2fQsDrRypkrwmYEsFnArPC1.jpg"
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Episódio 1",
+              "original_name": "",
+              "air_date": "2026-02-22",
+              "runtime": 46,
+              "overview": "A vida de Jane Andrews muda da noite para o dia quando consegue o emprego dos sonhos no Palácio de Buckingham e se aproxima da Duquesa de York.",
+              "still_path": "/afEhTI4QU1Up3IwKGAtlQjsBoiu.jpg",
+              "vote_average": 7.5,
+              "vote_count": 2,
+              "guest_stars": [
+                {
+                  "name": "Mark Stanley",
+                  "character": "Charles",
+                  "profile_path": "/3ABvmcomWJxKsDnfqyVsIzjvul8.jpg",
+                  "order": 500,
+                  "id": 1345950
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Mia McKenna-Bruce",
+                  "character": "Jane Andrews",
+                  "profile_path": "/zVmrUsxaLDiWyIKtMxX5N12D6G8.jpg",
+                  "order": 0,
+                  "id": 113236
+                },
+                {
+                  "name": "Natalie Dormer",
+                  "character": "Sarah Ferguson",
+                  "profile_path": "/vvl6bi59rQhoTjNZMHyRUX9zXLU.jpg",
+                  "order": 1,
+                  "id": 58502
+                },
+                {
+                  "name": "Philip Glenister",
+                  "character": "DCI Jim Dickie",
+                  "profile_path": "/6JCHlKKJnKyBjJxvITnBOSTKSSq.jpg",
+                  "order": 2,
+                  "id": 55689
+                },
+                {
+                  "name": "Ophelia Lovibond",
+                  "character": "Aleksandra",
+                  "profile_path": "/oH5fas23dQpLN5wrYcL02Nn0YmD.jpg",
+                  "order": 3,
+                  "id": 82639
+                },
+                {
+                  "name": "Claire Skinner",
+                  "character": "June Andrews",
+                  "profile_path": "/odJEMUo4utv11ylHLmrOgbhUQHZ.jpg",
+                  "order": 4,
+                  "id": 42641
+                },
+                {
+                  "name": "Daniel Ryan",
+                  "character": "David Andrews",
+                  "profile_path": "/hBi6cMtlc4FXfCSfDvU68U70bwj.jpg",
+                  "order": 5,
+                  "id": 1221066
+                },
+                {
+                  "name": "Ed Speleers",
+                  "character": "Thomas Cressman",
+                  "profile_path": "/hDWyZwBEMRklqNllfUinYajJJk6.jpg",
+                  "order": 6,
+                  "id": 25438
+                },
+                {
+                  "name": "James Anderson",
+                  "character": "Rick Cressman",
+                  "profile_path": "/tbdEmbxtvw3MfCtoeQCP8fr9QuA.jpg",
+                  "order": 7,
+                  "id": 2750343
+                },
+                {
+                  "name": "Jack Alldridge",
+                  "character": "David Cressman",
+                  "profile_path": "/zz3IDRqx7wM26KTwptjDH63st5c.jpg",
+                  "order": 8,
+                  "id": 5339561
+                },
+                {
+                  "name": "Sophie Simnett",
+                  "character": "Claudia",
+                  "profile_path": "/iJjXQETOTcbRCa3FYQrvrwhr6tT.jpg",
+                  "order": 9,
+                  "id": 1715074
+                },
+                {
+                  "name": "Anastasia Hille",
+                  "character": "Barbara Cressman",
+                  "profile_path": "/7xEVIVIizaKG624qheOpCz3I4YE.jpg",
+                  "order": 10,
+                  "id": 66791
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Debbie O'Malley",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 195618,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Lee Haven Jones",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1530147,
+                  "profile_path": "/q83Rr2p6AKG56wbauhmKbNAKrqX.jpg"
+                },
+                {
+                  "name": "David Ramon Ballart",
+                  "job": "Line Producer",
+                  "department": "Production",
+                  "id": 6086168,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Daniel Sampedro Palerm",
+                  "job": "Location Manager",
+                  "department": "Production",
+                  "id": 6086177,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt37149768",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11036348,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjk4NDI1LTAxLTAxLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Episódio 2",
+              "original_name": "",
+              "air_date": "2026-02-23",
+              "runtime": 48,
+              "overview": "Com o conto de fadas de Jane ameaçado, surge uma tábua de salvação: o carismático Tommy Cressman. Será ele seu final feliz?",
+              "still_path": "/6nOyZBbU0XTpn60prpfqbbVDoqp.jpg",
+              "vote_average": 7,
+              "vote_count": 1,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Mia McKenna-Bruce",
+                  "character": "Jane Andrews",
+                  "profile_path": "/zVmrUsxaLDiWyIKtMxX5N12D6G8.jpg",
+                  "order": 0,
+                  "id": 113236
+                },
+                {
+                  "name": "Natalie Dormer",
+                  "character": "Sarah Ferguson",
+                  "profile_path": "/vvl6bi59rQhoTjNZMHyRUX9zXLU.jpg",
+                  "order": 1,
+                  "id": 58502
+                },
+                {
+                  "name": "Philip Glenister",
+                  "character": "DCI Jim Dickie",
+                  "profile_path": "/6JCHlKKJnKyBjJxvITnBOSTKSSq.jpg",
+                  "order": 2,
+                  "id": 55689
+                },
+                {
+                  "name": "Ophelia Lovibond",
+                  "character": "Aleksandra",
+                  "profile_path": "/oH5fas23dQpLN5wrYcL02Nn0YmD.jpg",
+                  "order": 3,
+                  "id": 82639
+                },
+                {
+                  "name": "Claire Skinner",
+                  "character": "June Andrews",
+                  "profile_path": "/odJEMUo4utv11ylHLmrOgbhUQHZ.jpg",
+                  "order": 4,
+                  "id": 42641
+                },
+                {
+                  "name": "Daniel Ryan",
+                  "character": "David Andrews",
+                  "profile_path": "/hBi6cMtlc4FXfCSfDvU68U70bwj.jpg",
+                  "order": 5,
+                  "id": 1221066
+                },
+                {
+                  "name": "Ed Speleers",
+                  "character": "Thomas Cressman",
+                  "profile_path": "/hDWyZwBEMRklqNllfUinYajJJk6.jpg",
+                  "order": 6,
+                  "id": 25438
+                },
+                {
+                  "name": "James Anderson",
+                  "character": "Rick Cressman",
+                  "profile_path": "/tbdEmbxtvw3MfCtoeQCP8fr9QuA.jpg",
+                  "order": 7,
+                  "id": 2750343
+                },
+                {
+                  "name": "Jack Alldridge",
+                  "character": "David Cressman",
+                  "profile_path": "/zz3IDRqx7wM26KTwptjDH63st5c.jpg",
+                  "order": 8,
+                  "id": 5339561
+                },
+                {
+                  "name": "Sophie Simnett",
+                  "character": "Claudia",
+                  "profile_path": "/iJjXQETOTcbRCa3FYQrvrwhr6tT.jpg",
+                  "order": 9,
+                  "id": 1715074
+                },
+                {
+                  "name": "Anastasia Hille",
+                  "character": "Barbara Cressman",
+                  "profile_path": "/7xEVIVIizaKG624qheOpCz3I4YE.jpg",
+                  "order": 10,
+                  "id": 66791
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Debbie O'Malley",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 195618,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Lee Haven Jones",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1530147,
+                  "profile_path": "/q83Rr2p6AKG56wbauhmKbNAKrqX.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt40205793",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11627031,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjk4NDI1LTAxLTAyLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Episódio 3",
+              "original_name": "",
+              "air_date": "2026-03-01",
+              "runtime": 46,
+              "overview": "A relação de Jane e Tommy começa a rachar. Férias no sul da França viram desastre.",
+              "still_path": "/xhP8RQVhiEVQ6bWLBph7CYcNjSy.jpg",
+              "vote_average": 7,
+              "vote_count": 2,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Mia McKenna-Bruce",
+                  "character": "Jane Andrews",
+                  "profile_path": "/zVmrUsxaLDiWyIKtMxX5N12D6G8.jpg",
+                  "order": 0,
+                  "id": 113236
+                },
+                {
+                  "name": "Natalie Dormer",
+                  "character": "Sarah Ferguson",
+                  "profile_path": "/vvl6bi59rQhoTjNZMHyRUX9zXLU.jpg",
+                  "order": 1,
+                  "id": 58502
+                },
+                {
+                  "name": "Philip Glenister",
+                  "character": "DCI Jim Dickie",
+                  "profile_path": "/6JCHlKKJnKyBjJxvITnBOSTKSSq.jpg",
+                  "order": 2,
+                  "id": 55689
+                },
+                {
+                  "name": "Ophelia Lovibond",
+                  "character": "Aleksandra",
+                  "profile_path": "/oH5fas23dQpLN5wrYcL02Nn0YmD.jpg",
+                  "order": 3,
+                  "id": 82639
+                },
+                {
+                  "name": "Claire Skinner",
+                  "character": "June Andrews",
+                  "profile_path": "/odJEMUo4utv11ylHLmrOgbhUQHZ.jpg",
+                  "order": 4,
+                  "id": 42641
+                },
+                {
+                  "name": "Daniel Ryan",
+                  "character": "David Andrews",
+                  "profile_path": "/hBi6cMtlc4FXfCSfDvU68U70bwj.jpg",
+                  "order": 5,
+                  "id": 1221066
+                },
+                {
+                  "name": "Ed Speleers",
+                  "character": "Thomas Cressman",
+                  "profile_path": "/hDWyZwBEMRklqNllfUinYajJJk6.jpg",
+                  "order": 6,
+                  "id": 25438
+                },
+                {
+                  "name": "James Anderson",
+                  "character": "Rick Cressman",
+                  "profile_path": "/tbdEmbxtvw3MfCtoeQCP8fr9QuA.jpg",
+                  "order": 7,
+                  "id": 2750343
+                },
+                {
+                  "name": "Jack Alldridge",
+                  "character": "David Cressman",
+                  "profile_path": "/zz3IDRqx7wM26KTwptjDH63st5c.jpg",
+                  "order": 8,
+                  "id": 5339561
+                },
+                {
+                  "name": "Sophie Simnett",
+                  "character": "Claudia",
+                  "profile_path": "/iJjXQETOTcbRCa3FYQrvrwhr6tT.jpg",
+                  "order": 9,
+                  "id": 1715074
+                },
+                {
+                  "name": "Anastasia Hille",
+                  "character": "Barbara Cressman",
+                  "profile_path": "/7xEVIVIizaKG624qheOpCz3I4YE.jpg",
+                  "order": 10,
+                  "id": 66791
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Debbie O'Malley",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 195618,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Lee Haven Jones",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1530147,
+                  "profile_path": "/q83Rr2p6AKG56wbauhmKbNAKrqX.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt40205799",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11627032,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjk4NDI1LTAxLTAzLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Episódio 4",
+              "original_name": "",
+              "air_date": "2026-03-02",
+              "runtime": 47,
+              "overview": "O conto de fadas de Jane desmorona num julgamento por homicídio. É amante desprezada ou mulher que revida? O júri decide.",
+              "still_path": "/sTQqyMO94IEG6zXr4G4vWxM3WYk.jpg",
+              "vote_average": 7,
+              "vote_count": 2,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Mia McKenna-Bruce",
+                  "character": "Jane Andrews",
+                  "profile_path": "/zVmrUsxaLDiWyIKtMxX5N12D6G8.jpg",
+                  "order": 0,
+                  "id": 113236
+                },
+                {
+                  "name": "Natalie Dormer",
+                  "character": "Sarah Ferguson",
+                  "profile_path": "/vvl6bi59rQhoTjNZMHyRUX9zXLU.jpg",
+                  "order": 1,
+                  "id": 58502
+                },
+                {
+                  "name": "Philip Glenister",
+                  "character": "DCI Jim Dickie",
+                  "profile_path": "/6JCHlKKJnKyBjJxvITnBOSTKSSq.jpg",
+                  "order": 2,
+                  "id": 55689
+                },
+                {
+                  "name": "Ophelia Lovibond",
+                  "character": "Aleksandra",
+                  "profile_path": "/oH5fas23dQpLN5wrYcL02Nn0YmD.jpg",
+                  "order": 3,
+                  "id": 82639
+                },
+                {
+                  "name": "Claire Skinner",
+                  "character": "June Andrews",
+                  "profile_path": "/odJEMUo4utv11ylHLmrOgbhUQHZ.jpg",
+                  "order": 4,
+                  "id": 42641
+                },
+                {
+                  "name": "Daniel Ryan",
+                  "character": "David Andrews",
+                  "profile_path": "/hBi6cMtlc4FXfCSfDvU68U70bwj.jpg",
+                  "order": 5,
+                  "id": 1221066
+                },
+                {
+                  "name": "Ed Speleers",
+                  "character": "Thomas Cressman",
+                  "profile_path": "/hDWyZwBEMRklqNllfUinYajJJk6.jpg",
+                  "order": 6,
+                  "id": 25438
+                },
+                {
+                  "name": "James Anderson",
+                  "character": "Rick Cressman",
+                  "profile_path": "/tbdEmbxtvw3MfCtoeQCP8fr9QuA.jpg",
+                  "order": 7,
+                  "id": 2750343
+                },
+                {
+                  "name": "Jack Alldridge",
+                  "character": "David Cressman",
+                  "profile_path": "/zz3IDRqx7wM26KTwptjDH63st5c.jpg",
+                  "order": 8,
+                  "id": 5339561
+                },
+                {
+                  "name": "Sophie Simnett",
+                  "character": "Claudia",
+                  "profile_path": "/iJjXQETOTcbRCa3FYQrvrwhr6tT.jpg",
+                  "order": 9,
+                  "id": 1715074
+                },
+                {
+                  "name": "Anastasia Hille",
+                  "character": "Barbara Cressman",
+                  "profile_path": "/7xEVIVIizaKG624qheOpCz3I4YE.jpg",
+                  "order": 10,
+                  "id": 66791
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Debbie O'Malley",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 195618,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Lee Haven Jones",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1530147,
+                  "profile_path": "/q83Rr2p6AKG56wbauhmKbNAKrqX.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt40205805",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11627033,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjk4NDI1LTAxLTA0Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
