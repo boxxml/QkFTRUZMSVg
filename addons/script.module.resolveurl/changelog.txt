@@ -1,0 +1,24 @@
+Version 5.1.214 (Nov 20, 2026)
+- Code Base Changes:
+    - None 
+
+- Resolvers Added:
+    - Highway (Debrid)
+
+- Resolvers Fixed/Updated:
+    - abyss
+    - bitchute
+    - byse
+    - lulustream
+    - peestream
+    - rumble
+    - streamwish
+    - torbox
+    - vk
+    - voe
+
+- Resolvers Removed
+    - None
+
+- Languages Added/Updated
+    - None
