@@ -42507,6 +42507,3881 @@
           ]
         }
       ]
+    },
+    {
+      "type": "tv",
+      "title": "Cidade das Estrelas",
+      "original_title": "Star City",
+      "tmdb_id": "252107",
+      "id": 252107,
+      "year": "2026",
+      "release_date": "2026-05-28",
+      "overview": "Entre em um capítulo eletrizante inspirado em For All Mankind. Mesmo universo alternativo. Nova perspectiva: a da União Soviética. Atravesse a Cortina de Ferro com os cosmonautas, engenheiros e agentes de inteligência que arriscaram tudo na corrida pela Lua.",
+      "tagline": "Na corrida pela glória, todo segredo tem seu peso.",
+      "poster": "/yjiWWcaxTsJ6teVwnR87rWyA56P.jpg",
+      "backdrop": "/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
+      "vote_average": 7.6,
+      "vote_count": 98,
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "War & Politics"
+      ],
+      "runtime": 0,
+      "certification": "16",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "Sony Pictures Television",
+        "Tall Ship Productions",
+        "Delicatessen Media"
+      ],
+      "external_ids": {
+        "imdb_id": "tt32140872",
+        "freebase_mid": null,
+        "freebase_id": null,
+        "tvdb_id": 449146,
+        "tvrage_id": null,
+        "wikidata_id": "Q133567755",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [],
+      "status": "Returning Series",
+      "networks": [
+        "Apple TV"
+      ],
+      "created_by": [
+        {
+          "id": 67231,
+          "name": "Ben Nedivi",
+          "profile_path": ""
+        },
+        {
+          "id": 1228256,
+          "name": "Matt Wolpert",
+          "profile_path": ""
+        },
+        {
+          "id": 2385,
+          "name": "Ronald D. Moore",
+          "profile_path": "/6A086Blwpv0nuckrzPgvETlkfo1.jpg"
+        }
+      ],
+      "number_of_seasons": 1,
+      "number_of_episodes": 8,
+      "cast": [
+        {
+          "name": "Rhys Ifans",
+          "character": "Chief Designer",
+          "profile_path": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg",
+          "order": 0,
+          "id": 7026
+        },
+        {
+          "name": "Anna Maxwell Martin",
+          "character": "Lyudmilla Raskova",
+          "profile_path": "/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg",
+          "order": 1,
+          "id": 29236
+        },
+        {
+          "name": "Agnes O'Casey",
+          "character": "Irina Morozova",
+          "profile_path": "/1o8L2LNsnfJMxFR400RKXGBof3c.jpg",
+          "order": 2,
+          "id": 3239558
+        },
+        {
+          "name": "Alice Englert",
+          "character": "Anastasia Belikova",
+          "profile_path": "/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg",
+          "order": 3,
+          "id": 587823
+        },
+        {
+          "name": "Solly McLeod",
+          "character": "Sasha Polivanov",
+          "profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+          "order": 4,
+          "id": 3060978
+        },
+        {
+          "name": "Adam Nagaitis",
+          "character": "Valya Mironov",
+          "profile_path": "/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg",
+          "order": 5,
+          "id": 1435230
+        },
+        {
+          "name": "Ruby Ashbourne Serkis",
+          "character": "Tanya Mironova",
+          "profile_path": "/aG162fp8hnudEieqKZl7yUuqEaX.jpg",
+          "order": 6,
+          "id": 1512455
+        },
+        {
+          "name": "Josef Davies",
+          "character": "Sergei Nikilov",
+          "profile_path": "/geljWJJDVuthFmwqiFundYwqwPR.jpg",
+          "order": 7,
+          "id": 1587575
+        }
+      ],
+      "crew": [
+        {
+          "name": "Maril Davis",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1115253,
+          "profile_path": ""
+        },
+        {
+          "name": "Ben Nedivi",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 67231,
+          "profile_path": ""
+        },
+        {
+          "name": "Matt Wolpert",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1228256,
+          "profile_path": ""
+        },
+        {
+          "name": "Ronald D. Moore",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2385,
+          "profile_path": "/6A086Blwpv0nuckrzPgvETlkfo1.jpg"
+        },
+        {
+          "name": "K.C. Scott",
+          "job": "Producer",
+          "department": "Production",
+          "id": 4424842,
+          "profile_path": "/9tfZR3KVbCsAH6wku8v7w9CUgSy.jpg"
+        },
+        {
+          "name": "Andrew Chambliss",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1245563,
+          "profile_path": ""
+        },
+        {
+          "name": "Steve Oster",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2803685,
+          "profile_path": ""
+        },
+        {
+          "name": "Gursimran Sandhu",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 2301155,
+          "profile_path": ""
+        },
+        {
+          "name": "Megan McDonnell",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 2056482,
+          "profile_path": "/ceVysIbdgmxDGV3vj63Ji4MYbPv.jpg"
+        },
+        {
+          "name": "George Mastras",
+          "job": "Consulting Producer",
+          "department": "Production",
+          "id": 1223193,
+          "profile_path": "/2K0NELbA0Ow45ECudbO2eFc1Fe4.jpg"
+        },
+        {
+          "name": "Liba Vaynberg",
+          "job": "Staff Writer",
+          "department": "Writing",
+          "id": 2166818,
+          "profile_path": "/z4OjsJ3TkJ8sHgGAr0ToMVFrdDV.jpg"
+        },
+        {
+          "name": "Gary Tuck",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 583074,
+          "profile_path": ""
+        },
+        {
+          "name": "Lineta Mišeikytė",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 1599027,
+          "profile_path": ""
+        },
+        {
+          "name": "Jovita Jaksyte",
+          "job": "Unit Production Manager",
+          "department": "Production",
+          "id": 1627325,
+          "profile_path": ""
+        },
+        {
+          "name": "Jay Redd",
+          "job": "Senior Visual Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 1413180,
+          "profile_path": ""
+        },
+        {
+          "name": "Stefanie Gredig",
+          "job": "Makeup Designer",
+          "department": "Costume & Make-Up",
+          "id": 1406176,
+          "profile_path": ""
+        },
+        {
+          "name": "Stefanie Gredig",
+          "job": "Hair Designer",
+          "department": "Costume & Make-Up",
+          "id": 1406176,
+          "profile_path": ""
+        },
+        {
+          "name": "Nicole Fischnaller",
+          "job": "Costume Design",
+          "department": "Costume & Make-Up",
+          "id": 20255,
+          "profile_path": ""
+        },
+        {
+          "name": "Vince Balunas",
+          "job": "Supervising Sound Editor",
+          "department": "Sound",
+          "id": 1621678,
+          "profile_path": ""
+        },
+        {
+          "name": "Federico Jusid",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 45546,
+          "profile_path": "/gK4EkeVqDvxuIMlNZB1SZSaGIFS.jpg"
+        },
+        {
+          "name": "Paul Spriggs",
+          "job": "Production Design",
+          "department": "Art",
+          "id": 1279592,
+          "profile_path": ""
+        },
+        {
+          "name": "Robert Sterne",
+          "job": "Casting",
+          "department": "Production",
+          "id": 1019426,
+          "profile_path": "/mV9p5hU0N2MlcuKWnsuXbnbITdv.jpg"
+        },
+        {
+          "name": "Nicholas Fuentes",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 1224417,
+          "profile_path": ""
+        },
+        {
+          "name": "Robert LaPorte",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 3632072,
+          "profile_path": ""
+        },
+        {
+          "name": "Dia Dufault",
+          "job": "Producer",
+          "department": "Production",
+          "id": 3632043,
+          "profile_path": ""
+        },
+        {
+          "name": "Huey M. Park",
+          "job": "Producer",
+          "department": "Production",
+          "id": 2788573,
+          "profile_path": ""
+        },
+        {
+          "name": "Seth Edelstein",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 545842,
+          "profile_path": ""
+        },
+        {
+          "name": "Amanda Lean",
+          "job": "Script Supervisor",
+          "department": "Directing",
+          "id": 1530263,
+          "profile_path": ""
+        },
+        {
+          "name": "Christine Greene Roe",
+          "job": "Music Supervisor",
+          "department": "Sound",
+          "id": 1862230,
+          "profile_path": ""
+        },
+        {
+          "name": "Garrett Reisman",
+          "job": "Other",
+          "department": "Crew",
+          "id": 3001046,
+          "profile_path": ""
+        },
+        {
+          "name": "Michael Okuda",
+          "job": "Technical Advisor",
+          "department": "Crew",
+          "id": 1544988,
+          "profile_path": ""
+        },
+        {
+          "name": "Denise Okuda",
+          "job": "Technical Advisor",
+          "department": "Crew",
+          "id": 2071584,
+          "profile_path": ""
+        },
+        {
+          "name": "Lawrence Hearn",
+          "job": "Supervising Art Director",
+          "department": "Art",
+          "id": 4540069,
+          "profile_path": ""
+        },
+        {
+          "name": "Lynne Huitson",
+          "job": "Supervising Art Director",
+          "department": "Art",
+          "id": 1465384,
+          "profile_path": ""
+        },
+        {
+          "name": "Ramūnas Rastauskas",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 1584088,
+          "profile_path": "/ttkTPIKFMqOs5KuQoSI8TMic4I9.jpg"
+        },
+        {
+          "name": "Donatas Pirštelis",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 2255279,
+          "profile_path": ""
+        },
+        {
+          "name": "Ona Kvintaité",
+          "job": "Set Decoration",
+          "department": "Art",
+          "id": 2341506,
+          "profile_path": ""
+        },
+        {
+          "name": "Tom Walden",
+          "job": "\"A\" Camera Operator",
+          "department": "Camera",
+          "id": 1543937,
+          "profile_path": ""
+        },
+        {
+          "name": "Tom Walden",
+          "job": "Steadicam Operator",
+          "department": "Camera",
+          "id": 1543937,
+          "profile_path": ""
+        },
+        {
+          "name": "Tomas Vilys",
+          "job": "First Assistant \"A\" Camera",
+          "department": "Camera",
+          "id": 2034119,
+          "profile_path": ""
+        },
+        {
+          "name": "Titas Satkūnas",
+          "job": "Second Assistant \"A\" Camera",
+          "department": "Camera",
+          "id": 3499514,
+          "profile_path": ""
+        },
+        {
+          "name": "Audrius Budrys",
+          "job": "\"B\" Camera Operator",
+          "department": "Camera",
+          "id": 2259013,
+          "profile_path": "/j4POTU2YibHPART25xl9gDktmee.jpg"
+        },
+        {
+          "name": "Martynas Šiaučiūnas",
+          "job": "First Assistant \"B\" Camera",
+          "department": "Camera",
+          "id": 2034117,
+          "profile_path": ""
+        },
+        {
+          "name": "Mantautas Klimas",
+          "job": "Second Assistant \"B\" Camera",
+          "department": "Camera",
+          "id": 2341521,
+          "profile_path": ""
+        },
+        {
+          "name": "Liudvikas Dobrovolskis",
+          "job": "Digital Imaging Technician",
+          "department": "Camera",
+          "id": 6248346,
+          "profile_path": ""
+        },
+        {
+          "name": "Lukas Šalna",
+          "job": "Still Photographer",
+          "department": "Camera",
+          "id": 2034116,
+          "profile_path": ""
+        },
+        {
+          "name": "Paul Schwartz",
+          "job": "Production Sound Mixer",
+          "department": "Sound",
+          "id": 1775663,
+          "profile_path": ""
+        },
+        {
+          "name": "Kristina Mališauskienė",
+          "job": "Assistant Costume Designer",
+          "department": "Costume & Make-Up",
+          "id": 3979652,
+          "profile_path": ""
+        },
+        {
+          "name": "Gerda Kajeniene",
+          "job": "Costume Supervisor",
+          "department": "Costume & Make-Up",
+          "id": 2341551,
+          "profile_path": ""
+        },
+        {
+          "name": "Darius Cicėnas",
+          "job": "Special Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 1413345,
+          "profile_path": ""
+        },
+        {
+          "name": "Kate Bone",
+          "job": "Casting Associate",
+          "department": "Production",
+          "id": 2825522,
+          "profile_path": ""
+        },
+        {
+          "name": "Dane Millward",
+          "job": "Casting Associate",
+          "department": "Production",
+          "id": 5139183,
+          "profile_path": ""
+        },
+        {
+          "name": "Dovydas Bubnovas",
+          "job": "Transportation Coordinator",
+          "department": "Crew",
+          "id": 6248353,
+          "profile_path": ""
+        },
+        {
+          "name": "Evaldas Dabašinskas",
+          "job": "Transportation Captain",
+          "department": "Crew",
+          "id": 2034155,
+          "profile_path": ""
+        },
+        {
+          "name": "Andi Lustak",
+          "job": "Unit Publicist",
+          "department": "Crew",
+          "id": 3757728,
+          "profile_path": ""
+        },
+        {
+          "name": "Maciej Kubica",
+          "job": "Stunt Coordinator",
+          "department": "Crew",
+          "id": 2256001,
+          "profile_path": "/cikpIcudWdwprIl7qT1mQ3kCg1y.jpg"
+        },
+        {
+          "name": "Kate Burns",
+          "job": "Script Coordinator",
+          "department": "Directing",
+          "id": 2335770,
+          "profile_path": ""
+        },
+        {
+          "name": "Jori Lynn Felker",
+          "job": "Script Coordinator",
+          "department": "Directing",
+          "id": 4937801,
+          "profile_path": ""
+        },
+        {
+          "name": "Emma Michalak",
+          "job": "Writers' Assistant",
+          "department": "Writing",
+          "id": 5311014,
+          "profile_path": ""
+        },
+        {
+          "name": "Tiffany Upshaw",
+          "job": "Post Production Supervisor",
+          "department": "Crew",
+          "id": 3442644,
+          "profile_path": ""
+        },
+        {
+          "name": "Alexandra L. Thomas",
+          "job": "Post Production Supervisor",
+          "department": "Crew",
+          "id": 6248355,
+          "profile_path": ""
+        },
+        {
+          "name": "Garth O'Donnell",
+          "job": "Online Editor",
+          "department": "Editing",
+          "id": 1271919,
+          "profile_path": ""
+        },
+        {
+          "name": "Todd Morrissey",
+          "job": "Sound Re-Recording Mixer",
+          "department": "Sound",
+          "id": 3250624,
+          "profile_path": ""
+        },
+        {
+          "name": "John Milo Train",
+          "job": "Sound Re-Recording Mixer",
+          "department": "Sound",
+          "id": 2003423,
+          "profile_path": ""
+        },
+        {
+          "name": "Derek Somaru",
+          "job": "Music Editor",
+          "department": "Sound",
+          "id": 1409722,
+          "profile_path": ""
+        },
+        {
+          "name": "María Ulled",
+          "job": "Executive Music Producer",
+          "department": "Crew",
+          "id": 4165840,
+          "profile_path": ""
+        },
+        {
+          "name": "Milena Fessmann",
+          "job": "Music Consultant",
+          "department": "Sound",
+          "id": 1394321,
+          "profile_path": ""
+        },
+        {
+          "name": "Julian Drucker",
+          "job": "Music Coordinator",
+          "department": "Sound",
+          "id": 3612808,
+          "profile_path": "/zkdC0jzohqo6yubnDrEiUFZYkWY.jpg"
+        },
+        {
+          "name": "Todd Sheridan Perry",
+          "job": "Visual Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 1574819,
+          "profile_path": ""
+        },
+        {
+          "name": "Phillip Hoffman",
+          "job": "Visual Effects Producer",
+          "department": "Visual Effects",
+          "id": 1432038,
+          "profile_path": ""
+        },
+        {
+          "name": "Joyce Rocacorba",
+          "job": "Visual Effects Coordinator",
+          "department": "Visual Effects",
+          "id": 4014285,
+          "profile_path": ""
+        },
+        {
+          "name": "Paulina Lazutkaitė",
+          "job": "Production Manager",
+          "department": "Production",
+          "id": 6248430,
+          "profile_path": ""
+        },
+        {
+          "name": "Vaida Visockaitė",
+          "job": "Production Coordinator",
+          "department": "Production",
+          "id": 6248432,
+          "profile_path": ""
+        },
+        {
+          "name": "Paulina Cenenkaitė",
+          "job": "Assistant Production Coordinator",
+          "department": "Production",
+          "id": 6248433,
+          "profile_path": ""
+        },
+        {
+          "name": "Rugilė Gembeckaitė",
+          "job": "Travel Coordinator",
+          "department": "Production",
+          "id": 6248437,
+          "profile_path": ""
+        },
+        {
+          "name": "Gregs Zundelovičs",
+          "job": "Standby Art Director",
+          "department": "Art",
+          "id": 2986809,
+          "profile_path": ""
+        },
+        {
+          "name": "Justė Vazgytė",
+          "job": "Assistant Art Director",
+          "department": "Art",
+          "id": 2505534,
+          "profile_path": ""
+        },
+        {
+          "name": "Vladas Dautartas",
+          "job": "Assistant Art Director",
+          "department": "Art",
+          "id": 2171325,
+          "profile_path": ""
+        },
+        {
+          "name": "Vytautas Narušis",
+          "job": "Assistant Art Director",
+          "department": "Art",
+          "id": 6248443,
+          "profile_path": ""
+        },
+        {
+          "name": "Ugnė Martinaitytė",
+          "job": "Art Department Coordinator",
+          "department": "Art",
+          "id": 6248444,
+          "profile_path": ""
+        },
+        {
+          "name": "Stanislovas Marmokas",
+          "job": "Graphic Designer",
+          "department": "Art",
+          "id": 6225657,
+          "profile_path": ""
+        },
+        {
+          "name": "Kamilė Višnevskaja",
+          "job": "Art Department Assistant",
+          "department": "Art",
+          "id": 6248447,
+          "profile_path": ""
+        },
+        {
+          "name": "Dovydas Sadocha",
+          "job": "Draughtsman",
+          "department": "Art",
+          "id": 6248448,
+          "profile_path": ""
+        },
+        {
+          "name": "Alisa Muchks",
+          "job": "Draughtsman",
+          "department": "Art",
+          "id": 6248449,
+          "profile_path": ""
+        },
+        {
+          "name": "Jubilee Lopez",
+          "job": "Executive Producer's Assistant",
+          "department": "Production",
+          "id": 4556345,
+          "profile_path": ""
+        },
+        {
+          "name": "Katie Larsen",
+          "job": "Executive Producer's Assistant",
+          "department": "Production",
+          "id": 3243130,
+          "profile_path": ""
+        },
+        {
+          "name": "Elzė Ona Dusevičiūtė",
+          "job": "Executive Producer's Assistant",
+          "department": "Production",
+          "id": 6248455,
+          "profile_path": ""
+        },
+        {
+          "name": "Josh Fritchie",
+          "job": "Visual Effects Production Manager",
+          "department": "Visual Effects",
+          "id": 2713172,
+          "profile_path": ""
+        },
+        {
+          "name": "Gareth Daley",
+          "job": "Visual Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 2149421,
+          "profile_path": ""
+        }
+      ],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-21T00:53:25.585Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "overview": "",
+          "poster_path": "/vWtUpLwk7d25obDDFPD1P1LcbV3.jpg",
+          "poster": "/vWtUpLwk7d25obDDFPD1P1LcbV3.jpg",
+          "backdrop_path": "",
+          "air_date": "2026-05-28",
+          "vote_average": 7.3,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Rhys Ifans",
+              "character": "Chief Designer",
+              "profile_path": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg",
+              "order": 0,
+              "id": 7026
+            },
+            {
+              "name": "Anna Maxwell Martin",
+              "character": "Lyudmilla Raskova",
+              "profile_path": "/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg",
+              "order": 1,
+              "id": 29236
+            },
+            {
+              "name": "Agnes O'Casey",
+              "character": "Irina Morozova",
+              "profile_path": "/1o8L2LNsnfJMxFR400RKXGBof3c.jpg",
+              "order": 2,
+              "id": 3239558
+            },
+            {
+              "name": "Alice Englert",
+              "character": "Anastasia Belikova",
+              "profile_path": "/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg",
+              "order": 3,
+              "id": 587823
+            },
+            {
+              "name": "Solly McLeod",
+              "character": "Sasha Polivanov",
+              "profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+              "order": 4,
+              "id": 3060978
+            },
+            {
+              "name": "Adam Nagaitis",
+              "character": "Valya Mironov",
+              "profile_path": "/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg",
+              "order": 5,
+              "id": 1435230
+            },
+            {
+              "name": "Ruby Ashbourne Serkis",
+              "character": "Tanya Mironova",
+              "profile_path": "/aG162fp8hnudEieqKZl7yUuqEaX.jpg",
+              "order": 6,
+              "id": 1512455
+            },
+            {
+              "name": "Josef Davies",
+              "character": "Sergei Nikilov",
+              "profile_path": "/geljWJJDVuthFmwqiFundYwqwPR.jpg",
+              "order": 7,
+              "id": 1587575
+            }
+          ],
+          "crew": [
+            {
+              "name": "Ben Nedivi",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 67231,
+              "profile_path": ""
+            },
+            {
+              "name": "Matt Wolpert",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1228256,
+              "profile_path": ""
+            },
+            {
+              "name": "Ronald D. Moore",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2385,
+              "profile_path": "/6A086Blwpv0nuckrzPgvETlkfo1.jpg"
+            },
+            {
+              "name": "Maril Davis",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1115253,
+              "profile_path": ""
+            },
+            {
+              "name": "K.C. Scott",
+              "job": "Producer",
+              "department": "Production",
+              "id": 4424842,
+              "profile_path": "/9tfZR3KVbCsAH6wku8v7w9CUgSy.jpg"
+            },
+            {
+              "name": "Andrew Chambliss",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1245563,
+              "profile_path": ""
+            },
+            {
+              "name": "Steve Oster",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2803685,
+              "profile_path": ""
+            },
+            {
+              "name": "Gursimran Sandhu",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 2301155,
+              "profile_path": ""
+            },
+            {
+              "name": "Megan McDonnell",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 2056482,
+              "profile_path": "/ceVysIbdgmxDGV3vj63Ji4MYbPv.jpg"
+            },
+            {
+              "name": "George Mastras",
+              "job": "Consulting Producer",
+              "department": "Production",
+              "id": 1223193,
+              "profile_path": "/2K0NELbA0Ow45ECudbO2eFc1Fe4.jpg"
+            },
+            {
+              "name": "Liba Vaynberg",
+              "job": "Staff Writer",
+              "department": "Writing",
+              "id": 2166818,
+              "profile_path": "/z4OjsJ3TkJ8sHgGAr0ToMVFrdDV.jpg"
+            },
+            {
+              "name": "Gary Tuck",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 583074,
+              "profile_path": ""
+            },
+            {
+              "name": "Lineta Mišeikytė",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 1599027,
+              "profile_path": ""
+            },
+            {
+              "name": "Jovita Jaksyte",
+              "job": "Unit Production Manager",
+              "department": "Production",
+              "id": 1627325,
+              "profile_path": ""
+            },
+            {
+              "name": "Jay Redd",
+              "job": "Senior Visual Effects Supervisor",
+              "department": "Visual Effects",
+              "id": 1413180,
+              "profile_path": ""
+            },
+            {
+              "name": "Stefanie Gredig",
+              "job": "Makeup Designer",
+              "department": "Costume & Make-Up",
+              "id": 1406176,
+              "profile_path": ""
+            },
+            {
+              "name": "Stefanie Gredig",
+              "job": "Hair Designer",
+              "department": "Costume & Make-Up",
+              "id": 1406176,
+              "profile_path": ""
+            },
+            {
+              "name": "Nicole Fischnaller",
+              "job": "Costume Design",
+              "department": "Costume & Make-Up",
+              "id": 20255,
+              "profile_path": ""
+            },
+            {
+              "name": "Vince Balunas",
+              "job": "Supervising Sound Editor",
+              "department": "Sound",
+              "id": 1621678,
+              "profile_path": ""
+            },
+            {
+              "name": "Federico Jusid",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 45546,
+              "profile_path": "/gK4EkeVqDvxuIMlNZB1SZSaGIFS.jpg"
+            },
+            {
+              "name": "Paul Spriggs",
+              "job": "Production Design",
+              "department": "Art",
+              "id": 1279592,
+              "profile_path": ""
+            },
+            {
+              "name": "Robert Sterne",
+              "job": "Casting",
+              "department": "Production",
+              "id": 1019426,
+              "profile_path": "/mV9p5hU0N2MlcuKWnsuXbnbITdv.jpg"
+            },
+            {
+              "name": "Nicholas Fuentes",
+              "job": "Associate Producer",
+              "department": "Production",
+              "id": 1224417,
+              "profile_path": ""
+            },
+            {
+              "name": "Robert LaPorte",
+              "job": "Associate Producer",
+              "department": "Production",
+              "id": 3632072,
+              "profile_path": ""
+            },
+            {
+              "name": "Dia Dufault",
+              "job": "Producer",
+              "department": "Production",
+              "id": 3632043,
+              "profile_path": ""
+            },
+            {
+              "name": "Huey M. Park",
+              "job": "Producer",
+              "department": "Production",
+              "id": 2788573,
+              "profile_path": ""
+            },
+            {
+              "name": "Seth Edelstein",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 545842,
+              "profile_path": ""
+            },
+            {
+              "name": "Amanda Lean",
+              "job": "Script Supervisor",
+              "department": "Directing",
+              "id": 1530263,
+              "profile_path": ""
+            },
+            {
+              "name": "Christine Greene Roe",
+              "job": "Music Supervisor",
+              "department": "Sound",
+              "id": 1862230,
+              "profile_path": ""
+            },
+            {
+              "name": "Garrett Reisman",
+              "job": "Other",
+              "department": "Crew",
+              "id": 3001046,
+              "profile_path": ""
+            },
+            {
+              "name": "Michael Okuda",
+              "job": "Technical Advisor",
+              "department": "Crew",
+              "id": 1544988,
+              "profile_path": ""
+            },
+            {
+              "name": "Denise Okuda",
+              "job": "Technical Advisor",
+              "department": "Crew",
+              "id": 2071584,
+              "profile_path": ""
+            },
+            {
+              "name": "Lawrence Hearn",
+              "job": "Supervising Art Director",
+              "department": "Art",
+              "id": 4540069,
+              "profile_path": ""
+            },
+            {
+              "name": "Lynne Huitson",
+              "job": "Supervising Art Director",
+              "department": "Art",
+              "id": 1465384,
+              "profile_path": ""
+            },
+            {
+              "name": "Ramūnas Rastauskas",
+              "job": "Art Direction",
+              "department": "Art",
+              "id": 1584088,
+              "profile_path": "/ttkTPIKFMqOs5KuQoSI8TMic4I9.jpg"
+            },
+            {
+              "name": "Donatas Pirštelis",
+              "job": "Art Direction",
+              "department": "Art",
+              "id": 2255279,
+              "profile_path": ""
+            },
+            {
+              "name": "Ona Kvintaité",
+              "job": "Set Decoration",
+              "department": "Art",
+              "id": 2341506,
+              "profile_path": ""
+            },
+            {
+              "name": "Tom Walden",
+              "job": "\"A\" Camera Operator",
+              "department": "Camera",
+              "id": 1543937,
+              "profile_path": ""
+            },
+            {
+              "name": "Tom Walden",
+              "job": "Steadicam Operator",
+              "department": "Camera",
+              "id": 1543937,
+              "profile_path": ""
+            },
+            {
+              "name": "Tomas Vilys",
+              "job": "First Assistant \"A\" Camera",
+              "department": "Camera",
+              "id": 2034119,
+              "profile_path": ""
+            },
+            {
+              "name": "Titas Satkūnas",
+              "job": "Second Assistant \"A\" Camera",
+              "department": "Camera",
+              "id": 3499514,
+              "profile_path": ""
+            },
+            {
+              "name": "Audrius Budrys",
+              "job": "\"B\" Camera Operator",
+              "department": "Camera",
+              "id": 2259013,
+              "profile_path": "/j4POTU2YibHPART25xl9gDktmee.jpg"
+            },
+            {
+              "name": "Martynas Šiaučiūnas",
+              "job": "First Assistant \"B\" Camera",
+              "department": "Camera",
+              "id": 2034117,
+              "profile_path": ""
+            },
+            {
+              "name": "Mantautas Klimas",
+              "job": "Second Assistant \"B\" Camera",
+              "department": "Camera",
+              "id": 2341521,
+              "profile_path": ""
+            },
+            {
+              "name": "Liudvikas Dobrovolskis",
+              "job": "Digital Imaging Technician",
+              "department": "Camera",
+              "id": 6248346,
+              "profile_path": ""
+            },
+            {
+              "name": "Lukas Šalna",
+              "job": "Still Photographer",
+              "department": "Camera",
+              "id": 2034116,
+              "profile_path": ""
+            },
+            {
+              "name": "Paul Schwartz",
+              "job": "Production Sound Mixer",
+              "department": "Sound",
+              "id": 1775663,
+              "profile_path": ""
+            },
+            {
+              "name": "Kristina Mališauskienė",
+              "job": "Assistant Costume Designer",
+              "department": "Costume & Make-Up",
+              "id": 3979652,
+              "profile_path": ""
+            },
+            {
+              "name": "Gerda Kajeniene",
+              "job": "Costume Supervisor",
+              "department": "Costume & Make-Up",
+              "id": 2341551,
+              "profile_path": ""
+            },
+            {
+              "name": "Darius Cicėnas",
+              "job": "Special Effects Supervisor",
+              "department": "Visual Effects",
+              "id": 1413345,
+              "profile_path": ""
+            },
+            {
+              "name": "Kate Bone",
+              "job": "Casting Associate",
+              "department": "Production",
+              "id": 2825522,
+              "profile_path": ""
+            },
+            {
+              "name": "Dane Millward",
+              "job": "Casting Associate",
+              "department": "Production",
+              "id": 5139183,
+              "profile_path": ""
+            },
+            {
+              "name": "Dovydas Bubnovas",
+              "job": "Transportation Coordinator",
+              "department": "Crew",
+              "id": 6248353,
+              "profile_path": ""
+            },
+            {
+              "name": "Evaldas Dabašinskas",
+              "job": "Transportation Captain",
+              "department": "Crew",
+              "id": 2034155,
+              "profile_path": ""
+            },
+            {
+              "name": "Andi Lustak",
+              "job": "Unit Publicist",
+              "department": "Crew",
+              "id": 3757728,
+              "profile_path": ""
+            },
+            {
+              "name": "Maciej Kubica",
+              "job": "Stunt Coordinator",
+              "department": "Crew",
+              "id": 2256001,
+              "profile_path": "/cikpIcudWdwprIl7qT1mQ3kCg1y.jpg"
+            },
+            {
+              "name": "Kate Burns",
+              "job": "Script Coordinator",
+              "department": "Directing",
+              "id": 2335770,
+              "profile_path": ""
+            },
+            {
+              "name": "Jori Lynn Felker",
+              "job": "Script Coordinator",
+              "department": "Directing",
+              "id": 4937801,
+              "profile_path": ""
+            },
+            {
+              "name": "Emma Michalak",
+              "job": "Writers' Assistant",
+              "department": "Writing",
+              "id": 5311014,
+              "profile_path": ""
+            },
+            {
+              "name": "Tiffany Upshaw",
+              "job": "Post Production Supervisor",
+              "department": "Crew",
+              "id": 3442644,
+              "profile_path": ""
+            },
+            {
+              "name": "Alexandra L. Thomas",
+              "job": "Post Production Supervisor",
+              "department": "Crew",
+              "id": 6248355,
+              "profile_path": ""
+            },
+            {
+              "name": "Garth O'Donnell",
+              "job": "Online Editor",
+              "department": "Editing",
+              "id": 1271919,
+              "profile_path": ""
+            },
+            {
+              "name": "Todd Morrissey",
+              "job": "Sound Re-Recording Mixer",
+              "department": "Sound",
+              "id": 3250624,
+              "profile_path": ""
+            },
+            {
+              "name": "John Milo Train",
+              "job": "Sound Re-Recording Mixer",
+              "department": "Sound",
+              "id": 2003423,
+              "profile_path": ""
+            },
+            {
+              "name": "Derek Somaru",
+              "job": "Music Editor",
+              "department": "Sound",
+              "id": 1409722,
+              "profile_path": ""
+            },
+            {
+              "name": "María Ulled",
+              "job": "Executive Music Producer",
+              "department": "Crew",
+              "id": 4165840,
+              "profile_path": ""
+            },
+            {
+              "name": "Milena Fessmann",
+              "job": "Music Consultant",
+              "department": "Sound",
+              "id": 1394321,
+              "profile_path": ""
+            },
+            {
+              "name": "Julian Drucker",
+              "job": "Music Coordinator",
+              "department": "Sound",
+              "id": 3612808,
+              "profile_path": "/zkdC0jzohqo6yubnDrEiUFZYkWY.jpg"
+            },
+            {
+              "name": "Todd Sheridan Perry",
+              "job": "Visual Effects Supervisor",
+              "department": "Visual Effects",
+              "id": 1574819,
+              "profile_path": ""
+            },
+            {
+              "name": "Phillip Hoffman",
+              "job": "Visual Effects Producer",
+              "department": "Visual Effects",
+              "id": 1432038,
+              "profile_path": ""
+            },
+            {
+              "name": "Joyce Rocacorba",
+              "job": "Visual Effects Coordinator",
+              "department": "Visual Effects",
+              "id": 4014285,
+              "profile_path": ""
+            },
+            {
+              "name": "Paulina Lazutkaitė",
+              "job": "Production Manager",
+              "department": "Production",
+              "id": 6248430,
+              "profile_path": ""
+            },
+            {
+              "name": "Vaida Visockaitė",
+              "job": "Production Coordinator",
+              "department": "Production",
+              "id": 6248432,
+              "profile_path": ""
+            },
+            {
+              "name": "Paulina Cenenkaitė",
+              "job": "Assistant Production Coordinator",
+              "department": "Production",
+              "id": 6248433,
+              "profile_path": ""
+            },
+            {
+              "name": "Rugilė Gembeckaitė",
+              "job": "Travel Coordinator",
+              "department": "Production",
+              "id": 6248437,
+              "profile_path": ""
+            },
+            {
+              "name": "Gregs Zundelovičs",
+              "job": "Standby Art Director",
+              "department": "Art",
+              "id": 2986809,
+              "profile_path": ""
+            },
+            {
+              "name": "Justė Vazgytė",
+              "job": "Assistant Art Director",
+              "department": "Art",
+              "id": 2505534,
+              "profile_path": ""
+            },
+            {
+              "name": "Vladas Dautartas",
+              "job": "Assistant Art Director",
+              "department": "Art",
+              "id": 2171325,
+              "profile_path": ""
+            },
+            {
+              "name": "Vytautas Narušis",
+              "job": "Assistant Art Director",
+              "department": "Art",
+              "id": 6248443,
+              "profile_path": ""
+            },
+            {
+              "name": "Ugnė Martinaitytė",
+              "job": "Art Department Coordinator",
+              "department": "Art",
+              "id": 6248444,
+              "profile_path": ""
+            },
+            {
+              "name": "Stanislovas Marmokas",
+              "job": "Graphic Designer",
+              "department": "Art",
+              "id": 6225657,
+              "profile_path": ""
+            },
+            {
+              "name": "Kamilė Višnevskaja",
+              "job": "Art Department Assistant",
+              "department": "Art",
+              "id": 6248447,
+              "profile_path": ""
+            },
+            {
+              "name": "Dovydas Sadocha",
+              "job": "Draughtsman",
+              "department": "Art",
+              "id": 6248448,
+              "profile_path": ""
+            },
+            {
+              "name": "Alisa Muchks",
+              "job": "Draughtsman",
+              "department": "Art",
+              "id": 6248449,
+              "profile_path": ""
+            },
+            {
+              "name": "Jubilee Lopez",
+              "job": "Executive Producer's Assistant",
+              "department": "Production",
+              "id": 4556345,
+              "profile_path": ""
+            },
+            {
+              "name": "Katie Larsen",
+              "job": "Executive Producer's Assistant",
+              "department": "Production",
+              "id": 3243130,
+              "profile_path": ""
+            },
+            {
+              "name": "Elzė Ona Dusevičiūtė",
+              "job": "Executive Producer's Assistant",
+              "department": "Production",
+              "id": 6248455,
+              "profile_path": ""
+            },
+            {
+              "name": "Josh Fritchie",
+              "job": "Visual Effects Production Manager",
+              "department": "Visual Effects",
+              "id": 2713172,
+              "profile_path": ""
+            },
+            {
+              "name": "Gareth Daley",
+              "job": "Visual Effects Supervisor",
+              "department": "Visual Effects",
+              "id": 2149421,
+              "profile_path": ""
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Os olhos",
+              "original_name": "",
+              "air_date": "2026-05-28",
+              "runtime": 60,
+              "overview": "A União Soviética reacende a corrida pela Lua, mas, desta vez, com a missão ousada de enviar uma mulher.",
+              "still_path": "/8COQ7TKUlA1YAcOwX7ifrpTadUu.jpg",
+              "vote_average": 6.4,
+              "vote_count": 20,
+              "guest_stars": [
+                {
+                  "name": "Niamh Algar",
+                  "character": "Yana Akhmatova",
+                  "profile_path": "/4FscmD9lWqiJVnOvuWTaVc3ynTb.jpg",
+                  "order": 500,
+                  "id": 1362813
+                },
+                {
+                  "name": "David Dencik",
+                  "character": "Maxim Tarasov",
+                  "profile_path": "/q5wLADc6yYd3owxSEG8VKbf7YWV.jpg",
+                  "order": 501,
+                  "id": 93236
+                },
+                {
+                  "name": "Eliot Salt",
+                  "character": "Vika Yegorova",
+                  "profile_path": "/7wE2fgucCBqtapjI2eJSlwBxnlN.jpg",
+                  "order": 502,
+                  "id": 2477613
+                },
+                {
+                  "name": "Ellie Piercy",
+                  "character": "Galina",
+                  "profile_path": "/xASISRQYOoIhfqDOeouwNe5HyIc.jpg",
+                  "order": 503,
+                  "id": 2633456
+                },
+                {
+                  "name": "Jenny Walser",
+                  "character": "Leonova",
+                  "profile_path": "/hVK2VuYD0NSEGlrTKmwooo8g9zU.jpg",
+                  "order": 504,
+                  "id": 3350496
+                },
+                {
+                  "name": "Sam Strike",
+                  "character": "Pavel Fetisov",
+                  "profile_path": "/xX6aB2rH84LiwPB4c25iPTzMB9t.jpg",
+                  "order": 505,
+                  "id": 1522758
+                },
+                {
+                  "name": "Christopher Sherwood",
+                  "character": "Controller",
+                  "profile_path": "/22czDa4cg1lq9pwI7pNmdyeWryw.jpg",
+                  "order": 506,
+                  "id": 2207349
+                },
+                {
+                  "name": "Gyuri Sarossy",
+                  "character": "Director of Operations",
+                  "profile_path": "/1KShiA9agExAdEacXwtE80iDz03.jpg",
+                  "order": 507,
+                  "id": 1585451
+                },
+                {
+                  "name": "Robin Berry",
+                  "character": "Rem Balabanov",
+                  "profile_path": "/gRH4KZWtuxnUXB5f3z2ZkddhWRY.jpg",
+                  "order": 508,
+                  "id": 218595
+                },
+                {
+                  "name": "Ian Drysdale",
+                  "character": "Doctor Borovsky",
+                  "profile_path": "/ntadMMUmj0wzdnBhOsUvLEI9BEO.jpg",
+                  "order": 509,
+                  "id": 1441182
+                },
+                {
+                  "name": "Chris Leaney",
+                  "character": "Viktor",
+                  "profile_path": "/5vuNQ9g9TsA8PtaKbG2wqypeQVA.jpg",
+                  "order": 510,
+                  "id": 1238441
+                },
+                {
+                  "name": "Samuelis Sauchatas",
+                  "character": "Aide",
+                  "profile_path": "",
+                  "order": 511,
+                  "id": 6248394
+                },
+                {
+                  "name": "Jake Lampert",
+                  "character": "Apparatchik",
+                  "profile_path": "/91VwT83z2kCFViHh8qfULsUkzHT.jpg",
+                  "order": 512,
+                  "id": 2908062
+                },
+                {
+                  "name": "Eadie Johnson",
+                  "character": "Zoya Morozova",
+                  "profile_path": "",
+                  "order": 513,
+                  "id": 4774727
+                },
+                {
+                  "name": "Sam Wilkinson",
+                  "character": "Alexei Leonov",
+                  "profile_path": "/gojDCL4YL8H05W5xzGbdRMggHxY.jpg",
+                  "order": 514,
+                  "id": 1836217
+                },
+                {
+                  "name": "Grant Masters",
+                  "character": "Interrogator",
+                  "profile_path": "/gtk4vSQzXNb0f8qSZPp6t9vUcSJ.jpg",
+                  "order": 515,
+                  "id": 176201
+                },
+                {
+                  "name": "Tim Bentinck",
+                  "character": "Soviet News Anchor",
+                  "profile_path": "/yg2EErH28vqi6O1FH9DwJt0w7fu.jpg",
+                  "order": 516,
+                  "id": 997860
+                },
+                {
+                  "name": "Neringa Bulotaitė",
+                  "character": "Natalia Ivanovna",
+                  "profile_path": "/tzePcDfO99axuY1C987vKgS353J.jpg",
+                  "order": 517,
+                  "id": 1334371
+                },
+                {
+                  "name": "Aidas Jurgaitis",
+                  "character": "Engineer",
+                  "profile_path": "",
+                  "order": 518,
+                  "id": 2033538
+                },
+                {
+                  "name": "Paulius Čižinauskas",
+                  "character": "Director of Medicine",
+                  "profile_path": "",
+                  "order": 519,
+                  "id": 2338587
+                },
+                {
+                  "name": "Rasa Kulytė",
+                  "character": "Nurse",
+                  "profile_path": "",
+                  "order": 520,
+                  "id": 4044672
+                },
+                {
+                  "name": "Šarūnas Rapolas Meliešius",
+                  "character": "Guard",
+                  "profile_path": "/smuDJE4YbxRkG9IW3WZz0JrDHmF.jpg",
+                  "order": 521,
+                  "id": 3003299
+                },
+                {
+                  "name": "Edita Užaitė",
+                  "character": "Chief Designer's Secretary",
+                  "profile_path": "/sFPIo4hVyuBJQGR2RpqpYsBxFv7.jpg",
+                  "order": 522,
+                  "id": 1338928
+                },
+                {
+                  "name": "Aurelijus Pocius",
+                  "character": "Zhenya",
+                  "profile_path": "",
+                  "order": 523,
+                  "id": 4649329
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Rhys Ifans",
+                  "character": "Chief Designer",
+                  "profile_path": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg",
+                  "order": 0,
+                  "id": 7026
+                },
+                {
+                  "name": "Anna Maxwell Martin",
+                  "character": "Lyudmilla Raskova",
+                  "profile_path": "/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg",
+                  "order": 1,
+                  "id": 29236
+                },
+                {
+                  "name": "Agnes O'Casey",
+                  "character": "Irina Morozova",
+                  "profile_path": "/1o8L2LNsnfJMxFR400RKXGBof3c.jpg",
+                  "order": 2,
+                  "id": 3239558
+                },
+                {
+                  "name": "Alice Englert",
+                  "character": "Anastasia Belikova",
+                  "profile_path": "/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg",
+                  "order": 3,
+                  "id": 587823
+                },
+                {
+                  "name": "Solly McLeod",
+                  "character": "Sasha Polivanov",
+                  "profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+                  "order": 4,
+                  "id": 3060978
+                },
+                {
+                  "name": "Adam Nagaitis",
+                  "character": "Valya Mironov",
+                  "profile_path": "/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg",
+                  "order": 5,
+                  "id": 1435230
+                },
+                {
+                  "name": "Ruby Ashbourne Serkis",
+                  "character": "Tanya Mironova",
+                  "profile_path": "/aG162fp8hnudEieqKZl7yUuqEaX.jpg",
+                  "order": 6,
+                  "id": 1512455
+                },
+                {
+                  "name": "Josef Davies",
+                  "character": "Sergei Nikilov",
+                  "profile_path": "/geljWJJDVuthFmwqiFundYwqwPR.jpg",
+                  "order": 7,
+                  "id": 1587575
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Nick Murphy",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 582918,
+                  "profile_path": "/mQwBUqfeKOZ51J4DI89ZCzvTB1R.jpg"
+                },
+                {
+                  "name": "Ben Nedivi",
+                  "job": "Story",
+                  "department": "Writing",
+                  "id": 67231,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ben Nedivi",
+                  "job": "Teleplay",
+                  "department": "Writing",
+                  "id": 67231,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Matt Wolpert",
+                  "job": "Story",
+                  "department": "Writing",
+                  "id": 1228256,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Matt Wolpert",
+                  "job": "Teleplay",
+                  "department": "Writing",
+                  "id": 1228256,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ronald D. Moore",
+                  "job": "Story",
+                  "department": "Writing",
+                  "id": 2385,
+                  "profile_path": "/6A086Blwpv0nuckrzPgvETlkfo1.jpg"
+                },
+                {
+                  "name": "Brendan Uegama",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1305454,
+                  "profile_path": "/wP24X8wPDBRrXbTNHabhDN00Ti9.jpg"
+                },
+                {
+                  "name": "Justin Bourret",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1302176,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Nick Murphy",
+                  "job": "Executive Producer",
+                  "department": "Production",
+                  "id": 582918,
+                  "profile_path": "/mQwBUqfeKOZ51J4DI89ZCzvTB1R.jpg"
+                },
+                {
+                  "name": "James Emmott",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 2018758,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Vicki Welsh",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 6248412,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt32161698",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10452050,
+                "tvrage_id": null,
+                "wikidata_id": "Q140422091"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTAxLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Urso acorrentado",
+              "original_name": "",
+              "air_date": "2026-05-28",
+              "runtime": 62,
+              "overview": "Anastasia é lançada ao cenário mundial. Lyudmilla tenta uma nova tática para conseguir informações.",
+              "still_path": "/m5RxHZT1o3f3YCaKDjcS4cMVYKP.jpg",
+              "vote_average": 6.722,
+              "vote_count": 18,
+              "guest_stars": [
+                {
+                  "name": "David Dencik",
+                  "character": "Maxim Tarasov",
+                  "profile_path": "/q5wLADc6yYd3owxSEG8VKbf7YWV.jpg",
+                  "order": 501,
+                  "id": 93236
+                },
+                {
+                  "name": "Eliot Salt",
+                  "character": "Vika Yegorova",
+                  "profile_path": "/7wE2fgucCBqtapjI2eJSlwBxnlN.jpg",
+                  "order": 502,
+                  "id": 2477613
+                },
+                {
+                  "name": "Ellie Piercy",
+                  "character": "Galina",
+                  "profile_path": "/xASISRQYOoIhfqDOeouwNe5HyIc.jpg",
+                  "order": 503,
+                  "id": 2633456
+                },
+                {
+                  "name": "Christopher Sherwood",
+                  "character": "Controller",
+                  "profile_path": "/22czDa4cg1lq9pwI7pNmdyeWryw.jpg",
+                  "order": 506,
+                  "id": 2207349
+                },
+                {
+                  "name": "Gyuri Sarossy",
+                  "character": "Director of Operations",
+                  "profile_path": "/1KShiA9agExAdEacXwtE80iDz03.jpg",
+                  "order": 507,
+                  "id": 1585451
+                },
+                {
+                  "name": "Robin Berry",
+                  "character": "Rem Balabanov",
+                  "profile_path": "/gRH4KZWtuxnUXB5f3z2ZkddhWRY.jpg",
+                  "order": 508,
+                  "id": 218595
+                },
+                {
+                  "name": "Chris Leaney",
+                  "character": "Viktor",
+                  "profile_path": "/5vuNQ9g9TsA8PtaKbG2wqypeQVA.jpg",
+                  "order": 510,
+                  "id": 1238441
+                },
+                {
+                  "name": "Eadie Johnson",
+                  "character": "Zoya Morozova",
+                  "profile_path": "",
+                  "order": 513,
+                  "id": 4774727
+                },
+                {
+                  "name": "Tim Bentinck",
+                  "character": "Soviet News Anchor",
+                  "profile_path": "/yg2EErH28vqi6O1FH9DwJt0w7fu.jpg",
+                  "order": 516,
+                  "id": 997860
+                },
+                {
+                  "name": "Aidas Jurgaitis",
+                  "character": "Engineer",
+                  "profile_path": "",
+                  "order": 518,
+                  "id": 2033538
+                },
+                {
+                  "name": "Paulius Čižinauskas",
+                  "character": "Director of Medicine",
+                  "profile_path": "",
+                  "order": 519,
+                  "id": 2338587
+                },
+                {
+                  "name": "Aurelijus Pocius",
+                  "character": "Zhenya",
+                  "profile_path": "",
+                  "order": 523,
+                  "id": 4649329
+                },
+                {
+                  "name": "Sean Gilder",
+                  "character": "Vladimir Belikov",
+                  "profile_path": "/t1iegX4Oi5iGu4UssCZoD6UxlOA.jpg",
+                  "order": 524,
+                  "id": 77292
+                },
+                {
+                  "name": "Jamie de Courcey",
+                  "character": "Stanislav Kalinsky",
+                  "profile_path": "",
+                  "order": 525,
+                  "id": 1294711
+                },
+                {
+                  "name": "Julia Vorik",
+                  "character": "Lyudmilla's Secretary",
+                  "profile_path": "/hK94WrXv4xhhou5xL8CvMIbi7VH.jpg",
+                  "order": 526,
+                  "id": 5314940
+                },
+                {
+                  "name": "Lenn Kudrjawizki",
+                  "character": "Courier",
+                  "profile_path": "/lmkkEMW00qHspVescWmqEWYN7lG.jpg",
+                  "order": 527,
+                  "id": 12766
+                },
+                {
+                  "name": "Fadily Camara",
+                  "character": "Celine",
+                  "profile_path": "/op22Xmp31FI8zqP5tqgFkSOIB3.jpg",
+                  "order": 528,
+                  "id": 2054701
+                },
+                {
+                  "name": "Michael James",
+                  "character": "Galytzin",
+                  "profile_path": "",
+                  "order": 529,
+                  "id": 3062928
+                },
+                {
+                  "name": "Alexandre Blazy",
+                  "character": "French Host",
+                  "profile_path": "/A4UO24ROHLo0S2NLitA6TsXPpyV.jpg",
+                  "order": 530,
+                  "id": 1430460
+                },
+                {
+                  "name": "Šarūnas Datenis",
+                  "character": "Arkady",
+                  "profile_path": "/kqEvVuwmtx80prcE2wMKjilbWUz.jpg",
+                  "order": 531,
+                  "id": 1336215
+                },
+                {
+                  "name": "Danielle Munday",
+                  "character": "Secretary",
+                  "profile_path": "/lDJijR7sGFcoXLAbkLi9LEFFGvL.jpg",
+                  "order": 532,
+                  "id": 3939159
+                },
+                {
+                  "name": "Paulius Markevičius",
+                  "character": "Stasi Officer",
+                  "profile_path": "/sC2C5egekG384t82zcAp7AMsBJK.jpg",
+                  "order": 533,
+                  "id": 1743455
+                },
+                {
+                  "name": "Gintas Truskauskas",
+                  "character": "Club Goer",
+                  "profile_path": "",
+                  "order": 534,
+                  "id": 6248505
+                },
+                {
+                  "name": "Donatas Ališauskas",
+                  "character": "Drunk Man",
+                  "profile_path": "",
+                  "order": 535,
+                  "id": 4650638
+                },
+                {
+                  "name": "Augustė Šimulynaitė",
+                  "character": "Woman in Club",
+                  "profile_path": "/iAfFpyJ1R5JkSXgv68gfMXvAjlT.jpg",
+                  "order": 536,
+                  "id": 3172302
+                },
+                {
+                  "name": "Johanna Allitt",
+                  "character": "Registrar",
+                  "profile_path": "/gKTJHaZ5shdGYivBEjxCAYo5uO7.jpg",
+                  "order": 537,
+                  "id": 3038435
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Rhys Ifans",
+                  "character": "Chief Designer",
+                  "profile_path": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg",
+                  "order": 0,
+                  "id": 7026
+                },
+                {
+                  "name": "Anna Maxwell Martin",
+                  "character": "Lyudmilla Raskova",
+                  "profile_path": "/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg",
+                  "order": 1,
+                  "id": 29236
+                },
+                {
+                  "name": "Agnes O'Casey",
+                  "character": "Irina Morozova",
+                  "profile_path": "/1o8L2LNsnfJMxFR400RKXGBof3c.jpg",
+                  "order": 2,
+                  "id": 3239558
+                },
+                {
+                  "name": "Alice Englert",
+                  "character": "Anastasia Belikova",
+                  "profile_path": "/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg",
+                  "order": 3,
+                  "id": 587823
+                },
+                {
+                  "name": "Solly McLeod",
+                  "character": "Sasha Polivanov",
+                  "profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+                  "order": 4,
+                  "id": 3060978
+                },
+                {
+                  "name": "Adam Nagaitis",
+                  "character": "Valya Mironov",
+                  "profile_path": "/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg",
+                  "order": 5,
+                  "id": 1435230
+                },
+                {
+                  "name": "Ruby Ashbourne Serkis",
+                  "character": "Tanya Mironova",
+                  "profile_path": "/aG162fp8hnudEieqKZl7yUuqEaX.jpg",
+                  "order": 6,
+                  "id": 1512455
+                },
+                {
+                  "name": "Josef Davies",
+                  "character": "Sergei Nikilov",
+                  "profile_path": "/geljWJJDVuthFmwqiFundYwqwPR.jpg",
+                  "order": 7,
+                  "id": 1587575
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Nick Murphy",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 582918,
+                  "profile_path": "/mQwBUqfeKOZ51J4DI89ZCzvTB1R.jpg"
+                },
+                {
+                  "name": "Brendan Uegama",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1305454,
+                  "profile_path": "/wP24X8wPDBRrXbTNHabhDN00Ti9.jpg"
+                },
+                {
+                  "name": "Andrew Chambliss",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1245563,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Garret Donnelly",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 4212202,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Nick Murphy",
+                  "job": "Executive Producer",
+                  "department": "Production",
+                  "id": 582918,
+                  "profile_path": "/mQwBUqfeKOZ51J4DI89ZCzvTB1R.jpg"
+                },
+                {
+                  "name": "James Emmott",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 2018758,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Vicki Welsh",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 6248412,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt37628708",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11644006,
+                "tvrage_id": null,
+                "wikidata_id": "Q140422092"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTAyLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Dançarino ruim",
+              "original_name": "",
+              "air_date": "2026-06-04",
+              "runtime": 60,
+              "overview": "Irina tem um encontro inesperado. Os soviéticos correm para manter a supremacia na Lua.",
+              "still_path": "/eJ3vp8VCHxAnundPWCPTdqATjXr.jpg",
+              "vote_average": 6.7,
+              "vote_count": 15,
+              "guest_stars": [
+                {
+                  "name": "Eliot Salt",
+                  "character": "Vika Yegorova",
+                  "profile_path": "/7wE2fgucCBqtapjI2eJSlwBxnlN.jpg",
+                  "order": 502,
+                  "id": 2477613
+                },
+                {
+                  "name": "Sam Strike",
+                  "character": "Pavel Fetisov",
+                  "profile_path": "/xX6aB2rH84LiwPB4c25iPTzMB9t.jpg",
+                  "order": 505,
+                  "id": 1522758
+                },
+                {
+                  "name": "Christopher Sherwood",
+                  "character": "Controller",
+                  "profile_path": "/22czDa4cg1lq9pwI7pNmdyeWryw.jpg",
+                  "order": 506,
+                  "id": 2207349
+                },
+                {
+                  "name": "Gyuri Sarossy",
+                  "character": "Director of Operations",
+                  "profile_path": "/1KShiA9agExAdEacXwtE80iDz03.jpg",
+                  "order": 507,
+                  "id": 1585451
+                },
+                {
+                  "name": "Robin Berry",
+                  "character": "Rem Balabanov",
+                  "profile_path": "/gRH4KZWtuxnUXB5f3z2ZkddhWRY.jpg",
+                  "order": 508,
+                  "id": 218595
+                },
+                {
+                  "name": "Chris Leaney",
+                  "character": "Viktor",
+                  "profile_path": "/5vuNQ9g9TsA8PtaKbG2wqypeQVA.jpg",
+                  "order": 510,
+                  "id": 1238441
+                },
+                {
+                  "name": "Eadie Johnson",
+                  "character": "Zoya Morozova",
+                  "profile_path": "",
+                  "order": 513,
+                  "id": 4774727
+                },
+                {
+                  "name": "Aidas Jurgaitis",
+                  "character": "Engineer",
+                  "profile_path": "",
+                  "order": 518,
+                  "id": 2033538
+                },
+                {
+                  "name": "Paulius Čižinauskas",
+                  "character": "Director of Medicine",
+                  "profile_path": "",
+                  "order": 519,
+                  "id": 2338587
+                },
+                {
+                  "name": "Edita Užaitė",
+                  "character": "Chief Designer's Secretary",
+                  "profile_path": "/sFPIo4hVyuBJQGR2RpqpYsBxFv7.jpg",
+                  "order": 522,
+                  "id": 1338928
+                },
+                {
+                  "name": "Aurelijus Pocius",
+                  "character": "Zhenya",
+                  "profile_path": "",
+                  "order": 523,
+                  "id": 4649329
+                },
+                {
+                  "name": "Jamie de Courcey",
+                  "character": "Stanislav Kalinsky",
+                  "profile_path": "",
+                  "order": 525,
+                  "id": 1294711
+                },
+                {
+                  "name": "Cameron Cook",
+                  "character": "Arseni Vetrov",
+                  "profile_path": "",
+                  "order": 538,
+                  "id": 2640670
+                },
+                {
+                  "name": "Hannah Steele",
+                  "character": "Ekaterina",
+                  "profile_path": "/pTgRM40XMqVUEwU8lzYr5ViRB5i.jpg",
+                  "order": 539,
+                  "id": 1593457
+                },
+                {
+                  "name": "Jonathan Coote",
+                  "character": "Vitas",
+                  "profile_path": "/2TmSRki1h0YKHEZOUDnaCLrsjnf.jpg",
+                  "order": 540,
+                  "id": 101920
+                },
+                {
+                  "name": "Ian Midlane",
+                  "character": "Mikhail",
+                  "profile_path": "/s8RmF7am1CwgYwTF8DIPw2fnBB0.jpg",
+                  "order": 541,
+                  "id": 1238453
+                },
+                {
+                  "name": "Robert McCafferty",
+                  "character": "Old Friend",
+                  "profile_path": "",
+                  "order": 542,
+                  "id": 4792421
+                },
+                {
+                  "name": "Caitlin Drabble",
+                  "character": "Eva",
+                  "profile_path": "/fjS1T87fOxKko1zL2uy8pVdBhCm.jpg",
+                  "order": 543,
+                  "id": 1834639
+                },
+                {
+                  "name": "Jake Lowe",
+                  "character": "Gate Guard",
+                  "profile_path": "",
+                  "order": 544,
+                  "id": 5470051
+                },
+                {
+                  "name": "Danguolė Ragažinskaitė",
+                  "character": "Black Marketeer",
+                  "profile_path": "",
+                  "order": 545,
+                  "id": 2863168
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Rhys Ifans",
+                  "character": "Chief Designer",
+                  "profile_path": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg",
+                  "order": 0,
+                  "id": 7026
+                },
+                {
+                  "name": "Anna Maxwell Martin",
+                  "character": "Lyudmilla Raskova",
+                  "profile_path": "/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg",
+                  "order": 1,
+                  "id": 29236
+                },
+                {
+                  "name": "Agnes O'Casey",
+                  "character": "Irina Morozova",
+                  "profile_path": "/1o8L2LNsnfJMxFR400RKXGBof3c.jpg",
+                  "order": 2,
+                  "id": 3239558
+                },
+                {
+                  "name": "Alice Englert",
+                  "character": "Anastasia Belikova",
+                  "profile_path": "/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg",
+                  "order": 3,
+                  "id": 587823
+                },
+                {
+                  "name": "Solly McLeod",
+                  "character": "Sasha Polivanov",
+                  "profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+                  "order": 4,
+                  "id": 3060978
+                },
+                {
+                  "name": "Adam Nagaitis",
+                  "character": "Valya Mironov",
+                  "profile_path": "/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg",
+                  "order": 5,
+                  "id": 1435230
+                },
+                {
+                  "name": "Ruby Ashbourne Serkis",
+                  "character": "Tanya Mironova",
+                  "profile_path": "/aG162fp8hnudEieqKZl7yUuqEaX.jpg",
+                  "order": 6,
+                  "id": 1512455
+                },
+                {
+                  "name": "Josef Davies",
+                  "character": "Sergei Nikilov",
+                  "profile_path": "/geljWJJDVuthFmwqiFundYwqwPR.jpg",
+                  "order": 7,
+                  "id": 1587575
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Megan McDonnell",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2056482,
+                  "profile_path": "/ceVysIbdgmxDGV3vj63Ji4MYbPv.jpg"
+                },
+                {
+                  "name": "Stefan Schwartz",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 94155,
+                  "profile_path": "/wKOnSxOHgJRXoqd7IaAtb028wsj.jpg"
+                },
+                {
+                  "name": "Cort Fey",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1141676,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Bilow",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1828962,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Vicki Welsh",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 6248412,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jordan Kotras",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1915709,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt39308684",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11644007,
+                "tvrage_id": null,
+                "wikidata_id": "Q140422093"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTAzLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Floresta sombria",
+              "original_name": "",
+              "air_date": "2026-06-11",
+              "runtime": 62,
+              "overview": "A fama começa a afetar a Anastasia. Irina segue uma pista crucial.",
+              "still_path": "/g2ZijNTpc4FulMc9e3Y4an5yQW8.jpg",
+              "vote_average": 7.467,
+              "vote_count": 15,
+              "guest_stars": [
+                {
+                  "name": "David Dencik",
+                  "character": "Maxim Tarasov",
+                  "profile_path": "/q5wLADc6yYd3owxSEG8VKbf7YWV.jpg",
+                  "order": 501,
+                  "id": 93236
+                },
+                {
+                  "name": "Eliot Salt",
+                  "character": "Vika Yegorova",
+                  "profile_path": "/7wE2fgucCBqtapjI2eJSlwBxnlN.jpg",
+                  "order": 502,
+                  "id": 2477613
+                },
+                {
+                  "name": "Sam Strike",
+                  "character": "Pavel Fetisov",
+                  "profile_path": "/xX6aB2rH84LiwPB4c25iPTzMB9t.jpg",
+                  "order": 505,
+                  "id": 1522758
+                },
+                {
+                  "name": "Christopher Sherwood",
+                  "character": "Controller",
+                  "profile_path": "/22czDa4cg1lq9pwI7pNmdyeWryw.jpg",
+                  "order": 506,
+                  "id": 2207349
+                },
+                {
+                  "name": "Gyuri Sarossy",
+                  "character": "Director of Operations",
+                  "profile_path": "/1KShiA9agExAdEacXwtE80iDz03.jpg",
+                  "order": 507,
+                  "id": 1585451
+                },
+                {
+                  "name": "Robin Berry",
+                  "character": "Rem Balabanov",
+                  "profile_path": "/gRH4KZWtuxnUXB5f3z2ZkddhWRY.jpg",
+                  "order": 508,
+                  "id": 218595
+                },
+                {
+                  "name": "Eadie Johnson",
+                  "character": "Zoya Morozova",
+                  "profile_path": "",
+                  "order": 513,
+                  "id": 4774727
+                },
+                {
+                  "name": "Aidas Jurgaitis",
+                  "character": "Engineer",
+                  "profile_path": "",
+                  "order": 518,
+                  "id": 2033538
+                },
+                {
+                  "name": "Julia Vorik",
+                  "character": "Lyudmilla's Secretary",
+                  "profile_path": "/hK94WrXv4xhhou5xL8CvMIbi7VH.jpg",
+                  "order": 526,
+                  "id": 5314940
+                },
+                {
+                  "name": "Šarūnas Datenis",
+                  "character": "Arkady",
+                  "profile_path": "/kqEvVuwmtx80prcE2wMKjilbWUz.jpg",
+                  "order": 531,
+                  "id": 1336215
+                },
+                {
+                  "name": "Hannah Steele",
+                  "character": "Ekaterina",
+                  "profile_path": "/pTgRM40XMqVUEwU8lzYr5ViRB5i.jpg",
+                  "order": 539,
+                  "id": 1593457
+                },
+                {
+                  "name": "Shubham Saraf",
+                  "character": "Manu Chadha",
+                  "profile_path": "/7LsYeGYP4mTfKOvG2l7BVDEB0o6.jpg",
+                  "order": 546,
+                  "id": 1294985
+                },
+                {
+                  "name": "Felix Scott",
+                  "character": "Radimir Petrovsky",
+                  "profile_path": "/sRlcbtzrmVMEVdJAH6xocbYdfhr.jpg",
+                  "order": 547,
+                  "id": 208492
+                },
+                {
+                  "name": "Will Keen",
+                  "character": "Konstantin Filonov",
+                  "profile_path": "/dtErvubLEIjGPpLppBATdFpZ4NR.jpg",
+                  "order": 548,
+                  "id": 51119
+                },
+                {
+                  "name": "Maeve Baines",
+                  "character": "Mila Vetrova",
+                  "profile_path": "",
+                  "order": 549,
+                  "id": 6288076
+                },
+                {
+                  "name": "Griffin Stevens",
+                  "character": "Slava",
+                  "profile_path": "/cSt9WpXYzxXLwLwpDcE5wodNWpx.jpg",
+                  "order": 550,
+                  "id": 1793936
+                },
+                {
+                  "name": "Doug Colling",
+                  "character": "Gera",
+                  "profile_path": "",
+                  "order": 551,
+                  "id": 1159828
+                },
+                {
+                  "name": "Dainius Alešenkovas",
+                  "character": "Tolik",
+                  "profile_path": "",
+                  "order": 552,
+                  "id": 4417397
+                },
+                {
+                  "name": "Dave Warburton Jones",
+                  "character": "Party Member",
+                  "profile_path": "",
+                  "order": 553,
+                  "id": 6288078
+                },
+                {
+                  "name": "Niall Bishop",
+                  "character": "Security Officer",
+                  "profile_path": "/j2D5uwO2J3OvwaJQVDj0LlcrMRt.jpg",
+                  "order": 554,
+                  "id": 2322397
+                },
+                {
+                  "name": "Gavin Spokes",
+                  "character": "Gennady",
+                  "profile_path": "/ghzBWbusVNHllI8L87Qw0VB7at.jpg",
+                  "order": 555,
+                  "id": 2085743
+                },
+                {
+                  "name": "Robert Stuart-Hudson",
+                  "character": "Conductor",
+                  "profile_path": "",
+                  "order": 556,
+                  "id": 6288080
+                },
+                {
+                  "name": "Liusita Šimukauskaitė",
+                  "character": "Lora",
+                  "profile_path": "",
+                  "order": 557,
+                  "id": 6288083
+                },
+                {
+                  "name": "Olivija Eva Viliūnė",
+                  "character": "Katya",
+                  "profile_path": "",
+                  "order": 558,
+                  "id": 4809103
+                },
+                {
+                  "name": "Varvara Simonova",
+                  "character": "Polina",
+                  "profile_path": "",
+                  "order": 559,
+                  "id": 6288092
+                },
+                {
+                  "name": "Kenneth Collard",
+                  "character": "Pyotr",
+                  "profile_path": "/xUMUdN52gCIRjHzUc1uw1F0ZAfz.jpg",
+                  "order": 560,
+                  "id": 997569
+                },
+                {
+                  "name": "Ben Fox",
+                  "character": "Bogdan",
+                  "profile_path": "/5XIWaYkpqNnywUB16JXLWunhxQd.jpg",
+                  "order": 561,
+                  "id": 1821232
+                },
+                {
+                  "name": "Gabija Jaraminaitė Ryškuvienė",
+                  "character": "Darya",
+                  "profile_path": "/eHSUe9tXghqAdwn6KG496DFOIzq.jpg",
+                  "order": 562,
+                  "id": 995522
+                },
+                {
+                  "name": "Calum Sivyer",
+                  "character": "Andrei Zaitsev",
+                  "profile_path": "/aaGCYP1ZKYszeLL8HD35e420uZX.jpg",
+                  "order": 563,
+                  "id": 1584569
+                },
+                {
+                  "name": "Priya Kansara",
+                  "character": "Lakshmi Chadha",
+                  "profile_path": "/uW3HD0tbOSZD0UtudHGKeQilWy5.jpg",
+                  "order": 593,
+                  "id": 3554544
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Rhys Ifans",
+                  "character": "Chief Designer",
+                  "profile_path": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg",
+                  "order": 0,
+                  "id": 7026
+                },
+                {
+                  "name": "Anna Maxwell Martin",
+                  "character": "Lyudmilla Raskova",
+                  "profile_path": "/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg",
+                  "order": 1,
+                  "id": 29236
+                },
+                {
+                  "name": "Agnes O'Casey",
+                  "character": "Irina Morozova",
+                  "profile_path": "/1o8L2LNsnfJMxFR400RKXGBof3c.jpg",
+                  "order": 2,
+                  "id": 3239558
+                },
+                {
+                  "name": "Alice Englert",
+                  "character": "Anastasia Belikova",
+                  "profile_path": "/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg",
+                  "order": 3,
+                  "id": 587823
+                },
+                {
+                  "name": "Solly McLeod",
+                  "character": "Sasha Polivanov",
+                  "profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+                  "order": 4,
+                  "id": 3060978
+                },
+                {
+                  "name": "Adam Nagaitis",
+                  "character": "Valya Mironov",
+                  "profile_path": "/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg",
+                  "order": 5,
+                  "id": 1435230
+                },
+                {
+                  "name": "Ruby Ashbourne Serkis",
+                  "character": "Tanya Mironova",
+                  "profile_path": "/aG162fp8hnudEieqKZl7yUuqEaX.jpg",
+                  "order": 6,
+                  "id": 1512455
+                },
+                {
+                  "name": "Josef Davies",
+                  "character": "Sergei Nikilov",
+                  "profile_path": "/geljWJJDVuthFmwqiFundYwqwPR.jpg",
+                  "order": 7,
+                  "id": 1587575
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Stefan Schwartz",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 94155,
+                  "profile_path": "/wKOnSxOHgJRXoqd7IaAtb028wsj.jpg"
+                },
+                {
+                  "name": "Cort Fey",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1141676,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Liba Vaynberg",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2166818,
+                  "profile_path": "/z4OjsJ3TkJ8sHgGAr0ToMVFrdDV.jpg"
+                },
+                {
+                  "name": "Vicki Welsh",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 6248412,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jordan Kotras",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1915709,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Erin St. Pierre",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 4170214,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt39308716",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11644008,
+                "tvrage_id": null,
+                "wikidata_id": "Q140422095"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTA0Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "Missão impossível",
+              "original_name": "",
+              "air_date": "2026-06-18",
+              "runtime": 54,
+              "overview": "A pressão aumenta em todas as frentes enquanto o medo toma conta.",
+              "still_path": "/mwaEwPs5PuKVUnzdcEZcCX99y7u.jpg",
+              "vote_average": 7.656,
+              "vote_count": 16,
+              "guest_stars": [
+                {
+                  "name": "Eliot Salt",
+                  "character": "Vika Yegorova",
+                  "profile_path": "/7wE2fgucCBqtapjI2eJSlwBxnlN.jpg",
+                  "order": 502,
+                  "id": 2477613
+                },
+                {
+                  "name": "Sam Strike",
+                  "character": "Pavel Fetisov",
+                  "profile_path": "/xX6aB2rH84LiwPB4c25iPTzMB9t.jpg",
+                  "order": 505,
+                  "id": 1522758
+                },
+                {
+                  "name": "Robin Berry",
+                  "character": "Rem Balabanov",
+                  "profile_path": "/gRH4KZWtuxnUXB5f3z2ZkddhWRY.jpg",
+                  "order": 508,
+                  "id": 218595
+                },
+                {
+                  "name": "Eadie Johnson",
+                  "character": "Zoya Morozova",
+                  "profile_path": "",
+                  "order": 513,
+                  "id": 4774727
+                },
+                {
+                  "name": "Julia Vorik",
+                  "character": "Lyudmilla's Secretary",
+                  "profile_path": "/hK94WrXv4xhhou5xL8CvMIbi7VH.jpg",
+                  "order": 526,
+                  "id": 5314940
+                },
+                {
+                  "name": "Jonathan Coote",
+                  "character": "Vitas",
+                  "profile_path": "/2TmSRki1h0YKHEZOUDnaCLrsjnf.jpg",
+                  "order": 540,
+                  "id": 101920
+                },
+                {
+                  "name": "Ian Midlane",
+                  "character": "Mikhail",
+                  "profile_path": "/s8RmF7am1CwgYwTF8DIPw2fnBB0.jpg",
+                  "order": 541,
+                  "id": 1238453
+                },
+                {
+                  "name": "Ciaran Duce",
+                  "character": "Gate Guard #2",
+                  "profile_path": "",
+                  "order": 564,
+                  "id": 4859280
+                },
+                {
+                  "name": "Joe Blakemore",
+                  "character": "Entry Guard",
+                  "profile_path": "/aOQvPN905z41pW2fgiAuEH9IIih.jpg",
+                  "order": 565,
+                  "id": 1762444
+                },
+                {
+                  "name": "Raymond Waring",
+                  "character": "Bureaucrat",
+                  "profile_path": "/gUw1lnFxYTbyHluNeZL5zldul70.jpg",
+                  "order": 566,
+                  "id": 584994
+                },
+                {
+                  "name": "Louise Catherwood",
+                  "character": "Woman",
+                  "profile_path": "",
+                  "order": 567,
+                  "id": 6295239
+                },
+                {
+                  "name": "Vaidotas Martinaitis",
+                  "character": "Vitaly",
+                  "profile_path": "/xcIaYaZ9GxZdWedrMdG8pTe8fbW.jpg",
+                  "order": 568,
+                  "id": 1330569
+                },
+                {
+                  "name": "Pijus Ganusauskas",
+                  "character": "Officer",
+                  "profile_path": "/ywvnq6dBVCuk2hDIZAGqtBesRsN.jpg",
+                  "order": 569,
+                  "id": 3892295
+                },
+                {
+                  "name": "Priya Kansara",
+                  "character": "Lakshmi Chadha",
+                  "profile_path": "/uW3HD0tbOSZD0UtudHGKeQilWy5.jpg",
+                  "order": 593,
+                  "id": 3554544
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Rhys Ifans",
+                  "character": "Chief Designer",
+                  "profile_path": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg",
+                  "order": 0,
+                  "id": 7026
+                },
+                {
+                  "name": "Anna Maxwell Martin",
+                  "character": "Lyudmilla Raskova",
+                  "profile_path": "/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg",
+                  "order": 1,
+                  "id": 29236
+                },
+                {
+                  "name": "Agnes O'Casey",
+                  "character": "Irina Morozova",
+                  "profile_path": "/1o8L2LNsnfJMxFR400RKXGBof3c.jpg",
+                  "order": 2,
+                  "id": 3239558
+                },
+                {
+                  "name": "Alice Englert",
+                  "character": "Anastasia Belikova",
+                  "profile_path": "/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg",
+                  "order": 3,
+                  "id": 587823
+                },
+                {
+                  "name": "Solly McLeod",
+                  "character": "Sasha Polivanov",
+                  "profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+                  "order": 4,
+                  "id": 3060978
+                },
+                {
+                  "name": "Adam Nagaitis",
+                  "character": "Valya Mironov",
+                  "profile_path": "/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg",
+                  "order": 5,
+                  "id": 1435230
+                },
+                {
+                  "name": "Ruby Ashbourne Serkis",
+                  "character": "Tanya Mironova",
+                  "profile_path": "/aG162fp8hnudEieqKZl7yUuqEaX.jpg",
+                  "order": 6,
+                  "id": 1512455
+                },
+                {
+                  "name": "Josef Davies",
+                  "character": "Sergei Nikilov",
+                  "profile_path": "/geljWJJDVuthFmwqiFundYwqwPR.jpg",
+                  "order": 7,
+                  "id": 1587575
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kasia Adamik",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 293579,
+                  "profile_path": "/5YyOE4931b5IJwUPNcKniAO3IRw.jpg"
+                },
+                {
+                  "name": "Brendan Uegama",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1305454,
+                  "profile_path": "/wP24X8wPDBRrXbTNHabhDN00Ti9.jpg"
+                },
+                {
+                  "name": "Justin Bourret",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1302176,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Gursimran Sandhu",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2301155,
+                  "profile_path": ""
+                },
+                {
+                  "name": "James Emmott",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 2018758,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Vicki Welsh",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 6248412,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt39308717",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11644009,
+                "tvrage_id": null,
+                "wikidata_id": "Q140422096"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTA1Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "A verdade vem à tona",
+              "original_name": "",
+              "air_date": "2026-06-25",
+              "runtime": 61,
+              "overview": "As consequências na Cidade das estrelas fazem os planos ruírem.",
+              "still_path": "/hsazfwDBA2RKCQv4MEjSn1TFvlp.jpg",
+              "vote_average": 8.038,
+              "vote_count": 13,
+              "guest_stars": [
+                {
+                  "name": "Eliot Salt",
+                  "character": "Vika Yegorova",
+                  "profile_path": "/7wE2fgucCBqtapjI2eJSlwBxnlN.jpg",
+                  "order": 502,
+                  "id": 2477613
+                },
+                {
+                  "name": "Christopher Sherwood",
+                  "character": "Controller",
+                  "profile_path": "/22czDa4cg1lq9pwI7pNmdyeWryw.jpg",
+                  "order": 506,
+                  "id": 2207349
+                },
+                {
+                  "name": "Gyuri Sarossy",
+                  "character": "Director of Operations",
+                  "profile_path": "/1KShiA9agExAdEacXwtE80iDz03.jpg",
+                  "order": 507,
+                  "id": 1585451
+                },
+                {
+                  "name": "Robin Berry",
+                  "character": "Rem Balabanov",
+                  "profile_path": "/gRH4KZWtuxnUXB5f3z2ZkddhWRY.jpg",
+                  "order": 508,
+                  "id": 218595
+                },
+                {
+                  "name": "Chris Leaney",
+                  "character": "Viktor",
+                  "profile_path": "/5vuNQ9g9TsA8PtaKbG2wqypeQVA.jpg",
+                  "order": 510,
+                  "id": 1238441
+                },
+                {
+                  "name": "Aidas Jurgaitis",
+                  "character": "Engineer",
+                  "profile_path": "",
+                  "order": 518,
+                  "id": 2033538
+                },
+                {
+                  "name": "Aurelijus Pocius",
+                  "character": "Zhenya",
+                  "profile_path": "",
+                  "order": 523,
+                  "id": 4649329
+                },
+                {
+                  "name": "Julia Vorik",
+                  "character": "Lyudmilla's Secretary",
+                  "profile_path": "/hK94WrXv4xhhou5xL8CvMIbi7VH.jpg",
+                  "order": 526,
+                  "id": 5314940
+                },
+                {
+                  "name": "Hannah Steele",
+                  "character": "Ekaterina",
+                  "profile_path": "/pTgRM40XMqVUEwU8lzYr5ViRB5i.jpg",
+                  "order": 539,
+                  "id": 1593457
+                },
+                {
+                  "name": "Ian Midlane",
+                  "character": "Mikhail",
+                  "profile_path": "/s8RmF7am1CwgYwTF8DIPw2fnBB0.jpg",
+                  "order": 541,
+                  "id": 1238453
+                },
+                {
+                  "name": "Caitlin Drabble",
+                  "character": "Eva",
+                  "profile_path": "/fjS1T87fOxKko1zL2uy8pVdBhCm.jpg",
+                  "order": 543,
+                  "id": 1834639
+                },
+                {
+                  "name": "Shubham Saraf",
+                  "character": "Manu Chadha",
+                  "profile_path": "/7LsYeGYP4mTfKOvG2l7BVDEB0o6.jpg",
+                  "order": 546,
+                  "id": 1294985
+                },
+                {
+                  "name": "Felix Scott",
+                  "character": "Radimir Petrovsky",
+                  "profile_path": "/sRlcbtzrmVMEVdJAH6xocbYdfhr.jpg",
+                  "order": 547,
+                  "id": 208492
+                },
+                {
+                  "name": "Vaidotas Martinaitis",
+                  "character": "Vitaly",
+                  "profile_path": "/xcIaYaZ9GxZdWedrMdG8pTe8fbW.jpg",
+                  "order": 568,
+                  "id": 1330569
+                },
+                {
+                  "name": "Robertas Lenartavičius",
+                  "character": "Bartender",
+                  "profile_path": "/u38UPrP0iMA0YXkaOxyk1XPyjcB.jpg",
+                  "order": 570,
+                  "id": 1831365
+                },
+                {
+                  "name": "Judith Street",
+                  "character": "Vendor",
+                  "profile_path": "/5nHDMaTyYvjN6dVn9xvxp9Kj2sD.jpg",
+                  "order": 571,
+                  "id": 2521963
+                },
+                {
+                  "name": "Corin Silva",
+                  "character": "Lieutenant Timur Salamov",
+                  "profile_path": "/qSF5NmUrxmsfAsN1LAOOlXFYb4L.jpg",
+                  "order": 572,
+                  "id": 2833518
+                },
+                {
+                  "name": "Joseph Steyne",
+                  "character": "Lieutenant Kozlov",
+                  "profile_path": "/vgvjx5hGUYbFJcPBp30Q8QJvT82.jpg",
+                  "order": 573,
+                  "id": 1738512
+                },
+                {
+                  "name": "Petras Šimonis",
+                  "character": "Armed Guard",
+                  "profile_path": "",
+                  "order": 574,
+                  "id": 3340809
+                },
+                {
+                  "name": "Priya Kansara",
+                  "character": "Lakshmi Chadha",
+                  "profile_path": "/uW3HD0tbOSZD0UtudHGKeQilWy5.jpg",
+                  "order": 593,
+                  "id": 3554544
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Rhys Ifans",
+                  "character": "Chief Designer",
+                  "profile_path": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg",
+                  "order": 0,
+                  "id": 7026
+                },
+                {
+                  "name": "Anna Maxwell Martin",
+                  "character": "Lyudmilla Raskova",
+                  "profile_path": "/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg",
+                  "order": 1,
+                  "id": 29236
+                },
+                {
+                  "name": "Agnes O'Casey",
+                  "character": "Irina Morozova",
+                  "profile_path": "/1o8L2LNsnfJMxFR400RKXGBof3c.jpg",
+                  "order": 2,
+                  "id": 3239558
+                },
+                {
+                  "name": "Alice Englert",
+                  "character": "Anastasia Belikova",
+                  "profile_path": "/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg",
+                  "order": 3,
+                  "id": 587823
+                },
+                {
+                  "name": "Solly McLeod",
+                  "character": "Sasha Polivanov",
+                  "profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+                  "order": 4,
+                  "id": 3060978
+                },
+                {
+                  "name": "Adam Nagaitis",
+                  "character": "Valya Mironov",
+                  "profile_path": "/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg",
+                  "order": 5,
+                  "id": 1435230
+                },
+                {
+                  "name": "Ruby Ashbourne Serkis",
+                  "character": "Tanya Mironova",
+                  "profile_path": "/aG162fp8hnudEieqKZl7yUuqEaX.jpg",
+                  "order": 6,
+                  "id": 1512455
+                },
+                {
+                  "name": "Josef Davies",
+                  "character": "Sergei Nikilov",
+                  "profile_path": "/geljWJJDVuthFmwqiFundYwqwPR.jpg",
+                  "order": 7,
+                  "id": 1587575
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kasia Adamik",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 293579,
+                  "profile_path": "/5YyOE4931b5IJwUPNcKniAO3IRw.jpg"
+                },
+                {
+                  "name": "Brendan Uegama",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1305454,
+                  "profile_path": "/wP24X8wPDBRrXbTNHabhDN00Ti9.jpg"
+                },
+                {
+                  "name": "Garret Donnelly",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 4212202,
+                  "profile_path": ""
+                },
+                {
+                  "name": "George Mastras",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1223193,
+                  "profile_path": "/2K0NELbA0Ow45ECudbO2eFc1Fe4.jpg"
+                },
+                {
+                  "name": "James Emmott",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 2018758,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Vicki Welsh",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 6248412,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Robert Rodriguez",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 6312940,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt39308720",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11644010,
+                "tvrage_id": null,
+                "wikidata_id": "Q140422097"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTA2Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "Cavar fundo",
+              "original_name": "",
+              "air_date": "2026-07-02",
+              "runtime": 57,
+              "overview": "Lealdades são testadas por uma nova estrutura de poder.",
+              "still_path": "/rWCmyfWWcGdEFdGUA19OAloWSrd.jpg",
+              "vote_average": 7.636,
+              "vote_count": 11,
+              "guest_stars": [
+                {
+                  "name": "David Dencik",
+                  "character": "Maxim Tarasov",
+                  "profile_path": "/q5wLADc6yYd3owxSEG8VKbf7YWV.jpg",
+                  "order": 501,
+                  "id": 93236
+                },
+                {
+                  "name": "Ellie Piercy",
+                  "character": "Galina",
+                  "profile_path": "/xASISRQYOoIhfqDOeouwNe5HyIc.jpg",
+                  "order": 503,
+                  "id": 2633456
+                },
+                {
+                  "name": "Christopher Sherwood",
+                  "character": "Controller",
+                  "profile_path": "/22czDa4cg1lq9pwI7pNmdyeWryw.jpg",
+                  "order": 506,
+                  "id": 2207349
+                },
+                {
+                  "name": "Gyuri Sarossy",
+                  "character": "Director of Operations",
+                  "profile_path": "/1KShiA9agExAdEacXwtE80iDz03.jpg",
+                  "order": 507,
+                  "id": 1585451
+                },
+                {
+                  "name": "Eadie Johnson",
+                  "character": "Zoya Morozova",
+                  "profile_path": "",
+                  "order": 513,
+                  "id": 4774727
+                },
+                {
+                  "name": "Tim Bentinck",
+                  "character": "Soviet News Anchor",
+                  "profile_path": "/yg2EErH28vqi6O1FH9DwJt0w7fu.jpg",
+                  "order": 516,
+                  "id": 997860
+                },
+                {
+                  "name": "Sean Gilder",
+                  "character": "Vladimir Belikov",
+                  "profile_path": "/t1iegX4Oi5iGu4UssCZoD6UxlOA.jpg",
+                  "order": 524,
+                  "id": 77292
+                },
+                {
+                  "name": "Jamie de Courcey",
+                  "character": "Stanislav Kalinsky",
+                  "profile_path": "",
+                  "order": 525,
+                  "id": 1294711
+                },
+                {
+                  "name": "Julia Vorik",
+                  "character": "Lyudmilla's Secretary",
+                  "profile_path": "/hK94WrXv4xhhou5xL8CvMIbi7VH.jpg",
+                  "order": 526,
+                  "id": 5314940
+                },
+                {
+                  "name": "Felix Scott",
+                  "character": "Radimir Petrovsky",
+                  "profile_path": "/sRlcbtzrmVMEVdJAH6xocbYdfhr.jpg",
+                  "order": 547,
+                  "id": 208492
+                },
+                {
+                  "name": "Varvara Simonova",
+                  "character": "Polina",
+                  "profile_path": "",
+                  "order": 559,
+                  "id": 6288092
+                },
+                {
+                  "name": "Joe Layton",
+                  "character": "Anatoly Frolov",
+                  "profile_path": "/dOsdU3mJKsz8Qxa7HIoUvSFdnKj.jpg",
+                  "order": 575,
+                  "id": 1456707
+                },
+                {
+                  "name": "Adam Long",
+                  "character": "Valery Kamalov",
+                  "profile_path": "/JrLCaTiJSOdSheB0q7VmgR8jyd.jpg",
+                  "order": 576,
+                  "id": 119917
+                },
+                {
+                  "name": "Sam Troughton",
+                  "character": "Andrei Stepanov",
+                  "profile_path": "/daT0NIIeYxCsxjJ0200wAfJGfEE.jpg",
+                  "order": 577,
+                  "id": 5421
+                },
+                {
+                  "name": "Adrian Rawlins",
+                  "character": "Lev Burkov",
+                  "profile_path": "/G0PGZqTjenuVTAQiib4ScU7vAI.jpg",
+                  "order": 578,
+                  "id": 1643
+                },
+                {
+                  "name": "Deividas Breivė",
+                  "character": "Engineer #2",
+                  "profile_path": "/cpurSVQA9RBko89mn0f2Xw0CIVG.jpg",
+                  "order": 579,
+                  "id": 1945390
+                },
+                {
+                  "name": "Maksim Tuchvatulin",
+                  "character": "Engineer Aide",
+                  "profile_path": "/6roes3G9DOOrU7MseMyQOp7MQV9.jpg",
+                  "order": 580,
+                  "id": 3924211
+                },
+                {
+                  "name": "Jon Monie",
+                  "character": "Supervisor Denys",
+                  "profile_path": "",
+                  "order": 581,
+                  "id": 3924106
+                },
+                {
+                  "name": "Dominic Applewhite",
+                  "character": "Kirill",
+                  "profile_path": "/bwk1Wgtct7bmTTuOFDsecQf5Coj.jpg",
+                  "order": 582,
+                  "id": 515313
+                },
+                {
+                  "name": "Elvinas Juodkazis",
+                  "character": "State Reporter",
+                  "profile_path": "",
+                  "order": 583,
+                  "id": 1945391
+                },
+                {
+                  "name": "Mark Arends",
+                  "character": "Kolya",
+                  "profile_path": "",
+                  "order": 584,
+                  "id": 933638
+                },
+                {
+                  "name": "Tekle Baroti",
+                  "character": "Radimir's Secretary",
+                  "profile_path": "/iixvaER6CPHFVHcGtqeAntRTb4y.jpg",
+                  "order": 585,
+                  "id": 2622674
+                },
+                {
+                  "name": "Edgar Nazarov",
+                  "character": "Ground Control Guard",
+                  "profile_path": "",
+                  "order": 594,
+                  "id": 6364949
+                },
+                {
+                  "name": "Daniel Flynn",
+                  "character": "Documentary Narrator (voice)",
+                  "profile_path": "/bviXCMHpSYnfTEkV15p6TPONift.jpg",
+                  "order": 595,
+                  "id": 89668
+                },
+                {
+                  "name": "Nick Haverson",
+                  "character": "Radio Voice (voice)",
+                  "profile_path": "/9R6hVdo0FDWbNDt58Rnn6oiEK31.jpg",
+                  "order": 596,
+                  "id": 1899117
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Rhys Ifans",
+                  "character": "Chief Designer",
+                  "profile_path": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg",
+                  "order": 0,
+                  "id": 7026
+                },
+                {
+                  "name": "Anna Maxwell Martin",
+                  "character": "Lyudmilla Raskova",
+                  "profile_path": "/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg",
+                  "order": 1,
+                  "id": 29236
+                },
+                {
+                  "name": "Agnes O'Casey",
+                  "character": "Irina Morozova",
+                  "profile_path": "/1o8L2LNsnfJMxFR400RKXGBof3c.jpg",
+                  "order": 2,
+                  "id": 3239558
+                },
+                {
+                  "name": "Alice Englert",
+                  "character": "Anastasia Belikova",
+                  "profile_path": "/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg",
+                  "order": 3,
+                  "id": 587823
+                },
+                {
+                  "name": "Solly McLeod",
+                  "character": "Sasha Polivanov",
+                  "profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+                  "order": 4,
+                  "id": 3060978
+                },
+                {
+                  "name": "Adam Nagaitis",
+                  "character": "Valya Mironov",
+                  "profile_path": "/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg",
+                  "order": 5,
+                  "id": 1435230
+                },
+                {
+                  "name": "Ruby Ashbourne Serkis",
+                  "character": "Tanya Mironova",
+                  "profile_path": "/aG162fp8hnudEieqKZl7yUuqEaX.jpg",
+                  "order": 6,
+                  "id": 1512455
+                },
+                {
+                  "name": "Josef Davies",
+                  "character": "Sergei Nikilov",
+                  "profile_path": "/geljWJJDVuthFmwqiFundYwqwPR.jpg",
+                  "order": 7,
+                  "id": 1587575
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Cort Fey",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1141676,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jamie Payne",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1222374,
+                  "profile_path": "/7oBODrbjqaPkFSL8fNkEzHGI7vS.jpg"
+                },
+                {
+                  "name": "K.C. Scott",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 4424842,
+                  "profile_path": "/9tfZR3KVbCsAH6wku8v7w9CUgSy.jpg"
+                },
+                {
+                  "name": "Vicki Welsh",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 6248412,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jordan Kotras",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1915709,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Erin St. Pierre",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 4170214,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Tom Beacham",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 1952429,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt39308722",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11644011,
+                "tvrage_id": null,
+                "wikidata_id": "Q140422098"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTA3Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "Os lobos",
+              "original_name": "",
+              "air_date": "2026-07-09",
+              "runtime": 65,
+              "overview": "Uma revelação provoca uma corrida desesperada contra o tempo.",
+              "still_path": "/rt4jhluW04Zbdn47XlaTW6qxTye.jpg",
+              "vote_average": 7.667,
+              "vote_count": 9,
+              "guest_stars": [
+                {
+                  "name": "David Dencik",
+                  "character": "Maxim Tarasov",
+                  "profile_path": "/q5wLADc6yYd3owxSEG8VKbf7YWV.jpg",
+                  "order": 501,
+                  "id": 93236
+                },
+                {
+                  "name": "Ellie Piercy",
+                  "character": "Galina",
+                  "profile_path": "/xASISRQYOoIhfqDOeouwNe5HyIc.jpg",
+                  "order": 503,
+                  "id": 2633456
+                },
+                {
+                  "name": "Christopher Sherwood",
+                  "character": "Controller",
+                  "profile_path": "/22czDa4cg1lq9pwI7pNmdyeWryw.jpg",
+                  "order": 506,
+                  "id": 2207349
+                },
+                {
+                  "name": "Gyuri Sarossy",
+                  "character": "Director of Operations",
+                  "profile_path": "/1KShiA9agExAdEacXwtE80iDz03.jpg",
+                  "order": 507,
+                  "id": 1585451
+                },
+                {
+                  "name": "Eadie Johnson",
+                  "character": "Zoya Morozova",
+                  "profile_path": "",
+                  "order": 513,
+                  "id": 4774727
+                },
+                {
+                  "name": "Julia Vorik",
+                  "character": "Lyudmilla's Secretary",
+                  "profile_path": "/hK94WrXv4xhhou5xL8CvMIbi7VH.jpg",
+                  "order": 526,
+                  "id": 5314940
+                },
+                {
+                  "name": "Fadily Camara",
+                  "character": "Celine",
+                  "profile_path": "/op22Xmp31FI8zqP5tqgFkSOIB3.jpg",
+                  "order": 528,
+                  "id": 2054701
+                },
+                {
+                  "name": "Felix Scott",
+                  "character": "Radimir Petrovsky",
+                  "profile_path": "/sRlcbtzrmVMEVdJAH6xocbYdfhr.jpg",
+                  "order": 547,
+                  "id": 208492
+                },
+                {
+                  "name": "Varvara Simonova",
+                  "character": "Polina",
+                  "profile_path": "",
+                  "order": 559,
+                  "id": 6288092
+                },
+                {
+                  "name": "Corin Silva",
+                  "character": "Lieutenant Timur Salamov",
+                  "profile_path": "/qSF5NmUrxmsfAsN1LAOOlXFYb4L.jpg",
+                  "order": 572,
+                  "id": 2833518
+                },
+                {
+                  "name": "Joe Layton",
+                  "character": "Anatoly Frolov",
+                  "profile_path": "/dOsdU3mJKsz8Qxa7HIoUvSFdnKj.jpg",
+                  "order": 575,
+                  "id": 1456707
+                },
+                {
+                  "name": "Adam Long",
+                  "character": "Valery Kamalov",
+                  "profile_path": "/JrLCaTiJSOdSheB0q7VmgR8jyd.jpg",
+                  "order": 576,
+                  "id": 119917
+                },
+                {
+                  "name": "Sam Troughton",
+                  "character": "Andrei Stepanov",
+                  "profile_path": "/daT0NIIeYxCsxjJ0200wAfJGfEE.jpg",
+                  "order": 577,
+                  "id": 5421
+                },
+                {
+                  "name": "Mark Arends",
+                  "character": "Kolya",
+                  "profile_path": "",
+                  "order": 584,
+                  "id": 933638
+                },
+                {
+                  "name": "Tekle Baroti",
+                  "character": "Radimir's Secretary",
+                  "profile_path": "/iixvaER6CPHFVHcGtqeAntRTb4y.jpg",
+                  "order": 585,
+                  "id": 2622674
+                },
+                {
+                  "name": "Tristan Sturrock",
+                  "character": "Committee Member #1",
+                  "profile_path": "/kVKZJMocabPzk7ZdlPWUua5USbg.jpg",
+                  "order": 586,
+                  "id": 24267
+                },
+                {
+                  "name": "Christian Bradley",
+                  "character": "Committee Member #2",
+                  "profile_path": "",
+                  "order": 587,
+                  "id": 2638085
+                },
+                {
+                  "name": "Paul Blair",
+                  "character": "Colonel",
+                  "profile_path": "/7axauRs7jvqgqe1IPpuU49E6eVH.jpg",
+                  "order": 588,
+                  "id": 56615
+                },
+                {
+                  "name": "Artur Svorobovich",
+                  "character": "Military Aide",
+                  "profile_path": "/eAERrVoNgiDk4Jw8v2MnNu7MdYG.jpg",
+                  "order": 589,
+                  "id": 2034769
+                },
+                {
+                  "name": "Karolis Kasperavičius",
+                  "character": "Air Force Captain",
+                  "profile_path": "/yaaUYPnMNplDcQjQ68ApP7EiW8S.jpg",
+                  "order": 590,
+                  "id": 2033547
+                },
+                {
+                  "name": "Clive Brunt",
+                  "character": "Farmer",
+                  "profile_path": "/jQ6rtpcmqVcic1ew172LePqFz1B.jpg",
+                  "order": 591,
+                  "id": 1538418
+                },
+                {
+                  "name": "Rachel Harvey",
+                  "character": "Yulia",
+                  "profile_path": "/42c5DsfkIlydvZMArDc0kcFd7f6.jpg",
+                  "order": 592,
+                  "id": 1227812
+                },
+                {
+                  "name": "Priya Kansara",
+                  "character": "Lakshmi Chadha",
+                  "profile_path": "/uW3HD0tbOSZD0UtudHGKeQilWy5.jpg",
+                  "order": 593,
+                  "id": 3554544
+                },
+                {
+                  "name": "Edgar Nazarov",
+                  "character": "Ground Control Guard",
+                  "profile_path": "",
+                  "order": 594,
+                  "id": 6364949
+                },
+                {
+                  "name": "Tracey Collis",
+                  "character": "Older Woman",
+                  "profile_path": "",
+                  "order": 597,
+                  "id": 6364950
+                },
+                {
+                  "name": "Paweł Kowalski",
+                  "character": "Guard #2",
+                  "profile_path": "/mNpPUtSdBeY36o8vUvixqy9YL6a.jpg",
+                  "order": 598,
+                  "id": 136615
+                },
+                {
+                  "name": "Tomas Šečkus",
+                  "character": "KGB Guard",
+                  "profile_path": "/A6yi49KbaQgL7oqzs4AJHVwoJ8r.jpg",
+                  "order": 599,
+                  "id": 2998242
+                },
+                {
+                  "name": "Telman Ragimov",
+                  "character": "Dacha Guard",
+                  "profile_path": "/aVZsSj4nkkdpf1TD3aBz0C91n6Y.jpg",
+                  "order": 600,
+                  "id": 2033558
+                },
+                {
+                  "name": "Lieve Carchon",
+                  "character": "Babushka",
+                  "profile_path": "",
+                  "order": 601,
+                  "id": 2661399
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Rhys Ifans",
+                  "character": "Chief Designer",
+                  "profile_path": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg",
+                  "order": 0,
+                  "id": 7026
+                },
+                {
+                  "name": "Anna Maxwell Martin",
+                  "character": "Lyudmilla Raskova",
+                  "profile_path": "/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg",
+                  "order": 1,
+                  "id": 29236
+                },
+                {
+                  "name": "Agnes O'Casey",
+                  "character": "Irina Morozova",
+                  "profile_path": "/1o8L2LNsnfJMxFR400RKXGBof3c.jpg",
+                  "order": 2,
+                  "id": 3239558
+                },
+                {
+                  "name": "Alice Englert",
+                  "character": "Anastasia Belikova",
+                  "profile_path": "/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg",
+                  "order": 3,
+                  "id": 587823
+                },
+                {
+                  "name": "Solly McLeod",
+                  "character": "Sasha Polivanov",
+                  "profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+                  "order": 4,
+                  "id": 3060978
+                },
+                {
+                  "name": "Adam Nagaitis",
+                  "character": "Valya Mironov",
+                  "profile_path": "/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg",
+                  "order": 5,
+                  "id": 1435230
+                },
+                {
+                  "name": "Ruby Ashbourne Serkis",
+                  "character": "Tanya Mironova",
+                  "profile_path": "/aG162fp8hnudEieqKZl7yUuqEaX.jpg",
+                  "order": 6,
+                  "id": 1512455
+                },
+                {
+                  "name": "Josef Davies",
+                  "character": "Sergei Nikilov",
+                  "profile_path": "/geljWJJDVuthFmwqiFundYwqwPR.jpg",
+                  "order": 7,
+                  "id": 1587575
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Cort Fey",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1141676,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Bilow",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1828962,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jamie Payne",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1222374,
+                  "profile_path": "/7oBODrbjqaPkFSL8fNkEzHGI7vS.jpg"
+                },
+                {
+                  "name": "Ben Nedivi",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 67231,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Matt Wolpert",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1228256,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Vicki Welsh",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 6248412,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jordan Kotras",
+                  "job": "First Assistant Director",
+                  "department": "Directing",
+                  "id": 1915709,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Tom Beacham",
+                  "job": "Second Assistant Director",
+                  "department": "Directing",
+                  "id": 1952429,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt38783219",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11644012,
+                "tvrage_id": null,
+                "wikidata_id": "Q140422099"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjUyMTA3LTAxLTA4Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
