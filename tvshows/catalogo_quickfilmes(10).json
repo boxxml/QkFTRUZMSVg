@@ -11,7 +11,7 @@
       "overview": "Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe.",
       "tagline": "",
       "poster": "/eK9ZDIq7gPFRJ0GGaWvgrXLZgXX.jpg",
-      "backdrop": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tS8PQabvc5jVTOYPyOQgOiotIK0.jpg",
       "vote_average": 8.49,
       "vote_count": 4467,
       "genres": [
@@ -280,7 +280,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:19:43.877Z",
+      "cast_fetched_at": "2026-11-21T09:36:37.821Z",
       "seasons": [
         {
           "season_number": 1,
@@ -11102,7 +11102,7 @@
       "overview": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
       "tagline": "A verdade está no passado.",
       "poster": "/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg",
-      "backdrop": "/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
       "vote_average": 8.231,
       "vote_count": 2931,
       "genres": [
@@ -11676,7 +11676,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:19:49.506Z",
+      "cast_fetched_at": "2026-11-21T09:36:39.413Z",
       "seasons": [
         {
           "season_number": 1,
@@ -20794,7 +20794,7 @@
       "overview": "\"A Nova Super Máquina\" é uma versão moderna do clássico dos anos 1980 chamada “A Super Máquina”. Este seriado mostra o filho de Michael Knight, que utilizando o K.I.T.T., o carro mais descolado de todos os tempos, luta contra o crime. A clássica série de velocidade e ação está de volta com mais adrenalina do que nunca. Embarque nas novas aventuras a bordo de um K.I.T.T. modernizado e aperte os cintos nessa corrida contra o crime.",
       "tagline": "Um ícone renascido.",
       "poster": "/oV8C2rFIiQCU0dEE4NbB80czIgk.jpg",
-      "backdrop": "/vh2ZS4Aome8klUyJH5whPnZbSZe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vh2ZS4Aome8klUyJH5whPnZbSZe.jpg",
       "vote_average": 7.491,
       "vote_count": 696,
       "genres": [
@@ -21039,7 +21039,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:19:54.192Z",
+      "cast_fetched_at": "2026-11-21T09:36:40.315Z",
       "seasons": [
         {
           "season_number": 0,
@@ -23789,7 +23789,7 @@
       "overview": "Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta.",
       "tagline": "Era mais seguro no espaço.",
       "poster": "/wEMJxkaVw5hIHax9raBLd82TLAR.jpg",
-      "backdrop": "/sVxit4vKQZnrHejeQupBYadP22g.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sVxit4vKQZnrHejeQupBYadP22g.jpg",
       "vote_average": 7.284,
       "vote_count": 1214,
       "genres": [
@@ -24356,7 +24356,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:19:57.451Z",
+      "cast_fetched_at": "2026-11-21T09:36:41.002Z",
       "seasons": [
         {
           "season_number": 1,
@@ -27180,7 +27180,7 @@
       "overview": "Durante as férias de 1962, em uma pacata cidadezinha chamada Derry, um grupo de sete amigos começa a ver coisas bizarras. Um conta que viu um palhaço, outro que viu uma múmia. Finalmente, acabam descobrindo que estavam todos vendo a mesma coisa: um ser sobrenatural e maligno que pode assumir várias formas. Ele mesmo. O Pennywise.",
       "tagline": "Volte para onde A COISA começou.",
       "poster": "/gMTfrLvrDaD0zrhpLZ7zXIIpKfJ.jpg",
-      "backdrop": "/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
       "vote_average": 8.261,
       "vote_count": 1811,
       "genres": [
@@ -28019,7 +28019,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:19:59.218Z",
+      "cast_fetched_at": "2026-11-21T09:36:41.346Z",
       "seasons": [
         {
           "season_number": 1,
@@ -32317,7 +32317,7 @@
       "overview": "Uma adolescente presa na vida após a morte decide investigar seu desaparecimento com um grupo de outros alunos que também estão presos no limbo em sua escola.",
       "tagline": "",
       "poster": "/jkcgvKEKF0q2l72uHNhrhbx9DbP.jpg",
-      "backdrop": "/A6biiToqBbtL2uDxJDYqCjDOSU2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A6biiToqBbtL2uDxJDYqCjDOSU2.jpg",
       "vote_average": 7.793,
       "vote_count": 297,
       "genres": [
@@ -32467,7 +32467,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:02.880Z",
+      "cast_fetched_at": "2026-11-21T09:36:41.645Z",
       "seasons": [
         {
           "season_number": 1,
@@ -39328,7 +39328,7 @@
       "overview": "O detetive particular Ben Reilly é contratado para casos simples... até que gângsteres, monstros e uma misteriosa femme fatale tecem uma teia que o obriga a confrontar seu passado como o único super-herói de Nova York: O Spider.",
       "tagline": "Sem poder não há responsabilidade.",
       "poster": "/rfrzXSaiuvRMLo8PRQds0TfFrZC.jpg",
-      "backdrop": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
       "vote_average": 8.3,
       "vote_count": 943,
       "genres": [
@@ -40172,7 +40172,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:07.273Z",
+      "cast_fetched_at": "2026-11-21T09:36:42.688Z",
       "seasons": [
         {
           "season_number": 1,
@@ -42884,7 +42884,7 @@
       "overview": "Entre em um capítulo eletrizante inspirado em For All Mankind. Mesmo universo alternativo. Nova perspectiva: a da União Soviética. Atravesse a Cortina de Ferro com os cosmonautas, engenheiros e agentes de inteligência que arriscaram tudo na corrida pela Lua.",
       "tagline": "Na corrida pela glória, todo segredo tem seu peso.",
       "poster": "/yjiWWcaxTsJ6teVwnR87rWyA56P.jpg",
-      "backdrop": "/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
       "vote_average": 7.6,
       "vote_count": 98,
       "genres": [
@@ -43622,7 +43622,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:09.126Z",
+      "cast_fetched_at": "2026-11-21T09:36:43.058Z",
       "seasons": [
         {
           "season_number": 1,
@@ -46761,7 +46761,7 @@
       "overview": "A trama mostra o repentino aparecimento de Ruben no casamento de Niall, irmão com quem não falava há anos. A partir daí, a produção vai examinar os altos e baixos da turbulenta relação entre eles, o que envolve violência.",
       "tagline": "Alguns laços podem destruir você.",
       "poster": "/j6TXud3kXLyqZrPyVwtkIVs8mXd.jpg",
-      "backdrop": "/voRcBEjydt5dJNgXuqtobIsZIbJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3MOLz10zdUD0bnh8ElIVYINckAi.jpg",
       "vote_average": 7.96,
       "vote_count": 162,
       "genres": [
@@ -46982,7 +46982,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:12.758Z",
+      "cast_fetched_at": "2026-11-21T09:36:43.337Z",
       "seasons": [
         {
           "season_number": 1,
@@ -47880,7 +47880,7 @@
       "overview": "A Casa dos Espíritos é uma saga familiar de 8 episódios que mostra as vidas de mulheres revolucionárias e resilientes - Clara, a avó; Blanca, a filha; e Alba, a neta - ao longo de meio século em um país sul-americano remoto e conservador forjado por desastres, conflito de classes e magia.",
       "tagline": "",
       "poster": "/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
-      "backdrop": "/u2nBtDrTOIi9u78c02bL0A3lo7Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wnFDvimLRrCfsIOJVJFUxN2YSnZ.jpg",
       "vote_average": 8.438,
       "vote_count": 89,
       "genres": [
@@ -48366,7 +48366,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:14.569Z",
+      "cast_fetched_at": "2026-11-21T09:36:43.618Z",
       "seasons": [
         {
           "season_number": 1,
@@ -50776,7 +50776,7 @@
       "overview": "Camareira real Jane Andrews saiu da pobreza e chegou ao palácio, até que uma condenação por homicídio acabou com seu conto de fadas.",
       "tagline": "",
       "poster": "/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg",
-      "backdrop": "/y1Xg6NPRD8QFbgOVer16ynjGYUp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wdHNmeN1V1cxYJ28XiFsG0eMFL7.jpg",
       "vote_average": 6.643,
       "vote_count": 14,
       "genres": [
@@ -50936,7 +50936,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:16.538Z",
+      "cast_fetched_at": "2026-11-21T09:36:44.079Z",
       "seasons": [
         {
           "season_number": 1,
@@ -51592,7 +51592,7 @@
       "overview": "Raven Baxter é uma típica adolescente, mas com poderes psíquicos! Ela adora prever o futuro e com a ajuda de seus amigos, Eddie e Chelsea, elabora planos para alterar o que vai acontecer. Juntos eles criam mais problemas do que os resolvem de uma maneira muito engraçada!",
       "tagline": "",
       "poster": "/gvmxbx3k5KfIJhL0JYdm7rNC8FH.jpg",
-      "backdrop": "/xXxTWkQFeUUWr3N8UVl7CpwZI2g.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xXxTWkQFeUUWr3N8UVl7CpwZI2g.jpg",
       "vote_average": 7.2,
       "vote_count": 300,
       "genres": [
@@ -51781,7 +51781,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:17.950Z",
+      "cast_fetched_at": "2026-11-21T09:36:44.543Z",
       "seasons": [
         {
           "season_number": 0,
@@ -64006,7 +64006,7 @@
       "overview": "A veterana do exército, Krista Starr, está em busca do assassino de seu irmão gêmeo. Em meio às investigações, ela descobre uma inacreditável organização de vampiros em Detroit, liderada pelo implacável Marcus Van Sciver. Envolvida nas armações das criaturas da noite, ela vai contar com a relutante ajuda de Blade, o caçador de vampiros - metade humano, metade vampiro. Este anti-herói é dotado de incríveis poderes e armamentos que utiliza em sua luta para dar fim à raça de sugadores de sangue.",
       "tagline": "",
       "poster": "/2XL1XAkk4ZGUmtbc8YDfWG7LX24.jpg",
-      "backdrop": "/eF7DaPaNJyIs1cQQJ0ECIc7I11z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eF7DaPaNJyIs1cQQJ0ECIc7I11z.jpg",
       "vote_average": 6.425,
       "vote_count": 93,
       "genres": [
@@ -64133,7 +64133,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:28.700Z",
+      "cast_fetched_at": "2026-11-21T09:36:47.245Z",
       "seasons": [
         {
           "season_number": 1,
@@ -65550,7 +65550,7 @@
       "overview": "Jovens loiras de olhos azuis foram assassinadas ao longo dos últimos doze meses. Tommy Conley (Dominic Monaghan, de LOST), um detetive de Nova Iorque, é enviado à Suécia para observar e aconselhar a polícia local nas investigações. Ele se une ao sueco Mikael Eklund (Michael Nyqvist, de Zero Hour), um veterano da homicídios que trabalha de acordo com as regras. Extremamente nacionalista, Mikael não vê com bons olhos a presença de Conley, criticando a cultura americana sempre que pode. Apesar dos dois não se suportarem, eles precisam encontrar uma forma de trabalharem juntos.\n\nA vida pessoal de cada um também é problemática. Conley ainda se sente culpado pela morte de Maggie, sua namorada. Algo que ele precisa deixar de lado quando conhece Maria, uma americana que trabalha em um bar local. Já Eklund precisa descobrir uma forma de se relacionar melhor com sua filha Hanna.",
       "tagline": "",
       "poster": "/tg9fpeSvD8QvPOjt1ZASz3GkqT.jpg",
-      "backdrop": "/nG93f33al8Zq2tQ3d8oMiQfJlij.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nG93f33al8Zq2tQ3d8oMiQfJlij.jpg",
       "vote_average": 6.5,
       "vote_count": 82,
       "genres": [
@@ -65657,7 +65657,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:31.186Z",
+      "cast_fetched_at": "2026-11-21T09:36:47.759Z",
       "seasons": [
         {
           "season_number": 1,
@@ -66711,7 +66711,7 @@
       "overview": "A série conta a história do honesto chefe de família Cadu que vê sua vida mudar drasticamente quando ele é preso, após ser confundido com o maior traficante do país.",
       "tagline": "",
       "poster": "/3o7f2Xjwl5hcoiioR9eGdD9ezHt.jpg",
-      "backdrop": "/vZsXfIDs3A8jzB46cdwusqxRjdI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vZsXfIDs3A8jzB46cdwusqxRjdI.jpg",
       "vote_average": 6.714,
       "vote_count": 14,
       "genres": [
@@ -66858,7 +66858,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:33.822Z",
+      "cast_fetched_at": "2026-11-21T09:36:48.475Z",
       "seasons": [
         {
           "season_number": 1,
@@ -67920,18 +67920,18 @@
               "id": 1931129
             },
             {
-              "name": "Roberto Birindelli",
-              "character": "Pepe",
-              "profile_path": "/xrd8LiUFgOxYINEqgaFVUjXoXP2.jpg",
-              "order": 3,
-              "id": 1188525
-            },
-            {
               "name": "Sílvio Guindane",
               "character": "Abelardo (Mãe)",
               "profile_path": "/7sQaDcVhytdhESRNwTIufSubogP.jpg",
               "order": 3,
               "id": 286482
+            },
+            {
+              "name": "Roberto Birindelli",
+              "character": "Pepe",
+              "profile_path": "/xrd8LiUFgOxYINEqgaFVUjXoXP2.jpg",
+              "order": 3,
+              "id": 1188525
             },
             {
               "name": "Rita Guedes",
@@ -70991,7 +70991,7 @@
       "overview": "Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a rivalidade dos tempos de escola.",
       "tagline": "Lute pela alma do vale.",
       "poster": "/5qMupAz4A9EN5Rutrkmov45mNXZ.jpg",
-      "backdrop": "/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
       "vote_average": 8.192,
       "vote_count": 7069,
       "genres": [
@@ -71262,7 +71262,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:39.142Z",
+      "cast_fetched_at": "2026-11-21T09:36:49.414Z",
       "seasons": [
         {
           "season_number": 1,
@@ -81116,13 +81116,6 @@
               "profile_path": "/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
             },
             {
-              "name": "Ryan Berg",
-              "job": "Production Design",
-              "department": "Art",
-              "id": 1002643,
-              "profile_path": ""
-            },
-            {
               "name": "Eric Berg",
               "job": "Art Direction",
               "department": "Art",
@@ -81130,18 +81123,11 @@
               "profile_path": ""
             },
             {
-              "name": "Alexis Frank Koczara",
-              "job": "Casting",
-              "department": "Production",
-              "id": 1407521,
-              "profile_path": "/uKksTAOfU1sziUC0WaGWLyuTEgH.jpg"
-            },
-            {
-              "name": "Leo Birenberg",
-              "job": "Original Music Composer",
-              "department": "Sound",
-              "id": 1272997,
-              "profile_path": "/dQ9tGEuLaDDoIxijfiUmdXfogiD.jpg"
+              "name": "Ryan Berg",
+              "job": "Production Design",
+              "department": "Art",
+              "id": 1002643,
+              "profile_path": ""
             },
             {
               "name": "Christine Smith Shevchenko",
@@ -81151,11 +81137,25 @@
               "profile_path": "/6URduIu1P5qUN8CHN9347UcUqt5.jpg"
             },
             {
+              "name": "Alexis Frank Koczara",
+              "job": "Casting",
+              "department": "Production",
+              "id": 1407521,
+              "profile_path": "/uKksTAOfU1sziUC0WaGWLyuTEgH.jpg"
+            },
+            {
               "name": "Zach Robinson",
               "job": "Original Music Composer",
               "department": "Sound",
               "id": 1433463,
               "profile_path": "/zp5CKwVNtTJqqmybxDdcJuvQrfD.jpg"
+            },
+            {
+              "name": "Leo Birenberg",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 1272997,
+              "profile_path": "/dQ9tGEuLaDDoIxijfiUmdXfogiD.jpg"
             },
             {
               "name": "Hayden Schlossberg",
@@ -81165,11 +81165,11 @@
               "profile_path": "/kLkKtht08e9Z451RpD5l5ebpwZu.jpg"
             },
             {
-              "name": "William Zabka",
-              "job": "Co-Executive Producer",
+              "name": "Jon Hurwitz",
+              "job": "Executive Producer",
               "department": "Production",
-              "id": 56124,
-              "profile_path": "/1n1a8jM9lmk7lfDxtZoOesTkIIU.jpg"
+              "id": 68843,
+              "profile_path": "/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg"
             },
             {
               "name": "Josh Heald",
@@ -81179,32 +81179,11 @@
               "profile_path": "/gAGqe7l5VMTdVZuah2YczbXOJUl.jpg"
             },
             {
-              "name": "Ralph Macchio",
-              "job": "Co-Executive Producer",
-              "department": "Production",
-              "id": 2877,
-              "profile_path": "/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg"
-            },
-            {
-              "name": "James Lassiter",
+              "name": "Susan Ekins",
               "job": "Executive Producer",
               "department": "Production",
-              "id": 46080,
-              "profile_path": "/fvANUnkbX7FfZhQtPRHnaBLKSiT.jpg"
-            },
-            {
-              "name": "Jon Hurwitz",
-              "job": "Executive Producer",
-              "department": "Production",
-              "id": 68843,
-              "profile_path": "/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg"
-            },
-            {
-              "name": "Will Smith",
-              "job": "Executive Producer",
-              "department": "Production",
-              "id": 2888,
-              "profile_path": "/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+              "id": 57295,
+              "profile_path": "/mruAPh5kRCFOi6xNbULsv91TYDa.jpg"
             },
             {
               "name": "Caleeb Pinkett",
@@ -81214,11 +81193,32 @@
               "profile_path": "/6NwFFp0EIXbH87U4nRZnAqYaDic.jpg"
             },
             {
-              "name": "Susan Ekins",
+              "name": "James Lassiter",
               "job": "Executive Producer",
               "department": "Production",
-              "id": 57295,
-              "profile_path": "/mruAPh5kRCFOi6xNbULsv91TYDa.jpg"
+              "id": 46080,
+              "profile_path": "/fvANUnkbX7FfZhQtPRHnaBLKSiT.jpg"
+            },
+            {
+              "name": "Will Smith",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2888,
+              "profile_path": "/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+            },
+            {
+              "name": "William Zabka",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 56124,
+              "profile_path": "/1n1a8jM9lmk7lfDxtZoOesTkIIU.jpg"
+            },
+            {
+              "name": "Ralph Macchio",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 2877,
+              "profile_path": "/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg"
             },
             {
               "name": "Robert Mark Kamen",
@@ -90415,7 +90415,7 @@
       "overview": "Um garoto conhecido como o Avatar precisa dominar os quatro poderes elementares para salvar um mundo em guerra e enfrentar um inimigo implacável.",
       "tagline": "Domine seu elemento.",
       "poster": "/zCz483fU94RxRt1gdGW1rxQkcID.jpg",
-      "backdrop": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
       "vote_average": 7.759,
       "vote_count": 1417,
       "genres": [
@@ -90710,7 +90710,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:47.304Z",
+      "cast_fetched_at": "2026-11-21T09:36:51.666Z",
       "seasons": [
         {
           "season_number": 1,
@@ -95567,7 +95567,7 @@
       "overview": "200 anos antes dos eventos de \"Game of Thrones\", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.",
       "tagline": "Não foram os sonhos que os tornaram reis. Foram os dragões.",
       "poster": "/oKJDm4QCKbp6mR4FnxXrFlPJP8Y.jpg",
-      "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "vote_average": 8.375,
       "vote_count": 7343,
       "genres": [
@@ -96049,7 +96049,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:20:50.088Z",
+      "cast_fetched_at": "2026-11-21T09:36:51.972Z",
       "seasons": [
         {
           "season_number": 0,
@@ -108272,7 +108272,7 @@
       "overview": "Criado isolado nas montanhas, Son Goku é um garoto de força extraordinária, coração puro e completo desconhecimento do mundo além de sua casa. Sua vida muda ao conhecer Bulma, uma jovem inventora à procura das sete Esferas do Dragão, artefatos capazes de invocar Shenlong e realizar qualquer desejo. O que começa como uma busca pelas esferas leva Goku a descobrir um mundo de mestres, rivais, torneios e inimigos cada vez mais perigosos. Entre amizades e batalhas que moldam seu caminho, o garoto das montanhas cresce como lutador enquanto enfrenta aqueles que desejam usar o poder das Esferas do Dragão para seus próprios fins.",
       "tagline": "A lenda começa com sete esferas e um garoto com cauda.",
       "poster": "/fdqeVkZKhYnR29jJFDVYZaFhfy7.jpg",
-      "backdrop": "/30L49n4Dhn7dzuGG50GV3ybMhC3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/30L49n4Dhn7dzuGG50GV3ybMhC3.jpg",
       "vote_average": 8.28,
       "vote_count": 3508,
       "genres": [
@@ -108413,7 +108413,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:21:00.999Z",
+      "cast_fetched_at": "2026-11-21T09:36:56.591Z",
       "seasons": [
         {
           "season_number": 0,
@@ -126844,7 +126844,7 @@
       "overview": "Após um violento naufrágio, o playboy milionário Oliver Queen é dado como morto. Cinco anos depois, é resgatado de uma ilha do Pacífico e enviado de volta para Starling City, onde passa a agir como vigilante secreto.",
       "tagline": "Heróis caem. Lendas se levantam.",
       "poster": "/oaLXsduGoDOOftWziIOvyZzrR4T.jpg",
-      "backdrop": "/wAFuDJfZJrnh6a1wf1Vt7PqYBvR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wAFuDJfZJrnh6a1wf1Vt7PqYBvR.jpg",
       "vote_average": 6.836,
       "vote_count": 6568,
       "genres": [
@@ -127002,7 +127002,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:21:14.191Z",
+      "cast_fetched_at": "2026-11-21T09:36:59.681Z",
       "seasons": [
         {
           "season_number": 0,
@@ -150348,6 +150348,13 @@
               "profile_path": "/dm1kNRSLuPKYW4X1CPdO50cqyYJ.jpg"
             },
             {
+              "name": "Dominique Fauquet-Lemaitre",
+              "job": "Set Decoration",
+              "department": "Art",
+              "id": 32201,
+              "profile_path": ""
+            },
+            {
               "name": "Richard Hudolin",
               "job": "Production Design",
               "department": "Art",
@@ -150360,13 +150367,6 @@
               "department": "Production",
               "id": 13061,
               "profile_path": "/Ai46ihtsE18QWKZGDEJ8AWiymqH.jpg"
-            },
-            {
-              "name": "Dominique Fauquet-Lemaitre",
-              "job": "Set Decoration",
-              "department": "Art",
-              "id": 32201,
-              "profile_path": ""
             },
             {
               "name": "Marc Guggenheim",
@@ -166682,7 +166682,7 @@
       "overview": "Depois de matar toda a huminadade, as comidas buscam criar sua própria utopia.",
       "tagline": "",
       "poster": "/l8XFkTzWxObRLFqYlgZ1UBgvw5r.jpg",
-      "backdrop": "/c0T9qkw2mMGPcl4SVS7AeSChgrh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/c0T9qkw2mMGPcl4SVS7AeSChgrh.jpg",
       "vote_average": 6.7,
       "vote_count": 219,
       "genres": [
@@ -166923,7 +166923,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:21:33.860Z",
+      "cast_fetched_at": "2026-11-21T09:37:06.481Z",
       "seasons": [
         {
           "season_number": 1,
@@ -169739,7 +169739,7 @@
       "overview": "Para Chris, fazer 13 anos não tem nada de maravilhoso. Ele é o único negro da turma do ensino médio, onde tem uma educação medíocre. É amigo de Greg, e é frequentemente abusado por Joey Caruso. Ambos os pais trabalham e ele cuida de seus dois irmãos. Parece trágico, mas é hilário.",
       "tagline": "",
       "poster": "/j7KcbOjhNIWOQqHGtL0P90nlfHB.jpg",
-      "backdrop": "/qji729gwCW88RpIIWidlaLTul3V.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qji729gwCW88RpIIWidlaLTul3V.jpg",
       "vote_average": 8.061,
       "vote_count": 1166,
       "genres": [
@@ -169912,7 +169912,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:21:37.843Z",
+      "cast_fetched_at": "2026-11-21T09:37:07.595Z",
       "seasons": [
         {
           "season_number": 1,
@@ -183551,7 +183551,7 @@
       "overview": "John Constantine é um detetive com habilidades sobrenaturais. Perseguido por mistérios e segredos de seu próprio passado, a vida de John é mudada quando suas habilidades são descobertas pelas forças do céu, ou seja, pelo autoritário anjo Manny. Ele irá ajudar o detetive a se tornar um grande e feroz defensor das forças do bem contra o mal.",
       "tagline": "",
       "poster": "/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg",
-      "backdrop": "/lmDDpCCei9kTPIZb13P2NAqpmvO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lmDDpCCei9kTPIZb13P2NAqpmvO.jpg",
       "vote_average": 7.7,
       "vote_count": 1682,
       "genres": [
@@ -183711,7 +183711,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:21:47.515Z",
+      "cast_fetched_at": "2026-11-21T09:37:10.522Z",
       "seasons": [
         {
           "season_number": 1,
@@ -185393,7 +185393,7 @@
       "overview": "Enquanto tentam lidar com problemas típicos da adolescência como amor, sexo, escola e família, Archie e sua turma se envolvem em um grande mistério.",
       "tagline": "Cidade pequena. Grandes segredos.",
       "poster": "/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
-      "backdrop": "/kb9XvtEnDhBVVit4eeKygqll4EA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kb9XvtEnDhBVVit4eeKygqll4EA.jpg",
       "vote_average": 8.4,
       "vote_count": 13831,
       "genres": [
@@ -185870,7 +185870,7 @@
         }
       ],
       "cast_source": "TMDB",
-      "cast_fetched_at": "2026-11-21T09:21:49.569Z",
+      "cast_fetched_at": "2026-11-21T09:37:10.818Z",
       "seasons": [
         {
           "season_number": 1,
@@ -227276,7 +227276,7 @@
       "overview": "Acompanhe o rei grego Odisseu em sua perigosa jornada de 20 anos para voltar a Ítaca após a Guerra de Troia, enfrentando monstros e deuses enquanto sua esposa Penélope resiste em seu reino.",
       "tagline": "Desafie os deuses.",
       "poster": "/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
-      "backdrop": "/dZI4Ek4qc2Fib2G1zFkGhKKuc6j.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wkEZ7YmWdn7GeFBoNz2RAiLlwDB.jpg",
       "vote_average": 8.021,
       "vote_count": 5236,
       "genres": [
@@ -229415,7 +229415,7 @@
       "overview": "Quando criaturas dimensionais ameaçam destruir tudo, um pai treina a filha escondida. Porém, com o caos se espalhando, eles descobrem que nenhum lugar é seguro.",
       "tagline": "",
       "poster": "/svNNsHrcPqqq4cRfQ0Xs0MyrlOn.jpg",
-      "backdrop": "/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
       "vote_average": 6,
       "vote_count": 311,
       "genres": [
@@ -229806,7 +229806,7 @@
       "overview": "Você acha que conhece as \"irmãs postiças malvadas\" da Cinderela? Pense de novo! Quando a incompreendida Lilith é culpada por sabotar o Baile Real com uma varinha mágica roubada, ela acidentalmente transforma sua irmã Margot em um sapo e deixa o reino nas mãos de uma garota malvada obcecada pelo príncipe. Agora, Lilith precisa se unir à Cinderela — e a um troll surpreendentemente charmoso — para salvar o reino, consertar o conto de fadas fragmentado e provar que até os chamados vilões merecem uma chance de viver felizes para sempre.",
       "tagline": "Quando der meia-noite, a gente vaza.",
       "poster": "/fLOzL7A81v6V0BKWXXjfeT1ehkw.jpg",
-      "backdrop": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
       "vote_average": 6.3,
       "vote_count": 13,
       "genres": [
@@ -231038,7 +231038,7 @@
       "overview": "Sam é uma corretora de imóveis que vive em uma pequena comunidade nas montanhas. Mas por trás de sua vida de glamour, ela guarda um passado sombrio que está prestes a ser revelado com a chegada de um misterioso homem à cidade.",
       "tagline": "",
       "poster": "/m9y6xjozdFDkT6JDWhHhx6MXn4C.jpg",
-      "backdrop": "/cVHd71dNH5xPtquY8KxFyLzKnlC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qzm9WCMjrfWkAYl1PHwb3ib9Cpg.jpg",
       "vote_average": 4.4,
       "vote_count": 15,
       "genres": [
@@ -231542,7 +231542,7 @@
       "overview": "Elizabeth trabalha para o pai do seu noivo em um negócio imobiliário. Para manter Elizabeth empregada, seu futuro sogro a manda de volta à sua cidade natal para convencer um ex-namorado a vender sua estação de esqui para a empresa.",
       "tagline": "",
       "poster": "/32LCCNLr7QHXkzQkT33ZxYhYa0d.jpg",
-      "backdrop": "/b1gUBdMY0zKHZ8uzDeDwwioa9zw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b1gUBdMY0zKHZ8uzDeDwwioa9zw.jpg",
       "vote_average": 5.1,
       "vote_count": 14,
       "genres": [
@@ -231926,7 +231926,7 @@
       "overview": "Uma mulher que, aos 75 anos, tem de encarar a morte (e potencial suicídio) de seu filho motorista de ônibus e todos os passageiros, após o ônibus lotado cair de um viaduto. Vicentina decide embarcar em uma jornada para procurar as famílias das vítimas para pedir desculpas.",
       "tagline": "",
       "poster": "/v6JBUlm6nIYx3ixF38I5ZVpQZgq.jpg",
-      "backdrop": "/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
       "vote_average": 7.833,
       "vote_count": 3,
       "genres": [
@@ -232279,7 +232279,7 @@
       "overview": "Três dos televangelistas mais poderosos dos anos 1980 vendiam a salvação pela TV. Até que ganância, sexo e egos inflados acabaram com tudo.",
       "tagline": "",
       "poster": "/2DhObi3tET5JtvGP1BwvXdbkQv2.jpg",
-      "backdrop": "/gVdy7sXbUQKWNV6QXG7vTB1344G.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gwrGO8A61CtuxxurWjo3OAl1wcO.jpg",
       "vote_average": 6,
       "vote_count": 1,
       "genres": [
