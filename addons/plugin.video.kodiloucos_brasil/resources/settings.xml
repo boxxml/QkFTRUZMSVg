@@ -1,0 +1,13 @@
+﻿<settings>
+  <category label="Geral">
+    <setting id="save_location" type="folder"  label="Selecione um local de download." default=""/>
+    <setting id="use_thumb" type="bool" label="Use miniaturas como fanart" default="false" />
+    <setting id="logo-folderPath" type="folder"  label="Selecione Diretório para logotipo." default=""/>
+    <setting id="add_playlist" type="bool" label="Adicione itens com vários links como listas de reprodução" default="true"/>
+    <setting id="ask_playlist_items" type="bool" label="Escolher os itens da lista de reprodução na caixa de diálogo" default="true" />
+    <setting id="debug" type="bool" label="Habilitar depuração de complemento" default="false"/>
+    <setting id="1080pquality" label="Reproduza vídeo 1080p SOB demanda, se disponível (não ao vivo)" type="bool" default=""/>
+    <setting id="genesisorpulsar" type="enum" values="Genesis|Pulsar" label="Iniciar IMDBid with:" default="Genesis"/>
+    <setting id="donotshowbychannels" label="Não mostrar itens sob o nome do canal" type="bool" default="false"/>
+  </category>
+</settings>
