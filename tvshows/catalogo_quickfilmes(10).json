@@ -64924,6 +64924,1165 @@
           ]
         }
       ]
+    },
+    {
+      "type": "tv",
+      "title": "100 Code",
+      "original_title": "100 Code",
+      "tmdb_id": "62146",
+      "id": 62146,
+      "year": "2015",
+      "release_date": "2015-03-06",
+      "overview": "Jovens loiras de olhos azuis foram assassinadas ao longo dos últimos doze meses. Tommy Conley (Dominic Monaghan, de LOST), um detetive de Nova Iorque, é enviado à Suécia para observar e aconselhar a polícia local nas investigações. Ele se une ao sueco Mikael Eklund (Michael Nyqvist, de Zero Hour), um veterano da homicídios que trabalha de acordo com as regras. Extremamente nacionalista, Mikael não vê com bons olhos a presença de Conley, criticando a cultura americana sempre que pode. Apesar dos dois não se suportarem, eles precisam encontrar uma forma de trabalharem juntos.\n\nA vida pessoal de cada um também é problemática. Conley ainda se sente culpado pela morte de Maggie, sua namorada. Algo que ele precisa deixar de lado quando conhece Maria, uma americana que trabalha em um bar local. Já Eklund precisa descobrir uma forma de se relacionar melhor com sua filha Hanna.",
+      "tagline": "",
+      "poster": "/tg9fpeSvD8QvPOjt1ZASz3GkqT.jpg",
+      "backdrop": "/nG93f33al8Zq2tQ3d8oMiQfJlij.jpg",
+      "vote_average": 6.5,
+      "vote_count": 82,
+      "genres": [
+        "Crime"
+      ],
+      "runtime": 43,
+      "certification": "NR",
+      "original_language": "en",
+      "origin_country": [
+        "DE",
+        "SE",
+        "US"
+      ],
+      "production_companies": [
+        "Discovery Networks Sweden",
+        "Fabrik Entertainment",
+        "Strix Drama",
+        "Sky Deutschland",
+        "Red Arrow Studios International"
+      ],
+      "external_ids": {
+        "imdb_id": "tt3515512",
+        "freebase_mid": null,
+        "freebase_id": null,
+        "tvdb_id": 286193,
+        "tvrage_id": 40714,
+        "wikidata_id": "Q21072431",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [],
+      "status": "Ended",
+      "networks": [
+        "HBO Nordic"
+      ],
+      "created_by": [
+        {
+          "id": 137064,
+          "name": "Bobby Moresco",
+          "profile_path": "/5vaD8bwPyI8vBC6hwncrxVtl8ca.jpg"
+        }
+      ],
+      "number_of_seasons": 1,
+      "number_of_episodes": 12,
+      "cast": [
+        {
+          "name": "Michael Nyqvist",
+          "character": "Mikael Eklund",
+          "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+          "order": 0,
+          "id": 6283
+        },
+        {
+          "name": "Dominic Monaghan",
+          "character": "Tommy Conley",
+          "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+          "order": 1,
+          "id": 1330
+        },
+        {
+          "name": "Kristoffer Berglund",
+          "character": "Phille",
+          "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+          "order": 2,
+          "id": 1110917
+        },
+        {
+          "name": "Peter Eggers",
+          "character": "Göran",
+          "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+          "order": 3,
+          "id": 1016025
+        },
+        {
+          "name": "Hedda Stiernstedt",
+          "character": "Josephine",
+          "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+          "order": 4,
+          "id": 1374816
+        },
+        {
+          "name": "Roisin Murphy",
+          "character": "Maggie",
+          "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+          "order": 5,
+          "id": 208621
+        },
+        {
+          "name": "Anna Åström",
+          "character": "",
+          "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+          "order": 6,
+          "id": 1078910
+        }
+      ],
+      "crew": [
+        {
+          "name": "Jon Petersson",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 3780579,
+          "profile_path": "/9Gihh47ik5gk9m0kbLQlOfyQzpl.jpg"
+        }
+      ],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-21T02:54:41.852Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "overview": "",
+          "poster_path": "",
+          "poster": "",
+          "backdrop_path": "",
+          "air_date": "2015-03-06",
+          "vote_average": 6.2,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Michael Nyqvist",
+              "character": "Mikael Eklund",
+              "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+              "order": 0,
+              "id": 6283
+            },
+            {
+              "name": "Dominic Monaghan",
+              "character": "Tommy Conley",
+              "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+              "order": 1,
+              "id": 1330
+            },
+            {
+              "name": "Kristoffer Berglund",
+              "character": "Phille",
+              "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+              "order": 2,
+              "id": 1110917
+            },
+            {
+              "name": "Peter Eggers",
+              "character": "Göran",
+              "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+              "order": 3,
+              "id": 1016025
+            },
+            {
+              "name": "Hedda Stiernstedt",
+              "character": "Josephine",
+              "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+              "order": 4,
+              "id": 1374816
+            },
+            {
+              "name": "Roisin Murphy",
+              "character": "Maggie",
+              "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+              "order": 5,
+              "id": 208621
+            },
+            {
+              "name": "Anna Åström",
+              "character": "",
+              "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+              "order": 6,
+              "id": 1078910
+            }
+          ],
+          "crew": [
+            {
+              "name": "Jon Petersson",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 3780579,
+              "profile_path": "/9Gihh47ik5gk9m0kbLQlOfyQzpl.jpg"
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Piloto",
+              "original_name": "",
+              "air_date": "2015-03-06",
+              "runtime": 43,
+              "overview": "Nos últimos 12 meses, em Nova York, mulheres jovens e loiras, de olhos azuis, apareceram mortas em campos de asfódelos. O assassino desaparece, mas o detetive Tommy Conley continua atrás dele.",
+              "still_path": "/u0hZhp1TNO2NQDh78z3fyR5jAI6.jpg",
+              "vote_average": 6.6,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "Jason Furlani",
+                  "character": "Davis",
+                  "profile_path": "/bDFH7CAO13FUpHEtC8umkxo9wbi.jpg",
+                  "order": 500,
+                  "id": 1455760
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Michael Nyqvist",
+                  "character": "Mikael Eklund",
+                  "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+                  "order": 0,
+                  "id": 6283
+                },
+                {
+                  "name": "Dominic Monaghan",
+                  "character": "Tommy Conley",
+                  "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+                  "order": 1,
+                  "id": 1330
+                },
+                {
+                  "name": "Kristoffer Berglund",
+                  "character": "Phille",
+                  "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+                  "order": 2,
+                  "id": 1110917
+                },
+                {
+                  "name": "Peter Eggers",
+                  "character": "Göran",
+                  "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+                  "order": 3,
+                  "id": 1016025
+                },
+                {
+                  "name": "Hedda Stiernstedt",
+                  "character": "Josephine",
+                  "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+                  "order": 4,
+                  "id": 1374816
+                },
+                {
+                  "name": "Roisin Murphy",
+                  "character": "Maggie",
+                  "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+                  "order": 5,
+                  "id": 208621
+                },
+                {
+                  "name": "Anna Åström",
+                  "character": "",
+                  "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                  "order": 6,
+                  "id": 1078910
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt3904074",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDEubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Flowers in Hell",
+              "original_name": "",
+              "air_date": "2015-03-18",
+              "runtime": 43,
+              "overview": "Assombrado pelo passado e a morte da namorada Maggie, Conley dedica cada hora acordado a impedir que o assassino encontre suas vítimas.",
+              "still_path": "/nCvZqZmnlhcOwuXunHCenon09Qe.jpg",
+              "vote_average": 6,
+              "vote_count": 4,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Michael Nyqvist",
+                  "character": "Mikael Eklund",
+                  "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+                  "order": 0,
+                  "id": 6283
+                },
+                {
+                  "name": "Dominic Monaghan",
+                  "character": "Tommy Conley",
+                  "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+                  "order": 1,
+                  "id": 1330
+                },
+                {
+                  "name": "Kristoffer Berglund",
+                  "character": "Phille",
+                  "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+                  "order": 2,
+                  "id": 1110917
+                },
+                {
+                  "name": "Peter Eggers",
+                  "character": "Göran",
+                  "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+                  "order": 3,
+                  "id": 1016025
+                },
+                {
+                  "name": "Hedda Stiernstedt",
+                  "character": "Josephine",
+                  "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+                  "order": 4,
+                  "id": 1374816
+                },
+                {
+                  "name": "Roisin Murphy",
+                  "character": "Maggie",
+                  "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+                  "order": 5,
+                  "id": 208621
+                },
+                {
+                  "name": "Anna Åström",
+                  "character": "",
+                  "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                  "order": 6,
+                  "id": 1078910
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt3904084",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDIubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Down the Rabbit Hole",
+              "original_name": "",
+              "air_date": "2015-03-25",
+              "runtime": 43,
+              "overview": "A equipe e a polícia de Estocolmo vasculham o hospital e cercanias atrás do dentista fugitivo cuja profecia chocante de que haverá mais vítimas atormenta Eklund e Conley.",
+              "still_path": "/9SgLJ8XEgm8Ew3CeSeohychuaNO.jpg",
+              "vote_average": 6.2,
+              "vote_count": 3,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Michael Nyqvist",
+                  "character": "Mikael Eklund",
+                  "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+                  "order": 0,
+                  "id": 6283
+                },
+                {
+                  "name": "Dominic Monaghan",
+                  "character": "Tommy Conley",
+                  "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+                  "order": 1,
+                  "id": 1330
+                },
+                {
+                  "name": "Kristoffer Berglund",
+                  "character": "Phille",
+                  "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+                  "order": 2,
+                  "id": 1110917
+                },
+                {
+                  "name": "Peter Eggers",
+                  "character": "Göran",
+                  "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+                  "order": 3,
+                  "id": 1016025
+                },
+                {
+                  "name": "Hedda Stiernstedt",
+                  "character": "Josephine",
+                  "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+                  "order": 4,
+                  "id": 1374816
+                },
+                {
+                  "name": "Roisin Murphy",
+                  "character": "Maggie",
+                  "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+                  "order": 5,
+                  "id": 208621
+                },
+                {
+                  "name": "Anna Åström",
+                  "character": "",
+                  "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                  "order": 6,
+                  "id": 1078910
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt3904080",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDMubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "My Only Friend",
+              "original_name": "",
+              "air_date": "2015-04-01",
+              "runtime": 43,
+              "overview": "O especialista em T.I. Phille descobre uma sala de bate-papo na “Deep Web” chamada “Tentações” onde uma figura sinistra chamada L.H. parece estar recrutando assassinos on-line.",
+              "still_path": "/AonWr582HsVW8xSrEYdXH61lWwT.jpg",
+              "vote_average": 6.5,
+              "vote_count": 3,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Michael Nyqvist",
+                  "character": "Mikael Eklund",
+                  "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+                  "order": 0,
+                  "id": 6283
+                },
+                {
+                  "name": "Dominic Monaghan",
+                  "character": "Tommy Conley",
+                  "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+                  "order": 1,
+                  "id": 1330
+                },
+                {
+                  "name": "Kristoffer Berglund",
+                  "character": "Phille",
+                  "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+                  "order": 2,
+                  "id": 1110917
+                },
+                {
+                  "name": "Peter Eggers",
+                  "character": "Göran",
+                  "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+                  "order": 3,
+                  "id": 1016025
+                },
+                {
+                  "name": "Hedda Stiernstedt",
+                  "character": "Josephine",
+                  "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+                  "order": 4,
+                  "id": 1374816
+                },
+                {
+                  "name": "Roisin Murphy",
+                  "character": "Maggie",
+                  "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+                  "order": 5,
+                  "id": 208621
+                },
+                {
+                  "name": "Anna Åström",
+                  "character": "",
+                  "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                  "order": 6,
+                  "id": 1078910
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt4437314",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDQubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "The First Blush",
+              "original_name": "",
+              "air_date": "2015-04-08",
+              "runtime": 43,
+              "overview": "Seguindo a pista do assassino imitador, a equipe encontra outra ligação com L.H. e a sala de bate-papo “Tentações”.",
+              "still_path": "/LhTTzEQaAMmRKenCXNCjpot8Ds.jpg",
+              "vote_average": 6.5,
+              "vote_count": 3,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Michael Nyqvist",
+                  "character": "Mikael Eklund",
+                  "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+                  "order": 0,
+                  "id": 6283
+                },
+                {
+                  "name": "Dominic Monaghan",
+                  "character": "Tommy Conley",
+                  "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+                  "order": 1,
+                  "id": 1330
+                },
+                {
+                  "name": "Kristoffer Berglund",
+                  "character": "Phille",
+                  "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+                  "order": 2,
+                  "id": 1110917
+                },
+                {
+                  "name": "Peter Eggers",
+                  "character": "Göran",
+                  "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+                  "order": 3,
+                  "id": 1016025
+                },
+                {
+                  "name": "Hedda Stiernstedt",
+                  "character": "Josephine",
+                  "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+                  "order": 4,
+                  "id": 1374816
+                },
+                {
+                  "name": "Roisin Murphy",
+                  "character": "Maggie",
+                  "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+                  "order": 5,
+                  "id": 208621
+                },
+                {
+                  "name": "Anna Åström",
+                  "character": "",
+                  "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                  "order": 6,
+                  "id": 1078910
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt4437320",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDUubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "There Are No Heroes",
+              "original_name": "",
+              "air_date": "2015-04-15",
+              "runtime": 43,
+              "overview": "Conley é atormentado pelo passado. A namorada morta, Maggie, que era irmã de um conhecido traficante de drogas e armas que Conley tentara rastrear em Nova York, continua a assombrá-lo.",
+              "still_path": "/mCwyuRZYtSDYC7eBYil4DTI5JBv.jpg",
+              "vote_average": 5.8,
+              "vote_count": 3,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Michael Nyqvist",
+                  "character": "Mikael Eklund",
+                  "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+                  "order": 0,
+                  "id": 6283
+                },
+                {
+                  "name": "Dominic Monaghan",
+                  "character": "Tommy Conley",
+                  "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+                  "order": 1,
+                  "id": 1330
+                },
+                {
+                  "name": "Kristoffer Berglund",
+                  "character": "Phille",
+                  "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+                  "order": 2,
+                  "id": 1110917
+                },
+                {
+                  "name": "Peter Eggers",
+                  "character": "Göran",
+                  "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+                  "order": 3,
+                  "id": 1016025
+                },
+                {
+                  "name": "Hedda Stiernstedt",
+                  "character": "Josephine",
+                  "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+                  "order": 4,
+                  "id": 1374816
+                },
+                {
+                  "name": "Roisin Murphy",
+                  "character": "Maggie",
+                  "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+                  "order": 5,
+                  "id": 208621
+                },
+                {
+                  "name": "Anna Åström",
+                  "character": "",
+                  "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                  "order": 6,
+                  "id": 1078910
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt4057424",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDYubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "The Cop That Hugs",
+              "original_name": "",
+              "air_date": "2015-04-22",
+              "runtime": 43,
+              "overview": "Martin Lindstrom, um ex-policial frustrado que foi despedido injustamente, quer se vingar. Ele culpa a policia de Estocolmo de arruinar a vida dele e por vingança, provoca caos.",
+              "still_path": "/e6VIxjH45Rc1qEoXuL9j4KTPlSg.jpg",
+              "vote_average": 6.2,
+              "vote_count": 3,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Michael Nyqvist",
+                  "character": "Mikael Eklund",
+                  "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+                  "order": 0,
+                  "id": 6283
+                },
+                {
+                  "name": "Dominic Monaghan",
+                  "character": "Tommy Conley",
+                  "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+                  "order": 1,
+                  "id": 1330
+                },
+                {
+                  "name": "Kristoffer Berglund",
+                  "character": "Phille",
+                  "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+                  "order": 2,
+                  "id": 1110917
+                },
+                {
+                  "name": "Peter Eggers",
+                  "character": "Göran",
+                  "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+                  "order": 3,
+                  "id": 1016025
+                },
+                {
+                  "name": "Hedda Stiernstedt",
+                  "character": "Josephine",
+                  "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+                  "order": 4,
+                  "id": 1374816
+                },
+                {
+                  "name": "Roisin Murphy",
+                  "character": "Maggie",
+                  "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+                  "order": 5,
+                  "id": 208621
+                },
+                {
+                  "name": "Anna Åström",
+                  "character": "",
+                  "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                  "order": 6,
+                  "id": 1078910
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt4057426",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDcubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "Nobody Sleeps",
+              "original_name": "",
+              "air_date": "2015-04-29",
+              "runtime": 43,
+              "overview": "Hanna enfim revela o verdadeiro motivo por se ressentir do pai, é algo que a mãe lhe disse no leito de morte.",
+              "still_path": "/xhhcilZwspnuvwHFcKMfqqJxw91.jpg",
+              "vote_average": 6.2,
+              "vote_count": 3,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Michael Nyqvist",
+                  "character": "Mikael Eklund",
+                  "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+                  "order": 0,
+                  "id": 6283
+                },
+                {
+                  "name": "Dominic Monaghan",
+                  "character": "Tommy Conley",
+                  "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+                  "order": 1,
+                  "id": 1330
+                },
+                {
+                  "name": "Kristoffer Berglund",
+                  "character": "Phille",
+                  "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+                  "order": 2,
+                  "id": 1110917
+                },
+                {
+                  "name": "Peter Eggers",
+                  "character": "Göran",
+                  "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+                  "order": 3,
+                  "id": 1016025
+                },
+                {
+                  "name": "Hedda Stiernstedt",
+                  "character": "Josephine",
+                  "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+                  "order": 4,
+                  "id": 1374816
+                },
+                {
+                  "name": "Roisin Murphy",
+                  "character": "Maggie",
+                  "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+                  "order": 5,
+                  "id": 208621
+                },
+                {
+                  "name": "Anna Åström",
+                  "character": "",
+                  "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                  "order": 6,
+                  "id": 1078910
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt3959546",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDgubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 9,
+              "name": "The Deep Heart's Core",
+              "original_name": "",
+              "air_date": "2015-05-06",
+              "runtime": 43,
+              "overview": "Com o perfil falso na sala de bate-papo “Tentações”, Phille atrai L.H. Enquanto isso, um novo assassinato chama a atenção da equipe.",
+              "still_path": "/vKXbZjIM9FSrV5MDAAFVid8zm3y.jpg",
+              "vote_average": 5.8,
+              "vote_count": 2,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Michael Nyqvist",
+                  "character": "Mikael Eklund",
+                  "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+                  "order": 0,
+                  "id": 6283
+                },
+                {
+                  "name": "Dominic Monaghan",
+                  "character": "Tommy Conley",
+                  "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+                  "order": 1,
+                  "id": 1330
+                },
+                {
+                  "name": "Kristoffer Berglund",
+                  "character": "Phille",
+                  "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+                  "order": 2,
+                  "id": 1110917
+                },
+                {
+                  "name": "Peter Eggers",
+                  "character": "Göran",
+                  "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+                  "order": 3,
+                  "id": 1016025
+                },
+                {
+                  "name": "Hedda Stiernstedt",
+                  "character": "Josephine",
+                  "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+                  "order": 4,
+                  "id": 1374816
+                },
+                {
+                  "name": "Roisin Murphy",
+                  "character": "Maggie",
+                  "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+                  "order": 5,
+                  "id": 208621
+                },
+                {
+                  "name": "Anna Åström",
+                  "character": "",
+                  "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                  "order": 6,
+                  "id": 1078910
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt4161500",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMDkubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 10,
+              "name": "Secrets",
+              "original_name": "",
+              "air_date": "2015-05-13",
+              "runtime": 43,
+              "overview": "A equipe acha um container de borracha manchado com o sangue dela. Muito parecido com o que Göran tem no porta-malas quando apanha Hanna passa passarem um fim de semana no campo.",
+              "still_path": "/w0DsV7cl1ZEwG8tAL1uDGRHkbqd.jpg",
+              "vote_average": 6.5,
+              "vote_count": 3,
+              "guest_stars": [
+                {
+                  "name": "Jenny Hutton",
+                  "character": "Ella",
+                  "profile_path": "/dIoXF3n5HfUF0PnCqKAAgXKuFEF.jpg",
+                  "order": 501,
+                  "id": 1202064
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Michael Nyqvist",
+                  "character": "Mikael Eklund",
+                  "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+                  "order": 0,
+                  "id": 6283
+                },
+                {
+                  "name": "Dominic Monaghan",
+                  "character": "Tommy Conley",
+                  "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+                  "order": 1,
+                  "id": 1330
+                },
+                {
+                  "name": "Kristoffer Berglund",
+                  "character": "Phille",
+                  "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+                  "order": 2,
+                  "id": 1110917
+                },
+                {
+                  "name": "Peter Eggers",
+                  "character": "Göran",
+                  "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+                  "order": 3,
+                  "id": 1016025
+                },
+                {
+                  "name": "Hedda Stiernstedt",
+                  "character": "Josephine",
+                  "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+                  "order": 4,
+                  "id": 1374816
+                },
+                {
+                  "name": "Roisin Murphy",
+                  "character": "Maggie",
+                  "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+                  "order": 5,
+                  "id": 208621
+                },
+                {
+                  "name": "Anna Åström",
+                  "character": "",
+                  "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                  "order": 6,
+                  "id": 1078910
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt4032834",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMTAubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 11,
+              "name": "Still Loving After All",
+              "original_name": "",
+              "air_date": "2015-05-20",
+              "runtime": 43,
+              "overview": "Deitado na banheira entre a vida e a morte, Conley tem uma epifania. Ele lembra que as pinturas que viu no apartamento de Forsberg lembram as achadas na cabana de Andrej.",
+              "still_path": "/zOeZB4Hku3RevVDbCxS1wjmVVyz.jpg",
+              "vote_average": 6.2,
+              "vote_count": 3,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Michael Nyqvist",
+                  "character": "Mikael Eklund",
+                  "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+                  "order": 0,
+                  "id": 6283
+                },
+                {
+                  "name": "Dominic Monaghan",
+                  "character": "Tommy Conley",
+                  "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+                  "order": 1,
+                  "id": 1330
+                },
+                {
+                  "name": "Kristoffer Berglund",
+                  "character": "Phille",
+                  "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+                  "order": 2,
+                  "id": 1110917
+                },
+                {
+                  "name": "Peter Eggers",
+                  "character": "Göran",
+                  "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+                  "order": 3,
+                  "id": 1016025
+                },
+                {
+                  "name": "Hedda Stiernstedt",
+                  "character": "Josephine",
+                  "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+                  "order": 4,
+                  "id": 1374816
+                },
+                {
+                  "name": "Roisin Murphy",
+                  "character": "Maggie",
+                  "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+                  "order": 5,
+                  "id": 208621
+                },
+                {
+                  "name": "Anna Åström",
+                  "character": "",
+                  "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                  "order": 6,
+                  "id": 1078910
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt4217236",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMTEubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 12,
+              "name": "Everytime You Think You're Winning",
+              "original_name": "",
+              "air_date": "2015-05-27",
+              "runtime": 43,
+              "overview": "Colocando a vida do parceiro acima da prisão de Forsberg, Conley mergulha na água e luta pela vida de Eklund.",
+              "still_path": "/wQeobJxKUd3qrdyTopfaPCFRYmW.jpg",
+              "vote_average": 5.8,
+              "vote_count": 3,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Michael Nyqvist",
+                  "character": "Mikael Eklund",
+                  "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+                  "order": 0,
+                  "id": 6283
+                },
+                {
+                  "name": "Dominic Monaghan",
+                  "character": "Tommy Conley",
+                  "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+                  "order": 1,
+                  "id": 1330
+                },
+                {
+                  "name": "Kristoffer Berglund",
+                  "character": "Phille",
+                  "profile_path": "/pXNmpRKVC5etsVxt5UR682EYwyN.jpg",
+                  "order": 2,
+                  "id": 1110917
+                },
+                {
+                  "name": "Peter Eggers",
+                  "character": "Göran",
+                  "profile_path": "/3Dt2L82P140PgIccGi3KwdaJFE9.jpg",
+                  "order": 3,
+                  "id": 1016025
+                },
+                {
+                  "name": "Hedda Stiernstedt",
+                  "character": "Josephine",
+                  "profile_path": "/9CAh5bMXdYs35c8pxkuHjROzOOa.jpg",
+                  "order": 4,
+                  "id": 1374816
+                },
+                {
+                  "name": "Roisin Murphy",
+                  "character": "Maggie",
+                  "profile_path": "/29BykMWPEOed3Hzmfaxie5hwTxW.jpg",
+                  "order": 5,
+                  "id": 208621
+                },
+                {
+                  "name": "Anna Åström",
+                  "character": "",
+                  "profile_path": "/hJ3ZBJeuDqASyyIG6IEHMAOUB9q.jpg",
+                  "order": 6,
+                  "id": 1078910
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt4217238",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvNjIxNDYtMDEtMTIubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
