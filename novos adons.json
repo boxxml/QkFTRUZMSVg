@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "name": "[COLOR green]KodiLoucos [COLORgold] Brasil[/COLOR]",
+    "type": "plugin",
+    "version": "1.2.7",
+    "description": "[COLOR lime]KodiLoucos Brasil é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR]",
+    "icon": "",
+    "fanart": "",
+    "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.kodiloucos_brasil-1.2.7.zip",
+    "dependencies": [
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/plugin.video.resolverurl.player.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/resource.language.pt_br-11.0.110.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.beautifulsoup4-4.12.2.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.certifi-2023.5.7.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.chardet-5.1.0.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.idna-3.10.0.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.kodi-six-0.1.3.1.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.pyqrcode-1.2.1.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.requests-2.31.0.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.resolveurl-5.1.214.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.simplejson-3.19.1.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.six-1.16.0.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.soupsieve-2.4.1.zip",
+      "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/addons/script.module.urllib3-2.2.3.zip"
+    ]
+  }
+]
