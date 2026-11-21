@@ -20682,6 +20682,2910 @@
           ]
         }
       ]
+    },
+    {
+      "type": "tv",
+      "title": "A Nova Super Máquina",
+      "original_title": "Knight Rider",
+      "tmdb_id": "15655",
+      "id": 15655,
+      "year": "2008",
+      "release_date": "2008-09-24",
+      "overview": "\"A Nova Super Máquina\" é uma versão moderna do clássico dos anos 1980 chamada “A Super Máquina”. Este seriado mostra o filho de Michael Knight, que utilizando o K.I.T.T., o carro mais descolado de todos os tempos, luta contra o crime. A clássica série de velocidade e ação está de volta com mais adrenalina do que nunca. Embarque nas novas aventuras a bordo de um K.I.T.T. modernizado e aperte os cintos nessa corrida contra o crime.",
+      "tagline": "Um ícone renascido.",
+      "poster": "/oV8C2rFIiQCU0dEE4NbB80czIgk.jpg",
+      "backdrop": "/vh2ZS4Aome8klUyJH5whPnZbSZe.jpg",
+      "vote_average": 7.491,
+      "vote_count": 696,
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Crime"
+      ],
+      "runtime": 0,
+      "certification": "12",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "Dutch Oven",
+        "Universal Media Studios",
+        "Gary Scott Thompson Productions"
+      ],
+      "external_ids": {
+        "imdb_id": "tt1213404",
+        "freebase_mid": "/m/041104g",
+        "freebase_id": null,
+        "tvdb_id": 81318,
+        "tvrage_id": 17501,
+        "wikidata_id": "Q838372",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [],
+      "status": "Canceled",
+      "networks": [
+        "NBC"
+      ],
+      "created_by": [
+        {
+          "id": 227330,
+          "name": "Glen A. Larson",
+          "profile_path": "/pGR6aRtBDuj1MRH06NyjhTGuB98.jpg"
+        }
+      ],
+      "number_of_seasons": 1,
+      "number_of_episodes": 17,
+      "cast": [
+        {
+          "name": "Justin Bruening",
+          "character": "Michael Knight",
+          "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+          "order": 0,
+          "id": 169279
+        },
+        {
+          "name": "Deanna Russo",
+          "character": "Sarah Graiman",
+          "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+          "order": 1,
+          "id": 59819
+        },
+        {
+          "name": "Bruce Davison",
+          "character": "Charles Graiman",
+          "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+          "order": 2,
+          "id": 52374
+        },
+        {
+          "name": "Sydney Tamiia Poitier",
+          "character": "Carrie Rivai",
+          "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+          "order": 3,
+          "id": 20493
+        },
+        {
+          "name": "Yancey Arias",
+          "character": "Alex Torres",
+          "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+          "order": 4,
+          "id": 21049
+        },
+        {
+          "name": "Paul Campbell",
+          "character": "Billy Morgan",
+          "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+          "order": 5,
+          "id": 62909
+        },
+        {
+          "name": "Smith Cho",
+          "character": "Zoe Chae",
+          "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+          "order": 6,
+          "id": 129142
+        },
+        {
+          "name": "Val Kilmer",
+          "character": "KITT (voice)",
+          "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+          "order": 7,
+          "id": 5576
+        }
+      ],
+      "crew": [
+        {
+          "name": "Monica Macer",
+          "job": "Executive Story Editor",
+          "department": "Writing",
+          "id": 134175,
+          "profile_path": ""
+        },
+        {
+          "name": "Erika Schleich",
+          "job": "Script Coordinator",
+          "department": "Directing",
+          "id": 3652885,
+          "profile_path": ""
+        },
+        {
+          "name": "Matt Pyken",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1224195,
+          "profile_path": ""
+        },
+        {
+          "name": "Dave Bartis",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 63268,
+          "profile_path": ""
+        },
+        {
+          "name": "Doug Liman",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 11694,
+          "profile_path": "/5pPcmwI7GMZ45CyrYLJ3n0IXm6e.jpg"
+        },
+        {
+          "name": "Gary Scott Thompson",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 8162,
+          "profile_path": "/e2dMfqFvRsOXgWZ1VToYLmos17y.jpg"
+        },
+        {
+          "name": "Glen A. Larson",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 227330,
+          "profile_path": "/pGR6aRtBDuj1MRH06NyjhTGuB98.jpg"
+        },
+        {
+          "name": "Rob Wright",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 1218135,
+          "profile_path": ""
+        },
+        {
+          "name": "Dave Andron",
+          "job": "Supervising Producer",
+          "department": "Production",
+          "id": 1192876,
+          "profile_path": "/AaHw5bY8oov5RqbMjsaEAn73fVj.jpg"
+        },
+        {
+          "name": "Sean Ryerson",
+          "job": "Supervising Producer",
+          "department": "Production",
+          "id": 19677,
+          "profile_path": ""
+        },
+        {
+          "name": "Julie Herlocker",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 1806716,
+          "profile_path": ""
+        },
+        {
+          "name": "Christopher Tyng",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 68126,
+          "profile_path": ""
+        },
+        {
+          "name": "Jennifer Lare",
+          "job": "Casting",
+          "department": "Production",
+          "id": 1823387,
+          "profile_path": ""
+        },
+        {
+          "name": "Cami Patton",
+          "job": "Casting",
+          "department": "Production",
+          "id": 63533,
+          "profile_path": ""
+        },
+        {
+          "name": "Richard Toyon",
+          "job": "Production Design",
+          "department": "Art",
+          "id": 1446658,
+          "profile_path": "/lXr40YfvHvNYKPTn3BRwYRgcOEb.jpg"
+        },
+        {
+          "name": "Kevin Constant",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 16467,
+          "profile_path": ""
+        },
+        {
+          "name": "Lisa Alkofer",
+          "job": "Set Decoration",
+          "department": "Art",
+          "id": 1640479,
+          "profile_path": ""
+        },
+        {
+          "name": "Jennifer Bryan",
+          "job": "Costume Design",
+          "department": "Costume & Make-Up",
+          "id": 1537674,
+          "profile_path": "/oA5QovyVfEG0SUIs0DIhGsriyok.jpg"
+        },
+        {
+          "name": "Pam Phillips",
+          "job": "Makeup Department Head",
+          "department": "Costume & Make-Up",
+          "id": 24511,
+          "profile_path": ""
+        },
+        {
+          "name": "Maggie Hayes-Jackson",
+          "job": "Hair Department Head",
+          "department": "Costume & Make-Up",
+          "id": 1425812,
+          "profile_path": ""
+        }
+      ],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-21T00:21:22.830Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "overview": "Nesta reinvenção do \"hit cult\" dos anos 80, o filho de Michael Knight, Mike Traceur, é recrutado para proteger a KITT - um super computador inteligente disfarçado como um elegante Ford Mustang.",
+          "poster_path": "/4Bp75GGHqdyBrj2Ft7i2reb0Hif.jpg",
+          "poster": "/4Bp75GGHqdyBrj2Ft7i2reb0Hif.jpg",
+          "backdrop_path": "",
+          "air_date": "2008-09-24",
+          "vote_average": 6.2,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Justin Bruening",
+              "character": "Michael Knight",
+              "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+              "order": 0,
+              "id": 169279
+            },
+            {
+              "name": "Deanna Russo",
+              "character": "Sarah Graiman",
+              "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+              "order": 1,
+              "id": 59819
+            },
+            {
+              "name": "Bruce Davison",
+              "character": "Charles Graiman",
+              "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+              "order": 2,
+              "id": 52374
+            },
+            {
+              "name": "Sydney Tamiia Poitier",
+              "character": "Carrie Rivai",
+              "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+              "order": 3,
+              "id": 20493
+            },
+            {
+              "name": "Yancey Arias",
+              "character": "Alex Torres",
+              "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+              "order": 4,
+              "id": 21049
+            },
+            {
+              "name": "Paul Campbell",
+              "character": "Billy Morgan",
+              "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+              "order": 5,
+              "id": 62909
+            },
+            {
+              "name": "Smith Cho",
+              "character": "Zoe Chae",
+              "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+              "order": 6,
+              "id": 129142
+            },
+            {
+              "name": "Val Kilmer",
+              "character": "KITT (voice)",
+              "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+              "order": 7,
+              "id": 5576
+            }
+          ],
+          "crew": [
+            {
+              "name": "Monica Macer",
+              "job": "Executive Story Editor",
+              "department": "Writing",
+              "id": 134175,
+              "profile_path": ""
+            },
+            {
+              "name": "Erika Schleich",
+              "job": "Script Coordinator",
+              "department": "Directing",
+              "id": 3652885,
+              "profile_path": ""
+            },
+            {
+              "name": "Matt Pyken",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1224195,
+              "profile_path": ""
+            },
+            {
+              "name": "Dave Bartis",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 63268,
+              "profile_path": ""
+            },
+            {
+              "name": "Doug Liman",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 11694,
+              "profile_path": "/5pPcmwI7GMZ45CyrYLJ3n0IXm6e.jpg"
+            },
+            {
+              "name": "Gary Scott Thompson",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 8162,
+              "profile_path": "/e2dMfqFvRsOXgWZ1VToYLmos17y.jpg"
+            },
+            {
+              "name": "Glen A. Larson",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 227330,
+              "profile_path": "/pGR6aRtBDuj1MRH06NyjhTGuB98.jpg"
+            },
+            {
+              "name": "Rob Wright",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1218135,
+              "profile_path": ""
+            },
+            {
+              "name": "Dave Andron",
+              "job": "Supervising Producer",
+              "department": "Production",
+              "id": 1192876,
+              "profile_path": "/AaHw5bY8oov5RqbMjsaEAn73fVj.jpg"
+            },
+            {
+              "name": "Sean Ryerson",
+              "job": "Supervising Producer",
+              "department": "Production",
+              "id": 19677,
+              "profile_path": ""
+            },
+            {
+              "name": "Julie Herlocker",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 1806716,
+              "profile_path": ""
+            },
+            {
+              "name": "Christopher Tyng",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 68126,
+              "profile_path": ""
+            },
+            {
+              "name": "Jennifer Lare",
+              "job": "Casting",
+              "department": "Production",
+              "id": 1823387,
+              "profile_path": ""
+            },
+            {
+              "name": "Cami Patton",
+              "job": "Casting",
+              "department": "Production",
+              "id": 63533,
+              "profile_path": ""
+            },
+            {
+              "name": "Richard Toyon",
+              "job": "Production Design",
+              "department": "Art",
+              "id": 1446658,
+              "profile_path": "/lXr40YfvHvNYKPTn3BRwYRgcOEb.jpg"
+            },
+            {
+              "name": "Kevin Constant",
+              "job": "Art Direction",
+              "department": "Art",
+              "id": 16467,
+              "profile_path": ""
+            },
+            {
+              "name": "Lisa Alkofer",
+              "job": "Set Decoration",
+              "department": "Art",
+              "id": 1640479,
+              "profile_path": ""
+            },
+            {
+              "name": "Jennifer Bryan",
+              "job": "Costume Design",
+              "department": "Costume & Make-Up",
+              "id": 1537674,
+              "profile_path": "/oA5QovyVfEG0SUIs0DIhGsriyok.jpg"
+            },
+            {
+              "name": "Pam Phillips",
+              "job": "Makeup Department Head",
+              "department": "Costume & Make-Up",
+              "id": 24511,
+              "profile_path": ""
+            },
+            {
+              "name": "Maggie Hayes-Jackson",
+              "job": "Hair Department Head",
+              "department": "Costume & Make-Up",
+              "id": 1425812,
+              "profile_path": ""
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Cavaleiro Encantado",
+              "original_name": "",
+              "air_date": "2008-09-24",
+              "runtime": 43,
+              "overview": "A missão de Mike e KITT parece uma simples entrega. Mas, tudo se complica quando uma mulher do passado de Mike sequestra um homem que carrega em seu DNA a chave para um código cobiçado.",
+              "still_path": "/ob4FHSCWwkzrHAkKSECFaH719Ms.jpg",
+              "vote_average": 7,
+              "vote_count": 7,
+              "guest_stars": [
+                {
+                  "name": "Paula Garcés",
+                  "character": "Kelli Haddigan",
+                  "profile_path": "/ukwCVnfSp5qYGbdXHVeCwOXiZyu.jpg",
+                  "order": 502,
+                  "id": 21124
+                },
+                {
+                  "name": "Mark Adair-Rios",
+                  "character": "",
+                  "profile_path": "/5RC49TiV8KhHeRUWIBGgR8t933O.jpg",
+                  "order": 503,
+                  "id": 4511
+                },
+                {
+                  "name": "Yorgo Constantine",
+                  "character": "",
+                  "profile_path": "/tEs4rST3zhVrPV0g5Px2ExHSsw4.jpg",
+                  "order": 504,
+                  "id": 21051
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Glen A. Larson",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 227330,
+                  "profile_path": "/pGR6aRtBDuj1MRH06NyjhTGuB98.jpg"
+                },
+                {
+                  "name": "David Andron",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1564693,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Andron",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1564694,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Solomon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1222761,
+                  "profile_path": "/xoiTCDv44cDMmUfkPlbuTPx2Rsr.jpg"
+                },
+                {
+                  "name": "Holly Jeter",
+                  "job": "Art Department Coordinator",
+                  "department": "Art",
+                  "id": 2144530,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Gary Scott Thompson",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 8162,
+                  "profile_path": "/e2dMfqFvRsOXgWZ1VToYLmos17y.jpg"
+                },
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Peter Basinski",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 2617321,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ray Daniels III",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1546366,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Lebowitz",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 3184456,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1236283",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 352700,
+                "tvrage_id": 0,
+                "wikidata_id": "Q12050506"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMDEubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Jornada até o Fim da Noite",
+              "original_name": "",
+              "air_date": "2008-10-01",
+              "runtime": 44,
+              "overview": "Mike busca a ajuda de um antigo companheiro do exército para desarticular uma gangue de pilotos envolvida com tráfico internacional de armas. Apesar da reprovação do pai, Sarah se junta a Mike e KITT na missão.",
+              "still_path": "/vTFET8Ol9uN9CeOOLyDA4ZEPeff.jpg",
+              "vote_average": 5,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "Johnny Messner",
+                  "character": "",
+                  "profile_path": "/1TL83UaGFeBg0Se3h9r066VcHjo.jpg",
+                  "order": 505,
+                  "id": 21798
+                },
+                {
+                  "name": "Sung Kang",
+                  "character": "",
+                  "profile_path": "/ox4ti0WmpJoN19n3iYJ2T2vHP5f.jpg",
+                  "order": 506,
+                  "id": 61697
+                },
+                {
+                  "name": "Karl Yune",
+                  "character": "",
+                  "profile_path": "/4GI4p5aPfW0vI20IdJOcxD5BEqr.jpg",
+                  "order": 507,
+                  "id": 19860
+                },
+                {
+                  "name": "Kristina Anapau",
+                  "character": "",
+                  "profile_path": "/70yrpNKrjCNYCYADKWVsr9XbtyV.jpg",
+                  "order": 508,
+                  "id": 43443
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "David Straiton",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1215383,
+                  "profile_path": "/lYuNsYSpGNeEf2enIgyiQWQD7fB.jpg"
+                },
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Lebowitz",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 3184456,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Philip Levens",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1236381,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1236288",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 388871,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMDIubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Noite da Iguana",
+              "original_name": "",
+              "air_date": "2008-10-08",
+              "runtime": 43,
+              "overview": "Mike e Zoe fingem ser um casal em lua de mel no México para impedir que armas de terroristas entrem nos Estados Unidos. Sarah e Billy se juntam à equipe e a missão tem desdobramentos inesperados.",
+              "still_path": "/1uwYyGfu0s5ExghQ2476shtjjR9.jpg",
+              "vote_average": 5.8,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "Johann Urb",
+                  "character": "",
+                  "profile_path": "/odqA3smkYm5C02GEjdrrgZ5qYEU.jpg",
+                  "order": 509,
+                  "id": 101017
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Bryan Spicer",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 42111,
+                  "profile_path": "/dFW8saFuGyJUKI6JPueLoDHiWEs.jpg"
+                },
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ray Daniels III",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1546366,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Rob Wright",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1218135,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1236287",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 388872,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMDMubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Trabalhando Duro",
+              "original_name": "",
+              "air_date": "2008-10-15",
+              "runtime": 43,
+              "overview": "Mike e KITT precisam correr a uma velocidade acima de 100 km por hora para evitar que uma bomba exploda. Enquanto isso, a SSC trabalha para desarmar a bomba e encontrar o criminoso e seu refém. Enquanto isso, uma mulher do passado de Mike retorna.",
+              "still_path": "/gpBW5ihlPBpq2IYUwi8oV5fppkz.jpg",
+              "vote_average": 6.2,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "Erich Anderson",
+                  "character": "",
+                  "profile_path": "/hb89TAid82AM8MJLZEQ70WWISNv.jpg",
+                  "order": 510,
+                  "id": 58813
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Allan Kroeker",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1215364,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Dave Andron",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1192876,
+                  "profile_path": "/AaHw5bY8oov5RqbMjsaEAn73fVj.jpg"
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1236290",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 393883,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMDQubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "A Noite da Caça",
+              "original_name": "",
+              "air_date": "2008-10-22",
+              "runtime": 44,
+              "overview": "Mike precisa impedir que um ex-oficial do Exército destrua uma barreira, e, para isso, conta com a ajuda de uma nova amiga. Billy aprende a tomar conta de si mesmo.",
+              "still_path": "/5XXExW2q88K926gYlDeJvjI8EF9.jpg",
+              "vote_average": 6.8,
+              "vote_count": 5,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Lebowitz",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 3184456,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jay Chandrasekhar",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 52049,
+                  "profile_path": "/kPBrBwm6BzUZhYPzdYcRwMPkgPf.jpg"
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1236293",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 393884,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMDUubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "A Noite dos Mortos Vivos",
+              "original_name": "",
+              "air_date": "2008-11-05",
+              "runtime": 43,
+              "overview": "No dia de Halloween, um técnico é assassinado nas instalações das indústrias Knight; enquanto Mike e Sarah estão presos em um voo por causa de uma tempestade, eles tentam evitar que KITT se autodestrua.",
+              "still_path": "/w8lMVUmFbmksbz7gv8y3A8nOYvJ.jpg",
+              "vote_average": 6,
+              "vote_count": 5,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Gary Scott Thompson",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 8162,
+                  "profile_path": "/e2dMfqFvRsOXgWZ1VToYLmos17y.jpg"
+                },
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ray Daniels III",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1546366,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Leslie Libman",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 155598,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1236286",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 393885,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMDYubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "Rock & Roll a Noite Toda",
+              "original_name": "",
+              "air_date": "2008-11-12",
+              "runtime": 43,
+              "overview": "A Indústrias Knight está atrás de um casal de criminosos que ameaça revelar seus segredos e descobre que os dois estão ligados à disputa para o Congresso Nacional. Enquanto tudo se complica, Mike e KITT precisam salvar a agente Rivai.",
+              "still_path": "/msGEGbgFMZ7OAzBMOFmtD1YHdMM.jpg",
+              "vote_average": 6.6,
+              "vote_count": 5,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Chris G. Willingham",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 25862,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Rachel Mellon",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 6159322,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Matt Earl Beesley",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 173957,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Teresa Huang",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1456297,
+                  "profile_path": "/dXtaGxo1sumj0ZBZKir3kBgDZZg.jpg"
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1236292",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 393886,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMDcubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "A Noite do Zodíaco",
+              "original_name": "",
+              "air_date": "2008-11-19",
+              "runtime": 44,
+              "overview": "A equipe tenta desbancar uma operação de lavagem de dinheiro em Las Vegas. Billy junta-se à missão e descobre que está sendo deixado para trás em outras investigações; Dr. Graiman reencontra uma antiga paixão.",
+              "still_path": "/aEFmhYrLWELWMZOos9CFQX08vU0.jpg",
+              "vote_average": 6.2,
+              "vote_count": 5,
+              "guest_stars": [
+                {
+                  "name": "Cory Tyler",
+                  "character": "Valet",
+                  "profile_path": "/ipB2MZSBsPsqGirpzDFTc2aMmUT.jpg",
+                  "order": 501,
+                  "id": 1213336
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Matt Pyken",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1224195,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "J. Miller Tobin",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 75631,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Benjamin D. Stokes",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1316707,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1236294",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 393887,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMDgubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 9,
+              "name": "Febre Noturna",
+              "original_name": "",
+              "air_date": "2008-12-31",
+              "runtime": 43,
+              "overview": "Kitt é vítima de um vírus de computador que ameaça causar confusão em escala global. O ciúme de Mike aumenta quando Sarah volta a ter contato com um amor do passado.",
+              "still_path": "/vohEk2jC2qWrZuA3PM5bt1foJYr.jpg",
+              "vote_average": 6.2,
+              "vote_count": 5,
+              "guest_stars": [
+                {
+                  "name": "Jeffrey Pierce",
+                  "character": "Ryan Arrow",
+                  "profile_path": "/jvBxRML1PcV0Kuoj3cOckEhvryH.jpg",
+                  "order": 512,
+                  "id": 82821
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Matt Pyken",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1224195,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ray Daniels III",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1546366,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Milan Cheylov",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 166447,
+                  "profile_path": "/bEw8P5gniVmpt1RgUHbZxfgzrKK.jpg"
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1236291",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 393888,
+                "tvrage_id": 0,
+                "wikidata_id": "Q12027628"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMDkubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 10,
+              "name": "A Noite Nunca Termina",
+              "original_name": "",
+              "air_date": "2009-01-07",
+              "runtime": 42,
+              "overview": "Um grupo terrorista sequestra uma embaixadora estrangeira, e KITT e Michael são enviados ao resgate. Dr. Graiman e Sarah se juntam para consertar um robô danificado.",
+              "still_path": "/wgC3TWEsX7rgXvg4vgUWkRS7RDa.jpg",
+              "vote_average": 6.6,
+              "vote_count": 5,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Bryan Spicer",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 42111,
+                  "profile_path": "/dFW8saFuGyJUKI6JPueLoDHiWEs.jpg"
+                },
+                {
+                  "name": "Chris G. Willingham",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 25862,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Rob Wright",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1218135,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1308478",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 413027,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMTAubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 11,
+              "name": "A Noite Vira Dia",
+              "original_name": "",
+              "air_date": "2009-01-14",
+              "runtime": 44,
+              "overview": "Mike e KITT devem correr em uma velocidade acima de 100 km/h para evitar que uma bomba exploda. Enquanto isso, a SSC trabalha para desarmar a bomba e encontrar o criminoso e seu refém.",
+              "still_path": "/oet69nWoVHjW9WbJ8YqkRDHDR46.jpg",
+              "vote_average": 6.2,
+              "vote_count": 4,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Allan Kroeker",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1215364,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Lebowitz",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 3184456,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Dave Andron",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1192876,
+                  "profile_path": "/AaHw5bY8oov5RqbMjsaEAn73fVj.jpg"
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1236285",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 414356,
+                "tvrage_id": 0,
+                "wikidata_id": "Q12050791"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMTEubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 12,
+              "name": "Cavalo Contra o Peão do Rei",
+              "original_name": "",
+              "air_date": "2009-01-21",
+              "runtime": 44,
+              "overview": "Abalada com a morte do pai, Sarah decide sair da cidade. Mike parte em busca de Sarah e descobre respostas sobre seu próprio passado. Com Dr. Graiman morto, a NSA decide reativar KAAR, adversário de KITT.",
+              "still_path": "/rQlo75KLHVUibspfhDTjhZihkcP.jpg",
+              "vote_average": 5,
+              "vote_count": 5,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ray Daniels III",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1546366,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jeffrey G. Hunt",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 204608,
+                  "profile_path": "/aHTLM6W5ygawxPdKL9PtrsUWHp7.jpg"
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1236284",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 414357,
+                "tvrage_id": 0,
+                "wikidata_id": "Q12055370"
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMTIubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 13,
+              "name": "Sem Saída",
+              "original_name": "",
+              "air_date": "2009-01-28",
+              "runtime": 44,
+              "overview": "Mike tenta impedir um assalto a banco, mas torna-se refém; Mike não pode se comunicar com KITT e sua equipe, e tenta fazer com que outro refém o ajude a evitar a fuga dos assaltantes.",
+              "still_path": "/EchQLIS9iU9gJqDZCSRwZtQapl.jpg",
+              "vote_average": 6.8,
+              "vote_count": 5,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Gary Scott Thompson",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 8162,
+                  "profile_path": "/e2dMfqFvRsOXgWZ1VToYLmos17y.jpg"
+                },
+                {
+                  "name": "David Lebowitz",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 3184456,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Gary Scott Thompson",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 8162,
+                  "profile_path": "/e2dMfqFvRsOXgWZ1VToYLmos17y.jpg"
+                },
+                {
+                  "name": "Kris Krosskove",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1537471,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1363387",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 414358,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMTMubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 14,
+              "name": "Noite da Luta",
+              "original_name": "",
+              "air_date": "2009-02-04",
+              "runtime": 43,
+              "overview": "Quando um velho amigo de Mike é morto, o piloto da Kitt e um de seus companheiros começam a investigar o que aconteceu. Eles descobrem que o falecido fazia parte de um clube de luta e Mike acaba entrando no clube para pegar pistas.",
+              "still_path": "/nT0FhPssESP4M4qazMVHSpteQsy.jpg",
+              "vote_average": 6.4,
+              "vote_count": 5,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Ray Daniels III",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1546366,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Rob Wright",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1218135,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Kris Krosskove",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1537471,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Nick Gomez",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 17278,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1363388",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 414359,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMTQubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 15,
+              "name": "Encenando um Acidente",
+              "original_name": "",
+              "air_date": "2009-02-11",
+              "runtime": 43,
+              "overview": "Mike tenta ajudar a agente do departamento antidrogas americano Jessie Renning na aparente queda de um avião que transportava uma importante testemunha de apenas 10 anos de idade.",
+              "still_path": "/suKE5R3PrX7yQM6TbbdJjXSNOX7.jpg",
+              "vote_average": 6.4,
+              "vote_count": 5,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Chris G. Willingham",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 25862,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Dave Andron",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1192876,
+                  "profile_path": "/AaHw5bY8oov5RqbMjsaEAn73fVj.jpg"
+                },
+                {
+                  "name": "Jay Chandrasekhar",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 52049,
+                  "profile_path": "/kPBrBwm6BzUZhYPzdYcRwMPkgPf.jpg"
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1363389",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 414360,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMTUubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 16,
+              "name": "Cidade Noturna",
+              "original_name": "",
+              "air_date": "2009-02-18",
+              "runtime": 44,
+              "overview": "Mike investiga a morte prematura de um velho amigo e descobre que seu bar agora é frequentado por delinquentes e a filha dele, Julie, está tomando conta do negócio.",
+              "still_path": "/fRnZ29iaejkfP3nDgSqzdecxb6m.jpg",
+              "vote_average": 6.8,
+              "vote_count": 5,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Matt Pyken",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1224195,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jamie Barber",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 118867,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Lebowitz",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 3184456,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Guy Norman Bee",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 130533,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1363390",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 414361,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMTYubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 17,
+              "name": "Eu Amo a Vida Noturna",
+              "original_name": "",
+              "air_date": "2009-03-04",
+              "runtime": 43,
+              "overview": "Mike e KITT recebem a missão de tentar localizar um soro que foi roubado e que tem o poder de aumentar a força de quem o toma; Sarah se sente esgotada por causa de suas novas tarefas.",
+              "still_path": "/bDL43GrV6iI0I4MQwiWmHyTcgZo.jpg",
+              "vote_average": 6,
+              "vote_count": 5,
+              "guest_stars": [
+                {
+                  "name": "Kevin Alejandro",
+                  "character": "Victor Galt",
+                  "profile_path": "/bh4aQqP7kJzL2Ls9tj5OmhsBlqi.jpg",
+                  "order": 511,
+                  "id": 116474
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Justin Bruening",
+                  "character": "Michael Knight",
+                  "profile_path": "/49YEErlCONTQOP5mJGNn5M04xS0.jpg",
+                  "order": 0,
+                  "id": 169279
+                },
+                {
+                  "name": "Deanna Russo",
+                  "character": "Sarah Graiman",
+                  "profile_path": "/33wC4nLh0uA2ErhkHTldRpA73sM.jpg",
+                  "order": 1,
+                  "id": 59819
+                },
+                {
+                  "name": "Bruce Davison",
+                  "character": "Charles Graiman",
+                  "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                  "order": 2,
+                  "id": 52374
+                },
+                {
+                  "name": "Sydney Tamiia Poitier",
+                  "character": "Carrie Rivai",
+                  "profile_path": "/p3AWANvC7w49CWYeJRsaHsALv6C.jpg",
+                  "order": 3,
+                  "id": 20493
+                },
+                {
+                  "name": "Yancey Arias",
+                  "character": "Alex Torres",
+                  "profile_path": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg",
+                  "order": 4,
+                  "id": 21049
+                },
+                {
+                  "name": "Paul Campbell",
+                  "character": "Billy Morgan",
+                  "profile_path": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg",
+                  "order": 5,
+                  "id": 62909
+                },
+                {
+                  "name": "Smith Cho",
+                  "character": "Zoe Chae",
+                  "profile_path": "/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg",
+                  "order": 6,
+                  "id": 129142
+                },
+                {
+                  "name": "Val Kilmer",
+                  "character": "KITT (voice)",
+                  "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg",
+                  "order": 7,
+                  "id": 5576
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Chris G. Willingham",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 25862,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Philip Levens",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1236381,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Kris Krosskove",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1537471,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Alex Zakrzewski",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1218785,
+                  "profile_path": "/10GE6tUYXEY3oE2j9uBRiSYkJ1U.jpg"
+                },
+                {
+                  "name": "Patrick Massett",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20505,
+                  "profile_path": "/ln8HyFKlRT8AAs9HMD2PO4e6NNv.jpg"
+                },
+                {
+                  "name": "John Zinman",
+                  "job": "Consulting Producer",
+                  "department": "Production",
+                  "id": 20506,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sara Fischer",
+                  "job": "Co-Producer",
+                  "department": "Production",
+                  "id": 3460823,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt1347794",
+                "freebase_mid": "",
+                "freebase_id": null,
+                "tvdb_id": 414362,
+                "tvrage_id": 0,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMTU2NTUtMDEtMTcubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
