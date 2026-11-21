@@ -225040,6 +225040,830 @@
           "profile_path": "/5aM6XChsoDfLsPSks8Sw3XFqeUC.jpg"
         }
       ]
+    },
+    {
+      "type": "movie",
+      "title": "Um Clássico de Natal",
+      "original_title": "The Christmas Classic",
+      "tmdb_id": "1128959",
+      "id": 1128959,
+      "year": "2023",
+      "release_date": "2023-11-03",
+      "overview": "Elizabeth trabalha para o pai do seu noivo em um negócio imobiliário. Para manter Elizabeth empregada, seu futuro sogro a manda de volta à sua cidade natal para convencer um ex-namorado a vender sua estação de esqui para a empresa.",
+      "tagline": "",
+      "poster": "/32LCCNLr7QHXkzQkT33ZxYhYa0d.jpg",
+      "backdrop": "/b1gUBdMY0zKHZ8uzDeDwwioa9zw.jpg",
+      "vote_average": 5.1,
+      "vote_count": 14,
+      "genres": [
+        "Comédia",
+        "Romance"
+      ],
+      "runtime": 86,
+      "certification": "NR",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "Highland Film Group",
+        "BondIt Media Capital",
+        "Taylor & Dodge"
+      ],
+      "external_ids": {
+        "imdb_id": "tt27804299",
+        "wikidata_id": "Q135901979",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [
+        {
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDo3M3lmZjIzdHV2anJ6Zm0yNnlybWp6c3E1dGdocmpoMiZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJmRuPUJBSVhBUkFQSURPLkNPTS0uV0VCLURMLjEwODBQLk1LVi41LjEuLURVQkxBRE8tRFVBTC1BVURJTy0uVW0rQ2wlQzMlQTFzc2ljbytkZStOYXRhbC4yMDIzLjEwODBwLldFQi1ETC5EVUFMLjUuMQ==",
+          "label": "Português / Inglês",
+          "quality": "1080P",
+          "language": "Português / Inglês"
+        }
+      ],
+      "cast": [
+        {
+          "name": "Malin Akerman",
+          "character": "Elizabeth Bird",
+          "profile_path": "/u38qRcCAiO3SZdFKJKx3fncDyef.jpg",
+          "order": 0,
+          "id": 50463
+        },
+        {
+          "name": "Ryan Hansen",
+          "character": "Randy Collins",
+          "profile_path": "/n4d1DiK3KyrQNN3G2QKt4Tos53Q.jpg",
+          "order": 1,
+          "id": 78433
+        },
+        {
+          "name": "Amy Smart",
+          "character": "Lynn Flynn",
+          "profile_path": "/9GQwkmqd5klfXvhd29YI5OKAx3N.jpg",
+          "order": 2,
+          "id": 20189
+        },
+        {
+          "name": "Chris Mullinax",
+          "character": "Jimmy Bird",
+          "profile_path": "/9BILCPkrZDuhLATdMhzVWKRe3yJ.jpg",
+          "order": 3,
+          "id": 2170918
+        },
+        {
+          "name": "Austin Nichols",
+          "character": "Bynn Flynn",
+          "profile_path": "/g58TUJ4jtZkrUcbnTbvMXX0dYT1.jpg",
+          "order": 4,
+          "id": 6069
+        },
+        {
+          "name": "Mary Maxson",
+          "character": "Helen Bird",
+          "profile_path": "",
+          "order": 5,
+          "id": 1922943
+        },
+        {
+          "name": "Pamela K. Witte",
+          "character": "Aunt Betsy",
+          "profile_path": "",
+          "order": 6,
+          "id": 5078904
+        },
+        {
+          "name": "Will Blagrove",
+          "character": "Akeem Baptiste",
+          "profile_path": "/iYmDCSLqiE3VKBOfH7xQQ7pYpEC.jpg",
+          "order": 7,
+          "id": 99166
+        },
+        {
+          "name": "Wes Hager",
+          "character": "Connor Harris",
+          "profile_path": "/tLGNAd7zchpt9Tv61dH4fwoan1Y.jpg",
+          "order": 8,
+          "id": 2129338
+        },
+        {
+          "name": "Lola Taylor",
+          "character": "Wynn Flynn",
+          "profile_path": "",
+          "order": 9,
+          "id": 4363978
+        },
+        {
+          "name": "Samantha Taylor",
+          "character": "Kynn Flynn",
+          "profile_path": "",
+          "order": 10,
+          "id": 4363979
+        },
+        {
+          "name": "Charlotte Taylor",
+          "character": "Swynn Flynn",
+          "profile_path": "",
+          "order": 11,
+          "id": 2538940
+        },
+        {
+          "name": "Carlos Alazraqui",
+          "character": "Dick Mountain",
+          "profile_path": "/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg",
+          "order": 12,
+          "id": 59784
+        },
+        {
+          "name": "Stephen Carter",
+          "character": "Malcolm",
+          "profile_path": "",
+          "order": 13,
+          "id": 5813719
+        },
+        {
+          "name": "Robin Taylor",
+          "character": "Julie",
+          "profile_path": "",
+          "order": 14,
+          "id": 3526265
+        },
+        {
+          "name": "Hunter Thompson",
+          "character": "Snowboarder",
+          "profile_path": "",
+          "order": 15,
+          "id": 4679676
+        }
+      ],
+      "crew": [
+        {
+          "name": "Greg LaVoi",
+          "job": "Costume Design",
+          "department": "Costume & Make-Up",
+          "id": 1303225,
+          "profile_path": ""
+        },
+        {
+          "name": "Jhene Chase",
+          "job": "Production Design",
+          "department": "Art",
+          "id": 1658435,
+          "profile_path": ""
+        },
+        {
+          "name": "Jake Buchheit",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 3679022,
+          "profile_path": ""
+        },
+        {
+          "name": "Scott Schulte",
+          "job": "Set Decoration",
+          "department": "Art",
+          "id": 1510874,
+          "profile_path": ""
+        },
+        {
+          "name": "Austin Nichols",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 6069,
+          "profile_path": "/g58TUJ4jtZkrUcbnTbvMXX0dYT1.jpg"
+        },
+        {
+          "name": "Matthew Helderman",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1489060,
+          "profile_path": "/tylGESPhyioiRd9etbk5kFCg14j.jpg"
+        },
+        {
+          "name": "Shane Dax Taylor",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 59502,
+          "profile_path": "/z8pT1ioVlAvrpvfXQS4nSDCMHOz.jpg"
+        },
+        {
+          "name": "Nicholas Erickson",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2175822,
+          "profile_path": ""
+        },
+        {
+          "name": "Daniel Cummings",
+          "job": "Producer",
+          "department": "Production",
+          "id": 2388377,
+          "profile_path": ""
+        },
+        {
+          "name": "Luke Taylor",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1673707,
+          "profile_path": "/n17TKW7dUzfTYrdQKTAbNzSG0bT.jpg"
+        },
+        {
+          "name": "Tyler W. Konney",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1645310,
+          "profile_path": "/7umQBERj3a6jZJcWSRM3OeIzRXn.jpg"
+        },
+        {
+          "name": "Lawrence 'Larry' Greenberg",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 3326465,
+          "profile_path": ""
+        },
+        {
+          "name": "Shane Dax Taylor",
+          "job": "Director",
+          "department": "Directing",
+          "id": 59502,
+          "profile_path": "/z8pT1ioVlAvrpvfXQS4nSDCMHOz.jpg"
+        },
+        {
+          "name": "Grady Craig",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 3046415,
+          "profile_path": ""
+        },
+        {
+          "name": "Berry Meyerowitz",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1766773,
+          "profile_path": ""
+        },
+        {
+          "name": "Jeff Sackman",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 585882,
+          "profile_path": ""
+        },
+        {
+          "name": "Stefania Monsalve Reed",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 4070633,
+          "profile_path": ""
+        },
+        {
+          "name": "Jim Roach",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 4337700,
+          "profile_path": ""
+        },
+        {
+          "name": "Mark Rutledge",
+          "job": "Director of Photography",
+          "department": "Camera",
+          "id": 971793,
+          "profile_path": ""
+        },
+        {
+          "name": "Siobhan Carmody",
+          "job": "Makeup Department Head",
+          "department": "Costume & Make-Up",
+          "id": 589854,
+          "profile_path": ""
+        },
+        {
+          "name": "Shane Dax Taylor",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 59502,
+          "profile_path": "/z8pT1ioVlAvrpvfXQS4nSDCMHOz.jpg"
+        },
+        {
+          "name": "Daniel Cummings",
+          "job": "Unit Production Manager",
+          "department": "Production",
+          "id": 2388377,
+          "profile_path": ""
+        },
+        {
+          "name": "Ian Simon",
+          "job": "First Assistant Director",
+          "department": "Directing",
+          "id": 2820278,
+          "profile_path": ""
+        },
+        {
+          "name": "Zori Davidkova",
+          "job": "Second Assistant Director",
+          "department": "Directing",
+          "id": 3444259,
+          "profile_path": ""
+        },
+        {
+          "name": "Paul Holman",
+          "job": "Second Second Assistant Director",
+          "department": "Directing",
+          "id": 549048,
+          "profile_path": ""
+        },
+        {
+          "name": "Larry Brusuelas",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 6280395,
+          "profile_path": ""
+        },
+        {
+          "name": "Dhruv Bhakta",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 6280396,
+          "profile_path": ""
+        },
+        {
+          "name": "Wes Hager",
+          "job": "Line Producer",
+          "department": "Production",
+          "id": 2129338,
+          "profile_path": "/tLGNAd7zchpt9Tv61dH4fwoan1Y.jpg"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Shane Dax Taylor",
+          "job": "Director",
+          "department": "Directing",
+          "id": 59502,
+          "profile_path": "/z8pT1ioVlAvrpvfXQS4nSDCMHOz.jpg"
+        }
+      ],
+      "writers": [
+        {
+          "name": "Austin Nichols",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 6069,
+          "profile_path": "/g58TUJ4jtZkrUcbnTbvMXX0dYT1.jpg"
+        },
+        {
+          "name": "Shane Dax Taylor",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 59502,
+          "profile_path": "/z8pT1ioVlAvrpvfXQS4nSDCMHOz.jpg"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "title": "Vicentina Pede Desculpas",
+      "original_title": "Vicentina Pede Desculpas",
+      "tmdb_id": "1307474",
+      "id": 1307474,
+      "year": "2026",
+      "release_date": "2026-11-05",
+      "overview": "Uma mulher que, aos 75 anos, tem de encarar a morte (e potencial suicídio) de seu filho motorista de ônibus e todos os passageiros, após o ônibus lotado cair de um viaduto. Vicentina decide embarcar em uma jornada para procurar as famílias das vítimas para pedir desculpas.",
+      "tagline": "",
+      "poster": "/v6JBUlm6nIYx3ixF38I5ZVpQZgq.jpg",
+      "backdrop": "/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
+      "vote_average": 7,
+      "vote_count": 1,
+      "genres": [
+        "Drama"
+      ],
+      "runtime": 146,
+      "certification": "12",
+      "original_language": "pt",
+      "origin_country": [
+        "BR"
+      ],
+      "production_companies": [
+        "Filmes de Plástico"
+      ],
+      "external_ids": {
+        "imdb_id": "tt33402927",
+        "wikidata_id": "Q140180606",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [
+        {
+          "language": "Português / Inglês",
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDphMWFhNzlmOGY3Yzg5NjEzNWU5ODNkYTM2Mjc0NDlmNjhhMWUyNTI1JmRuPVZpY2VudGluYSUyMFBlZGUlMjBEZXNjdWxwYXMlMjAyMDI2JTIwV0VCLURMJTIwMTA4MHAlMjB4MjY0JTIwTkFDSU9OQUwlMjA1LjEmeGw9MzQ5NDY0MTE2MiZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW5iaXR0b3JyZW50LmNvbSUzQTgwJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci50cmFja2VyZml4LmNvbSUzQTgzJTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5vcGVudHJhY2tyLm9yZyUzQTEzMzclMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLnRyYWNrZXJmaXguY29tJTNBODAlMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmNvcHBlcnN1cmZlci50ayUzQTY5NjklMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmxlZWNoZXJzLXBhcmFkaXNlLm9yZyUzQTY5NjklMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZlZGRpZTQubmwlM0E2OTY5JTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGcDRwLmFyZW5hYmcuY29tJTNBMTMzNyUyRmFubm91bmNlJnRyPXVkcCUzQSUyRiUyRmV4cGxvZGllLm9yZyUzQTY5NjklMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ6ZXIwZGF5LmNoJTNBMTMzNyUyRmFubm91bmNlJnRyPXVkcCUzQSUyRiUyRmdsb3RvcnJlbnRzLnB3JTNBNjk2OSUyRmFubm91bmNlJnRyPXVkcCUzQSUyRiUyRnRvcnJlbnQuZ3Jlc2lsbGUub3JnJTNBODAlMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZwNHAuYXJlbmFiZy5jaCUzQTEzMzcmdHI9dWRwJTNBJTJGJTJGdHJhY2tlci5pbnRlcm5ldHdhcnJpb3JzLm5ldCUzQTEzMzc=",
+          "label": "Torrent",
+          "quality": "1080P"
+        }
+      ],
+      "cast": [
+        {
+          "name": "Rejane Faria",
+          "character": "Vicentina",
+          "profile_path": "/iie8IOxVZF6JXB416EanhE2bqkT.jpg",
+          "order": 0,
+          "id": 1380635
+        },
+        {
+          "name": "Maíra Azevedo",
+          "character": "Joana",
+          "profile_path": "/xYQfXAbP55oGag2JYAP0opVtVRX.jpg",
+          "order": 1,
+          "id": 2521798
+        },
+        {
+          "name": "Thalma de Freitas",
+          "character": "Cleide",
+          "profile_path": "/l5V2w20y5NhvyTOCaEx0dW3CWE.jpg",
+          "order": 2,
+          "id": 1180871
+        },
+        {
+          "name": "Grace Passô",
+          "character": "Isabel",
+          "profile_path": "/xzomAlvVQor81adGhWjf94F6rP0.jpg",
+          "order": 3,
+          "id": 1660398
+        },
+        {
+          "name": "Giovanna Heliodoro",
+          "character": "Gisele",
+          "profile_path": "",
+          "order": 4,
+          "id": 4390185
+        },
+        {
+          "name": "Renato Novaes",
+          "character": "Wesley/Bruno",
+          "profile_path": "/gXdCJC9QPTC60gRwR2ZRPVCCkqX.jpg",
+          "order": 5,
+          "id": 1844397
+        },
+        {
+          "name": "Karine Teles",
+          "character": "",
+          "profile_path": "/tuefwgcWVmjlTs11mvRaxtyKiLp.jpg",
+          "order": 6,
+          "id": 1115320
+        },
+        {
+          "name": "Flávio Bauraqui",
+          "character": "Luiz",
+          "profile_path": "/kqTAOpegEqpssNhrlSYgrFJGX5Y.jpg",
+          "order": 7,
+          "id": 121457
+        },
+        {
+          "name": "Giovanni Venturini",
+          "character": "Fred",
+          "profile_path": "/5a9aRC7a7J4qRlXebuT4Al1Rmax.jpg",
+          "order": 8,
+          "id": 2252913
+        },
+        {
+          "name": "Marisa Revert",
+          "character": "Vera",
+          "profile_path": "",
+          "order": 9,
+          "id": 3399608
+        },
+        {
+          "name": "Fernanda Vianna",
+          "character": "Marta",
+          "profile_path": "/9YxnEdbyc0gSdz140gyBKkRBK3O.jpg",
+          "order": 10,
+          "id": 1171743
+        },
+        {
+          "name": "Clébia Sousa",
+          "character": "Solange",
+          "profile_path": "/kv16b3s2xZFL5uCP3RwZltFaWz4.jpg",
+          "order": 11,
+          "id": 1016255
+        },
+        {
+          "name": "Fábio Leal",
+          "character": "Victor",
+          "profile_path": "/jxC38r6LxQ1ncPUkpgo1D4CNs1w.jpg",
+          "order": 12,
+          "id": 1693271
+        },
+        {
+          "name": "Docy Moreira",
+          "character": "Marluce",
+          "profile_path": "",
+          "order": 13,
+          "id": 4824930
+        },
+        {
+          "name": "Carlos Francisco",
+          "character": "Antônio",
+          "profile_path": "/ihf4bN4GuScyA2QwlzVCnPqOuOo.jpg",
+          "order": 14,
+          "id": 2346588
+        },
+        {
+          "name": "Bárbara Colen",
+          "character": "Amélia",
+          "profile_path": "/mBuvpxBip2ADrmT3xv6Z4cZFOMv.jpg",
+          "order": 15,
+          "id": 1424077
+        },
+        {
+          "name": "Miguelzinho do Cavaco",
+          "character": "Self",
+          "profile_path": "",
+          "order": 16,
+          "id": 6442515
+        }
+      ],
+      "crew": [
+        {
+          "name": "Gabriel Martins",
+          "job": "Director",
+          "department": "Directing",
+          "id": 1300794,
+          "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+        },
+        {
+          "name": "João Gabriel Riveres",
+          "job": "Post Production Supervisor",
+          "department": "Crew",
+          "id": 3168429,
+          "profile_path": ""
+        },
+        {
+          "name": "Karine Assis",
+          "job": "Prop Designer",
+          "department": "Art",
+          "id": 4712725,
+          "profile_path": "/fQxJHwlGWtAY9bUbN0VMmEm0N36.jpg"
+        },
+        {
+          "name": "Vinícius Rezende Morais",
+          "job": "Location Manager",
+          "department": "Production",
+          "id": 6020168,
+          "profile_path": "/z85SQKVhBpfudf8ELi3WtcATeOo.jpg"
+        },
+        {
+          "name": "Vinícius Rezende Morais",
+          "job": "Production Coordinator",
+          "department": "Production",
+          "id": 6020168,
+          "profile_path": "/z85SQKVhBpfudf8ELi3WtcATeOo.jpg"
+        },
+        {
+          "name": "Vinícius Rezende Morais",
+          "job": "Transportation Coordinator",
+          "department": "Crew",
+          "id": 6020168,
+          "profile_path": "/z85SQKVhBpfudf8ELi3WtcATeOo.jpg"
+        },
+        {
+          "name": "Gabriel Martins",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 1300794,
+          "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+        },
+        {
+          "name": "Thiago Macedo Correia",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1305142,
+          "profile_path": "/AneOdRuWVqTem1TvKlBTrqe4efd.jpg"
+        },
+        {
+          "name": "Tiganá Santana",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 2468312,
+          "profile_path": "/8hs7Set9IhBPMuFQsOkoab5YPYv.jpg"
+        },
+        {
+          "name": "Leonardo Feliciano",
+          "job": "Director of Photography",
+          "department": "Camera",
+          "id": 1328848,
+          "profile_path": ""
+        },
+        {
+          "name": "Tiago Bello",
+          "job": "Sound Editor",
+          "department": "Sound",
+          "id": 1428757,
+          "profile_path": ""
+        },
+        {
+          "name": "Tiago Bello",
+          "job": "Sound Mixer",
+          "department": "Sound",
+          "id": 1428757,
+          "profile_path": ""
+        },
+        {
+          "name": "Gustavo Fioravante",
+          "job": "Sound Recordist",
+          "department": "Sound",
+          "id": 1405482,
+          "profile_path": ""
+        },
+        {
+          "name": "Diana Moreira",
+          "job": "Costume Design",
+          "department": "Costume & Make-Up",
+          "id": 2207759,
+          "profile_path": ""
+        },
+        {
+          "name": "Gabriel Martins",
+          "job": "Original Story",
+          "department": "Writing",
+          "id": 1300794,
+          "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+        },
+        {
+          "name": "Gabriel Martins",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 1300794,
+          "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+        },
+        {
+          "name": "Thiago Ricarte",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 1380283,
+          "profile_path": ""
+        },
+        {
+          "name": "Matheus Gyordano",
+          "job": "Producer",
+          "department": "Production",
+          "id": 6488141,
+          "profile_path": ""
+        },
+        {
+          "name": "Yunni Anumaréh",
+          "job": "Producer's Assistant",
+          "department": "Production",
+          "id": 6488143,
+          "profile_path": ""
+        },
+        {
+          "name": "Vanessa Barbosa",
+          "job": "Coordinating Producer",
+          "department": "Production",
+          "id": 1404633,
+          "profile_path": ""
+        },
+        {
+          "name": "Lara Lima",
+          "job": "Line Producer",
+          "department": "Production",
+          "id": 1380281,
+          "profile_path": ""
+        },
+        {
+          "name": "Rimenna Procópio",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 1491716,
+          "profile_path": ""
+        },
+        {
+          "name": "Luna Gomides",
+          "job": "Production Manager",
+          "department": "Production",
+          "id": 3094960,
+          "profile_path": ""
+        },
+        {
+          "name": "Henrique Lapa",
+          "job": "Production Manager",
+          "department": "Production",
+          "id": 3833819,
+          "profile_path": ""
+        }
+      ],
+      "directors": [
+        {
+          "name": "Gabriel Martins",
+          "job": "Director",
+          "department": "Directing",
+          "id": 1300794,
+          "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+        }
+      ],
+      "writers": [
+        {
+          "name": "Gabriel Martins",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 1300794,
+          "profile_path": "/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "title": "Pregadore$ no Horário Nobre",
+      "original_title": "Primetime Preacher$",
+      "tmdb_id": "1791730",
+      "id": 1791730,
+      "year": "2026",
+      "release_date": "2026-11-14",
+      "overview": "Três dos televangelistas mais poderosos dos anos 1980 vendiam a salvação pela TV. Até que ganância, sexo e egos inflados acabaram com tudo.",
+      "tagline": "",
+      "poster": "/2DhObi3tET5JtvGP1BwvXdbkQv2.jpg",
+      "backdrop": "/gVdy7sXbUQKWNV6QXG7vTB1344G.jpg",
+      "vote_average": 6,
+      "vote_count": 1,
+      "genres": [
+        "Documentário"
+      ],
+      "runtime": 115,
+      "certification": "14",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "Third Eye Motion Picture Company",
+        "Aggregate Films"
+      ],
+      "external_ids": {
+        "imdb_id": "tt48434154",
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [
+        {
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDplNjZmMDM3ODYxYmQ2ZGFjMTI5ZWVkYWJmZTllODM4ODA4NDQ3MTQxJmRuPVByZWdhZG9yZSUyNCUyMG5vJTIwSG9yJUMzJUExcmlvJTIwTm9icmUlMjAyMDI2JTIwV0VCLURMJTIwMTA4MHAlMjB4MjY0JTIwRFVBTCUyMDUuMSZ4bD0yOTcwMDU1NTU1JnRyPXVkcCUzQSUyRiUyRnRyYWNrZXIub3BlbmJpdHRvcnJlbnQuY29tJTNBODAlMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLnRyYWNrZXJmaXguY29tJTNBODMlMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNlJnRyPXVkcCUzQSUyRiUyRnRyYWNrZXIudHJhY2tlcmZpeC5jb20lM0E4MCUyRmFubm91bmNlJnRyPXVkcCUzQSUyRiUyRnRyYWNrZXIuY29wcGVyc3VyZmVyLnRrJTNBNjk2OSUyRmFubm91bmNlJnRyPXVkcCUzQSUyRiUyRnRyYWNrZXIubGVlY2hlcnMtcGFyYWRpc2Uub3JnJTNBNjk2OSUyRmFubm91bmNlJnRyPXVkcCUzQSUyRiUyRmVkZGllNC5ubCUzQTY5NjklMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZwNHAuYXJlbmFiZy5jb20lM0ExMzM3JTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGZXhwbG9kaWUub3JnJTNBNjk2OSUyRmFubm91bmNlJnRyPXVkcCUzQSUyRiUyRnplcjBkYXkuY2glM0ExMzM3JTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGZ2xvdG9ycmVudHMucHclM0E2OTY5JTJGYW5ub3VuY2UmdHI9dWRwJTNBJTJGJTJGdG9ycmVudC5ncmVzaWxsZS5vcmclM0E4MCUyRmFubm91bmNlJnRyPXVkcCUzQSUyRiUyRnA0cC5hcmVuYWJnLmNoJTNBMTMzNyZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLmludGVybmV0d2FycmlvcnMubmV0JTNBMTMzNw==",
+          "language": "Português / Inglês",
+          "label": "Torrent",
+          "quality": "1080P"
+        }
+      ],
+      "cast": [],
+      "crew": [
+        {
+          "name": "Joe Berlinger",
+          "job": "Director",
+          "department": "Directing",
+          "id": 69237,
+          "profile_path": "/yvCTSlShNLmaq9NNlFKpFOLrVeJ.jpg"
+        },
+        {
+          "name": "Jason Bateman",
+          "job": "Producer",
+          "department": "Production",
+          "id": 23532,
+          "profile_path": "/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg"
+        },
+        {
+          "name": "Michael Costigan",
+          "job": "Producer",
+          "department": "Production",
+          "id": 40374,
+          "profile_path": "/3yUHDqJ067xrzLvSJHMMLQN6egP.jpg"
+        },
+        {
+          "name": "Emma Ho",
+          "job": "Producer",
+          "department": "Production",
+          "id": 3913630,
+          "profile_path": ""
+        },
+        {
+          "name": "Rachael Profiloski",
+          "job": "Producer",
+          "department": "Production",
+          "id": 3226876,
+          "profile_path": ""
+        }
+      ],
+      "directors": [
+        {
+          "name": "Joe Berlinger",
+          "job": "Director",
+          "department": "Directing",
+          "id": 69237,
+          "profile_path": "/yvCTSlShNLmaq9NNlFKpFOLrVeJ.jpg"
+        }
+      ],
+      "writers": []
     }
   ],
   "_link_encoding": "base64"
