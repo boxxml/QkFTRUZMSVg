@@ -89783,6 +89783,5156 @@
           ]
         }
       ]
+    },
+    {
+      "type": "tv",
+      "title": "Avatar: O Último Mestre do Ar",
+      "original_title": "Avatar: The Last Airbender",
+      "tmdb_id": "82452",
+      "id": 82452,
+      "year": "2024",
+      "release_date": "2024-02-22",
+      "overview": "Um garoto conhecido como o Avatar precisa dominar os quatro poderes elementares para salvar um mundo em guerra e enfrentar um inimigo implacável.",
+      "tagline": "Domine seu elemento.",
+      "poster": "/zCz483fU94RxRt1gdGW1rxQkcID.jpg",
+      "backdrop": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
+      "vote_average": 7.759,
+      "vote_count": 1417,
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Família"
+      ],
+      "runtime": 0,
+      "certification": "14",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "Nickelodeon Productions",
+        "Rideback",
+        "Albert Kim Pictures"
+      ],
+      "external_ids": {
+        "imdb_id": "tt9018736",
+        "freebase_mid": null,
+        "freebase_id": null,
+        "tvdb_id": 385925,
+        "tvrage_id": null,
+        "wikidata_id": "Q109608844",
+        "facebook_id": "AvatarNetflix",
+        "instagram_id": "avatarnetflix",
+        "twitter_id": "AvatarNetflix"
+      },
+      "sources": [],
+      "status": "Returning Series",
+      "networks": [
+        "Netflix"
+      ],
+      "created_by": [
+        {
+          "id": 209839,
+          "name": "Albert Kim",
+          "profile_path": ""
+        }
+      ],
+      "number_of_seasons": 2,
+      "number_of_episodes": 15,
+      "cast": [
+        {
+          "name": "Gordon Cormier",
+          "character": "Aang",
+          "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+          "order": 0,
+          "id": 2447707
+        },
+        {
+          "name": "Kiawentiio",
+          "character": "Katara",
+          "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+          "order": 1,
+          "id": 2718335
+        },
+        {
+          "name": "Ian Ousley",
+          "character": "Sokka",
+          "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+          "order": 2,
+          "id": 2595507
+        },
+        {
+          "name": "Dallas Liu",
+          "character": "Zuko",
+          "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+          "order": 3,
+          "id": 1792920
+        },
+        {
+          "name": "Miyako",
+          "character": "Toph Beifong",
+          "profile_path": "/3qALscJoBm9nDGlc8hgGWxQnqdi.jpg",
+          "order": 5,
+          "id": 1771746
+        }
+      ],
+      "crew": [
+        {
+          "name": "Adam Chazen",
+          "job": "Visual Effects Producer",
+          "department": "Visual Effects",
+          "id": 2657926,
+          "profile_path": ""
+        },
+        {
+          "name": "Jennifer Page",
+          "job": "Location Casting",
+          "department": "Production",
+          "id": 1122003,
+          "profile_path": ""
+        },
+        {
+          "name": "Corinne Clark",
+          "job": "Location Casting",
+          "department": "Production",
+          "id": 986277,
+          "profile_path": ""
+        },
+        {
+          "name": "Colleen Bolton",
+          "job": "Location Casting",
+          "department": "Production",
+          "id": 65194,
+          "profile_path": ""
+        },
+        {
+          "name": "Maureen Webb",
+          "job": "Location Casting",
+          "department": "Production",
+          "id": 23811,
+          "profile_path": "/1FPC2jp55fKs204pAE5LrqSKqrQ.jpg"
+        },
+        {
+          "name": "Jenny Jue",
+          "job": "Casting",
+          "department": "Production",
+          "id": 1011188,
+          "profile_path": ""
+        },
+        {
+          "name": "Christopher Hargadon",
+          "job": "Costume Design",
+          "department": "Costume & Make-Up",
+          "id": 23548,
+          "profile_path": ""
+        },
+        {
+          "name": "Brendan Ferguson",
+          "job": "Unit Production Manager",
+          "department": "Production",
+          "id": 978336,
+          "profile_path": ""
+        },
+        {
+          "name": "Helen Shang",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 1667201,
+          "profile_path": ""
+        },
+        {
+          "name": "Brendan Ferguson",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 978336,
+          "profile_path": ""
+        },
+        {
+          "name": "Ryan Halprin",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1686000,
+          "profile_path": ""
+        },
+        {
+          "name": "Christine Boylan",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1224196,
+          "profile_path": ""
+        },
+        {
+          "name": "Phinneas Kiyomura",
+          "job": "Executive Story Editor",
+          "department": "Writing",
+          "id": 1391251,
+          "profile_path": ""
+        },
+        {
+          "name": "Christopher Zampas",
+          "job": "Producer",
+          "department": "Production",
+          "id": 4551147,
+          "profile_path": ""
+        },
+        {
+          "name": "Keely MacDonald",
+          "job": "Producer",
+          "department": "Production",
+          "id": 2520589,
+          "profile_path": "/zHMW9oqM9wPfxSHnaDslu0PkMe6.jpg"
+        },
+        {
+          "name": "Teresa Huang",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1456297,
+          "profile_path": "/dXtaGxo1sumj0ZBZKir3kBgDZZg.jpg"
+        },
+        {
+          "name": "Jake Chusid",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 6308938,
+          "profile_path": ""
+        },
+        {
+          "name": "Lin MacDonald",
+          "job": "Set Decoration",
+          "department": "Art",
+          "id": 12384,
+          "profile_path": ""
+        },
+        {
+          "name": "Michael A. Billings",
+          "job": "Assistant Set Decoration",
+          "department": "Art",
+          "id": 2067377,
+          "profile_path": ""
+        },
+        {
+          "name": "Laurens Vermeulen",
+          "job": "Digital Compositor",
+          "department": "Visual Effects",
+          "id": 2128694,
+          "profile_path": ""
+        },
+        {
+          "name": "Daniel Santos",
+          "job": "Digital Compositor",
+          "department": "Visual Effects",
+          "id": 6578749,
+          "profile_path": ""
+        },
+        {
+          "name": "Marion Spates",
+          "job": "Visual Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 1637392,
+          "profile_path": ""
+        },
+        {
+          "name": "Michael Dante DiMartino",
+          "job": "Original Series Creator",
+          "department": "Writing",
+          "id": 1190517,
+          "profile_path": "/8ey06cRWYe5TlKl5tyYQf57kknw.jpg"
+        },
+        {
+          "name": "Jabbar Raisani",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1420778,
+          "profile_path": ""
+        },
+        {
+          "name": "Bryan Konietzko",
+          "job": "Original Series Creator",
+          "department": "Writing",
+          "id": 1190518,
+          "profile_path": "/5lPnGvtATjmPakR96dqPW3v4u8q.jpg"
+        },
+        {
+          "name": "Michael Wylie",
+          "job": "Production Design",
+          "department": "Art",
+          "id": 1543012,
+          "profile_path": ""
+        },
+        {
+          "name": "Gabriel Llanas",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 1379193,
+          "profile_path": "/zyoO4ha6SoMLboPAur222XEYD2O.jpg"
+        },
+        {
+          "name": "Takeshi Furukawa",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 1526939,
+          "profile_path": ""
+        },
+        {
+          "name": "Albert Kim",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 209839,
+          "profile_path": ""
+        },
+        {
+          "name": "Dan Lin",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 112690,
+          "profile_path": "/skXxQ2MZ2OYpP0aFyBoieFTT3iK.jpg"
+        }
+      ],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-21T03:12:51.935Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "overview": "A 1ª temporada de Avatar: O Último Mestre do Ar começou a ser exibida em 22 de fevereiro de 2024.",
+          "poster_path": "/zCz483fU94RxRt1gdGW1rxQkcID.jpg",
+          "poster": "/zCz483fU94RxRt1gdGW1rxQkcID.jpg",
+          "backdrop_path": "",
+          "air_date": "2024-02-22",
+          "vote_average": 7.8,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Gordon Cormier",
+              "character": "Aang",
+              "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+              "order": 0,
+              "id": 2447707
+            },
+            {
+              "name": "Kiawentiio",
+              "character": "Katara",
+              "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+              "order": 1,
+              "id": 2718335
+            },
+            {
+              "name": "Ian Ousley",
+              "character": "Sokka",
+              "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+              "order": 2,
+              "id": 2595507
+            },
+            {
+              "name": "Dallas Liu",
+              "character": "Zuko",
+              "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+              "order": 3,
+              "id": 1792920
+            },
+            {
+              "name": "Paul Sun-Hyung Lee",
+              "character": "Uncle Iroh",
+              "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+              "order": 4,
+              "id": 178068
+            },
+            {
+              "name": "Ken Leung",
+              "character": "Commander Zhao",
+              "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+              "order": 6,
+              "id": 2131
+            },
+            {
+              "name": "Daniel Dae Kim",
+              "character": "Fire Lord Ozai",
+              "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+              "order": 7,
+              "id": 18307
+            }
+          ],
+          "crew": [
+            {
+              "name": "Audrey Wong Kennedy",
+              "job": "Staff Writer",
+              "department": "Writing",
+              "id": 4071492,
+              "profile_path": "/uPc5s11jcOQn2bdEju5bs9GquPj.jpg"
+            },
+            {
+              "name": "Michael Goi",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 236592,
+              "profile_path": "/i67FTwfeC7KSFTytkMz4W2Cc9lc.jpg"
+            },
+            {
+              "name": "Jabbar Raisani",
+              "job": "Visual Effects Supervisor",
+              "department": "Visual Effects",
+              "id": 1420778,
+              "profile_path": ""
+            },
+            {
+              "name": "Jeffery Aro",
+              "job": "Stunt Coordinator",
+              "department": "Crew",
+              "id": 2806084,
+              "profile_path": ""
+            },
+            {
+              "name": "Ubah Mohamed",
+              "job": "Producer",
+              "department": "Production",
+              "id": 1825197,
+              "profile_path": "/swj8sjMLnO3P450MnDozxPuZ6H6.jpg"
+            },
+            {
+              "name": "Kurt Williams",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 1432021,
+              "profile_path": ""
+            },
+            {
+              "name": "Amanda Mitchell",
+              "job": "Location Casting",
+              "department": "Production",
+              "id": 1578013,
+              "profile_path": ""
+            },
+            {
+              "name": "Farnaz Khaki-Sadigh",
+              "job": "Costume Design",
+              "department": "Costume & Make-Up",
+              "id": 1509591,
+              "profile_path": ""
+            },
+            {
+              "name": "PoPing AuYeung",
+              "job": "Location Casting",
+              "department": "Production",
+              "id": 1127910,
+              "profile_path": "/msOFnalOrtxcova1j05OH000iKZ.jpg"
+            },
+            {
+              "name": "Joshua Hale Fialkov",
+              "job": "Producer",
+              "department": "Production",
+              "id": 97259,
+              "profile_path": "/q7I3hGFNFm1SPVxFmuS9M195oCu.jpg"
+            },
+            {
+              "name": "Bonnie Benwick",
+              "job": "Producer",
+              "department": "Production",
+              "id": 1825921,
+              "profile_path": ""
+            },
+            {
+              "name": "Michelle Olivia Seamon",
+              "job": "Casting",
+              "department": "Production",
+              "id": 2981090,
+              "profile_path": ""
+            },
+            {
+              "name": "Adam Chasen",
+              "job": "Visual Effects Producer",
+              "department": "Visual Effects",
+              "id": 4551135,
+              "profile_path": ""
+            },
+            {
+              "name": "Tiffany Mak",
+              "job": "Location Casting",
+              "department": "Production",
+              "id": 1311274,
+              "profile_path": ""
+            },
+            {
+              "name": "Chris Mylordos",
+              "job": "Production Assistant",
+              "department": "Production",
+              "id": 4516468,
+              "profile_path": "/7CBq6KOwIe5gHLjljWqFxemtKjI.jpg"
+            },
+            {
+              "name": "Britt Bancroft",
+              "job": "Set Decoration Buyer",
+              "department": "Art",
+              "id": 1621491,
+              "profile_path": ""
+            },
+            {
+              "name": "Catherine Bertetic",
+              "job": "Set Decorating Coordinator",
+              "department": "Art",
+              "id": 4835007,
+              "profile_path": ""
+            },
+            {
+              "name": "Alex Kyshkovych",
+              "job": "Stunt Coordinator",
+              "department": "Crew",
+              "id": 2280082,
+              "profile_path": "/nyy5o659Z1LfLl9ckRT1FiNop4U.jpg"
+            },
+            {
+              "name": "Lindsey Liberatore",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 3197119,
+              "profile_path": ""
+            },
+            {
+              "name": "Roseanne Liang",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1123897,
+              "profile_path": "/imRI6lAEVFprlFk2jv69BmpCkfA.jpg"
+            },
+            {
+              "name": "Saghar Bazargan",
+              "job": "Makeup Artist",
+              "department": "Costume & Make-Up",
+              "id": 3815689,
+              "profile_path": ""
+            },
+            {
+              "name": "Cydney Sjostrom",
+              "job": "Assistant Makeup Artist",
+              "department": "Costume & Make-Up",
+              "id": 2699017,
+              "profile_path": ""
+            },
+            {
+              "name": "Sharon Markell",
+              "job": "Hair Assistant",
+              "department": "Costume & Make-Up",
+              "id": 1621504,
+              "profile_path": ""
+            },
+            {
+              "name": "Marie Clancy",
+              "job": "Assistant Hairstylist",
+              "department": "Costume & Make-Up",
+              "id": 2470457,
+              "profile_path": ""
+            },
+            {
+              "name": "Ali Pavlinovich",
+              "job": "Assistant Makeup Artist",
+              "department": "Costume & Make-Up",
+              "id": 3815686,
+              "profile_path": ""
+            },
+            {
+              "name": "Alannah Bilodeau",
+              "job": "Assistant Makeup Artist",
+              "department": "Costume & Make-Up",
+              "id": 2034585,
+              "profile_path": ""
+            },
+            {
+              "name": "Ceilidh Dunn",
+              "job": "Key Makeup Artist",
+              "department": "Costume & Make-Up",
+              "id": 3090974,
+              "profile_path": ""
+            },
+            {
+              "name": "Ciera Allen",
+              "job": "Assistant Makeup Artist",
+              "department": "Costume & Make-Up",
+              "id": 3815688,
+              "profile_path": ""
+            },
+            {
+              "name": "Michael V. Nicolo",
+              "job": "Casting",
+              "department": "Production",
+              "id": 64606,
+              "profile_path": ""
+            },
+            {
+              "name": "Anya Colloff",
+              "job": "Casting",
+              "department": "Production",
+              "id": 76014,
+              "profile_path": ""
+            },
+            {
+              "name": "Christine Boylan",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1224196,
+              "profile_path": ""
+            },
+            {
+              "name": "Christopher Zampas",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 4551147,
+              "profile_path": ""
+            },
+            {
+              "name": "Keely MacDonald",
+              "job": "Story Editor",
+              "department": "Writing",
+              "id": 2520589,
+              "profile_path": "/zHMW9oqM9wPfxSHnaDslu0PkMe6.jpg"
+            },
+            {
+              "name": "Ryan Halprin",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1686000,
+              "profile_path": ""
+            },
+            {
+              "name": "Marion Spates",
+              "job": "Visual Effects Supervisor",
+              "department": "Visual Effects",
+              "id": 1637392,
+              "profile_path": ""
+            },
+            {
+              "name": "Daniel Santos",
+              "job": "Digital Compositor",
+              "department": "Visual Effects",
+              "id": 6578749,
+              "profile_path": ""
+            },
+            {
+              "name": "Jabbar Raisani",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1420778,
+              "profile_path": ""
+            },
+            {
+              "name": "Gabriel Llanas",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1379193,
+              "profile_path": "/zyoO4ha6SoMLboPAur222XEYD2O.jpg"
+            },
+            {
+              "name": "Michael Dante DiMartino",
+              "job": "Original Series Creator",
+              "department": "Writing",
+              "id": 1190517,
+              "profile_path": "/8ey06cRWYe5TlKl5tyYQf57kknw.jpg"
+            },
+            {
+              "name": "Takeshi Furukawa",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 1526939,
+              "profile_path": ""
+            },
+            {
+              "name": "Michael Wylie",
+              "job": "Production Design",
+              "department": "Art",
+              "id": 1543012,
+              "profile_path": ""
+            },
+            {
+              "name": "Bryan Konietzko",
+              "job": "Original Series Creator",
+              "department": "Writing",
+              "id": 1190518,
+              "profile_path": "/5lPnGvtATjmPakR96dqPW3v4u8q.jpg"
+            },
+            {
+              "name": "Albert Kim",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 209839,
+              "profile_path": ""
+            },
+            {
+              "name": "Dan Lin",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 112690,
+              "profile_path": "/skXxQ2MZ2OYpP0aFyBoieFTT3iK.jpg"
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Aang",
+              "original_name": "",
+              "air_date": "2024-02-22",
+              "runtime": 64,
+              "overview": "Um Dobrador de ar enfrenta sua nova realidade quando a guerra começa. Um século depois, dois irmãos da Tribo da Água fazem uma descoberta que muda tudo.",
+              "still_path": "/3eLPQfIOva0RSAoviRgNqBtqPck.jpg",
+              "vote_average": 7.8,
+              "vote_count": 255,
+              "guest_stars": [
+                {
+                  "name": "林继修",
+                  "character": "Gyatso",
+                  "profile_path": "",
+                  "order": 500,
+                  "id": 17155
+                },
+                {
+                  "name": "Casey Camp-Horinek",
+                  "character": "Gran Gran",
+                  "profile_path": "/roPy4mfbGqTYXwTX76zv6XFQsdG.jpg",
+                  "order": 501,
+                  "id": 1052618
+                },
+                {
+                  "name": "ヒロ・カナガワ",
+                  "character": "Fire Lord Sozin",
+                  "profile_path": "/oXpKxlNED8KApjGOK75q8OF3zMs.jpg",
+                  "order": 502,
+                  "id": 60719
+                },
+                {
+                  "name": "Yvonne Chapman",
+                  "character": "Avatar Kyoshi",
+                  "profile_path": "/rDbiwuGvzd8WOgyQNo5RTmbwvF1.jpg",
+                  "order": 503,
+                  "id": 2225815
+                },
+                {
+                  "name": "Ruy Iskandar",
+                  "character": "Lieutenant Jee",
+                  "profile_path": "/8xQXl6eGkhqBp35xoagbwjUSIv.jpg",
+                  "order": 504,
+                  "id": 3008571
+                },
+                {
+                  "name": "Clyde Kusatsu",
+                  "character": "Fire Nation Sage",
+                  "profile_path": "/5dTSe1F9cnReZGHYzbCbVy7vbcf.jpg",
+                  "order": 505,
+                  "id": 2249
+                },
+                {
+                  "name": "David Sakurai",
+                  "character": "Earthbender Spy",
+                  "profile_path": "/j02QQPwQiujYoXehOMafcNjh3Rq.jpg",
+                  "order": 506,
+                  "id": 1180795
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa / Momo (voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 507,
+                  "id": 157067
+                },
+                {
+                  "name": "Leo Chiang",
+                  "character": "Monk Thet",
+                  "profile_path": "/tuMNenYBajmM4YHxzhvBnm7ZQ6V.jpg",
+                  "order": 508,
+                  "id": 1252319
+                },
+                {
+                  "name": "Jeff Yung",
+                  "character": "Monk Tsutop",
+                  "profile_path": "/9iZFECLtqhoNiXfzWYwbDz9o7Ux.jpg",
+                  "order": 509,
+                  "id": 1793739
+                },
+                {
+                  "name": "Jayden Tianyi Zhang",
+                  "character": "Myat",
+                  "profile_path": "/sn7aVeh4Av1ETcVvy9hLOlvpP0.jpg",
+                  "order": 510,
+                  "id": 3201062
+                },
+                {
+                  "name": "Dorian Giordano",
+                  "character": "Aydo",
+                  "profile_path": "/vYiBymEQ06TxmsqpGfHQytgAQEg.jpg",
+                  "order": 511,
+                  "id": 2753242
+                },
+                {
+                  "name": "Silver Kim",
+                  "character": "Pasang",
+                  "profile_path": "/9B4WTRAvh70Usu1GdL4CpDSZt1O.jpg",
+                  "order": 512,
+                  "id": 1752082
+                },
+                {
+                  "name": "Simon Leung",
+                  "character": "Tashi",
+                  "profile_path": "/nIfVjkeM1uT0NUFmTvfkYLsqCnj.jpg",
+                  "order": 513,
+                  "id": 1366606
+                },
+                {
+                  "name": "Linda Minard",
+                  "character": "Sister Lio",
+                  "profile_path": "/6HUfk2KGM19B5qg9oOzMJboyutN.jpg",
+                  "order": 514,
+                  "id": 3119128
+                },
+                {
+                  "name": "Derek Lowe",
+                  "character": "War Minister",
+                  "profile_path": "/xNi6l7keWl0TvUcObLOmf462WW2.jpg",
+                  "order": 515,
+                  "id": 1366516
+                },
+                {
+                  "name": "Summer Testawich",
+                  "character": "Girl",
+                  "profile_path": "/A4Z0UdwhIa0eOqyR3zzBFD1Qvk.jpg",
+                  "order": 516,
+                  "id": 4147967
+                },
+                {
+                  "name": "Sam Bob",
+                  "character": "Old Villager",
+                  "profile_path": "/rC8yAGjaVZBO5pfmDQ5l8GhXhZF.jpg",
+                  "order": 517,
+                  "id": 1592842
+                },
+                {
+                  "name": "Haô Ting",
+                  "character": "Fire Nation Guard",
+                  "profile_path": "/8fc76GWSm68OIPNkoHwRUczLaaf.jpg",
+                  "order": 518,
+                  "id": 3192557
+                },
+                {
+                  "name": "Oliver Tru Sison",
+                  "character": "Water Tribe Boy",
+                  "profile_path": "/xIhWqb7Gmcg2pC9XiXfUXyyiFgL.jpg",
+                  "order": 519,
+                  "id": 2959942
+                },
+                {
+                  "name": "Garland Chang",
+                  "character": "Captain",
+                  "profile_path": "/pbNgsQeDhgW6McRFDoLkC8Oorzf.jpg",
+                  "order": 520,
+                  "id": 1967611
+                },
+                {
+                  "name": "Alex Law",
+                  "character": "Merchant",
+                  "profile_path": "/9orE0VOuns7cu14zdjFlCtL9Ovt.jpg",
+                  "order": 521,
+                  "id": 2332149
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Ken Leung",
+                  "character": "Commander Zhao",
+                  "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+                  "order": 6,
+                  "id": 2131
+                },
+                {
+                  "name": "Daniel Dae Kim",
+                  "character": "Fire Lord Ozai",
+                  "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+                  "order": 7,
+                  "id": 18307
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Michael Goi",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 236592,
+                  "profile_path": "/i67FTwfeC7KSFTytkMz4W2Cc9lc.jpg"
+                },
+                {
+                  "name": "Bryan Konietzko",
+                  "job": "Teleplay",
+                  "department": "Writing",
+                  "id": 1190518,
+                  "profile_path": "/5lPnGvtATjmPakR96dqPW3v4u8q.jpg"
+                },
+                {
+                  "name": "Michael Dante DiMartino",
+                  "job": "Teleplay",
+                  "department": "Writing",
+                  "id": 1190517,
+                  "profile_path": "/8ey06cRWYe5TlKl5tyYQf57kknw.jpg"
+                },
+                {
+                  "name": "Albert Kim",
+                  "job": "Teleplay",
+                  "department": "Writing",
+                  "id": 209839,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Michael Goi",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 236592,
+                  "profile_path": "/i67FTwfeC7KSFTytkMz4W2Cc9lc.jpg"
+                },
+                {
+                  "name": "Ian S. Tan",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 2839049,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt10482696",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7860486,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDEubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Guerreiros",
+              "original_name": "",
+              "air_date": "2024-02-22",
+              "runtime": 49,
+              "overview": "Aang, Katara e Sokka chegam a uma pequena ilha, lar dos guerreiros de elite cujo nome é uma homenagem ao Avatar Kyoshi. A Nação do Fogo descobre o paradeiro do Avatar.",
+              "still_path": "/fBg3ih6klXw61XGMAhaXucHhomo.jpg",
+              "vote_average": 7.8,
+              "vote_count": 103,
+              "guest_stars": [
+                {
+                  "name": "林继修",
+                  "character": "Gyatso",
+                  "profile_path": "",
+                  "order": 500,
+                  "id": 17155
+                },
+                {
+                  "name": "Casey Camp-Horinek",
+                  "character": "Gran Gran",
+                  "profile_path": "/roPy4mfbGqTYXwTX76zv6XFQsdG.jpg",
+                  "order": 501,
+                  "id": 1052618
+                },
+                {
+                  "name": "Yvonne Chapman",
+                  "character": "Avatar Kyoshi",
+                  "profile_path": "/rDbiwuGvzd8WOgyQNo5RTmbwvF1.jpg",
+                  "order": 503,
+                  "id": 2225815
+                },
+                {
+                  "name": "Ruy Iskandar",
+                  "character": "Lieutenant Jee",
+                  "profile_path": "/8xQXl6eGkhqBp35xoagbwjUSIv.jpg",
+                  "order": 504,
+                  "id": 3008571
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa / Momo (voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 507,
+                  "id": 157067
+                },
+                {
+                  "name": "Tamlyn Tomita",
+                  "character": "Yukari",
+                  "profile_path": "/59QCb2Ox7lG9KuHrG53ZGanh4T3.jpg",
+                  "order": 522,
+                  "id": 3134
+                },
+                {
+                  "name": "Maria Zhang",
+                  "character": "Suki",
+                  "profile_path": "/A8l9dWZH1oSBag58GfbFAT8wfB8.jpg",
+                  "order": 523,
+                  "id": 3320666
+                },
+                {
+                  "name": "Ryan Mah",
+                  "character": "Lieutenant Dang",
+                  "profile_path": "/28pyjtzP3uEUTiTBLMNZu9qBWLu.jpg",
+                  "order": 524,
+                  "id": 2675250
+                },
+                {
+                  "name": "Owen Chau",
+                  "character": "Airbending Instructor",
+                  "profile_path": "",
+                  "order": 525,
+                  "id": 3205438
+                },
+                {
+                  "name": "Kaili Mendoza",
+                  "character": "Chie",
+                  "profile_path": "",
+                  "order": 526,
+                  "id": 4551317
+                },
+                {
+                  "name": "Daniel Chai",
+                  "character": "Vendor",
+                  "profile_path": "",
+                  "order": 527,
+                  "id": 3103500
+                },
+                {
+                  "name": "Evan Liu",
+                  "character": "Narin",
+                  "profile_path": "",
+                  "order": 528,
+                  "id": 1894599
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Ken Leung",
+                  "character": "Commander Zhao",
+                  "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+                  "order": 6,
+                  "id": 2131
+                },
+                {
+                  "name": "Daniel Dae Kim",
+                  "character": "Fire Lord Ozai",
+                  "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+                  "order": 7,
+                  "id": 18307
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Joshua Hale Fialkov",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 97259,
+                  "profile_path": "/q7I3hGFNFm1SPVxFmuS9M195oCu.jpg"
+                },
+                {
+                  "name": "Michael Goi",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 236592,
+                  "profile_path": "/i67FTwfeC7KSFTytkMz4W2Cc9lc.jpg"
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Wendy Tzeng",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 6308940,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Michael Goi",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 236592,
+                  "profile_path": "/i67FTwfeC7KSFTytkMz4W2Cc9lc.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt15175056",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9855200,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDIubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Omashu",
+              "original_name": "",
+              "air_date": "2024-02-22",
+              "runtime": 53,
+              "overview": "Notícias de um traidor colocam o trio em apuros em Omashu, onde um mecânico e rebeldes liderados por uma figura sedutora atrapalham os planos de proteger o Reino da Terra.",
+              "still_path": "/k05PJk3Ym75fWZ43TzWwA6KZ202.jpg",
+              "vote_average": 7.5,
+              "vote_count": 73,
+              "guest_stars": [
+                {
+                  "name": "Ruy Iskandar",
+                  "character": "Lieutenant Jee",
+                  "profile_path": "/8xQXl6eGkhqBp35xoagbwjUSIv.jpg",
+                  "order": 504,
+                  "id": 3008571
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa / Momo (voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 507,
+                  "id": 157067
+                },
+                {
+                  "name": "Ryan Mah",
+                  "character": "Lieutenant Dang",
+                  "profile_path": "/28pyjtzP3uEUTiTBLMNZu9qBWLu.jpg",
+                  "order": 524,
+                  "id": 2675250
+                },
+                {
+                  "name": "Utkarsh Ambudkar",
+                  "character": "King Bumi",
+                  "profile_path": "/vUW5bFrkjWikNFzh5B6F11r5C3X.jpg",
+                  "order": 529,
+                  "id": 929511
+                },
+                {
+                  "name": "Danny Pudi",
+                  "character": "The Mechanist",
+                  "profile_path": "/w0zT8Y2dQHU8FgV03NJoHJE6tmD.jpg",
+                  "order": 530,
+                  "id": 205179
+                },
+                {
+                  "name": "Elizabeth Yu",
+                  "character": "Princess Azula",
+                  "profile_path": "/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg",
+                  "order": 531,
+                  "id": 3417134
+                },
+                {
+                  "name": "Thalia Tran",
+                  "character": "Mai",
+                  "profile_path": "/f5UdVlrtai1iQVAhy14uNONUkJf.jpg",
+                  "order": 532,
+                  "id": 2782707
+                },
+                {
+                  "name": "Momona Tamada",
+                  "character": "Ty Lee",
+                  "profile_path": "/25vFWFpuMppnyXQAoJUfzNWwYZu.jpg",
+                  "order": 533,
+                  "id": 2298635
+                },
+                {
+                  "name": "Sebastian Amoruso",
+                  "character": "Jet",
+                  "profile_path": "/2pSyOp2UFdvDyw11jFIJ0XVUbwx.jpg",
+                  "order": 534,
+                  "id": 3169325
+                },
+                {
+                  "name": "Lucian-River Chauhan",
+                  "character": "Teo",
+                  "profile_path": "/yJpRBSknptPyFORxFQtjIb3CkbM.jpg",
+                  "order": 535,
+                  "id": 2670299
+                },
+                {
+                  "name": "James Sie",
+                  "character": "Cabbage Merchant",
+                  "profile_path": "/yZ8SFsJJNmhgtNizwcWfknyBoBt.jpg",
+                  "order": 536,
+                  "id": 154657
+                },
+                {
+                  "name": "Rainbow Dickerson",
+                  "character": "Kya",
+                  "profile_path": "/ojXDsLcuJZSgseAjfCDabi2WIWZ.jpg",
+                  "order": 537,
+                  "id": 1868489
+                },
+                {
+                  "name": "Osric Chau",
+                  "character": "Tan",
+                  "profile_path": "/jqbRL2eNTxm4ut72dJGqlGZd6yW.jpg",
+                  "order": 538,
+                  "id": 101016
+                },
+                {
+                  "name": "Kelvin Lum",
+                  "character": "Cloaked Firebender",
+                  "profile_path": "",
+                  "order": 539,
+                  "id": 2590313
+                },
+                {
+                  "name": "Moheb Jindran",
+                  "character": "Omashu Guard",
+                  "profile_path": "/uOuRAYLRxDR7A5JKcPrhb6Z1R4O.jpg",
+                  "order": 540,
+                  "id": 3557390
+                },
+                {
+                  "name": "Christopher Logan",
+                  "character": "Omashu Guard",
+                  "profile_path": "/3TSlCOJLFLpvPPbfFAcuzvwk3K6.jpg",
+                  "order": 541,
+                  "id": 946293
+                },
+                {
+                  "name": "Taylor Lam Wright",
+                  "character": "The Duke",
+                  "profile_path": "/kmzqLQUqZZapVIxM2yLwZZ3YfVL.jpg",
+                  "order": 542,
+                  "id": 4071535
+                },
+                {
+                  "name": "Vincent Huang",
+                  "character": "Pipsqueak",
+                  "profile_path": "",
+                  "order": 543,
+                  "id": 92070
+                },
+                {
+                  "name": "Wes Valarao",
+                  "character": "Smellerbee",
+                  "profile_path": "",
+                  "order": 544,
+                  "id": 4551322
+                },
+                {
+                  "name": "Nathaniel Kong",
+                  "character": "Longshot",
+                  "profile_path": "/zc0KHnCXSCK0r8bNJsyy2KVpoXa.jpg",
+                  "order": 545,
+                  "id": 4071536
+                },
+                {
+                  "name": "Tim Zhang",
+                  "character": "Grocer",
+                  "profile_path": "/63qr1B704KHNSFYydcfS7w389lA.jpg",
+                  "order": 546,
+                  "id": 1476559
+                },
+                {
+                  "name": "Colin Foo",
+                  "character": "Pai Sho Vendor",
+                  "profile_path": "/6k8GidgaTlsC8gWAVmXbhWf4U00.jpg",
+                  "order": 547,
+                  "id": 158521
+                },
+                {
+                  "name": "Mohammed Imran Ali",
+                  "character": "Old Man",
+                  "profile_path": "",
+                  "order": 548,
+                  "id": 4551323
+                },
+                {
+                  "name": "Ragini Kapil",
+                  "character": "Omashu Merchant",
+                  "profile_path": "",
+                  "order": 549,
+                  "id": 4551324
+                },
+                {
+                  "name": "Paul Kular",
+                  "character": "Omashu Merchant",
+                  "profile_path": "/2BBjbAebudwI2QdnG3XicsUd3Ap.jpg",
+                  "order": 550,
+                  "id": 2674991
+                },
+                {
+                  "name": "Nipun Joshi",
+                  "character": "Omashu Townsperson",
+                  "profile_path": "",
+                  "order": 551,
+                  "id": 4069695
+                },
+                {
+                  "name": "Asia Mattu",
+                  "character": "Omashu Mother",
+                  "profile_path": "",
+                  "order": 552,
+                  "id": 1948563
+                },
+                {
+                  "name": "Dayah Brar",
+                  "character": "Omashu Daughter",
+                  "profile_path": "/83XPNKxaxtwXtxHDKx0PYy6JQOm.jpg",
+                  "order": 553,
+                  "id": 1943081
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Ken Leung",
+                  "character": "Commander Zhao",
+                  "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+                  "order": 6,
+                  "id": 2131
+                },
+                {
+                  "name": "Daniel Dae Kim",
+                  "character": "Fire Lord Ozai",
+                  "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+                  "order": 7,
+                  "id": 18307
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Christine Boylan",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1224196,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jabbar Raisani",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1420778,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Michael Balfry",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1099434,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Lebowitz",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 3184456,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt16359890",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9857789,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDMubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "No escuro",
+              "original_name": "",
+              "air_date": "2024-02-22",
+              "runtime": 56,
+              "overview": "Em cativeiro, Aang conhece um rei que adora jogos. Para encontrar o amigo, os irmãos precisam passar por um túnel escuro e colocar as diferenças de lado.",
+              "still_path": "/zEKE4WLjHImmn9xAl1OCFxSroVQ.jpg",
+              "vote_average": 7.7,
+              "vote_count": 66,
+              "guest_stars": [
+                {
+                  "name": "林继修",
+                  "character": "Gyatso",
+                  "profile_path": "",
+                  "order": 500,
+                  "id": 17155
+                },
+                {
+                  "name": "Utkarsh Ambudkar",
+                  "character": "King Bumi",
+                  "profile_path": "/vUW5bFrkjWikNFzh5B6F11r5C3X.jpg",
+                  "order": 529,
+                  "id": 929511
+                },
+                {
+                  "name": "Danny Pudi",
+                  "character": "The Mechanist",
+                  "profile_path": "/w0zT8Y2dQHU8FgV03NJoHJE6tmD.jpg",
+                  "order": 530,
+                  "id": 205179
+                },
+                {
+                  "name": "Sebastian Amoruso",
+                  "character": "Jet",
+                  "profile_path": "/2pSyOp2UFdvDyw11jFIJ0XVUbwx.jpg",
+                  "order": 534,
+                  "id": 3169325
+                },
+                {
+                  "name": "Lucian-River Chauhan",
+                  "character": "Teo",
+                  "profile_path": "/yJpRBSknptPyFORxFQtjIb3CkbM.jpg",
+                  "order": 535,
+                  "id": 2670299
+                },
+                {
+                  "name": "James Sie",
+                  "character": "Cabbage Merchant",
+                  "profile_path": "/yZ8SFsJJNmhgtNizwcWfknyBoBt.jpg",
+                  "order": 536,
+                  "id": 154657
+                },
+                {
+                  "name": "Albert Nicholas",
+                  "character": "Guard",
+                  "profile_path": "/9azNURWdyhimWhCoc7UzprmyELZ.jpg",
+                  "order": 554,
+                  "id": 1840722
+                },
+                {
+                  "name": "Pradnesh Prakash",
+                  "character": "Young Bumi",
+                  "profile_path": "",
+                  "order": 555,
+                  "id": 4551332
+                },
+                {
+                  "name": "Seth Ranaweera",
+                  "character": "Omashu Captain",
+                  "profile_path": "/zwmnNRRlOim3vQ2zal57AZfFhnd.jpg",
+                  "order": 556,
+                  "id": 189690
+                },
+                {
+                  "name": "Akshaya Pattanayak",
+                  "character": "Royal Advisor",
+                  "profile_path": "",
+                  "order": 557,
+                  "id": 3680528
+                },
+                {
+                  "name": "Emily Schoen",
+                  "character": "Minstrel",
+                  "profile_path": "/vOprKdwPzpz6NAOO0kQwtmBNDJZ.jpg",
+                  "order": 558,
+                  "id": 1869716
+                },
+                {
+                  "name": "Shastina Kumar",
+                  "character": "Minstrel",
+                  "profile_path": "",
+                  "order": 559,
+                  "id": 2781260
+                },
+                {
+                  "name": "Jon Ray Dy Buco",
+                  "character": "Minstrel",
+                  "profile_path": "/f18syc3KzpKS6YTW55r9IL46JsH.jpg",
+                  "order": 560,
+                  "id": 4551335
+                },
+                {
+                  "name": "Wilson Kwok",
+                  "character": "Minstrel",
+                  "profile_path": "",
+                  "order": 561,
+                  "id": 1507861
+                },
+                {
+                  "name": "Gayle Yamamoto",
+                  "character": "Bureaucrat",
+                  "profile_path": "",
+                  "order": 562,
+                  "id": 2922458
+                },
+                {
+                  "name": "Russell Jung",
+                  "character": "Diplomat",
+                  "profile_path": "",
+                  "order": 563,
+                  "id": 2595397
+                },
+                {
+                  "name": "Sunnie James",
+                  "character": "Sergeant",
+                  "profile_path": "",
+                  "order": 564,
+                  "id": 3168611
+                },
+                {
+                  "name": "Andy Kalirai",
+                  "character": "Servant",
+                  "profile_path": "/pkrUIWOzHVXGTDxtH9XM2mc2Ez6.jpg",
+                  "order": 565,
+                  "id": 4551337
+                },
+                {
+                  "name": "Justin Wong",
+                  "character": "Minstrel",
+                  "profile_path": "/m669meZMXM8vbBFEtknswzcQ6zW.jpg",
+                  "order": 616,
+                  "id": 4098819
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Ken Leung",
+                  "character": "Commander Zhao",
+                  "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+                  "order": 6,
+                  "id": 2131
+                },
+                {
+                  "name": "Daniel Dae Kim",
+                  "character": "Fire Lord Ozai",
+                  "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+                  "order": 7,
+                  "id": 18307
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Keely MacDonald",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2520589,
+                  "profile_path": "/zHMW9oqM9wPfxSHnaDslu0PkMe6.jpg"
+                },
+                {
+                  "name": "Jabbar Raisani",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1420778,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Michael Balfry",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1099434,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Joe Talbot Hall",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1607171,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt16359892",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9857790,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDQubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "O Mundo Espiritual",
+              "original_name": "",
+              "air_date": "2024-02-22",
+              "runtime": 53,
+              "overview": "No Mundo Espiritual para uma missão de resgate, o grupo se depara com ameaças intimidantes, memórias dolorosas e uma entidade enigmática.",
+              "still_path": "/cVbAWz6K87JgF8iYjzZL1DA3BEl.jpg",
+              "vote_average": 7.6,
+              "vote_count": 65,
+              "guest_stars": [
+                {
+                  "name": "林继修",
+                  "character": "Gyatso",
+                  "profile_path": "",
+                  "order": 500,
+                  "id": 17155
+                },
+                {
+                  "name": "Casey Camp-Horinek",
+                  "character": "Gran Gran",
+                  "profile_path": "/roPy4mfbGqTYXwTX76zv6XFQsdG.jpg",
+                  "order": 501,
+                  "id": 1052618
+                },
+                {
+                  "name": "Ruy Iskandar",
+                  "character": "Lieutenant Jee",
+                  "profile_path": "/8xQXl6eGkhqBp35xoagbwjUSIv.jpg",
+                  "order": 504,
+                  "id": 3008571
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa / Momo (voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 507,
+                  "id": 157067
+                },
+                {
+                  "name": "Elizabeth Yu",
+                  "character": "Princess Azula",
+                  "profile_path": "/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg",
+                  "order": 531,
+                  "id": 3417134
+                },
+                {
+                  "name": "Thalia Tran",
+                  "character": "Mai",
+                  "profile_path": "/f5UdVlrtai1iQVAhy14uNONUkJf.jpg",
+                  "order": 532,
+                  "id": 2782707
+                },
+                {
+                  "name": "Momona Tamada",
+                  "character": "Ty Lee",
+                  "profile_path": "/25vFWFpuMppnyXQAoJUfzNWwYZu.jpg",
+                  "order": 533,
+                  "id": 2298635
+                },
+                {
+                  "name": "Rainbow Dickerson",
+                  "character": "Kya",
+                  "profile_path": "/ojXDsLcuJZSgseAjfCDabi2WIWZ.jpg",
+                  "order": 537,
+                  "id": 1868489
+                },
+                {
+                  "name": "George Takei",
+                  "character": "Koh (voice)",
+                  "profile_path": "/kfpkgfcuxcOrw2OCoAyQpPamQVv.jpg",
+                  "order": 566,
+                  "id": 1752
+                },
+                {
+                  "name": "Randall Duk Kim",
+                  "character": "Wan Shi Tong (voice)",
+                  "profile_path": "/31T1gSUP67F2qPI3x6uLJn3Sat7.jpg",
+                  "order": 567,
+                  "id": 9462
+                },
+                {
+                  "name": "Arden Cho",
+                  "character": "June",
+                  "profile_path": "/9YYeDthohs1Iv7IFG0hs8U3p50Z.jpg",
+                  "order": 569,
+                  "id": 144279
+                },
+                {
+                  "name": "Joel Montgrand",
+                  "character": "Hakoda",
+                  "profile_path": "/2cxC7nq7FFsHHUfNbznYdIlgRKm.jpg",
+                  "order": 570,
+                  "id": 1647295
+                },
+                {
+                  "name": "Ash Lee",
+                  "character": "Shufen",
+                  "profile_path": "/4utuaXs7Li4puP7TcdVwq9Owhyx.jpg",
+                  "order": 571,
+                  "id": 1581107
+                },
+                {
+                  "name": "Ciara Mandel",
+                  "character": "Lian",
+                  "profile_path": "/fcc2cEtZIzxL1gNaoWhbeXwZQ3r.jpg",
+                  "order": 572,
+                  "id": 3895792
+                },
+                {
+                  "name": "Trevor Carroll",
+                  "character": "Bato",
+                  "profile_path": "/pnnApOIQbj2cnnpT4yqKfDqtANR.jpg",
+                  "order": 573,
+                  "id": 1396999
+                },
+                {
+                  "name": "Olivia Kate Iatridis",
+                  "character": "Ummi",
+                  "profile_path": "/68AsKeVDzjANdvQRivP7vmK7wrZ.jpg",
+                  "order": 574,
+                  "id": 3184793
+                },
+                {
+                  "name": "Meadow Kingfisher",
+                  "character": "Young Katara",
+                  "profile_path": "/u3S7977UsV8KRWqV9G5IgoZqHTq.jpg",
+                  "order": 575,
+                  "id": 4007272
+                },
+                {
+                  "name": "Kimmy Choi",
+                  "character": "Yuyan Archer Captain",
+                  "profile_path": "",
+                  "order": 576,
+                  "id": 1807974
+                },
+                {
+                  "name": "Simon Chin",
+                  "character": "Yang",
+                  "profile_path": "/cpZ7ctAbDbX6ZwtTiU8ecV5DjT1.jpg",
+                  "order": 577,
+                  "id": 1259515
+                },
+                {
+                  "name": "Thomas Wayne Hum",
+                  "character": "Crew Member",
+                  "profile_path": "/a9AVqpKW9tQq9yxGEWhcupUsbWN.jpg",
+                  "order": 578,
+                  "id": 2547057
+                },
+                {
+                  "name": "Jerry Yang",
+                  "character": "Crew Member",
+                  "profile_path": "/jsiBdVyeYxXAvyr05ratP2Xj4vE.jpg",
+                  "order": 579,
+                  "id": 2243216
+                },
+                {
+                  "name": "Jayson Li",
+                  "character": "Angry Man",
+                  "profile_path": "",
+                  "order": 580,
+                  "id": 3081555
+                },
+                {
+                  "name": "Derek Kwan",
+                  "character": "Patron",
+                  "profile_path": "/yYO8PeQBBb6ORxhHUBOpiojgdjI.jpg",
+                  "order": 581,
+                  "id": 2175469
+                },
+                {
+                  "name": "Rohain Arora",
+                  "character": "Patron",
+                  "profile_path": "/y63limvgWHobHxrjGV7QnIhqs3w.jpg",
+                  "order": 582,
+                  "id": 2601445
+                },
+                {
+                  "name": "Winson Won",
+                  "character": "Muki",
+                  "profile_path": "",
+                  "order": 583,
+                  "id": 1476620
+                },
+                {
+                  "name": "Tristan Liu",
+                  "character": "Trainer",
+                  "profile_path": "",
+                  "order": 584,
+                  "id": 3054660
+                },
+                {
+                  "name": "Tom Lim",
+                  "character": "Yon Rha",
+                  "profile_path": "",
+                  "order": 585,
+                  "id": 3013607
+                },
+                {
+                  "name": "Elijah Chenoweth",
+                  "character": "Teen",
+                  "profile_path": "",
+                  "order": 586,
+                  "id": 4551368
+                },
+                {
+                  "name": "Jon Wei Jun Foh",
+                  "character": "Scruffy Thug",
+                  "profile_path": "",
+                  "order": 587,
+                  "id": 4551371
+                },
+                {
+                  "name": "Mela Pietropaolo",
+                  "character": "Young Girl",
+                  "profile_path": "/91rsRcg5xy7NflgtDQqAaffLJ6C.jpg",
+                  "order": 588,
+                  "id": 4392854
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Ken Leung",
+                  "character": "Commander Zhao",
+                  "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+                  "order": 6,
+                  "id": 2131
+                },
+                {
+                  "name": "Daniel Dae Kim",
+                  "character": "Fire Lord Ozai",
+                  "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+                  "order": 7,
+                  "id": 18307
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Gabriel Llanas",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1379193,
+                  "profile_path": "/zyoO4ha6SoMLboPAur222XEYD2O.jpg"
+                },
+                {
+                  "name": "Roseanne Liang",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1123897,
+                  "profile_path": "/imRI6lAEVFprlFk2jv69BmpCkfA.jpg"
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ian S. Tan",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 2839049,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Stewart Whelan",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1579180,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Chris Visser",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1748551,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt16359894",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9857791,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDUubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Máscaras",
+              "original_name": "",
+              "air_date": "2024-02-22",
+              "runtime": 57,
+              "overview": "Num momento de desespero, Aang procura o Avatar Roku em busca de ajuda em sua jornada, enquanto a Nação do Fogo se aproxima. Na fortaleza, um intruso mascarado liberta Aang.",
+              "still_path": "/ydSEm8QnzgMDWYz4Z3dvhbsmhZH.jpg",
+              "vote_average": 8.2,
+              "vote_count": 57,
+              "guest_stars": [
+                {
+                  "name": "Ruy Iskandar",
+                  "character": "Lieutenant Jee",
+                  "profile_path": "/8xQXl6eGkhqBp35xoagbwjUSIv.jpg",
+                  "order": 504,
+                  "id": 3008571
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa / Momo (voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 507,
+                  "id": 157067
+                },
+                {
+                  "name": "Elizabeth Yu",
+                  "character": "Princess Azula",
+                  "profile_path": "/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg",
+                  "order": 531,
+                  "id": 3417134
+                },
+                {
+                  "name": "Arden Cho",
+                  "character": "June",
+                  "profile_path": "/9YYeDthohs1Iv7IFG0hs8U3p50Z.jpg",
+                  "order": 569,
+                  "id": 144279
+                },
+                {
+                  "name": "Ash Lee",
+                  "character": "Shufen",
+                  "profile_path": "/4utuaXs7Li4puP7TcdVwq9Owhyx.jpg",
+                  "order": 571,
+                  "id": 1581107
+                },
+                {
+                  "name": "Ciara Mandel",
+                  "character": "Lian",
+                  "profile_path": "/fcc2cEtZIzxL1gNaoWhbeXwZQ3r.jpg",
+                  "order": 572,
+                  "id": 3895792
+                },
+                {
+                  "name": "Kimmy Choi",
+                  "character": "Yuyan Archer Captain",
+                  "profile_path": "",
+                  "order": 576,
+                  "id": 1807974
+                },
+                {
+                  "name": "Thomas Wayne Hum",
+                  "character": "Crew Member",
+                  "profile_path": "/a9AVqpKW9tQq9yxGEWhcupUsbWN.jpg",
+                  "order": 578,
+                  "id": 2547057
+                },
+                {
+                  "name": "C. S. Lee",
+                  "character": "Avatar Roku",
+                  "profile_path": "/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg",
+                  "order": 589,
+                  "id": 164380
+                },
+                {
+                  "name": "François Chau",
+                  "character": "The Great Sage",
+                  "profile_path": "/fRKnZpGoUBJAEx9gEOkN1bG21D8.jpg",
+                  "order": 590,
+                  "id": 60851
+                },
+                {
+                  "name": "James Rha",
+                  "character": "Shyu",
+                  "profile_path": "/pJX0RZE0UUuVMu4THXlcMjwiVhD.jpg",
+                  "order": 591,
+                  "id": 1366867
+                },
+                {
+                  "name": "Kevan Ohtsji",
+                  "character": "General Li",
+                  "profile_path": "/wif0qBL0gbAvTOz181vmjNsTaWR.jpg",
+                  "order": 592,
+                  "id": 60723
+                },
+                {
+                  "name": "Victor Young",
+                  "character": "Pohuai Sentry",
+                  "profile_path": "/7VvGRIXehYCbXsmAkzX0WaGtbya.jpg",
+                  "order": 593,
+                  "id": 2671537
+                },
+                {
+                  "name": "Wenke Song",
+                  "character": "Pohuai Guard",
+                  "profile_path": "",
+                  "order": 594,
+                  "id": 4354741
+                },
+                {
+                  "name": "Ryan Lino",
+                  "character": "Aide De Camp",
+                  "profile_path": "/qdZUGXIiCwBAPBIdZGiyC6rPAQn.jpg",
+                  "order": 595,
+                  "id": 4058262
+                },
+                {
+                  "name": "Jacky Zeng",
+                  "character": "Cart Driver",
+                  "profile_path": "",
+                  "order": 596,
+                  "id": 4551402
+                },
+                {
+                  "name": "Yuanze Toth",
+                  "character": "Shi-Yong",
+                  "profile_path": "",
+                  "order": 597,
+                  "id": 4551403
+                },
+                {
+                  "name": "Cyril Redillas",
+                  "character": "Military Advisor",
+                  "profile_path": "",
+                  "order": 598,
+                  "id": 4551404
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Ken Leung",
+                  "character": "Commander Zhao",
+                  "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+                  "order": 6,
+                  "id": 2131
+                },
+                {
+                  "name": "Daniel Dae Kim",
+                  "character": "Fire Lord Ozai",
+                  "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+                  "order": 7,
+                  "id": 18307
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Bryan Konietzko",
+                  "job": "Teleplay",
+                  "department": "Writing",
+                  "id": 1190518,
+                  "profile_path": "/5lPnGvtATjmPakR96dqPW3v4u8q.jpg"
+                },
+                {
+                  "name": "Emily Kim",
+                  "job": "Teleplay",
+                  "department": "Writing",
+                  "id": 4076273,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Hunter Ries",
+                  "job": "Teleplay",
+                  "department": "Writing",
+                  "id": 4551389,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Bryan Konietzko",
+                  "job": "Story",
+                  "department": "Writing",
+                  "id": 1190518,
+                  "profile_path": "/5lPnGvtATjmPakR96dqPW3v4u8q.jpg"
+                },
+                {
+                  "name": "Michael Dante DiMartino",
+                  "job": "Story",
+                  "department": "Writing",
+                  "id": 1190517,
+                  "profile_path": "/8ey06cRWYe5TlKl5tyYQf57kknw.jpg"
+                },
+                {
+                  "name": "Ubah Mohamed",
+                  "job": "Story",
+                  "department": "Writing",
+                  "id": 1825197,
+                  "profile_path": "/swj8sjMLnO3P450MnDozxPuZ6H6.jpg"
+                },
+                {
+                  "name": "Roseanne Liang",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1123897,
+                  "profile_path": "/imRI6lAEVFprlFk2jv69BmpCkfA.jpg"
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Wendy Tzeng",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 6308940,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Stewart Whelan",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1579180,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt16359896",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9857792,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDYubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "O Norte",
+              "original_name": "",
+              "air_date": "2024-02-22",
+              "runtime": 47,
+              "overview": "Um ataque à Tribo da Água do Norte se aproxima. Katara desafia um mestre Dobrador de água. Sokka conhece uma princesa. Aang reflete sobre as palavras de Kuruk.",
+              "still_path": "/l5n5OwFQPH0NyuBA4NEySAoO8hL.jpg",
+              "vote_average": 7.7,
+              "vote_count": 57,
+              "guest_stars": [
+                {
+                  "name": "Ruy Iskandar",
+                  "character": "Lieutenant Jee",
+                  "profile_path": "/8xQXl6eGkhqBp35xoagbwjUSIv.jpg",
+                  "order": 504,
+                  "id": 3008571
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa / Momo (voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 507,
+                  "id": 157067
+                },
+                {
+                  "name": "Ryan Mah",
+                  "character": "Lieutenant Dang",
+                  "profile_path": "/28pyjtzP3uEUTiTBLMNZu9qBWLu.jpg",
+                  "order": 524,
+                  "id": 2675250
+                },
+                {
+                  "name": "Elizabeth Yu",
+                  "character": "Princess Azula",
+                  "profile_path": "/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg",
+                  "order": 531,
+                  "id": 3417134
+                },
+                {
+                  "name": "Thalia Tran",
+                  "character": "Mai",
+                  "profile_path": "/f5UdVlrtai1iQVAhy14uNONUkJf.jpg",
+                  "order": 532,
+                  "id": 2782707
+                },
+                {
+                  "name": "Momona Tamada",
+                  "character": "Ty Lee",
+                  "profile_path": "/25vFWFpuMppnyXQAoJUfzNWwYZu.jpg",
+                  "order": 533,
+                  "id": 2298635
+                },
+                {
+                  "name": "Amber Midthunder",
+                  "character": "Princess Yue",
+                  "profile_path": "/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg",
+                  "order": 568,
+                  "id": 1654001
+                },
+                {
+                  "name": "A Martinez",
+                  "character": "Pakku",
+                  "profile_path": "/gp0HXzEJPWFRnxLnbGJDrvBTgpr.jpg",
+                  "order": 599,
+                  "id": 78398
+                },
+                {
+                  "name": "Nathaniel Arcand",
+                  "character": "Chief Arnook",
+                  "profile_path": "/zGi472JSPXlY71ocGh8PQOn5Ag6.jpg",
+                  "order": 600,
+                  "id": 60722
+                },
+                {
+                  "name": "Irene Bedard",
+                  "character": "Yagoda",
+                  "profile_path": "/9q6ad1uihRROKM8FWv2Asb8sj5j.jpg",
+                  "order": 601,
+                  "id": 65529
+                },
+                {
+                  "name": "Joel Oulette",
+                  "character": "Hahn",
+                  "profile_path": "/qmzQBjq1hLpU37HtsKw5MszgRKa.jpg",
+                  "order": 602,
+                  "id": 2129888
+                },
+                {
+                  "name": "Meegwun Fairbrother",
+                  "character": "Avatar Kuruk",
+                  "profile_path": "/npbmcqKhPNg1Ml0D2Ng3FGhTI6Z.jpg",
+                  "order": 603,
+                  "id": 1261370
+                },
+                {
+                  "name": "Taio Gélinas",
+                  "character": "Trainee",
+                  "profile_path": "/hQOI6E8BcixOYrOvmE6Tno20wiI.jpg",
+                  "order": 604,
+                  "id": 2718349
+                },
+                {
+                  "name": "Corvin Mack",
+                  "character": "Waterbender",
+                  "profile_path": "/ekVQITITjV6eccqplzh89noFuSx.jpg",
+                  "order": 605,
+                  "id": 3032301
+                },
+                {
+                  "name": "Bernie Yao",
+                  "character": "Head Trainer",
+                  "profile_path": "/sfORGOHL3ZjtwYgLQDyyCfYe0c7.jpg",
+                  "order": 606,
+                  "id": 2776539
+                },
+                {
+                  "name": "Calvin Carbonell",
+                  "character": "Ensign",
+                  "profile_path": "/gG7JUajpF9DdpyetQwiiv2z2kFb.jpg",
+                  "order": 607,
+                  "id": 3836472
+                },
+                {
+                  "name": "Chanel Thomas",
+                  "character": "Little Girl",
+                  "profile_path": "",
+                  "order": 608,
+                  "id": 4551452
+                },
+                {
+                  "name": "Pat Alec",
+                  "character": "Injured Warrior",
+                  "profile_path": "",
+                  "order": 609,
+                  "id": 4041919
+                },
+                {
+                  "name": "Chih-Ping Cheng",
+                  "character": "Earthbender Prisoner",
+                  "profile_path": "",
+                  "order": 610,
+                  "id": 4551456
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Ken Leung",
+                  "character": "Commander Zhao",
+                  "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+                  "order": 6,
+                  "id": 2131
+                },
+                {
+                  "name": "Daniel Dae Kim",
+                  "character": "Fire Lord Ozai",
+                  "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+                  "order": 7,
+                  "id": 18307
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Audrey Wong Kennedy",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 4071492,
+                  "profile_path": "/uPc5s11jcOQn2bdEju5bs9GquPj.jpg"
+                },
+                {
+                  "name": "Jet Wilkinson",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1532988,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Michael Balfry",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1099434,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Lebowitz",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 3184456,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt16359898",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9857793,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDcubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "Lendas",
+              "original_name": "",
+              "air_date": "2024-02-22",
+              "runtime": 58,
+              "overview": "Zhao lidera a Nação do Fogo rumo ao Norte com um plano audacioso para enfraquecer a Tribo da Água. Quando a batalha se torna sombria, Aang entra em um estado poderoso.",
+              "still_path": "/ms2trhGJv7yWUe8doDMa9EHccAS.jpg",
+              "vote_average": 7.7,
+              "vote_count": 68,
+              "guest_stars": [
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa / Momo (voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 507,
+                  "id": 157067
+                },
+                {
+                  "name": "Utkarsh Ambudkar",
+                  "character": "King Bumi",
+                  "profile_path": "/vUW5bFrkjWikNFzh5B6F11r5C3X.jpg",
+                  "order": 529,
+                  "id": 929511
+                },
+                {
+                  "name": "Elizabeth Yu",
+                  "character": "Princess Azula",
+                  "profile_path": "/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg",
+                  "order": 531,
+                  "id": 3417134
+                },
+                {
+                  "name": "Amber Midthunder",
+                  "character": "Princess Yue",
+                  "profile_path": "/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg",
+                  "order": 568,
+                  "id": 1654001
+                },
+                {
+                  "name": "François Chau",
+                  "character": "The Great Sage",
+                  "profile_path": "/fRKnZpGoUBJAEx9gEOkN1bG21D8.jpg",
+                  "order": 590,
+                  "id": 60851
+                },
+                {
+                  "name": "A Martinez",
+                  "character": "Pakku",
+                  "profile_path": "/gp0HXzEJPWFRnxLnbGJDrvBTgpr.jpg",
+                  "order": 599,
+                  "id": 78398
+                },
+                {
+                  "name": "Nathaniel Arcand",
+                  "character": "Chief Arnook",
+                  "profile_path": "/zGi472JSPXlY71ocGh8PQOn5Ag6.jpg",
+                  "order": 600,
+                  "id": 60722
+                },
+                {
+                  "name": "Irene Bedard",
+                  "character": "Yagoda",
+                  "profile_path": "/9q6ad1uihRROKM8FWv2Asb8sj5j.jpg",
+                  "order": 601,
+                  "id": 65529
+                },
+                {
+                  "name": "Joel Oulette",
+                  "character": "Hahn",
+                  "profile_path": "/qmzQBjq1hLpU37HtsKw5MszgRKa.jpg",
+                  "order": 602,
+                  "id": 2129888
+                },
+                {
+                  "name": "Meegwun Fairbrother",
+                  "character": "Avatar Kuruk",
+                  "profile_path": "/npbmcqKhPNg1Ml0D2Ng3FGhTI6Z.jpg",
+                  "order": 603,
+                  "id": 1261370
+                },
+                {
+                  "name": "Taio Gélinas",
+                  "character": "Trainee",
+                  "profile_path": "/hQOI6E8BcixOYrOvmE6Tno20wiI.jpg",
+                  "order": 604,
+                  "id": 2718349
+                },
+                {
+                  "name": "Allen Jia-You Keng",
+                  "character": "Lookout",
+                  "profile_path": "",
+                  "order": 611,
+                  "id": 4551468
+                },
+                {
+                  "name": "Shota Tsuji",
+                  "character": "The Captain",
+                  "profile_path": "/6hFhf3bejW4yU2JFT7ly8rq0B7b.jpg",
+                  "order": 612,
+                  "id": 4406506
+                },
+                {
+                  "name": "Tyler Peters",
+                  "character": "Small Boy",
+                  "profile_path": "",
+                  "order": 613,
+                  "id": 4148212
+                },
+                {
+                  "name": "Ellicia Jade",
+                  "character": "Small Boy's Mother",
+                  "profile_path": "",
+                  "order": 614,
+                  "id": 4551470
+                },
+                {
+                  "name": "Stevie Nande",
+                  "character": "Small Boy's Father",
+                  "profile_path": "",
+                  "order": 615,
+                  "id": 4551471
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Ken Leung",
+                  "character": "Commander Zhao",
+                  "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+                  "order": 6,
+                  "id": 2131
+                },
+                {
+                  "name": "Daniel Dae Kim",
+                  "character": "Fire Lord Ozai",
+                  "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+                  "order": 7,
+                  "id": 18307
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Albert Kim",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 209839,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jet Wilkinson",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1532988,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Michael Balfry",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1099434,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Joe Talbot Hall",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 1607171,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt16359902",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9857794,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDEtMDgubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "name": "Temporada 2",
+          "overview": "Após uma vitória agridoce ao salvar a Tribo da Água do Norte da invasão da Nação do Fogo, o Avatar Aang, Katara e Sokka se reagrupam e partem em uma missão para convencer o esquivo Rei da Terra a ajudá-los na batalha contra o temível Senhor do Fogo Ozai. Sua jornada até a impenetrável cidade de Ba Sing Se, lar do Rei da Terra, é traiçoeira, mas também frutífera: Aang descobre Toph, uma jovem e audaciosa mestra da dobra de terra, e a convence a ajudá-lo a adicionar a dobra de terra aos seus poderes de dobra de ar e água.",
+          "poster_path": "/dK73meTajjqS5TEVsYqXQs1PsDY.jpg",
+          "poster": "/dK73meTajjqS5TEVsYqXQs1PsDY.jpg",
+          "backdrop_path": "",
+          "air_date": "2026-06-25",
+          "vote_average": 6.8,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Gordon Cormier",
+              "character": "Aang",
+              "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+              "order": 0,
+              "id": 2447707
+            },
+            {
+              "name": "Kiawentiio",
+              "character": "Katara",
+              "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+              "order": 1,
+              "id": 2718335
+            },
+            {
+              "name": "Ian Ousley",
+              "character": "Sokka",
+              "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+              "order": 2,
+              "id": 2595507
+            },
+            {
+              "name": "Dallas Liu",
+              "character": "Zuko",
+              "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+              "order": 3,
+              "id": 1792920
+            },
+            {
+              "name": "Miyako",
+              "character": "Toph Beifong",
+              "profile_path": "/3qALscJoBm9nDGlc8hgGWxQnqdi.jpg",
+              "order": 5,
+              "id": 1771746
+            }
+          ],
+          "crew": [
+            {
+              "name": "Adam Chazen",
+              "job": "Visual Effects Producer",
+              "department": "Visual Effects",
+              "id": 2657926,
+              "profile_path": ""
+            },
+            {
+              "name": "Jennifer Page",
+              "job": "Location Casting",
+              "department": "Production",
+              "id": 1122003,
+              "profile_path": ""
+            },
+            {
+              "name": "Corinne Clark",
+              "job": "Location Casting",
+              "department": "Production",
+              "id": 986277,
+              "profile_path": ""
+            },
+            {
+              "name": "Colleen Bolton",
+              "job": "Location Casting",
+              "department": "Production",
+              "id": 65194,
+              "profile_path": ""
+            },
+            {
+              "name": "Maureen Webb",
+              "job": "Location Casting",
+              "department": "Production",
+              "id": 23811,
+              "profile_path": "/1FPC2jp55fKs204pAE5LrqSKqrQ.jpg"
+            },
+            {
+              "name": "Jenny Jue",
+              "job": "Casting",
+              "department": "Production",
+              "id": 1011188,
+              "profile_path": ""
+            },
+            {
+              "name": "Christopher Hargadon",
+              "job": "Costume Design",
+              "department": "Costume & Make-Up",
+              "id": 23548,
+              "profile_path": ""
+            },
+            {
+              "name": "Brendan Ferguson",
+              "job": "Unit Production Manager",
+              "department": "Production",
+              "id": 978336,
+              "profile_path": ""
+            },
+            {
+              "name": "Helen Shang",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1667201,
+              "profile_path": ""
+            },
+            {
+              "name": "Brendan Ferguson",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 978336,
+              "profile_path": ""
+            },
+            {
+              "name": "Ryan Halprin",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1686000,
+              "profile_path": ""
+            },
+            {
+              "name": "Christine Boylan",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1224196,
+              "profile_path": ""
+            },
+            {
+              "name": "Phinneas Kiyomura",
+              "job": "Executive Story Editor",
+              "department": "Writing",
+              "id": 1391251,
+              "profile_path": ""
+            },
+            {
+              "name": "Christopher Zampas",
+              "job": "Producer",
+              "department": "Production",
+              "id": 4551147,
+              "profile_path": ""
+            },
+            {
+              "name": "Keely MacDonald",
+              "job": "Producer",
+              "department": "Production",
+              "id": 2520589,
+              "profile_path": "/zHMW9oqM9wPfxSHnaDslu0PkMe6.jpg"
+            },
+            {
+              "name": "Teresa Huang",
+              "job": "Producer",
+              "department": "Production",
+              "id": 1456297,
+              "profile_path": "/dXtaGxo1sumj0ZBZKir3kBgDZZg.jpg"
+            },
+            {
+              "name": "Jake Chusid",
+              "job": "Associate Producer",
+              "department": "Production",
+              "id": 6308938,
+              "profile_path": ""
+            },
+            {
+              "name": "Lin MacDonald",
+              "job": "Set Decoration",
+              "department": "Art",
+              "id": 12384,
+              "profile_path": ""
+            },
+            {
+              "name": "Michael A. Billings",
+              "job": "Assistant Set Decoration",
+              "department": "Art",
+              "id": 2067377,
+              "profile_path": ""
+            },
+            {
+              "name": "Laurens Vermeulen",
+              "job": "Digital Compositor",
+              "department": "Visual Effects",
+              "id": 2128694,
+              "profile_path": ""
+            },
+            {
+              "name": "Daniel Santos",
+              "job": "Digital Compositor",
+              "department": "Visual Effects",
+              "id": 6578749,
+              "profile_path": ""
+            },
+            {
+              "name": "Marion Spates",
+              "job": "Visual Effects Supervisor",
+              "department": "Visual Effects",
+              "id": 1637392,
+              "profile_path": ""
+            },
+            {
+              "name": "Takeshi Furukawa",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 1526939,
+              "profile_path": ""
+            },
+            {
+              "name": "Michael Wylie",
+              "job": "Production Design",
+              "department": "Art",
+              "id": 1543012,
+              "profile_path": ""
+            },
+            {
+              "name": "Gabriel Llanas",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1379193,
+              "profile_path": "/zyoO4ha6SoMLboPAur222XEYD2O.jpg"
+            },
+            {
+              "name": "Jabbar Raisani",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1420778,
+              "profile_path": ""
+            },
+            {
+              "name": "Michael Dante DiMartino",
+              "job": "Original Series Creator",
+              "department": "Writing",
+              "id": 1190517,
+              "profile_path": "/8ey06cRWYe5TlKl5tyYQf57kknw.jpg"
+            },
+            {
+              "name": "Bryan Konietzko",
+              "job": "Original Series Creator",
+              "department": "Writing",
+              "id": 1190518,
+              "profile_path": "/5lPnGvtATjmPakR96dqPW3v4u8q.jpg"
+            },
+            {
+              "name": "Albert Kim",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 209839,
+              "profile_path": ""
+            },
+            {
+              "name": "Dan Lin",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 112690,
+              "profile_path": "/skXxQ2MZ2OYpP0aFyBoieFTT3iK.jpg"
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Um lugar seguro",
+              "original_name": "",
+              "air_date": "2026-06-25",
+              "runtime": 68,
+              "overview": "Decidido a dominar a dobra de terra, Aang tenta libertar Bumi da prisão. Zuko se irrita com o plano de Iroh de manter o disfarce. Azula tem uma nova missão.",
+              "still_path": "/rFarciKTQj1kbOTXeERESSwv4dG.jpg",
+              "vote_average": 7.4,
+              "vote_count": 36,
+              "guest_stars": [
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Daniel Dae Kim",
+                  "character": "Fire Lord Ozai",
+                  "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+                  "order": 7,
+                  "id": 18307
+                },
+                {
+                  "name": "Maria Zhang",
+                  "character": "Suki",
+                  "profile_path": "/A8l9dWZH1oSBag58GfbFAT8wfB8.jpg",
+                  "order": 523,
+                  "id": 3320666
+                },
+                {
+                  "name": "Utkarsh Ambudkar",
+                  "character": "King Bumi",
+                  "profile_path": "/vUW5bFrkjWikNFzh5B6F11r5C3X.jpg",
+                  "order": 529,
+                  "id": 929511
+                },
+                {
+                  "name": "Thalia Tran",
+                  "character": "Mai",
+                  "profile_path": "/f5UdVlrtai1iQVAhy14uNONUkJf.jpg",
+                  "order": 532,
+                  "id": 2782707
+                },
+                {
+                  "name": "Momona Tamada",
+                  "character": "Ty Lee",
+                  "profile_path": "/25vFWFpuMppnyXQAoJUfzNWwYZu.jpg",
+                  "order": 533,
+                  "id": 2298635
+                },
+                {
+                  "name": "Lucian-River Chauhan",
+                  "character": "Teo",
+                  "profile_path": "/yJpRBSknptPyFORxFQtjIb3CkbM.jpg",
+                  "order": 535,
+                  "id": 2670299
+                },
+                {
+                  "name": "Kevan Ohtsji",
+                  "character": "General Li",
+                  "profile_path": "/wif0qBL0gbAvTOz181vmjNsTaWR.jpg",
+                  "order": 592,
+                  "id": 60723
+                },
+                {
+                  "name": "Meegwun Fairbrother",
+                  "character": "Avatar Kuruk",
+                  "profile_path": "/npbmcqKhPNg1Ml0D2Ng3FGhTI6Z.jpg",
+                  "order": 603,
+                  "id": 1261370
+                },
+                {
+                  "name": "Elizabeth Yu",
+                  "character": "Azula",
+                  "profile_path": "/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg",
+                  "order": 619,
+                  "id": 3417134
+                },
+                {
+                  "name": "Danny Pudi",
+                  "character": "Sai",
+                  "profile_path": "/w0zT8Y2dQHU8FgV03NJoHJE6tmD.jpg",
+                  "order": 620,
+                  "id": 205179
+                },
+                {
+                  "name": "Dolly de Leon",
+                  "character": "Lo/Li",
+                  "profile_path": "/fwwvPAJaJA3F8P35MYGf8MmYfe8.jpg",
+                  "order": 621,
+                  "id": 1513304
+                },
+                {
+                  "name": "Rekha Sharma",
+                  "character": "Amita",
+                  "profile_path": "/expPWm2S08u334D9ZiN6MUOozRv.jpg",
+                  "order": 622,
+                  "id": 62717
+                },
+                {
+                  "name": "Dichen Lachman",
+                  "character": "Yangchen",
+                  "profile_path": "/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg",
+                  "order": 623,
+                  "id": 94797
+                },
+                {
+                  "name": "Lawrence Kao",
+                  "character": "Younger Iroh",
+                  "profile_path": "/foA82QIwvVRFWCAmw4UOsWdw8UT.jpg",
+                  "order": 624,
+                  "id": 1367306
+                },
+                {
+                  "name": "Yvonne Chapman",
+                  "character": "Kyoshi",
+                  "profile_path": "/rDbiwuGvzd8WOgyQNo5RTmbwvF1.jpg",
+                  "order": 625,
+                  "id": 2225815
+                },
+                {
+                  "name": "Justin Wong",
+                  "character": "Chong",
+                  "profile_path": "/m669meZMXM8vbBFEtknswzcQ6zW.jpg",
+                  "order": 626,
+                  "id": 4098819
+                },
+                {
+                  "name": "Jeremiah Oh",
+                  "character": "General Vinh Tran",
+                  "profile_path": "/5hYeG9j3QL0qIj0OK4oEm99Exkg.jpg",
+                  "order": 627,
+                  "id": 2556147
+                },
+                {
+                  "name": "Albert Nicholas",
+                  "character": "Captain Dixit",
+                  "profile_path": "/9azNURWdyhimWhCoc7UzprmyELZ.jpg",
+                  "order": 628,
+                  "id": 1840722
+                },
+                {
+                  "name": "Dee Bradley Baker",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+                  "order": 629,
+                  "id": 23680
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 630,
+                  "id": 157067
+                },
+                {
+                  "name": "Lin Lin",
+                  "character": "Kyoshi Warrior Daitan",
+                  "profile_path": "",
+                  "order": 631,
+                  "id": 5896912
+                },
+                {
+                  "name": "Lillian Brar",
+                  "character": "Diya",
+                  "profile_path": "",
+                  "order": 632,
+                  "id": 6334304
+                },
+                {
+                  "name": "Adiv Sharma",
+                  "character": "Sunil",
+                  "profile_path": "",
+                  "order": 633,
+                  "id": 6334307
+                },
+                {
+                  "name": "Carlo Yu",
+                  "character": "Foreperson",
+                  "profile_path": "/wjeTWyM4qu5fiF45GipxokH79Z5.jpg",
+                  "order": 634,
+                  "id": 1840900
+                },
+                {
+                  "name": "Jeffrey Pai",
+                  "character": "Moustache",
+                  "profile_path": "/otLHsLBjuVGHBtsgeP3BsfiHK2b.jpg",
+                  "order": 635,
+                  "id": 3383307
+                },
+                {
+                  "name": "King Lau",
+                  "character": "Admiral Kaga",
+                  "profile_path": "/bkU5kJloq7Wkar3GCTKZ3R8gfOS.jpg",
+                  "order": 636,
+                  "id": 1558030
+                },
+                {
+                  "name": "Ebert Lie",
+                  "character": "Fisherman 1",
+                  "profile_path": "",
+                  "order": 637,
+                  "id": 6334316
+                },
+                {
+                  "name": "田尻純一",
+                  "character": "Fisherman 2",
+                  "profile_path": "/gBTKdTc2lfZXlhHbdKrZJcJ5l1d.jpg",
+                  "order": 638,
+                  "id": 4380019
+                },
+                {
+                  "name": "Sook Hexamer",
+                  "character": "Isa",
+                  "profile_path": "",
+                  "order": 639,
+                  "id": 3263341
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Miyako",
+                  "character": "Toph Beifong",
+                  "profile_path": "/3qALscJoBm9nDGlc8hgGWxQnqdi.jpg",
+                  "order": 5,
+                  "id": 1771746
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Christine Boylan",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1224196,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jabbar Raisani",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1420778,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Michael Balfry",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1099434,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Wendy Tzeng",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 6308940,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt31615034",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11359583,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDEubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Regras de conflito",
+              "original_name": "",
+              "air_date": "2026-06-25",
+              "runtime": 67,
+              "overview": "Em um combate de dobra de terra decisivo, Aang encontra a pessoa que procurava. Memórias dolorosas ressurgem quando Zuko se aproxima de uma família no campo.",
+              "still_path": "/xzio7ongVmf6MbJEgM6aSIVGf4V.jpg",
+              "vote_average": 7.3,
+              "vote_count": 26,
+              "guest_stars": [
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Daniel Dae Kim",
+                  "character": "Fire Lord Ozai",
+                  "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+                  "order": 7,
+                  "id": 18307
+                },
+                {
+                  "name": "Maria Zhang",
+                  "character": "Suki",
+                  "profile_path": "/A8l9dWZH1oSBag58GfbFAT8wfB8.jpg",
+                  "order": 523,
+                  "id": 3320666
+                },
+                {
+                  "name": "Thalia Tran",
+                  "character": "Mai",
+                  "profile_path": "/f5UdVlrtai1iQVAhy14uNONUkJf.jpg",
+                  "order": 532,
+                  "id": 2782707
+                },
+                {
+                  "name": "Momona Tamada",
+                  "character": "Ty Lee",
+                  "profile_path": "/25vFWFpuMppnyXQAoJUfzNWwYZu.jpg",
+                  "order": 533,
+                  "id": 2298635
+                },
+                {
+                  "name": "Isaac Li",
+                  "character": "Jerky Worker",
+                  "profile_path": "/av1drw5SfognnbGcxqtTxac3yR8.jpg",
+                  "order": 618,
+                  "id": 6315828
+                },
+                {
+                  "name": "Elizabeth Yu",
+                  "character": "Azula",
+                  "profile_path": "/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg",
+                  "order": 619,
+                  "id": 3417134
+                },
+                {
+                  "name": "Rekha Sharma",
+                  "character": "Amita",
+                  "profile_path": "/expPWm2S08u334D9ZiN6MUOozRv.jpg",
+                  "order": 622,
+                  "id": 62717
+                },
+                {
+                  "name": "Dee Bradley Baker",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+                  "order": 629,
+                  "id": 23680
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 630,
+                  "id": 157067
+                },
+                {
+                  "name": "Lin Lin",
+                  "character": "Kyoshi Warrior Daitan",
+                  "profile_path": "",
+                  "order": 631,
+                  "id": 5896912
+                },
+                {
+                  "name": "Ebert Lie",
+                  "character": "Fisherman 1",
+                  "profile_path": "",
+                  "order": 637,
+                  "id": 6334316
+                },
+                {
+                  "name": "田尻純一",
+                  "character": "Fisherman 2",
+                  "profile_path": "/gBTKdTc2lfZXlhHbdKrZJcJ5l1d.jpg",
+                  "order": 638,
+                  "id": 4380019
+                },
+                {
+                  "name": "Madison Hu",
+                  "character": "Fei",
+                  "profile_path": "/hRkUbgWata6SWTf9HqaOOVZO6nn.jpg",
+                  "order": 643,
+                  "id": 1713726
+                },
+                {
+                  "name": "Crystal Yu",
+                  "character": "Lady Beifong",
+                  "profile_path": "/u57Va1rFZd5juT57XjPvjg88zFE.jpg",
+                  "order": 644,
+                  "id": 2476378
+                },
+                {
+                  "name": "Kelemete Misipeka",
+                  "character": "The Boulder",
+                  "profile_path": "/vgqWeI8bUY0NnpxMNg5glYhVP01.jpg",
+                  "order": 645,
+                  "id": 1719003
+                },
+                {
+                  "name": "Lily Gao",
+                  "character": "Ursa",
+                  "profile_path": "/qCNsTSz3g70M9PNaNxWw5uRepQy.jpg",
+                  "order": 646,
+                  "id": 1324591
+                },
+                {
+                  "name": "Shintaro Kanaoya",
+                  "character": "Lord Beifong",
+                  "profile_path": "/7t3uJYv6x637mX4pgqwCqr6rmHT.jpg",
+                  "order": 647,
+                  "id": 4642694
+                },
+                {
+                  "name": "Jordan Roberto Chien",
+                  "character": "Young Zuko",
+                  "profile_path": "",
+                  "order": 648,
+                  "id": 4119225
+                },
+                {
+                  "name": "Cordelia Chao",
+                  "character": "Young Azula",
+                  "profile_path": "",
+                  "order": 649,
+                  "id": 6334364
+                },
+                {
+                  "name": "Andy Yu",
+                  "character": "Ji Shen",
+                  "profile_path": "/cD8lsEvP0Jjp1ZiJPLjndQnMHAT.jpg",
+                  "order": 650,
+                  "id": 1475792
+                },
+                {
+                  "name": "Rickie Wang",
+                  "character": "Peng",
+                  "profile_path": "/ppV5TtDiy1srly8pEgKbDJGuZVF.jpg",
+                  "order": 651,
+                  "id": 5062468
+                },
+                {
+                  "name": "Warren Chow",
+                  "character": "Gao",
+                  "profile_path": "/zlunILW3jsdzxEpgp9PjKTze0S9.jpg",
+                  "order": 652,
+                  "id": 1177317
+                },
+                {
+                  "name": "Nina Yu",
+                  "character": "Pregnant Woman",
+                  "profile_path": "",
+                  "order": 653,
+                  "id": 6334372
+                },
+                {
+                  "name": "加藤龍太",
+                  "character": "Travel Companion",
+                  "profile_path": "/su1AdAS2UXSbx0jfwMruL4z0my6.jpg",
+                  "order": 654,
+                  "id": 2676903
+                },
+                {
+                  "name": "Sharmaine Yeoh",
+                  "character": "Cashier",
+                  "profile_path": "/8CiAjt8TyDef8xF6USt0EV5hYbo.jpg",
+                  "order": 655,
+                  "id": 1937045
+                },
+                {
+                  "name": "Josh Yeung",
+                  "character": "Jerky Buddy",
+                  "profile_path": "",
+                  "order": 656,
+                  "id": 6334374
+                },
+                {
+                  "name": "Dave Dimapilis",
+                  "character": "Emcee",
+                  "profile_path": "",
+                  "order": 657,
+                  "id": 1171756
+                },
+                {
+                  "name": "Vijay Persaud",
+                  "character": "Earth Kingdom Soldier",
+                  "profile_path": "",
+                  "order": 658,
+                  "id": 6334384
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Miyako",
+                  "character": "Toph Beifong",
+                  "profile_path": "/3qALscJoBm9nDGlc8hgGWxQnqdi.jpg",
+                  "order": 5,
+                  "id": 1771746
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Jabbar Raisani",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1420778,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Michael Balfry",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1099434,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Phinneas Kiyomura",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1391251,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sarah Zeitlin",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 3032894,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt39117273",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11597650,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDIubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "A cidade de muros e segredos",
+              "original_name": "",
+              "air_date": "2026-06-25",
+              "runtime": 61,
+              "overview": "Aang e o grupo precisam fazer política em vez de usar seus poderes nas festas da corte traiçoeira do Rei da Terra.",
+              "still_path": "/4qxABDT5K6k4NVgWF6sfe4CzWTT.jpg",
+              "vote_average": 6.4,
+              "vote_count": 22,
+              "guest_stars": [
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Maria Zhang",
+                  "character": "Suki",
+                  "profile_path": "/A8l9dWZH1oSBag58GfbFAT8wfB8.jpg",
+                  "order": 523,
+                  "id": 3320666
+                },
+                {
+                  "name": "Sebastian Amoruso",
+                  "character": "Jet",
+                  "profile_path": "/2pSyOp2UFdvDyw11jFIJ0XVUbwx.jpg",
+                  "order": 534,
+                  "id": 3169325
+                },
+                {
+                  "name": "Wes Valarao",
+                  "character": "Smellerbee",
+                  "profile_path": "",
+                  "order": 544,
+                  "id": 4551322
+                },
+                {
+                  "name": "Nathaniel Kong",
+                  "character": "Longshot",
+                  "profile_path": "/zc0KHnCXSCK0r8bNJsyy2KVpoXa.jpg",
+                  "order": 545,
+                  "id": 4071536
+                },
+                {
+                  "name": "Elizabeth Yu",
+                  "character": "Azula",
+                  "profile_path": "/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg",
+                  "order": 619,
+                  "id": 3417134
+                },
+                {
+                  "name": "Danny Pudi",
+                  "character": "Sai",
+                  "profile_path": "/w0zT8Y2dQHU8FgV03NJoHJE6tmD.jpg",
+                  "order": 620,
+                  "id": 205179
+                },
+                {
+                  "name": "Rekha Sharma",
+                  "character": "Amita",
+                  "profile_path": "/expPWm2S08u334D9ZiN6MUOozRv.jpg",
+                  "order": 622,
+                  "id": 62717
+                },
+                {
+                  "name": "Dee Bradley Baker",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+                  "order": 629,
+                  "id": 23680
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 630,
+                  "id": 157067
+                },
+                {
+                  "name": "Lin Lin",
+                  "character": "Kyoshi Warrior Daitan",
+                  "profile_path": "",
+                  "order": 631,
+                  "id": 5896912
+                },
+                {
+                  "name": "Lillian Brar",
+                  "character": "Diya",
+                  "profile_path": "",
+                  "order": 632,
+                  "id": 6334304
+                },
+                {
+                  "name": "Adiv Sharma",
+                  "character": "Sunil",
+                  "profile_path": "",
+                  "order": 633,
+                  "id": 6334307
+                },
+                {
+                  "name": "Kelemete Misipeka",
+                  "character": "The Boulder",
+                  "profile_path": "/vgqWeI8bUY0NnpxMNg5glYhVP01.jpg",
+                  "order": 645,
+                  "id": 1719003
+                },
+                {
+                  "name": "Andy Yu",
+                  "character": "Ji Shen",
+                  "profile_path": "/cD8lsEvP0Jjp1ZiJPLjndQnMHAT.jpg",
+                  "order": 650,
+                  "id": 1475792
+                },
+                {
+                  "name": "Hoa Xuande",
+                  "character": "Professor Zei",
+                  "profile_path": "/jW41aaSanZLl16jlT4M5IEZBky0.jpg",
+                  "order": 659,
+                  "id": 1687377
+                },
+                {
+                  "name": "Justin Chien",
+                  "character": "King Kuei",
+                  "profile_path": "/gBFVvbSixRXmtP2WrIIHqMwbiiL.jpg",
+                  "order": 660,
+                  "id": 1951129
+                },
+                {
+                  "name": "Chin Han",
+                  "character": "Long Feng",
+                  "profile_path": "/3XJXmYm6r4Hvm3izOArU58fhQrT.jpg",
+                  "order": 661,
+                  "id": 101015
+                },
+                {
+                  "name": "Amanda Zhou",
+                  "character": "Joo Dee",
+                  "profile_path": "/dfC9MRfyxIl3fwHIFH3wiSR2YxO.jpg",
+                  "order": 662,
+                  "id": 2449997
+                },
+                {
+                  "name": "Lourdes Faberes",
+                  "character": "General Sung",
+                  "profile_path": "/cCuETSoR6IIVyuyRJcAMiaEZkKs.jpg",
+                  "order": 663,
+                  "id": 1297438
+                },
+                {
+                  "name": "Mapuana Makia",
+                  "character": "Lady Ouyang",
+                  "profile_path": "/an0wVDWMVWCiwjXUueONP2MLe73.jpg",
+                  "order": 664,
+                  "id": 2207923
+                },
+                {
+                  "name": "Michael Cha",
+                  "character": "Lord Ouyang",
+                  "profile_path": "/olyN6iILpwq99r3swjMn0pHT2bW.jpg",
+                  "order": 665,
+                  "id": 1885201
+                },
+                {
+                  "name": "Gabriel Prevost",
+                  "character": "Lieutenant Khettry",
+                  "profile_path": "/nZzF2VZ81cO1n5hrfj0KMHbeYZ3.jpg",
+                  "order": 666,
+                  "id": 3718470
+                },
+                {
+                  "name": "Oslen",
+                  "character": "Face Change Dancer",
+                  "profile_path": "",
+                  "order": 667,
+                  "id": 6334406
+                },
+                {
+                  "name": "Kenny Wong",
+                  "character": "Lead Dai Li Agent",
+                  "profile_path": "/3RJ74D2odaFbA7n4Io8tHhRm1HC.jpg",
+                  "order": 668,
+                  "id": 1789637
+                },
+                {
+                  "name": "Angie Ip",
+                  "character": "Socialite",
+                  "profile_path": "/wQduTlVH75boxZkjmKEZcdAzfrI.jpg",
+                  "order": 669,
+                  "id": 3054657
+                },
+                {
+                  "name": "Lillian Lim",
+                  "character": "Grandmother",
+                  "profile_path": "/dKV9HYM85DIHArgb4qQPX8pXTJE.jpg",
+                  "order": 670,
+                  "id": 1936014
+                },
+                {
+                  "name": "Ramona Kim",
+                  "character": "Noble Wife",
+                  "profile_path": "/3Nfx8JMwPPHPliARMmqqZz6uRlH.jpg",
+                  "order": 671,
+                  "id": 3861547
+                },
+                {
+                  "name": "Ron Yamauchi",
+                  "character": "Noble Husband",
+                  "profile_path": "",
+                  "order": 672,
+                  "id": 4688288
+                },
+                {
+                  "name": "Flora Jae Hara",
+                  "character": "Mean Girl #1",
+                  "profile_path": "/fNTJk63i7Nudx8uXmJnceRUH9Iz.jpg",
+                  "order": 673,
+                  "id": 3149204
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Miyako",
+                  "character": "Toph Beifong",
+                  "profile_path": "/3qALscJoBm9nDGlc8hgGWxQnqdi.jpg",
+                  "order": 5,
+                  "id": 1771746
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Anu Menon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1646407,
+                  "profile_path": "/sORiYChAjDmIu2mAoA0dncecyMB.jpg"
+                },
+                {
+                  "name": "Helen Shang",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1667201,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Simon Chapman",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1034190,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Payton Koch",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 2879638,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt39117267",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11597651,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDMubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "A água cai, as pedras sobem",
+              "original_name": "",
+              "air_date": "2026-06-25",
+              "runtime": 62,
+              "overview": "Toph testa as habilidades de Aang. Em Ba Sing Se, Sokka procura um amigo desaparecido, e Katara vive uma vida dupla.",
+              "still_path": "/j464Uez1gvryQhFFbXvlahhrJr2.jpg",
+              "vote_average": 6.6,
+              "vote_count": 18,
+              "guest_stars": [
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Maria Zhang",
+                  "character": "Suki",
+                  "profile_path": "/A8l9dWZH1oSBag58GfbFAT8wfB8.jpg",
+                  "order": 523,
+                  "id": 3320666
+                },
+                {
+                  "name": "Thalia Tran",
+                  "character": "Mai",
+                  "profile_path": "/f5UdVlrtai1iQVAhy14uNONUkJf.jpg",
+                  "order": 532,
+                  "id": 2782707
+                },
+                {
+                  "name": "Momona Tamada",
+                  "character": "Ty Lee",
+                  "profile_path": "/25vFWFpuMppnyXQAoJUfzNWwYZu.jpg",
+                  "order": 533,
+                  "id": 2298635
+                },
+                {
+                  "name": "Sebastian Amoruso",
+                  "character": "Jet",
+                  "profile_path": "/2pSyOp2UFdvDyw11jFIJ0XVUbwx.jpg",
+                  "order": 534,
+                  "id": 3169325
+                },
+                {
+                  "name": "James Sie",
+                  "character": "Cabbage Merchant",
+                  "profile_path": "/yZ8SFsJJNmhgtNizwcWfknyBoBt.jpg",
+                  "order": 536,
+                  "id": 154657
+                },
+                {
+                  "name": "Elizabeth Yu",
+                  "character": "Azula",
+                  "profile_path": "/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg",
+                  "order": 619,
+                  "id": 3417134
+                },
+                {
+                  "name": "Rekha Sharma",
+                  "character": "Amita",
+                  "profile_path": "/expPWm2S08u334D9ZiN6MUOozRv.jpg",
+                  "order": 622,
+                  "id": 62717
+                },
+                {
+                  "name": "Jeremiah Oh",
+                  "character": "General Vinh Tran",
+                  "profile_path": "/5hYeG9j3QL0qIj0OK4oEm99Exkg.jpg",
+                  "order": 627,
+                  "id": 2556147
+                },
+                {
+                  "name": "Dee Bradley Baker",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+                  "order": 629,
+                  "id": 23680
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 630,
+                  "id": 157067
+                },
+                {
+                  "name": "Minh Le",
+                  "character": "Fire Nation Soldier",
+                  "profile_path": "/ykeTwyeRRABfz6Q4cZMzg9yRZj0.jpg",
+                  "order": 640,
+                  "id": 3401629
+                },
+                {
+                  "name": "Hoa Xuande",
+                  "character": "Professor Zei",
+                  "profile_path": "/jW41aaSanZLl16jlT4M5IEZBky0.jpg",
+                  "order": 659,
+                  "id": 1687377
+                },
+                {
+                  "name": "Chin Han",
+                  "character": "Long Feng",
+                  "profile_path": "/3XJXmYm6r4Hvm3izOArU58fhQrT.jpg",
+                  "order": 661,
+                  "id": 101015
+                },
+                {
+                  "name": "Amanda Zhou",
+                  "character": "Joo Dee",
+                  "profile_path": "/dfC9MRfyxIl3fwHIFH3wiSR2YxO.jpg",
+                  "order": 662,
+                  "id": 2449997
+                },
+                {
+                  "name": "Lourdes Faberes",
+                  "character": "General Sung",
+                  "profile_path": "/cCuETSoR6IIVyuyRJcAMiaEZkKs.jpg",
+                  "order": 663,
+                  "id": 1297438
+                },
+                {
+                  "name": "Gabriel Prevost",
+                  "character": "Lieutenant Khettry",
+                  "profile_path": "/nZzF2VZ81cO1n5hrfj0KMHbeYZ3.jpg",
+                  "order": 666,
+                  "id": 3718470
+                },
+                {
+                  "name": "Kenny Wong",
+                  "character": "Lead Dai Li Agent",
+                  "profile_path": "/3RJ74D2odaFbA7n4Io8tHhRm1HC.jpg",
+                  "order": 668,
+                  "id": 1789637
+                },
+                {
+                  "name": "Terry Chen",
+                  "character": "Jeong Jeong",
+                  "profile_path": "/wiDljcnEIuw3XiHKw2qPf0gL5HY.jpg",
+                  "order": 681,
+                  "id": 11677
+                },
+                {
+                  "name": "Vincent Tong",
+                  "character": "Lau Wong",
+                  "profile_path": "/594ku7Ilei1EI1FtxgnrEzG2Nr0.jpg",
+                  "order": 682,
+                  "id": 1240645
+                },
+                {
+                  "name": "Kelsey Lopes",
+                  "character": "Jin",
+                  "profile_path": "/jf2vhYjeSiS60VeEh2Oa7AyOfAe.jpg",
+                  "order": 683,
+                  "id": 4007097
+                },
+                {
+                  "name": "Benny Wang",
+                  "character": "Tycho",
+                  "profile_path": "",
+                  "order": 684,
+                  "id": 6323747
+                },
+                {
+                  "name": "Juzel Bagabuyo",
+                  "character": "Xilan",
+                  "profile_path": "",
+                  "order": 685,
+                  "id": 6334485
+                },
+                {
+                  "name": "Maggie Ma",
+                  "character": "Macmu-Ling",
+                  "profile_path": "/u6tQkuDdH8zhVigQxwjCZR3mi3a.jpg",
+                  "order": 686,
+                  "id": 59247
+                },
+                {
+                  "name": "Emily Ma",
+                  "character": "Ting",
+                  "profile_path": "",
+                  "order": 687,
+                  "id": 3904718
+                },
+                {
+                  "name": "Emma Yi",
+                  "character": "New Joo Dee",
+                  "profile_path": "",
+                  "order": 688,
+                  "id": 2847619
+                },
+                {
+                  "name": "Lin Lin",
+                  "character": "Kyoshi Warrio Daitan",
+                  "profile_path": "",
+                  "order": 689,
+                  "id": 5896912
+                },
+                {
+                  "name": "Vince Sugiono",
+                  "character": "Ba Sing Se City Guard #1",
+                  "profile_path": "",
+                  "order": 690,
+                  "id": 4704698
+                },
+                {
+                  "name": "Angus Yam",
+                  "character": "Ba Sing Se City Guard #2",
+                  "profile_path": "",
+                  "order": 691,
+                  "id": 4673320
+                },
+                {
+                  "name": "Arvin Shah",
+                  "character": "Citizen",
+                  "profile_path": "/wH8haq31jCEuQMUaUJYBs6DMdfw.jpg",
+                  "order": 692,
+                  "id": 4934092
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Miyako",
+                  "character": "Toph Beifong",
+                  "profile_path": "/3qALscJoBm9nDGlc8hgGWxQnqdi.jpg",
+                  "order": 5,
+                  "id": 1771746
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Anu Menon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1646407,
+                  "profile_path": "/sORiYChAjDmIu2mAoA0dncecyMB.jpg"
+                },
+                {
+                  "name": "Simon Chapman",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1034190,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Teresa Huang",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1456297,
+                  "profile_path": "/dXtaGxo1sumj0ZBZKir3kBgDZZg.jpg"
+                },
+                {
+                  "name": "Chester Howie",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 3708375,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt39105568",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11597652,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDQubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "Dez mil coisas",
+              "original_name": "",
+              "air_date": "2026-06-25",
+              "runtime": 64,
+              "overview": "Em busca de uma biblioteca mítica que pode ser a chave para derrotar a Nação do Fogo, o grupo precisa se aliar a um antigo inimigo.",
+              "still_path": "/if6N0ZQYLLNCIhZIB57jTp6Ojon.jpg",
+              "vote_average": 6.4,
+              "vote_count": 20,
+              "guest_stars": [
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Thalia Tran",
+                  "character": "Mai",
+                  "profile_path": "/f5UdVlrtai1iQVAhy14uNONUkJf.jpg",
+                  "order": 532,
+                  "id": 2782707
+                },
+                {
+                  "name": "Momona Tamada",
+                  "character": "Ty Lee",
+                  "profile_path": "/25vFWFpuMppnyXQAoJUfzNWwYZu.jpg",
+                  "order": 533,
+                  "id": 2298635
+                },
+                {
+                  "name": "Sebastian Amoruso",
+                  "character": "Jet",
+                  "profile_path": "/2pSyOp2UFdvDyw11jFIJ0XVUbwx.jpg",
+                  "order": 534,
+                  "id": 3169325
+                },
+                {
+                  "name": "Elizabeth Yu",
+                  "character": "Azula",
+                  "profile_path": "/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg",
+                  "order": 619,
+                  "id": 3417134
+                },
+                {
+                  "name": "Dichen Lachman",
+                  "character": "Yangchen",
+                  "profile_path": "/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg",
+                  "order": 623,
+                  "id": 94797
+                },
+                {
+                  "name": "Yvonne Chapman",
+                  "character": "Kyoshi",
+                  "profile_path": "/rDbiwuGvzd8WOgyQNo5RTmbwvF1.jpg",
+                  "order": 625,
+                  "id": 2225815
+                },
+                {
+                  "name": "Dee Bradley Baker",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+                  "order": 629,
+                  "id": 23680
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 630,
+                  "id": 157067
+                },
+                {
+                  "name": "Hoa Xuande",
+                  "character": "Professor Zei",
+                  "profile_path": "/jW41aaSanZLl16jlT4M5IEZBky0.jpg",
+                  "order": 659,
+                  "id": 1687377
+                },
+                {
+                  "name": "Chin Han",
+                  "character": "Long Feng",
+                  "profile_path": "/3XJXmYm6r4Hvm3izOArU58fhQrT.jpg",
+                  "order": 661,
+                  "id": 101015
+                },
+                {
+                  "name": "Lourdes Faberes",
+                  "character": "General Sung",
+                  "profile_path": "/cCuETSoR6IIVyuyRJcAMiaEZkKs.jpg",
+                  "order": 663,
+                  "id": 1297438
+                },
+                {
+                  "name": "Randall Duk Kim",
+                  "character": "Wan Shi Tong",
+                  "profile_path": "/31T1gSUP67F2qPI3x6uLJn3Sat7.jpg",
+                  "order": 700,
+                  "id": 9462
+                },
+                {
+                  "name": "Arielle Tuliao",
+                  "character": "Joo Dee 3",
+                  "profile_path": "/qltcLVD2OoPYYt5SskLxsCy1gcm.jpg",
+                  "order": 701,
+                  "id": 1406026
+                },
+                {
+                  "name": "Amro Majzoub",
+                  "character": "Big Dae-Jin",
+                  "profile_path": "/3SHmelruRFOYviyq1npiydzFBEx.jpg",
+                  "order": 702,
+                  "id": 1359625
+                },
+                {
+                  "name": "Vivin Oommen",
+                  "character": "Courier",
+                  "profile_path": "/hNvdMGmMZhZdDDzN9sUj6VeHdKO.jpg",
+                  "order": 703,
+                  "id": 3079649
+                },
+                {
+                  "name": "Robin Jung",
+                  "character": "Random Person",
+                  "profile_path": "",
+                  "order": 704,
+                  "id": 2411111
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Miyako",
+                  "character": "Toph Beifong",
+                  "profile_path": "/3qALscJoBm9nDGlc8hgGWxQnqdi.jpg",
+                  "order": 5,
+                  "id": 1771746
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Gabriel Llanas",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1379193,
+                  "profile_path": "/zyoO4ha6SoMLboPAur222XEYD2O.jpg"
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Michael Balfry",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1099434,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Wendy Tzeng",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 6308940,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Amit Gupta",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 116887,
+                  "profile_path": "/cOW6Fhx67P2xwBMFTx1to6bGosA.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt38350188",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11597653,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDUubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "A parábola dos dois dragões",
+              "original_name": "",
+              "air_date": "2026-06-25",
+              "runtime": 56,
+              "overview": "Depois que um membro do time é capturado, os amigos bolam um plano arriscado para chegar até o Rei da Terra. Uma doença muda a perspectiva de Zuko e Iroh.",
+              "still_path": "/1OUWuzTkALc8BKoAjksUxeBx3xd.jpg",
+              "vote_average": 6.5,
+              "vote_count": 20,
+              "guest_stars": [
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Daniel Dae Kim",
+                  "character": "Fire Lord Ozai",
+                  "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+                  "order": 7,
+                  "id": 18307
+                },
+                {
+                  "name": "Thalia Tran",
+                  "character": "Mai",
+                  "profile_path": "/f5UdVlrtai1iQVAhy14uNONUkJf.jpg",
+                  "order": 532,
+                  "id": 2782707
+                },
+                {
+                  "name": "Momona Tamada",
+                  "character": "Ty Lee",
+                  "profile_path": "/25vFWFpuMppnyXQAoJUfzNWwYZu.jpg",
+                  "order": 533,
+                  "id": 2298635
+                },
+                {
+                  "name": "Elizabeth Yu",
+                  "character": "Azula",
+                  "profile_path": "/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg",
+                  "order": 619,
+                  "id": 3417134
+                },
+                {
+                  "name": "Dee Bradley Baker",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+                  "order": 629,
+                  "id": 23680
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 630,
+                  "id": 157067
+                },
+                {
+                  "name": "Crystal Yu",
+                  "character": "Lady Beifong",
+                  "profile_path": "/u57Va1rFZd5juT57XjPvjg88zFE.jpg",
+                  "order": 644,
+                  "id": 2476378
+                },
+                {
+                  "name": "Lily Gao",
+                  "character": "Ursa",
+                  "profile_path": "/qCNsTSz3g70M9PNaNxWw5uRepQy.jpg",
+                  "order": 646,
+                  "id": 1324591
+                },
+                {
+                  "name": "Jordan Roberto Chien",
+                  "character": "Young Zuko",
+                  "profile_path": "",
+                  "order": 648,
+                  "id": 4119225
+                },
+                {
+                  "name": "Cordelia Chao",
+                  "character": "Young Azula",
+                  "profile_path": "",
+                  "order": 649,
+                  "id": 6334364
+                },
+                {
+                  "name": "Justin Chien",
+                  "character": "King Kuei",
+                  "profile_path": "/gBFVvbSixRXmtP2WrIIHqMwbiiL.jpg",
+                  "order": 660,
+                  "id": 1951129
+                },
+                {
+                  "name": "Chin Han",
+                  "character": "Long Feng",
+                  "profile_path": "/3XJXmYm6r4Hvm3izOArU58fhQrT.jpg",
+                  "order": 661,
+                  "id": 101015
+                },
+                {
+                  "name": "Lourdes Faberes",
+                  "character": "General Sung",
+                  "profile_path": "/cCuETSoR6IIVyuyRJcAMiaEZkKs.jpg",
+                  "order": 663,
+                  "id": 1297438
+                },
+                {
+                  "name": "Kenny Wong",
+                  "character": "Lead Dai Li Agent",
+                  "profile_path": "/3RJ74D2odaFbA7n4Io8tHhRm1HC.jpg",
+                  "order": 668,
+                  "id": 1789637
+                },
+                {
+                  "name": "Terry Chen",
+                  "character": "Jeong Jeong",
+                  "profile_path": "/wiDljcnEIuw3XiHKw2qPf0gL5HY.jpg",
+                  "order": 681,
+                  "id": 11677
+                },
+                {
+                  "name": "Kelsey Lopes",
+                  "character": "Jin",
+                  "profile_path": "/jf2vhYjeSiS60VeEh2Oa7AyOfAe.jpg",
+                  "order": 683,
+                  "id": 4007097
+                },
+                {
+                  "name": "Benny Wang",
+                  "character": "Tycho",
+                  "profile_path": "",
+                  "order": 684,
+                  "id": 6323747
+                },
+                {
+                  "name": "Sharon Crandall",
+                  "character": "Fulu",
+                  "profile_path": "/2X0viXNGLJN9sccfZ3bn9yysyli.jpg",
+                  "order": 705,
+                  "id": 1813262
+                },
+                {
+                  "name": "Leslie Kwan",
+                  "character": "Bo",
+                  "profile_path": "/hM9iuiWCXwgZ3t9DI3jVLQTezQ5.jpg",
+                  "order": 706,
+                  "id": 3156972
+                },
+                {
+                  "name": "Jana Morrison",
+                  "character": "Screaming Woman",
+                  "profile_path": "/jSV3IzSjvXOO6kc8HYVGezSPVOx.jpg",
+                  "order": 707,
+                  "id": 3342782
+                },
+                {
+                  "name": "Nina Yu",
+                  "character": "Ying",
+                  "profile_path": "",
+                  "order": 708,
+                  "id": 6334372
+                },
+                {
+                  "name": "Ky Tan",
+                  "character": "Palace Guard #1",
+                  "profile_path": "",
+                  "order": 709,
+                  "id": 4382933
+                },
+                {
+                  "name": "Kaito Behjatnejad",
+                  "character": "Palace Guard #2",
+                  "profile_path": "/uv0LmY7Cmz50rj7TVtM45r1KrP4.jpg",
+                  "order": 710,
+                  "id": 5249579
+                },
+                {
+                  "name": "Jonee Janolino",
+                  "character": "Hooded Figure",
+                  "profile_path": "",
+                  "order": 711,
+                  "id": 3019882
+                },
+                {
+                  "name": "Jason Furukawa",
+                  "character": "Elderly Man",
+                  "profile_path": "",
+                  "order": 712,
+                  "id": 1445156
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Miyako",
+                  "character": "Toph Beifong",
+                  "profile_path": "/3qALscJoBm9nDGlc8hgGWxQnqdi.jpg",
+                  "order": 5,
+                  "id": 1771746
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Keely MacDonald",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2520589,
+                  "profile_path": "/zHMW9oqM9wPfxSHnaDslu0PkMe6.jpg"
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Michael Balfry",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1099434,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sarah Zeitlin",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 3032894,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Amit Gupta",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 116887,
+                  "profile_path": "/cOW6Fhx67P2xwBMFTx1to6bGosA.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt38351295",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11597654,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDYubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "Algo se quebrou",
+              "original_name": "",
+              "air_date": "2026-06-25",
+              "runtime": 69,
+              "overview": "A cidade está o caos, e a Nação do Fogo se aproxima. Espalhados, os amigos precisam se unir novamente para salvar Ba Sing Se, e Zuko tem que decidir de que lado ficar.",
+              "still_path": "/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
+              "vote_average": 7.2,
+              "vote_count": 20,
+              "guest_stars": [
+                {
+                  "name": "Paul Sun-Hyung Lee",
+                  "character": "Uncle Iroh",
+                  "profile_path": "/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg",
+                  "order": 4,
+                  "id": 178068
+                },
+                {
+                  "name": "Thalia Tran",
+                  "character": "Mai",
+                  "profile_path": "/f5UdVlrtai1iQVAhy14uNONUkJf.jpg",
+                  "order": 532,
+                  "id": 2782707
+                },
+                {
+                  "name": "Momona Tamada",
+                  "character": "Ty Lee",
+                  "profile_path": "/25vFWFpuMppnyXQAoJUfzNWwYZu.jpg",
+                  "order": 533,
+                  "id": 2298635
+                },
+                {
+                  "name": "Meegwun Fairbrother",
+                  "character": "Avatar Kuruk",
+                  "profile_path": "/npbmcqKhPNg1Ml0D2Ng3FGhTI6Z.jpg",
+                  "order": 603,
+                  "id": 1261370
+                },
+                {
+                  "name": "Elizabeth Yu",
+                  "character": "Azula",
+                  "profile_path": "/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg",
+                  "order": 619,
+                  "id": 3417134
+                },
+                {
+                  "name": "Danny Pudi",
+                  "character": "Sai",
+                  "profile_path": "/w0zT8Y2dQHU8FgV03NJoHJE6tmD.jpg",
+                  "order": 620,
+                  "id": 205179
+                },
+                {
+                  "name": "Rekha Sharma",
+                  "character": "Amita",
+                  "profile_path": "/expPWm2S08u334D9ZiN6MUOozRv.jpg",
+                  "order": 622,
+                  "id": 62717
+                },
+                {
+                  "name": "Dichen Lachman",
+                  "character": "Yangchen",
+                  "profile_path": "/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg",
+                  "order": 623,
+                  "id": 94797
+                },
+                {
+                  "name": "Yvonne Chapman",
+                  "character": "Kyoshi",
+                  "profile_path": "/rDbiwuGvzd8WOgyQNo5RTmbwvF1.jpg",
+                  "order": 625,
+                  "id": 2225815
+                },
+                {
+                  "name": "Jeremiah Oh",
+                  "character": "General Vinh Tran",
+                  "profile_path": "/5hYeG9j3QL0qIj0OK4oEm99Exkg.jpg",
+                  "order": 627,
+                  "id": 2556147
+                },
+                {
+                  "name": "Dee Bradley Baker",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+                  "order": 629,
+                  "id": 23680
+                },
+                {
+                  "name": "Matthew Yang King",
+                  "character": "Appa/Momo(voice)",
+                  "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+                  "order": 630,
+                  "id": 157067
+                },
+                {
+                  "name": "Crystal Yu",
+                  "character": "Lady Beifong",
+                  "profile_path": "/u57Va1rFZd5juT57XjPvjg88zFE.jpg",
+                  "order": 644,
+                  "id": 2476378
+                },
+                {
+                  "name": "Justin Chien",
+                  "character": "King Kuei",
+                  "profile_path": "/gBFVvbSixRXmtP2WrIIHqMwbiiL.jpg",
+                  "order": 660,
+                  "id": 1951129
+                },
+                {
+                  "name": "Chin Han",
+                  "character": "Long Feng",
+                  "profile_path": "/3XJXmYm6r4Hvm3izOArU58fhQrT.jpg",
+                  "order": 661,
+                  "id": 101015
+                },
+                {
+                  "name": "Amanda Zhou",
+                  "character": "Joo Dee",
+                  "profile_path": "/dfC9MRfyxIl3fwHIFH3wiSR2YxO.jpg",
+                  "order": 662,
+                  "id": 2449997
+                },
+                {
+                  "name": "Gabriel Prevost",
+                  "character": "Lieutenant Khettry",
+                  "profile_path": "/nZzF2VZ81cO1n5hrfj0KMHbeYZ3.jpg",
+                  "order": 666,
+                  "id": 3718470
+                },
+                {
+                  "name": "Kenny Wong",
+                  "character": "Lead Dai Li Agent",
+                  "profile_path": "/3RJ74D2odaFbA7n4Io8tHhRm1HC.jpg",
+                  "order": 668,
+                  "id": 1789637
+                },
+                {
+                  "name": "Kelsey Lopes",
+                  "character": "Jin",
+                  "profile_path": "/jf2vhYjeSiS60VeEh2Oa7AyOfAe.jpg",
+                  "order": 683,
+                  "id": 4007097
+                },
+                {
+                  "name": "Leslie Kwan",
+                  "character": "Bo",
+                  "profile_path": "/hM9iuiWCXwgZ3t9DI3jVLQTezQ5.jpg",
+                  "order": 706,
+                  "id": 3156972
+                },
+                {
+                  "name": "Lawrence Kao",
+                  "character": "Younger Roku",
+                  "profile_path": "/foA82QIwvVRFWCAmw4UOsWdw8UT.jpg",
+                  "order": 713,
+                  "id": 1367306
+                },
+                {
+                  "name": "Annabelle Loi",
+                  "character": "Yize",
+                  "profile_path": "",
+                  "order": 714,
+                  "id": 3202295
+                },
+                {
+                  "name": "Timothy Quigaman",
+                  "character": "Dai Li Trainer",
+                  "profile_path": "",
+                  "order": 715,
+                  "id": 6334554
+                },
+                {
+                  "name": "Patrick Koo",
+                  "character": "Military Leader",
+                  "profile_path": "",
+                  "order": 716,
+                  "id": 4719425
+                },
+                {
+                  "name": "Gian Carlo V.",
+                  "character": "Young Aang",
+                  "profile_path": "",
+                  "order": 717,
+                  "id": 5991116
+                },
+                {
+                  "name": "Tina Pham",
+                  "character": "Female Monk",
+                  "profile_path": "/sn7ycikKtANMU4TKJq98oHxNYpi.jpg",
+                  "order": 718,
+                  "id": 2648252
+                },
+                {
+                  "name": "Wei Lee",
+                  "character": "Katara Double",
+                  "profile_path": "",
+                  "order": 719,
+                  "id": 6334556
+                },
+                {
+                  "name": "Briana Lopez",
+                  "character": "Young Airbender Girl",
+                  "profile_path": "",
+                  "order": 720,
+                  "id": 6334557
+                },
+                {
+                  "name": "Jordan Chiu",
+                  "character": "Airbender Boy #1",
+                  "profile_path": "",
+                  "order": 721,
+                  "id": 6295940
+                },
+                {
+                  "name": "Hiro Fodi-Nestman",
+                  "character": "Airbender Boy #2",
+                  "profile_path": "",
+                  "order": 722,
+                  "id": 4453324
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Gordon Cormier",
+                  "character": "Aang",
+                  "profile_path": "/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg",
+                  "order": 0,
+                  "id": 2447707
+                },
+                {
+                  "name": "Kiawentiio",
+                  "character": "Katara",
+                  "profile_path": "/wc2giacMf80eXDjZn9JpzhOfOKG.jpg",
+                  "order": 1,
+                  "id": 2718335
+                },
+                {
+                  "name": "Ian Ousley",
+                  "character": "Sokka",
+                  "profile_path": "/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg",
+                  "order": 2,
+                  "id": 2595507
+                },
+                {
+                  "name": "Dallas Liu",
+                  "character": "Zuko",
+                  "profile_path": "/aismdzGeONTJHiPfofNaKGZSKZu.jpg",
+                  "order": 3,
+                  "id": 1792920
+                },
+                {
+                  "name": "Miyako",
+                  "character": "Toph Beifong",
+                  "profile_path": "/3qALscJoBm9nDGlc8hgGWxQnqdi.jpg",
+                  "order": 5,
+                  "id": 1771746
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Gabriel Llanas",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1379193,
+                  "profile_path": "/zyoO4ha6SoMLboPAur222XEYD2O.jpg"
+                },
+                {
+                  "name": "Christine Boylan",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1224196,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Devin Schwyhart",
+                  "job": "VFX Editor",
+                  "department": "Visual Effects",
+                  "id": 1849429,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Simon Chapman",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 1034190,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Payton Koch",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 2879638,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Chester Howie",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 3708375,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Hiromi Kamata",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1718761,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt40010610",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11597655,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvODI0NTItMDItMDcubWt2",
+                  "language": "PT-BR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
