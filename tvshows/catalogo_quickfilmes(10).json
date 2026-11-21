@@ -46382,6 +46382,1123 @@
           ]
         }
       ]
+    },
+    {
+      "type": "tv",
+      "title": "Pela Metade",
+      "original_title": "Half Man",
+      "tmdb_id": "257994",
+      "id": 257994,
+      "year": "2026",
+      "release_date": "2026-04-28",
+      "overview": "A trama mostra o repentino aparecimento de Ruben no casamento de Niall, irmão com quem não falava há anos. A partir daí, a produção vai examinar os altos e baixos da turbulenta relação entre eles, o que envolve violência.",
+      "tagline": "Alguns laços podem destruir você.",
+      "poster": "/j6TXud3kXLyqZrPyVwtkIVs8mXd.jpg",
+      "backdrop": "/voRcBEjydt5dJNgXuqtobIsZIbJ.jpg",
+      "vote_average": 7.96,
+      "vote_count": 162,
+      "genres": [
+        "Drama"
+      ],
+      "runtime": 0,
+      "certification": "18",
+      "original_language": "en",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        "Mam Tor Productions",
+        "Thistledown Pictures"
+      ],
+      "external_ids": {
+        "imdb_id": "tt32767294",
+        "freebase_mid": null,
+        "freebase_id": null,
+        "tvdb_id": 446817,
+        "tvrage_id": null,
+        "wikidata_id": "Q132644669",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [],
+      "status": "Ended",
+      "networks": [
+        "BBC One"
+      ],
+      "created_by": [
+        {
+          "id": 1547839,
+          "name": "Richard Gadd",
+          "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg"
+        }
+      ],
+      "number_of_seasons": 1,
+      "number_of_episodes": 6,
+      "cast": [
+        {
+          "name": "Richard Gadd",
+          "character": "Ruben",
+          "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg",
+          "order": 0,
+          "id": 1547839
+        },
+        {
+          "name": "Jamie Bell",
+          "character": "Niall",
+          "profile_path": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
+          "order": 1,
+          "id": 478
+        },
+        {
+          "name": "Neve McIntosh",
+          "character": "Lori",
+          "profile_path": "/gb5W0Ebszs8o5aBKv0nyc3GQwoZ.jpg",
+          "order": 2,
+          "id": 120895
+        }
+      ],
+      "crew": [
+        {
+          "name": "Gaynor Holmes",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 3086901,
+          "profile_path": ""
+        },
+        {
+          "name": "Tally Garner",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1398912,
+          "profile_path": ""
+        },
+        {
+          "name": "Wendy Griffin",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1876194,
+          "profile_path": ""
+        },
+        {
+          "name": "Richard Gadd",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1547839,
+          "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg"
+        },
+        {
+          "name": "Gavin Smith",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2472470,
+          "profile_path": "/3Rg72nTot6Ibtni3OTRHny8dCYk.jpg"
+        },
+        {
+          "name": "Morven Reid",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 4797823,
+          "profile_path": ""
+        },
+        {
+          "name": "Sophie Gardiner",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1833290,
+          "profile_path": ""
+        },
+        {
+          "name": "Anna O'Malley",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1874316,
+          "profile_path": ""
+        },
+        {
+          "name": "Evgueni Galperine",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 41572,
+          "profile_path": "/y6ctWZaf1eWtLZHPxVDtIPfE8Hi.jpg"
+        },
+        {
+          "name": "Sacha Galperine",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 1180402,
+          "profile_path": "/poyHoZx4yjCKXDsSqolY6v9EuTG.jpg"
+        },
+        {
+          "name": "Lindsay Salt",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 3534055,
+          "profile_path": ""
+        },
+        {
+          "name": "Emer O'Sullivan",
+          "job": "Production Design",
+          "department": "Art",
+          "id": 1341729,
+          "profile_path": ""
+        },
+        {
+          "name": "Sam Ferguson",
+          "job": "Line Producer",
+          "department": "Production",
+          "id": 3224895,
+          "profile_path": ""
+        },
+        {
+          "name": "Carole Millar",
+          "job": "Costume Design",
+          "department": "Costume & Make-Up",
+          "id": 16627,
+          "profile_path": ""
+        },
+        {
+          "name": "Anna Smith",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 4364208,
+          "profile_path": ""
+        },
+        {
+          "name": "Stephanie Fyfe",
+          "job": "Commissioning Editor",
+          "department": "Crew",
+          "id": 2128197,
+          "profile_path": ""
+        },
+        {
+          "name": "Caroline Stewart",
+          "job": "Casting Director",
+          "department": "Production",
+          "id": 1317283,
+          "profile_path": ""
+        },
+        {
+          "name": "Kahleen Crawford",
+          "job": "Casting Director",
+          "department": "Production",
+          "id": 16899,
+          "profile_path": "/3zQczQ5h2wNOEmBYOZbGvMvVpHR.jpg"
+        },
+        {
+          "name": "Nicole Tulloch",
+          "job": "Hair Designer",
+          "department": "Costume & Make-Up",
+          "id": 2206785,
+          "profile_path": ""
+        },
+        {
+          "name": "Nicole Tulloch",
+          "job": "Makeup Designer",
+          "department": "Costume & Make-Up",
+          "id": 2206785,
+          "profile_path": ""
+        },
+        {
+          "name": "Bartek Baranowski",
+          "job": "Production Sound Mixer",
+          "department": "Sound",
+          "id": 4423397,
+          "profile_path": ""
+        },
+        {
+          "name": "Johanne Wood",
+          "job": "Post Production Producer",
+          "department": "Production",
+          "id": 3885507,
+          "profile_path": ""
+        }
+      ],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-21T00:57:15.300Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Minissérie",
+          "overview": "Ao longo de quatro décadas, dois \"irmãos\" vivenciam o triunfo, a vergonha e a raiva em um drama íntimo sobre a masculinidade.",
+          "poster_path": "/cTQ5iz2NIR2LJXLlO6F5Y61BfZe.jpg",
+          "poster": "/cTQ5iz2NIR2LJXLlO6F5Y61BfZe.jpg",
+          "backdrop_path": "",
+          "air_date": "2026-04-28",
+          "vote_average": 6.5,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Richard Gadd",
+              "character": "Ruben",
+              "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg",
+              "order": 0,
+              "id": 1547839
+            },
+            {
+              "name": "Jamie Bell",
+              "character": "Niall",
+              "profile_path": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
+              "order": 1,
+              "id": 478
+            },
+            {
+              "name": "Neve McIntosh",
+              "character": "Lori",
+              "profile_path": "/gb5W0Ebszs8o5aBKv0nyc3GQwoZ.jpg",
+              "order": 2,
+              "id": 120895
+            }
+          ],
+          "crew": [
+            {
+              "name": "Gaynor Holmes",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 3086901,
+              "profile_path": ""
+            },
+            {
+              "name": "Tally Garner",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1398912,
+              "profile_path": ""
+            },
+            {
+              "name": "Wendy Griffin",
+              "job": "Producer",
+              "department": "Production",
+              "id": 1876194,
+              "profile_path": ""
+            },
+            {
+              "name": "Richard Gadd",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1547839,
+              "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg"
+            },
+            {
+              "name": "Gavin Smith",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2472470,
+              "profile_path": "/3Rg72nTot6Ibtni3OTRHny8dCYk.jpg"
+            },
+            {
+              "name": "Morven Reid",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 4797823,
+              "profile_path": ""
+            },
+            {
+              "name": "Sophie Gardiner",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1833290,
+              "profile_path": ""
+            },
+            {
+              "name": "Anna O'Malley",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1874316,
+              "profile_path": ""
+            },
+            {
+              "name": "Evgueni Galperine",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 41572,
+              "profile_path": "/y6ctWZaf1eWtLZHPxVDtIPfE8Hi.jpg"
+            },
+            {
+              "name": "Sacha Galperine",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 1180402,
+              "profile_path": "/poyHoZx4yjCKXDsSqolY6v9EuTG.jpg"
+            },
+            {
+              "name": "Lindsay Salt",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 3534055,
+              "profile_path": ""
+            },
+            {
+              "name": "Emer O'Sullivan",
+              "job": "Production Design",
+              "department": "Art",
+              "id": 1341729,
+              "profile_path": ""
+            },
+            {
+              "name": "Sam Ferguson",
+              "job": "Line Producer",
+              "department": "Production",
+              "id": 3224895,
+              "profile_path": ""
+            },
+            {
+              "name": "Carole Millar",
+              "job": "Costume Design",
+              "department": "Costume & Make-Up",
+              "id": 16627,
+              "profile_path": ""
+            },
+            {
+              "name": "Anna Smith",
+              "job": "Art Direction",
+              "department": "Art",
+              "id": 4364208,
+              "profile_path": ""
+            },
+            {
+              "name": "Stephanie Fyfe",
+              "job": "Commissioning Editor",
+              "department": "Crew",
+              "id": 2128197,
+              "profile_path": ""
+            },
+            {
+              "name": "Caroline Stewart",
+              "job": "Casting Director",
+              "department": "Production",
+              "id": 1317283,
+              "profile_path": ""
+            },
+            {
+              "name": "Kahleen Crawford",
+              "job": "Casting Director",
+              "department": "Production",
+              "id": 16899,
+              "profile_path": "/3zQczQ5h2wNOEmBYOZbGvMvVpHR.jpg"
+            },
+            {
+              "name": "Nicole Tulloch",
+              "job": "Hair Designer",
+              "department": "Costume & Make-Up",
+              "id": 2206785,
+              "profile_path": ""
+            },
+            {
+              "name": "Nicole Tulloch",
+              "job": "Makeup Designer",
+              "department": "Costume & Make-Up",
+              "id": 2206785,
+              "profile_path": ""
+            },
+            {
+              "name": "Bartek Baranowski",
+              "job": "Production Sound Mixer",
+              "department": "Sound",
+              "id": 4423397,
+              "profile_path": ""
+            },
+            {
+              "name": "Johanne Wood",
+              "job": "Post Production Producer",
+              "department": "Production",
+              "id": 3885507,
+              "profile_path": ""
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Episódio 1",
+              "original_name": "",
+              "air_date": "2026-04-28",
+              "runtime": 54,
+              "overview": "No dia do seu casamento, Niall recebe uma visita inesperada de alguém do seu passado. Décadas antes, sua vida muda quando Ruben, filho do companheiro de sua mãe, se muda para sua casa.",
+              "still_path": "/9Ju1IBk8dhJPOLaLWOGdMaj6nSd.jpg",
+              "vote_average": 6.472,
+              "vote_count": 18,
+              "guest_stars": [
+                {
+                  "name": "Piers Ewart",
+                  "character": "Young Gus",
+                  "profile_path": "/im2FBY6ZU0qKN78NvywLR8kafPN.jpg",
+                  "order": 500,
+                  "id": 5158807
+                },
+                {
+                  "name": "Calum Manchip",
+                  "character": "Drew",
+                  "profile_path": "/lkR4aGhPm8DVaGkNYC8vjoVHxXo.jpg",
+                  "order": 501,
+                  "id": 6164659
+                },
+                {
+                  "name": "Scot Greenan",
+                  "character": "John",
+                  "profile_path": "/gwq6o2Thka8nDdWaF7yZxu15Lfp.jpg",
+                  "order": 502,
+                  "id": 1757668
+                },
+                {
+                  "name": "Stuart McQuarrie",
+                  "character": "Mr. Jenkins",
+                  "profile_path": "/uK7JmNrNrHUvueKyIvNrN1SlHKO.jpg",
+                  "order": 503,
+                  "id": 2258
+                },
+                {
+                  "name": "Gordon Brown",
+                  "character": "Murray",
+                  "profile_path": "/tKnkIuEUr2U4MKtm0opQUfkv7q.jpg",
+                  "order": 504,
+                  "id": 1840
+                },
+                {
+                  "name": "Charlotte Blackwood",
+                  "character": "Young Mona",
+                  "profile_path": "/lt2wYVyPmzhbCY5Pby6ZoIAZ3Mn.jpg",
+                  "order": 505,
+                  "id": 6164661
+                },
+                {
+                  "name": "Marianne McIvor",
+                  "character": "Maura",
+                  "profile_path": "/tLfZN9gKcOq1MbG9qLrFbq85RNj.jpg",
+                  "order": 514,
+                  "id": 2393431
+                },
+                {
+                  "name": "Stuart Campbell",
+                  "character": "Young Ruben",
+                  "profile_path": "/tHfoXNuaIr7T0CvM6l55NTr40Ay.jpg",
+                  "order": 515,
+                  "id": 3765540
+                },
+                {
+                  "name": "Mitchell Robertson",
+                  "character": "Young Niall",
+                  "profile_path": "/cytCg0KwhbODE1ZZ9jJzvNq49b2.jpg",
+                  "order": 516,
+                  "id": 3709361
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Richard Gadd",
+                  "character": "Ruben",
+                  "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg",
+                  "order": 0,
+                  "id": 1547839
+                },
+                {
+                  "name": "Jamie Bell",
+                  "character": "Niall",
+                  "profile_path": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
+                  "order": 1,
+                  "id": 478
+                },
+                {
+                  "name": "Neve McIntosh",
+                  "character": "Lori",
+                  "profile_path": "/gb5W0Ebszs8o5aBKv0nyc3GQwoZ.jpg",
+                  "order": 2,
+                  "id": 120895
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Alexandra Brodski",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 2465394,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Carlos Catalán",
+                  "job": "Director of Photography",
+                  "department": "Camera",
+                  "id": 564559,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ben McKinstrie",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 2307714,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Richard Gadd",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1547839,
+                  "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt36831972",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10345891,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU3OTk0LTAxLTAxLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Episódio 2",
+              "original_name": "",
+              "air_date": "2026-05-05",
+              "runtime": 60,
+              "overview": "Ao chegar em Glasgow para começar seu primeiro ano de universidade, um Niall perdido e isolado recorre a Ruben em busca de ajuda para se enturmar. No entanto, a presença de Ruben tem consequências devastadoras.",
+              "still_path": "/x1T41Uo1YsvMPIigQUDJVWAHeMG.jpg",
+              "vote_average": 6.8,
+              "vote_count": 20,
+              "guest_stars": [
+                {
+                  "name": "Julie Cullen",
+                  "character": "Young Joanna",
+                  "profile_path": "",
+                  "order": 506,
+                  "id": 3994393
+                },
+                {
+                  "name": "Philippine Velge",
+                  "character": "Celeste",
+                  "profile_path": "/gqTkAEIlcDisOnfuyusqZtBb1IG.jpg",
+                  "order": 507,
+                  "id": 2496534
+                },
+                {
+                  "name": "Bilal Hasna",
+                  "character": "Young Alby",
+                  "profile_path": "/4Iv2G2tKWvv8BEAcJ9AU75jpG2L.jpg",
+                  "order": 508,
+                  "id": 3433933
+                },
+                {
+                  "name": "Charlie de Melo",
+                  "character": "Alby",
+                  "profile_path": "/o8VFWRzuhNlsUROiq4F1XLIlnTK.jpg",
+                  "order": 509,
+                  "id": 1476385
+                },
+                {
+                  "name": "Tony Cownie",
+                  "character": "Vicaire",
+                  "profile_path": "/fWE3bmprqhyFgEfLyEIyjzjWbwK.jpg",
+                  "order": 510,
+                  "id": 1786511
+                },
+                {
+                  "name": "Anjli Mohindra",
+                  "character": "Ava",
+                  "profile_path": "/bUmLmifwwItfVP5bS6JbxISkwWR.jpg",
+                  "order": 511,
+                  "id": 1214525
+                },
+                {
+                  "name": "Stuart Campbell",
+                  "character": "Young Ruben",
+                  "profile_path": "/tHfoXNuaIr7T0CvM6l55NTr40Ay.jpg",
+                  "order": 515,
+                  "id": 3765540
+                },
+                {
+                  "name": "Mitchell Robertson",
+                  "character": "Young Niall",
+                  "profile_path": "/cytCg0KwhbODE1ZZ9jJzvNq49b2.jpg",
+                  "order": 516,
+                  "id": 3709361
+                },
+                {
+                  "name": "Sandy Batchelor",
+                  "character": "Gus",
+                  "profile_path": "/8EhALIbWq6LGba8vz3eNKj0ZeBF.jpg",
+                  "order": 517,
+                  "id": 1694984
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Richard Gadd",
+                  "character": "Ruben",
+                  "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg",
+                  "order": 0,
+                  "id": 1547839
+                },
+                {
+                  "name": "Jamie Bell",
+                  "character": "Niall",
+                  "profile_path": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
+                  "order": 1,
+                  "id": 478
+                },
+                {
+                  "name": "Neve McIntosh",
+                  "character": "Lori",
+                  "profile_path": "/gb5W0Ebszs8o5aBKv0nyc3GQwoZ.jpg",
+                  "order": 2,
+                  "id": 120895
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Alexandra Brodski",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 2465394,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Richard Gadd",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1547839,
+                  "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt36831974",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10345892,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU3OTk0LTAxLTAyLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Episódio 3",
+              "original_name": "",
+              "air_date": "2026-05-12",
+              "runtime": 55,
+              "overview": "Após se formar como o melhor aluno da turma, Niall espera se mudar para a Inglaterra para se afastar de Ruben. Mas quando Lori e Maura o pressionam a mentir a favor de Ruben no tribunal, Niall enfrenta uma decisão difícil.",
+              "still_path": "/6Y2anfYLBYkSFhzboLEi0aSgoAc.jpg",
+              "vote_average": 6.5,
+              "vote_count": 18,
+              "guest_stars": [
+                {
+                  "name": "Julie Cullen",
+                  "character": "Young Joanna",
+                  "profile_path": "",
+                  "order": 506,
+                  "id": 3994393
+                },
+                {
+                  "name": "Bilal Hasna",
+                  "character": "Young Alby",
+                  "profile_path": "/4Iv2G2tKWvv8BEAcJ9AU75jpG2L.jpg",
+                  "order": 508,
+                  "id": 3433933
+                },
+                {
+                  "name": "Charlie de Melo",
+                  "character": "Alby",
+                  "profile_path": "/o8VFWRzuhNlsUROiq4F1XLIlnTK.jpg",
+                  "order": 509,
+                  "id": 1476385
+                },
+                {
+                  "name": "Anjli Mohindra",
+                  "character": "Ava",
+                  "profile_path": "/bUmLmifwwItfVP5bS6JbxISkwWR.jpg",
+                  "order": 511,
+                  "id": 1214525
+                },
+                {
+                  "name": "Marianne McIvor",
+                  "character": "Maura",
+                  "profile_path": "/tLfZN9gKcOq1MbG9qLrFbq85RNj.jpg",
+                  "order": 514,
+                  "id": 2393431
+                },
+                {
+                  "name": "Stuart Campbell",
+                  "character": "Young Ruben",
+                  "profile_path": "/tHfoXNuaIr7T0CvM6l55NTr40Ay.jpg",
+                  "order": 515,
+                  "id": 3765540
+                },
+                {
+                  "name": "Mitchell Robertson",
+                  "character": "Young Niall",
+                  "profile_path": "/cytCg0KwhbODE1ZZ9jJzvNq49b2.jpg",
+                  "order": 516,
+                  "id": 3709361
+                },
+                {
+                  "name": "Sandy Batchelor",
+                  "character": "Gus",
+                  "profile_path": "/8EhALIbWq6LGba8vz3eNKj0ZeBF.jpg",
+                  "order": 517,
+                  "id": 1694984
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Richard Gadd",
+                  "character": "Ruben",
+                  "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg",
+                  "order": 0,
+                  "id": 1547839
+                },
+                {
+                  "name": "Jamie Bell",
+                  "character": "Niall",
+                  "profile_path": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
+                  "order": 1,
+                  "id": 478
+                },
+                {
+                  "name": "Neve McIntosh",
+                  "character": "Lori",
+                  "profile_path": "/gb5W0Ebszs8o5aBKv0nyc3GQwoZ.jpg",
+                  "order": 2,
+                  "id": 120895
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Alexandra Brodski",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 2465394,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ben McKinstrie",
+                  "job": "Editor",
+                  "department": "Editing",
+                  "id": 2307714,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Richard Gadd",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1547839,
+                  "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt36831975",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10345893,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU3OTk0LTAxLTAzLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Episódio 4",
+              "original_name": "",
+              "air_date": "2026-05-19",
+              "runtime": 65,
+              "overview": "Décadas depois, a notícia do retorno de Ruben leva Niall a ficar obcecado por ele, o que culmina em um confronto violento.",
+              "still_path": "/yebfdTS60ed5YKTZTNXakvLjK0v.jpg",
+              "vote_average": 6.765,
+              "vote_count": 17,
+              "guest_stars": [
+                {
+                  "name": "Charlie de Melo",
+                  "character": "Alby",
+                  "profile_path": "/o8VFWRzuhNlsUROiq4F1XLIlnTK.jpg",
+                  "order": 509,
+                  "id": 1476385
+                },
+                {
+                  "name": "Anjli Mohindra",
+                  "character": "Ava",
+                  "profile_path": "/bUmLmifwwItfVP5bS6JbxISkwWR.jpg",
+                  "order": 511,
+                  "id": 1214525
+                },
+                {
+                  "name": "Kate Robson-Stuart",
+                  "character": "Joanna",
+                  "profile_path": "",
+                  "order": 512,
+                  "id": 6258532
+                },
+                {
+                  "name": "Amy Manson",
+                  "character": "Mona",
+                  "profile_path": "/huSqrorhvHNS0BRQOTMtgSvaROe.jpg",
+                  "order": 513,
+                  "id": 121721
+                },
+                {
+                  "name": "Marianne McIvor",
+                  "character": "Maura",
+                  "profile_path": "/tLfZN9gKcOq1MbG9qLrFbq85RNj.jpg",
+                  "order": 514,
+                  "id": 2393431
+                },
+                {
+                  "name": "Sandy Batchelor",
+                  "character": "Gus",
+                  "profile_path": "/8EhALIbWq6LGba8vz3eNKj0ZeBF.jpg",
+                  "order": 517,
+                  "id": 1694984
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Richard Gadd",
+                  "character": "Ruben",
+                  "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg",
+                  "order": 0,
+                  "id": 1547839
+                },
+                {
+                  "name": "Jamie Bell",
+                  "character": "Niall",
+                  "profile_path": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
+                  "order": 1,
+                  "id": 478
+                },
+                {
+                  "name": "Neve McIntosh",
+                  "character": "Lori",
+                  "profile_path": "/gb5W0Ebszs8o5aBKv0nyc3GQwoZ.jpg",
+                  "order": 2,
+                  "id": 120895
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Richard Gadd",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1547839,
+                  "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg"
+                },
+                {
+                  "name": "Eshref Reybrouck",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1377737,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt36831976",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10345894,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU3OTk0LTAxLTA0Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "Episódio 5",
+              "original_name": "",
+              "air_date": "2026-05-26",
+              "runtime": 66,
+              "overview": "Enquanto Niall e Ava passam por mudanças significativas em suas vidas, Ruben enfrenta dificuldades em seu próprio relacionamento com Mona. Então, Niall toma uma decisão impulsiva que muda a vida de todos os envolvidos.",
+              "still_path": "/3YZ58SWSdwBrqFqbsZQazbOiTj9.jpg",
+              "vote_average": 6.067,
+              "vote_count": 15,
+              "guest_stars": [
+                {
+                  "name": "Charlie de Melo",
+                  "character": "Alby",
+                  "profile_path": "/o8VFWRzuhNlsUROiq4F1XLIlnTK.jpg",
+                  "order": 509,
+                  "id": 1476385
+                },
+                {
+                  "name": "Anjli Mohindra",
+                  "character": "Ava",
+                  "profile_path": "/bUmLmifwwItfVP5bS6JbxISkwWR.jpg",
+                  "order": 511,
+                  "id": 1214525
+                },
+                {
+                  "name": "Amy Manson",
+                  "character": "Mona",
+                  "profile_path": "/huSqrorhvHNS0BRQOTMtgSvaROe.jpg",
+                  "order": 513,
+                  "id": 121721
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Richard Gadd",
+                  "character": "Ruben",
+                  "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg",
+                  "order": 0,
+                  "id": 1547839
+                },
+                {
+                  "name": "Jamie Bell",
+                  "character": "Niall",
+                  "profile_path": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
+                  "order": 1,
+                  "id": 478
+                },
+                {
+                  "name": "Neve McIntosh",
+                  "character": "Lori",
+                  "profile_path": "/gb5W0Ebszs8o5aBKv0nyc3GQwoZ.jpg",
+                  "order": 2,
+                  "id": 120895
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Richard Gadd",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1547839,
+                  "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg"
+                },
+                {
+                  "name": "Eshref Reybrouck",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1377737,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt36831977",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10345895,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU3OTk0LTAxLTA1Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Episódio 6",
+              "original_name": "",
+              "air_date": "2026-06-02",
+              "runtime": 68,
+              "overview": "Após construir uma nova vida, os medos não resolvidos de Niall ressurgem quando um segredo do passado ameaça seu frágil vínculo com Ruben, forçando ambos a confrontar seus demônios.",
+              "still_path": "/fYyn10ewmvFPaOfasv3U9OibNA5.jpg",
+              "vote_average": 6.143,
+              "vote_count": 14,
+              "guest_stars": [
+                {
+                  "name": "Charlie de Melo",
+                  "character": "Alby",
+                  "profile_path": "/o8VFWRzuhNlsUROiq4F1XLIlnTK.jpg",
+                  "order": 509,
+                  "id": 1476385
+                },
+                {
+                  "name": "Amy Manson",
+                  "character": "Mona",
+                  "profile_path": "/huSqrorhvHNS0BRQOTMtgSvaROe.jpg",
+                  "order": 513,
+                  "id": 121721
+                },
+                {
+                  "name": "Marianne McIvor",
+                  "character": "Maura",
+                  "profile_path": "/tLfZN9gKcOq1MbG9qLrFbq85RNj.jpg",
+                  "order": 514,
+                  "id": 2393431
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Richard Gadd",
+                  "character": "Ruben",
+                  "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg",
+                  "order": 0,
+                  "id": 1547839
+                },
+                {
+                  "name": "Jamie Bell",
+                  "character": "Niall",
+                  "profile_path": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
+                  "order": 1,
+                  "id": 478
+                },
+                {
+                  "name": "Neve McIntosh",
+                  "character": "Lori",
+                  "profile_path": "/gb5W0Ebszs8o5aBKv0nyc3GQwoZ.jpg",
+                  "order": 2,
+                  "id": 120895
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Richard Gadd",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1547839,
+                  "profile_path": "/3McA6R1Wd0Fk86OKjUph9aZM0ih.jpg"
+                },
+                {
+                  "name": "Eshref Reybrouck",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1377737,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt36831978",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10345896,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDEvMjU3OTk0LTAxLTA2Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
