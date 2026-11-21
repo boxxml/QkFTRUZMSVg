@@ -160607,6 +160607,3061 @@
           ]
         }
       ]
+    },
+    {
+      "type": "tv",
+      "title": "Festa da Salsicha: Comilândia",
+      "original_title": "Sausage Party: Foodtopia",
+      "tmdb_id": "213249",
+      "id": 213249,
+      "year": "2024",
+      "release_date": "2024-07-11",
+      "overview": "Depois de matar toda a huminadade, as comidas buscam criar sua própria utopia.",
+      "tagline": "",
+      "poster": "/l8XFkTzWxObRLFqYlgZ1UBgvw5r.jpg",
+      "backdrop": "/c0T9qkw2mMGPcl4SVS7AeSChgrh.jpg",
+      "vote_average": 6.7,
+      "vote_count": 219,
+      "genres": [
+        "Animação",
+        "Comédia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "runtime": 0,
+      "certification": "18",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "Point Grey Pictures",
+        "Annapurna Television",
+        "Sony Pictures Television",
+        "Amazon MGM Studios"
+      ],
+      "external_ids": {
+        "imdb_id": "tt23036426",
+        "freebase_mid": null,
+        "freebase_id": null,
+        "tvdb_id": 426452,
+        "tvrage_id": null,
+        "wikidata_id": "Q124995069",
+        "facebook_id": "sausageparty",
+        "instagram_id": "sausage_party",
+        "twitter_id": "sausageparty"
+      },
+      "sources": [],
+      "status": "Returning Series",
+      "networks": [
+        "Prime Video"
+      ],
+      "created_by": [
+        {
+          "id": 54734,
+          "name": "Evan Goldberg",
+          "profile_path": "/qh0pRmpYzyix1ErrMGADthTnpLa.jpg"
+        },
+        {
+          "id": 19274,
+          "name": "Seth Rogen",
+          "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+        },
+        {
+          "id": 1206448,
+          "name": "Kyle Hunter",
+          "profile_path": ""
+        },
+        {
+          "id": 1206449,
+          "name": "Ariel Shaffir",
+          "profile_path": ""
+        }
+      ],
+      "number_of_seasons": 2,
+      "number_of_episodes": 16,
+      "cast": [
+        {
+          "name": "Seth Rogen",
+          "character": "Frank (voice)",
+          "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+          "order": 0,
+          "id": 19274
+        },
+        {
+          "name": "Kristen Wiig",
+          "character": "Brenda (voice)",
+          "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+          "order": 1,
+          "id": 41091
+        },
+        {
+          "name": "Edward Norton",
+          "character": "Sammy (voice)",
+          "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+          "order": 2,
+          "id": 819
+        },
+        {
+          "name": "Michael Cera",
+          "character": "Barry (voice)",
+          "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+          "order": 3,
+          "id": 39995
+        }
+      ],
+      "crew": [
+        {
+          "name": "Sam Marks",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 2013935,
+          "profile_path": ""
+        },
+        {
+          "name": "Jennifer Kim",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 6209226,
+          "profile_path": ""
+        },
+        {
+          "name": "Dewayne Perkins",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 2600533,
+          "profile_path": "/hey5ww24f6dAp5xRRuGgufKKlDf.jpg"
+        },
+        {
+          "name": "Matthew Bass",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 54723,
+          "profile_path": "/z53lzQYqX3EarQFz38YZh0QHJUr.jpg"
+        },
+        {
+          "name": "Alexander Bornstein",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 1070265,
+          "profile_path": ""
+        },
+        {
+          "name": "Madeline Blair",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 5986990,
+          "profile_path": ""
+        },
+        {
+          "name": "Jack Berigan",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 4823692,
+          "profile_path": ""
+        },
+        {
+          "name": "Haiet Lakhouache",
+          "job": "Producer",
+          "department": "Production",
+          "id": 4823689,
+          "profile_path": ""
+        },
+        {
+          "name": "Christopher Lennertz",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 49911,
+          "profile_path": "/4WIa3Ntb4tDzXrOTvuhpKbKDJuc.jpg"
+        },
+        {
+          "name": "Linda Lamontagne",
+          "job": "Casting",
+          "department": "Production",
+          "id": 965333,
+          "profile_path": "/wpRxYVYMoNKE7tWpXPUPxhfsEK6.jpg"
+        },
+        {
+          "name": "Laura Krafft",
+          "job": "Co-Executive Producer",
+          "department": "Production",
+          "id": 1236566,
+          "profile_path": ""
+        },
+        {
+          "name": "Patrick Chu",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1872766,
+          "profile_path": ""
+        },
+        {
+          "name": "Andrew Millstein",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2009610,
+          "profile_path": "/iDKE6n7iZdARHntFNHUKh6pDCmd.jpg"
+        },
+        {
+          "name": "Seth Rogen",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 19274,
+          "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+        },
+        {
+          "name": "James Weaver",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 928595,
+          "profile_path": "/pyUq99G6KgfX1ueTEueCoe3M5go.jpg"
+        },
+        {
+          "name": "Evan Goldberg",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 54734,
+          "profile_path": "/qh0pRmpYzyix1ErrMGADthTnpLa.jpg"
+        },
+        {
+          "name": "Megan Ellison",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1027025,
+          "profile_path": "/sZwZJ6Ma9cO5K2VtpOofinbhwtE.jpg"
+        },
+        {
+          "name": "Ariel Shaffir",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1206449,
+          "profile_path": ""
+        },
+        {
+          "name": "Alex McAtee",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1403656,
+          "profile_path": ""
+        },
+        {
+          "name": "Kyle Hunter",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1206448,
+          "profile_path": ""
+        },
+        {
+          "name": "Conrad Vernon",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 12080,
+          "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+        }
+      ],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-21T03:34:35.404Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "overview": "",
+          "poster_path": "/6kSblgQfbqDSo5gRIQ4vp706KTe.jpg",
+          "poster": "/6kSblgQfbqDSo5gRIQ4vp706KTe.jpg",
+          "backdrop_path": "",
+          "air_date": "2024-07-11",
+          "vote_average": 5.6,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Seth Rogen",
+              "character": "Frank (voice)",
+              "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+              "order": 0,
+              "id": 19274
+            },
+            {
+              "name": "Kristen Wiig",
+              "character": "Brenda (voice)",
+              "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+              "order": 1,
+              "id": 41091
+            },
+            {
+              "name": "Edward Norton",
+              "character": "Sammy (voice)",
+              "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+              "order": 2,
+              "id": 819
+            },
+            {
+              "name": "Michael Cera",
+              "character": "Barry (voice)",
+              "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+              "order": 3,
+              "id": 39995
+            }
+          ],
+          "crew": [
+            {
+              "name": "Geoffrey G. Rubay",
+              "job": "Supervising Sound Editor",
+              "department": "Sound",
+              "id": 1407812,
+              "profile_path": ""
+            },
+            {
+              "name": "Alec Rubay",
+              "job": "Supervising Sound Editor",
+              "department": "Sound",
+              "id": 2011007,
+              "profile_path": ""
+            },
+            {
+              "name": "Randall James Bol",
+              "job": "Post Production Producer",
+              "department": "Production",
+              "id": 2136802,
+              "profile_path": ""
+            },
+            {
+              "name": "Jerson Velasco",
+              "job": "Animation Supervisor",
+              "department": "Visual Effects",
+              "id": 4823694,
+              "profile_path": ""
+            },
+            {
+              "name": "Ljubomir Milic",
+              "job": "Modelling Supervisor",
+              "department": "Visual Effects",
+              "id": 4276750,
+              "profile_path": ""
+            },
+            {
+              "name": "Tracy Grant",
+              "job": "Line Producer",
+              "department": "Production",
+              "id": 1799669,
+              "profile_path": ""
+            },
+            {
+              "name": "Bert Van Brande",
+              "job": "Visual Effects Producer",
+              "department": "Visual Effects",
+              "id": 1671477,
+              "profile_path": ""
+            },
+            {
+              "name": "Deborah Crane",
+              "job": "Script Coordinator",
+              "department": "Directing",
+              "id": 1885272,
+              "profile_path": ""
+            },
+            {
+              "name": "Gabe Hilfer",
+              "job": "Music Supervisor",
+              "department": "Sound",
+              "id": 1529999,
+              "profile_path": "/yzgug2dkaDpbMcEvufBCeJZyqY9.jpg"
+            },
+            {
+              "name": "Geoffrey G. Rubay",
+              "job": "Sound Re-Recording Mixer",
+              "department": "Sound",
+              "id": 1407812,
+              "profile_path": ""
+            },
+            {
+              "name": "Jeff Seibenick",
+              "job": "Supervising Editor",
+              "department": "Editing",
+              "id": 1580025,
+              "profile_path": ""
+            },
+            {
+              "name": "Scott Underwood",
+              "job": "Head of Story",
+              "department": "Writing",
+              "id": 1447323,
+              "profile_path": "/xGVDkJt7umdASrW6OYMUxgdesQd.jpg"
+            },
+            {
+              "name": "Ashley N. Rubay",
+              "job": "Dialogue Editor",
+              "department": "Sound",
+              "id": 4096086,
+              "profile_path": ""
+            },
+            {
+              "name": "Ashley N. Rubay",
+              "job": "ADR Editor",
+              "department": "Sound",
+              "id": 4096086,
+              "profile_path": ""
+            },
+            {
+              "name": "Theodore Bressman",
+              "job": "Consulting Producer",
+              "department": "Production",
+              "id": 1940114,
+              "profile_path": "/r3FxBRon2YR51br18vI9Ox9aiHK.jpg"
+            },
+            {
+              "name": "Matthew Bass",
+              "job": "Consulting Producer",
+              "department": "Production",
+              "id": 54723,
+              "profile_path": "/z53lzQYqX3EarQFz38YZh0QHJUr.jpg"
+            },
+            {
+              "name": "Dewayne Perkins",
+              "job": "Supervising Producer",
+              "department": "Production",
+              "id": 2600533,
+              "profile_path": "/hey5ww24f6dAp5xRRuGgufKKlDf.jpg"
+            },
+            {
+              "name": "Mike Marino",
+              "job": "Foley Mixer",
+              "department": "Sound",
+              "id": 2014787,
+              "profile_path": ""
+            },
+            {
+              "name": "Gregg Barbanell",
+              "job": "Foley Artist",
+              "department": "Sound",
+              "id": 1371064,
+              "profile_path": ""
+            },
+            {
+              "name": "Ali Waller",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 2496729,
+              "profile_path": ""
+            },
+            {
+              "name": "Jonah Hill",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 21007,
+              "profile_path": "/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+            },
+            {
+              "name": "Alex Ullrich",
+              "job": "Foley Artist",
+              "department": "Sound",
+              "id": 1414145,
+              "profile_path": ""
+            },
+            {
+              "name": "Mark Linden",
+              "job": "Sound Re-Recording Mixer",
+              "department": "Sound",
+              "id": 1398894,
+              "profile_path": ""
+            },
+            {
+              "name": "Tara A. Paul",
+              "job": "Sound Re-Recording Mixer",
+              "department": "Sound",
+              "id": 2052013,
+              "profile_path": ""
+            },
+            {
+              "name": "Christopher Brooks",
+              "job": "Music Editor",
+              "department": "Sound",
+              "id": 1458533,
+              "profile_path": ""
+            },
+            {
+              "name": "Henry van Roden",
+              "job": "Music Coordinator",
+              "department": "Sound",
+              "id": 2638468,
+              "profile_path": ""
+            },
+            {
+              "name": "Jennifer Kim",
+              "job": "Executive Story Editor",
+              "department": "Writing",
+              "id": 6209226,
+              "profile_path": ""
+            },
+            {
+              "name": "Matthew Rodgers",
+              "job": "Production Design",
+              "department": "Art",
+              "id": 1466027,
+              "profile_path": ""
+            },
+            {
+              "name": "Jeremy Levick",
+              "job": "Staff Writer",
+              "department": "Writing",
+              "id": 3497361,
+              "profile_path": "/w5gzbOZQbiJYzBUEDMpZeLHpL6e.jpg"
+            },
+            {
+              "name": "Rajat Suresh",
+              "job": "Staff Writer",
+              "department": "Writing",
+              "id": 2185534,
+              "profile_path": ""
+            },
+            {
+              "name": "Madeline Blair",
+              "job": "Associate Producer",
+              "department": "Production",
+              "id": 5986990,
+              "profile_path": ""
+            },
+            {
+              "name": "Christopher Lennertz",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 49911,
+              "profile_path": "/4WIa3Ntb4tDzXrOTvuhpKbKDJuc.jpg"
+            },
+            {
+              "name": "Linda Lamontagne",
+              "job": "Casting",
+              "department": "Production",
+              "id": 965333,
+              "profile_path": "/wpRxYVYMoNKE7tWpXPUPxhfsEK6.jpg"
+            },
+            {
+              "name": "Jack Berigan",
+              "job": "Associate Producer",
+              "department": "Production",
+              "id": 4823692,
+              "profile_path": ""
+            },
+            {
+              "name": "Haiet Lakhouache",
+              "job": "Producer",
+              "department": "Production",
+              "id": 4823689,
+              "profile_path": ""
+            },
+            {
+              "name": "Laura Krafft",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1236566,
+              "profile_path": ""
+            },
+            {
+              "name": "Patrick Chu",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1872766,
+              "profile_path": ""
+            },
+            {
+              "name": "Andrew Millstein",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2009610,
+              "profile_path": "/iDKE6n7iZdARHntFNHUKh6pDCmd.jpg"
+            },
+            {
+              "name": "Megan Ellison",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1027025,
+              "profile_path": "/sZwZJ6Ma9cO5K2VtpOofinbhwtE.jpg"
+            },
+            {
+              "name": "Conrad Vernon",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 12080,
+              "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+            },
+            {
+              "name": "Alex McAtee",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1403656,
+              "profile_path": ""
+            },
+            {
+              "name": "James Weaver",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 928595,
+              "profile_path": "/pyUq99G6KgfX1ueTEueCoe3M5go.jpg"
+            },
+            {
+              "name": "Evan Goldberg",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 54734,
+              "profile_path": "/qh0pRmpYzyix1ErrMGADthTnpLa.jpg"
+            },
+            {
+              "name": "Seth Rogen",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 19274,
+              "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+            },
+            {
+              "name": "Kyle Hunter",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1206448,
+              "profile_path": ""
+            },
+            {
+              "name": "Ariel Shaffir",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1206449,
+              "profile_path": ""
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Primeiro Prato",
+              "original_name": "",
+              "air_date": "2024-07-11",
+              "runtime": 25,
+              "overview": "A grande Guerra das Comidas chegou ao fim. As Comidas saíram vitoriosas sobre a humanidade. Elas estão livres para criar sua própria Comilândia, mas nem tudo é tão simples.",
+              "still_path": "/lj1ScrW1UFOk6zhLQHgv5VVmibH.jpg",
+              "vote_average": 5.4,
+              "vote_count": 7,
+              "guest_stars": [
+                {
+                  "name": "Alejandro Saab",
+                  "character": "(voice)",
+                  "profile_path": "/s0CfyqLUSwhqGFSrD8penMB7rwI.jpg",
+                  "order": 500,
+                  "id": 3367960
+                },
+                {
+                  "name": "André Sogliuzzo",
+                  "character": "(voice)",
+                  "profile_path": "/lrebAFDCMthLuq6Oyzraac8MzQL.jpg",
+                  "order": 501,
+                  "id": 177588
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "character": "Dip (voice)",
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg",
+                  "order": 502,
+                  "id": 12080
+                },
+                {
+                  "name": "Daniel Hagen",
+                  "character": "(voice)",
+                  "profile_path": "/vyoq2ylaO74E8dACbRfxcQg1k8B.jpg",
+                  "order": 503,
+                  "id": 56692
+                },
+                {
+                  "name": "Evan Goldberg",
+                  "character": "Jelly Donut (voice)",
+                  "profile_path": "/qh0pRmpYzyix1ErrMGADthTnpLa.jpg",
+                  "order": 504,
+                  "id": 54734
+                },
+                {
+                  "name": "Grey DeLisle",
+                  "character": "Chili Pepper / Carrot (voice)",
+                  "profile_path": "/anib3yRL9GyUvTkYNHWxQPlXLUH.jpg",
+                  "order": 505,
+                  "id": 15761
+                },
+                {
+                  "name": "Jay Pharoah",
+                  "character": "(voice)",
+                  "profile_path": "/qpCc7SshxYXcgZIjhv8xKWuzEp6.jpg",
+                  "order": 506,
+                  "id": 1099717
+                },
+                {
+                  "name": "Kerri Kenney",
+                  "character": "(voice)",
+                  "profile_path": "/xamVMZJDIcEuclUNO1E5dVala9e.jpg",
+                  "order": 507,
+                  "id": 63220
+                },
+                {
+                  "name": "Rachel Butera",
+                  "character": "(voice)",
+                  "profile_path": "/j9PbEcUdFkInCdFjQAMNvctfF7j.jpg",
+                  "order": 508,
+                  "id": 1573215
+                },
+                {
+                  "name": "Scott Underwood",
+                  "character": "Twink / Gum (voice)",
+                  "profile_path": "/xGVDkJt7umdASrW6OYMUxgdesQd.jpg",
+                  "order": 509,
+                  "id": 1447323
+                },
+                {
+                  "name": "Sugar Lyn Beard",
+                  "character": "Jeri Rice (voice)",
+                  "profile_path": "/8AIFKRJ9bdW91PRXfx3Rx35xZQB.jpg",
+                  "order": 510,
+                  "id": 1281758
+                },
+                {
+                  "name": "Timothy Simons",
+                  "character": "(voice)",
+                  "profile_path": "/upav8HyWsF6ksAkvogEhR9sBlNN.jpg",
+                  "order": 511,
+                  "id": 1181329
+                },
+                {
+                  "name": "Natasha Rothwell",
+                  "character": "(voice)",
+                  "profile_path": "/x5KdL3QoS4YuozVpfuPsu3MLwwf.jpg",
+                  "order": 528,
+                  "id": 1546282
+                },
+                {
+                  "name": "Sam Richardson",
+                  "character": "Julius (voice)",
+                  "profile_path": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+                  "order": 531,
+                  "id": 1429453
+                },
+                {
+                  "name": "SungWon Cho",
+                  "character": "Apple / Banana / Plum (voice)",
+                  "profile_path": "/jh5Au9smnPwfLoPNrcJ2VsJnbhU.jpg",
+                  "order": 532,
+                  "id": 1942233
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Marta Demong",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 1984404,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sidne Marat",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 4536803,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Gavin Freitas",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 2629696,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Gene Kim",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 2635654,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Shiyeon Cho",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 4262668,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ricardo Osuna",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 3472303,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Bryan Francis",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 2581776,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Seth Rogen",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 19274,
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+                },
+                {
+                  "name": "Kyle Hunter",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206448,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Ariel Shaffir",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206449,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Evan Goldberg",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 54734,
+                  "profile_path": "/qh0pRmpYzyix1ErrMGADthTnpLa.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt23038868",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9421308,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAxLTAxLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Segundo Prato",
+              "original_name": "",
+              "air_date": "2024-07-11",
+              "runtime": 25,
+              "overview": "Frank, Brenda e Barry embarcam em uma missão para salvar comidas reféns antes que elas MORRAM!! Sammy preenche seu vazio com uma nova forma de arte: Comédia Stand-Up. Mas nem tudo é tão simples...",
+              "still_path": "/8L78jJFKHrPfwl75U22zP5muC4K.jpg",
+              "vote_average": 5.2,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "André Sogliuzzo",
+                  "character": "(voice)",
+                  "profile_path": "/lrebAFDCMthLuq6Oyzraac8MzQL.jpg",
+                  "order": 501,
+                  "id": 177588
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "character": "Dip (voice)",
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg",
+                  "order": 502,
+                  "id": 12080
+                },
+                {
+                  "name": "Evan Goldberg",
+                  "character": "Jelly Donut (voice)",
+                  "profile_path": "/qh0pRmpYzyix1ErrMGADthTnpLa.jpg",
+                  "order": 504,
+                  "id": 54734
+                },
+                {
+                  "name": "Grey DeLisle",
+                  "character": "Chili Pepper / Carrot (voice)",
+                  "profile_path": "/anib3yRL9GyUvTkYNHWxQPlXLUH.jpg",
+                  "order": 505,
+                  "id": 15761
+                },
+                {
+                  "name": "Jay Pharoah",
+                  "character": "(voice)",
+                  "profile_path": "/qpCc7SshxYXcgZIjhv8xKWuzEp6.jpg",
+                  "order": 506,
+                  "id": 1099717
+                },
+                {
+                  "name": "Scott Underwood",
+                  "character": "Twink / Gum (voice)",
+                  "profile_path": "/xGVDkJt7umdASrW6OYMUxgdesQd.jpg",
+                  "order": 509,
+                  "id": 1447323
+                },
+                {
+                  "name": "Sugar Lyn Beard",
+                  "character": "Jeri Rice (voice)",
+                  "profile_path": "/8AIFKRJ9bdW91PRXfx3Rx35xZQB.jpg",
+                  "order": 510,
+                  "id": 1281758
+                },
+                {
+                  "name": "Darmirra Brunson",
+                  "character": "(voice)",
+                  "profile_path": "",
+                  "order": 512,
+                  "id": 3741576
+                },
+                {
+                  "name": "Dewayne Perkins",
+                  "character": "(voice)",
+                  "profile_path": "/hey5ww24f6dAp5xRRuGgufKKlDf.jpg",
+                  "order": 513,
+                  "id": 2600533
+                },
+                {
+                  "name": "David Krumholtz",
+                  "character": "Lavash (voice)",
+                  "profile_path": "/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg",
+                  "order": 527,
+                  "id": 38582
+                },
+                {
+                  "name": "Natasha Rothwell",
+                  "character": "(voice)",
+                  "profile_path": "/x5KdL3QoS4YuozVpfuPsu3MLwwf.jpg",
+                  "order": 528,
+                  "id": 1546282
+                },
+                {
+                  "name": "Will Forte",
+                  "character": "Jack (voice)",
+                  "profile_path": "/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg",
+                  "order": 530,
+                  "id": 62831
+                },
+                {
+                  "name": "Sam Richardson",
+                  "character": "Julius (voice)",
+                  "profile_path": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+                  "order": 531,
+                  "id": 1429453
+                },
+                {
+                  "name": "SungWon Cho",
+                  "character": "Apple (voice)",
+                  "profile_path": "/jh5Au9smnPwfLoPNrcJ2VsJnbhU.jpg",
+                  "order": 533,
+                  "id": 1942233
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Jose Antonio Cerro",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 2669156,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Adam Cootes",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 3460422,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Ali Waller",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2496729,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt26315659",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9421309,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAxLTAyLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Terceiro Prato",
+              "original_name": "",
+              "air_date": "2024-07-11",
+              "runtime": 23,
+              "overview": "As comidas estão empolgadas e decidem comemorar com um festival. Frank e Brenda devem esconder um segredo de Barry, mas infelizmente, nem tudo é tão simples...",
+              "still_path": "/13SnmweFElCA0i9HzDLXM7OT1wB.jpg",
+              "vote_average": 5.2,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "André Sogliuzzo",
+                  "character": "(voice)",
+                  "profile_path": "/lrebAFDCMthLuq6Oyzraac8MzQL.jpg",
+                  "order": 501,
+                  "id": 177588
+                },
+                {
+                  "name": "Grey DeLisle",
+                  "character": "Chili Pepper / Carrot (voice)",
+                  "profile_path": "/anib3yRL9GyUvTkYNHWxQPlXLUH.jpg",
+                  "order": 505,
+                  "id": 15761
+                },
+                {
+                  "name": "Alex Karukas",
+                  "character": "(voice)",
+                  "profile_path": "",
+                  "order": 514,
+                  "id": 4823665
+                },
+                {
+                  "name": "Avalon Lennon",
+                  "character": "(voice)",
+                  "profile_path": "",
+                  "order": 515,
+                  "id": 4823669
+                },
+                {
+                  "name": "Emily Lynne",
+                  "character": "(voice)",
+                  "profile_path": "/eRwzKWOCrKxpYpH15gDFFCtwfbg.jpg",
+                  "order": 516,
+                  "id": 1980928
+                },
+                {
+                  "name": "David Krumholtz",
+                  "character": "Lavash (voice)",
+                  "profile_path": "/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg",
+                  "order": 527,
+                  "id": 38582
+                },
+                {
+                  "name": "Will Forte",
+                  "character": "Jack (voice)",
+                  "profile_path": "/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg",
+                  "order": 530,
+                  "id": 62831
+                },
+                {
+                  "name": "Sam Richardson",
+                  "character": "Julius (voice)",
+                  "profile_path": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+                  "order": 531,
+                  "id": 1429453
+                },
+                {
+                  "name": "SungWon Cho",
+                  "character": "Cheese (voice)",
+                  "profile_path": "/jh5Au9smnPwfLoPNrcJ2VsJnbhU.jpg",
+                  "order": 534,
+                  "id": 1942233
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Maddie Taylor",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 144219,
+                  "profile_path": "/yD9EpL0kEsxqMof0QTVb01Ox3Cy.jpg"
+                },
+                {
+                  "name": "Marta Demong",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 1984404,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sidne Marat",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 4536803,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Gene Kim",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 2635654,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Shiyeon Cho",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 4262668,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Dewayne Perkins",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2600533,
+                  "profile_path": "/hey5ww24f6dAp5xRRuGgufKKlDf.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt26315658",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9421310,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAxLTAzLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Quarto Prato",
+              "original_name": "",
+              "air_date": "2024-07-11",
+              "runtime": 26,
+              "overview": "Uma nova moeda forma um sistema de classes na Comilândia. Frank e Brenda planejam consertá-lo. No entanto, nem tudo é tão simples...",
+              "still_path": "/u3sfwkcEEGnsw2YfporQijlJjLx.jpg",
+              "vote_average": 5.8,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "André Sogliuzzo",
+                  "character": "(voice)",
+                  "profile_path": "/lrebAFDCMthLuq6Oyzraac8MzQL.jpg",
+                  "order": 501,
+                  "id": 177588
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "character": "Dip (voice)",
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg",
+                  "order": 502,
+                  "id": 12080
+                },
+                {
+                  "name": "Grey DeLisle",
+                  "character": "Chili Pepper / Carrot (voice)",
+                  "profile_path": "/anib3yRL9GyUvTkYNHWxQPlXLUH.jpg",
+                  "order": 505,
+                  "id": 15761
+                },
+                {
+                  "name": "Rachel Butera",
+                  "character": "(voice)",
+                  "profile_path": "/j9PbEcUdFkInCdFjQAMNvctfF7j.jpg",
+                  "order": 508,
+                  "id": 1573215
+                },
+                {
+                  "name": "Darmirra Brunson",
+                  "character": "(voice)",
+                  "profile_path": "",
+                  "order": 512,
+                  "id": 3741576
+                },
+                {
+                  "name": "James Adomian",
+                  "character": "(voice)",
+                  "profile_path": "/auQ2a6mGhPiujtlSqDNSk6l7i1G.jpg",
+                  "order": 517,
+                  "id": 441567
+                },
+                {
+                  "name": "Jill Talley",
+                  "character": "(voice)",
+                  "profile_path": "/x0r43qyI9KNEyb5RsF0MckqxgfM.jpg",
+                  "order": 518,
+                  "id": 17414
+                },
+                {
+                  "name": "Lena Hall",
+                  "character": "(voice)",
+                  "profile_path": "/iVH6raaj451XmMZ99uaIQFLTDCf.jpg",
+                  "order": 519,
+                  "id": 1545427
+                },
+                {
+                  "name": "David Krumholtz",
+                  "character": "Lavash (voice)",
+                  "profile_path": "/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg",
+                  "order": 527,
+                  "id": 38582
+                },
+                {
+                  "name": "Natasha Rothwell",
+                  "character": "(voice)",
+                  "profile_path": "/x5KdL3QoS4YuozVpfuPsu3MLwwf.jpg",
+                  "order": 528,
+                  "id": 1546282
+                },
+                {
+                  "name": "Yassir Lester",
+                  "character": "(voice)",
+                  "profile_path": "/cxQk4vTeBnFPgTvmVpYtkmTKVTf.jpg",
+                  "order": 529,
+                  "id": 1653368
+                },
+                {
+                  "name": "Will Forte",
+                  "character": "Jack (voice)",
+                  "profile_path": "/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg",
+                  "order": 530,
+                  "id": 62831
+                },
+                {
+                  "name": "Sam Richardson",
+                  "character": "Julius (voice)",
+                  "profile_path": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+                  "order": 531,
+                  "id": 1429453
+                },
+                {
+                  "name": "SungWon Cho",
+                  "character": "Banana / Ice Cream / Plum / Random Food (voice)",
+                  "profile_path": "/jh5Au9smnPwfLoPNrcJ2VsJnbhU.jpg",
+                  "order": 535,
+                  "id": 1942233
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Jose Antonio Cerro",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 2669156,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Adam Cootes",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 3460422,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Jennifer Kim",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 6209226,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt26315663",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9421311,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAxLTA0Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "Quinto Prato",
+              "original_name": "",
+              "air_date": "2024-07-11",
+              "runtime": 28,
+              "overview": "Uma laranja maquiavélica, Julius, ganha popularidade na Comilândia. Frank e Brenda se esforçam para manter o controle, mas nem tudo é tão simples...",
+              "still_path": "/mPfoJnrRBmgGEKoYrAJQRR3Knmx.jpg",
+              "vote_average": 6,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "André Sogliuzzo",
+                  "character": "(voice)",
+                  "profile_path": "/lrebAFDCMthLuq6Oyzraac8MzQL.jpg",
+                  "order": 501,
+                  "id": 177588
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "character": "Dip (voice)",
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg",
+                  "order": 502,
+                  "id": 12080
+                },
+                {
+                  "name": "Daniel Hagen",
+                  "character": "(voice)",
+                  "profile_path": "/vyoq2ylaO74E8dACbRfxcQg1k8B.jpg",
+                  "order": 503,
+                  "id": 56692
+                },
+                {
+                  "name": "Grey DeLisle",
+                  "character": "Chili Pepper / Carrot (voice)",
+                  "profile_path": "/anib3yRL9GyUvTkYNHWxQPlXLUH.jpg",
+                  "order": 505,
+                  "id": 15761
+                },
+                {
+                  "name": "Rachel Butera",
+                  "character": "(voice)",
+                  "profile_path": "/j9PbEcUdFkInCdFjQAMNvctfF7j.jpg",
+                  "order": 508,
+                  "id": 1573215
+                },
+                {
+                  "name": "Scott Underwood",
+                  "character": "Twink / Gum (voice)",
+                  "profile_path": "/xGVDkJt7umdASrW6OYMUxgdesQd.jpg",
+                  "order": 509,
+                  "id": 1447323
+                },
+                {
+                  "name": "Timothy Simons",
+                  "character": "(voice)",
+                  "profile_path": "/upav8HyWsF6ksAkvogEhR9sBlNN.jpg",
+                  "order": 511,
+                  "id": 1181329
+                },
+                {
+                  "name": "Jill Talley",
+                  "character": "(voice)",
+                  "profile_path": "/x0r43qyI9KNEyb5RsF0MckqxgfM.jpg",
+                  "order": 518,
+                  "id": 17414
+                },
+                {
+                  "name": "Carla Delaney",
+                  "character": "(voice)",
+                  "profile_path": "/8GkGSjVaFAdBNKPylgYJiy0ezUI.jpg",
+                  "order": 520,
+                  "id": 1946167
+                },
+                {
+                  "name": "Chris Cox",
+                  "character": "(voice)",
+                  "profile_path": "/sdLuGpLB0g5AtEr9VVnAqtIbZPt.jpg",
+                  "order": 521,
+                  "id": 136930
+                },
+                {
+                  "name": "Jimmy O. Yang",
+                  "character": "(voice)",
+                  "profile_path": "/1QfCVmdNo4AqBdN54kc9DTBx84X.jpg",
+                  "order": 522,
+                  "id": 1468779
+                },
+                {
+                  "name": "Marcus Paul James",
+                  "character": "(voice)",
+                  "profile_path": "/pxqbpaxvgJRBVyb5KQmoa05eVyM.jpg",
+                  "order": 523,
+                  "id": 1641967
+                },
+                {
+                  "name": "Sy Smith",
+                  "character": "(voice)",
+                  "profile_path": "/sYdPJetxEy5ew8MEMSCXdb2u1GM.jpg",
+                  "order": 524,
+                  "id": 2248785
+                },
+                {
+                  "name": "David Krumholtz",
+                  "character": "Lavash (voice)",
+                  "profile_path": "/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg",
+                  "order": 527,
+                  "id": 38582
+                },
+                {
+                  "name": "Natasha Rothwell",
+                  "character": "(voice)",
+                  "profile_path": "/x5KdL3QoS4YuozVpfuPsu3MLwwf.jpg",
+                  "order": 528,
+                  "id": 1546282
+                },
+                {
+                  "name": "Yassir Lester",
+                  "character": "(voice)",
+                  "profile_path": "/cxQk4vTeBnFPgTvmVpYtkmTKVTf.jpg",
+                  "order": 529,
+                  "id": 1653368
+                },
+                {
+                  "name": "Will Forte",
+                  "character": "Jack (voice)",
+                  "profile_path": "/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg",
+                  "order": 530,
+                  "id": 62831
+                },
+                {
+                  "name": "Sam Richardson",
+                  "character": "Julius (voice)",
+                  "profile_path": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+                  "order": 531,
+                  "id": 1429453
+                },
+                {
+                  "name": "SungWon Cho",
+                  "character": "Steel Cut Oats (voice)",
+                  "profile_path": "/jh5Au9smnPwfLoPNrcJ2VsJnbhU.jpg",
+                  "order": 536,
+                  "id": 1942233
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Oliver Hine",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 4829799,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Becka Ling",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 3615145,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Ricardo Osuna",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 3472303,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Megan Parker",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 3870690,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Laura Krafft",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1236566,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt26315661",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9421312,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAxLTA1Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Sexto Prato",
+              "original_name": "",
+              "air_date": "2024-07-11",
+              "runtime": 24,
+              "overview": "O dia da eleição chega na Comilândia: Julius contra Frank e Brenda. Porém, problemas no relacionamento ameaçam suas chances. E nem tudo é tão simples...",
+              "still_path": "/h6ehZ9J8TglfotajrOF8IOZWuIn.jpg",
+              "vote_average": 5.2,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "Conrad Vernon",
+                  "character": "Dip (voice)",
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg",
+                  "order": 502,
+                  "id": 12080
+                },
+                {
+                  "name": "Grey DeLisle",
+                  "character": "Chili Pepper / Carrot (voice)",
+                  "profile_path": "/anib3yRL9GyUvTkYNHWxQPlXLUH.jpg",
+                  "order": 505,
+                  "id": 15761
+                },
+                {
+                  "name": "Jay Pharoah",
+                  "character": "(voice)",
+                  "profile_path": "/qpCc7SshxYXcgZIjhv8xKWuzEp6.jpg",
+                  "order": 506,
+                  "id": 1099717
+                },
+                {
+                  "name": "Timothy Simons",
+                  "character": "(voice)",
+                  "profile_path": "/upav8HyWsF6ksAkvogEhR9sBlNN.jpg",
+                  "order": 511,
+                  "id": 1181329
+                },
+                {
+                  "name": "Darmirra Brunson",
+                  "character": "(voice)",
+                  "profile_path": "",
+                  "order": 512,
+                  "id": 3741576
+                },
+                {
+                  "name": "Jill Talley",
+                  "character": "(voice)",
+                  "profile_path": "/x0r43qyI9KNEyb5RsF0MckqxgfM.jpg",
+                  "order": 518,
+                  "id": 17414
+                },
+                {
+                  "name": "Carla Delaney",
+                  "character": "(voice)",
+                  "profile_path": "/8GkGSjVaFAdBNKPylgYJiy0ezUI.jpg",
+                  "order": 520,
+                  "id": 1946167
+                },
+                {
+                  "name": "Ann Scobie",
+                  "character": "(voice)",
+                  "profile_path": "",
+                  "order": 525,
+                  "id": 3595132
+                },
+                {
+                  "name": "Tommy Kang",
+                  "character": "(voice)",
+                  "profile_path": "/5TI7gRyMU74eLJL6CogZs6iz9YZ.jpg",
+                  "order": 526,
+                  "id": 2272580
+                },
+                {
+                  "name": "Yassir Lester",
+                  "character": "(voice)",
+                  "profile_path": "/cxQk4vTeBnFPgTvmVpYtkmTKVTf.jpg",
+                  "order": 529,
+                  "id": 1653368
+                },
+                {
+                  "name": "Will Forte",
+                  "character": "Jack (voice)",
+                  "profile_path": "/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg",
+                  "order": 530,
+                  "id": 62831
+                },
+                {
+                  "name": "Sam Richardson",
+                  "character": "Julius (voice)",
+                  "profile_path": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+                  "order": 531,
+                  "id": 1429453
+                },
+                {
+                  "name": "SungWon Cho",
+                  "character": "Banana / Plum (voice)",
+                  "profile_path": "/jh5Au9smnPwfLoPNrcJ2VsJnbhU.jpg",
+                  "order": 537,
+                  "id": 1942233
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Adam Cootes",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 3460422,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Santiago Velez",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 4829803,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Chris LaBonte",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 4511326,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Rajat Suresh",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2185534,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Jeremy Levick",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 3497361,
+                  "profile_path": "/w5gzbOZQbiJYzBUEDMpZeLHpL6e.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt26315662",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9421313,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAxLTA2Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "Sétimo Prato",
+              "original_name": "",
+              "air_date": "2024-07-11",
+              "runtime": 28,
+              "overview": "Brenda sai na esperança de encontrar o lado bom da laranja ditadora, Julius. Frank esclarece algumas questões. E nem tudo é tão simples...",
+              "still_path": "/aREritbMoOjWBK8JH0SPtTNwfF3.jpg",
+              "vote_average": 5.8,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "André Sogliuzzo",
+                  "character": "(voice)",
+                  "profile_path": "/lrebAFDCMthLuq6Oyzraac8MzQL.jpg",
+                  "order": 501,
+                  "id": 177588
+                },
+                {
+                  "name": "Jay Pharoah",
+                  "character": "(voice)",
+                  "profile_path": "/qpCc7SshxYXcgZIjhv8xKWuzEp6.jpg",
+                  "order": 506,
+                  "id": 1099717
+                },
+                {
+                  "name": "Sugar Lyn Beard",
+                  "character": "Jeri Rice (voice)",
+                  "profile_path": "/8AIFKRJ9bdW91PRXfx3Rx35xZQB.jpg",
+                  "order": 510,
+                  "id": 1281758
+                },
+                {
+                  "name": "Timothy Simons",
+                  "character": "(voice)",
+                  "profile_path": "/upav8HyWsF6ksAkvogEhR9sBlNN.jpg",
+                  "order": 511,
+                  "id": 1181329
+                },
+                {
+                  "name": "Carla Delaney",
+                  "character": "(voice)",
+                  "profile_path": "/8GkGSjVaFAdBNKPylgYJiy0ezUI.jpg",
+                  "order": 520,
+                  "id": 1946167
+                },
+                {
+                  "name": "Will Forte",
+                  "character": "Jack (voice)",
+                  "profile_path": "/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg",
+                  "order": 530,
+                  "id": 62831
+                },
+                {
+                  "name": "Sam Richardson",
+                  "character": "Julius (voice)",
+                  "profile_path": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+                  "order": 531,
+                  "id": 1429453
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Marta Demong",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 1984404,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Sidne Marat",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 4536803,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Becka Ling",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 3615145,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Shiyeon Cho",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 4262668,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Dewayne Perkins",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2600533,
+                  "profile_path": "/hey5ww24f6dAp5xRRuGgufKKlDf.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt26315665",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9421314,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAxLTA3Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "Oitavo Prato",
+              "original_name": "",
+              "air_date": "2024-07-11",
+              "runtime": 28,
+              "overview": "Barry e Sammy precisam limpar o nome de Frank e salvar a Comilândia! Julius deve ser impedido! Mas nem tudo é tão simples assim...",
+              "still_path": "/asywjC6DU6iHValCoukI9U10YhW.jpg",
+              "vote_average": 6,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "Alejandro Saab",
+                  "character": "(voice)",
+                  "profile_path": "/s0CfyqLUSwhqGFSrD8penMB7rwI.jpg",
+                  "order": 500,
+                  "id": 3367960
+                },
+                {
+                  "name": "André Sogliuzzo",
+                  "character": "(voice)",
+                  "profile_path": "/lrebAFDCMthLuq6Oyzraac8MzQL.jpg",
+                  "order": 501,
+                  "id": 177588
+                },
+                {
+                  "name": "Rachel Butera",
+                  "character": "(voice)",
+                  "profile_path": "/j9PbEcUdFkInCdFjQAMNvctfF7j.jpg",
+                  "order": 508,
+                  "id": 1573215
+                },
+                {
+                  "name": "Scott Underwood",
+                  "character": "Twink / Gum (voice)",
+                  "profile_path": "/xGVDkJt7umdASrW6OYMUxgdesQd.jpg",
+                  "order": 509,
+                  "id": 1447323
+                },
+                {
+                  "name": "Sugar Lyn Beard",
+                  "character": "Jeri Rice (voice)",
+                  "profile_path": "/8AIFKRJ9bdW91PRXfx3Rx35xZQB.jpg",
+                  "order": 510,
+                  "id": 1281758
+                },
+                {
+                  "name": "Timothy Simons",
+                  "character": "(voice)",
+                  "profile_path": "/upav8HyWsF6ksAkvogEhR9sBlNN.jpg",
+                  "order": 511,
+                  "id": 1181329
+                },
+                {
+                  "name": "Darmirra Brunson",
+                  "character": "(voice)",
+                  "profile_path": "",
+                  "order": 512,
+                  "id": 3741576
+                },
+                {
+                  "name": "Alex Karukas",
+                  "character": "(voice)",
+                  "profile_path": "",
+                  "order": 514,
+                  "id": 4823665
+                },
+                {
+                  "name": "Jill Talley",
+                  "character": "(voice)",
+                  "profile_path": "/x0r43qyI9KNEyb5RsF0MckqxgfM.jpg",
+                  "order": 518,
+                  "id": 17414
+                },
+                {
+                  "name": "Ann Scobie",
+                  "character": "(voice)",
+                  "profile_path": "",
+                  "order": 525,
+                  "id": 3595132
+                },
+                {
+                  "name": "David Krumholtz",
+                  "character": "Lavash (voice)",
+                  "profile_path": "/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg",
+                  "order": 527,
+                  "id": 38582
+                },
+                {
+                  "name": "Natasha Rothwell",
+                  "character": "(voice)",
+                  "profile_path": "/x5KdL3QoS4YuozVpfuPsu3MLwwf.jpg",
+                  "order": 528,
+                  "id": 1546282
+                },
+                {
+                  "name": "Yassir Lester",
+                  "character": "(voice)",
+                  "profile_path": "/cxQk4vTeBnFPgTvmVpYtkmTKVTf.jpg",
+                  "order": 529,
+                  "id": 1653368
+                },
+                {
+                  "name": "Will Forte",
+                  "character": "Jack (voice)",
+                  "profile_path": "/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg",
+                  "order": 530,
+                  "id": 62831
+                },
+                {
+                  "name": "Sam Richardson",
+                  "character": "Julius (voice)",
+                  "profile_path": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+                  "order": 531,
+                  "id": 1429453
+                },
+                {
+                  "name": "SungWon Cho",
+                  "character": "Apple / Plum (voice)",
+                  "profile_path": "/jh5Au9smnPwfLoPNrcJ2VsJnbhU.jpg",
+                  "order": 538,
+                  "id": 1942233
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Jose Antonio Cerro",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 2669156,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Adam Cootes",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 3460422,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Santiago Velez",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 4829803,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Graeme Lee",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 4829808,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Kyle Hunter",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206448,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Ariel Shaffir",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206449,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt26315666",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9421315,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAxLTA4Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "name": "Temporada 2",
+          "overview": "Na segunda temporada, exilados de casa, Frank, Barry e Sammy logo se encontram em Nova Foodland, uma utopia brilhante tanto para alimentos quanto para humanos. Mas sob as geladeiras reluzentes da cidade e os sorrisos alegres, esconde-se um segredo sombrio que ameaça toda a sociedade de alimentos sencientes.",
+          "poster_path": "/l8XFkTzWxObRLFqYlgZ1UBgvw5r.jpg",
+          "poster": "/l8XFkTzWxObRLFqYlgZ1UBgvw5r.jpg",
+          "backdrop_path": "",
+          "air_date": "2025-08-13",
+          "vote_average": 4,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Seth Rogen",
+              "character": "Frank (voice)",
+              "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+              "order": 0,
+              "id": 19274
+            },
+            {
+              "name": "Kristen Wiig",
+              "character": "Brenda (voice)",
+              "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+              "order": 1,
+              "id": 41091
+            },
+            {
+              "name": "Edward Norton",
+              "character": "Sammy (voice)",
+              "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+              "order": 2,
+              "id": 819
+            },
+            {
+              "name": "Michael Cera",
+              "character": "Barry (voice)",
+              "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+              "order": 3,
+              "id": 39995
+            }
+          ],
+          "crew": [
+            {
+              "name": "Sam Marks",
+              "job": "Associate Producer",
+              "department": "Production",
+              "id": 2013935,
+              "profile_path": ""
+            },
+            {
+              "name": "Jennifer Kim",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 6209226,
+              "profile_path": ""
+            },
+            {
+              "name": "Dewayne Perkins",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 2600533,
+              "profile_path": "/hey5ww24f6dAp5xRRuGgufKKlDf.jpg"
+            },
+            {
+              "name": "Matthew Bass",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 54723,
+              "profile_path": "/z53lzQYqX3EarQFz38YZh0QHJUr.jpg"
+            },
+            {
+              "name": "Alexander Bornstein",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 1070265,
+              "profile_path": ""
+            },
+            {
+              "name": "Madeline Blair",
+              "job": "Associate Producer",
+              "department": "Production",
+              "id": 5986990,
+              "profile_path": ""
+            },
+            {
+              "name": "Christopher Lennertz",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 49911,
+              "profile_path": "/4WIa3Ntb4tDzXrOTvuhpKbKDJuc.jpg"
+            },
+            {
+              "name": "Linda Lamontagne",
+              "job": "Casting",
+              "department": "Production",
+              "id": 965333,
+              "profile_path": "/wpRxYVYMoNKE7tWpXPUPxhfsEK6.jpg"
+            },
+            {
+              "name": "Jack Berigan",
+              "job": "Associate Producer",
+              "department": "Production",
+              "id": 4823692,
+              "profile_path": ""
+            },
+            {
+              "name": "Haiet Lakhouache",
+              "job": "Producer",
+              "department": "Production",
+              "id": 4823689,
+              "profile_path": ""
+            },
+            {
+              "name": "Laura Krafft",
+              "job": "Co-Executive Producer",
+              "department": "Production",
+              "id": 1236566,
+              "profile_path": ""
+            },
+            {
+              "name": "Patrick Chu",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1872766,
+              "profile_path": ""
+            },
+            {
+              "name": "Andrew Millstein",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2009610,
+              "profile_path": "/iDKE6n7iZdARHntFNHUKh6pDCmd.jpg"
+            },
+            {
+              "name": "Megan Ellison",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1027025,
+              "profile_path": "/sZwZJ6Ma9cO5K2VtpOofinbhwtE.jpg"
+            },
+            {
+              "name": "Conrad Vernon",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 12080,
+              "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+            },
+            {
+              "name": "Alex McAtee",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1403656,
+              "profile_path": ""
+            },
+            {
+              "name": "James Weaver",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 928595,
+              "profile_path": "/pyUq99G6KgfX1ueTEueCoe3M5go.jpg"
+            },
+            {
+              "name": "Evan Goldberg",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 54734,
+              "profile_path": "/qh0pRmpYzyix1ErrMGADthTnpLa.jpg"
+            },
+            {
+              "name": "Seth Rogen",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 19274,
+              "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+            },
+            {
+              "name": "Kyle Hunter",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1206448,
+              "profile_path": ""
+            },
+            {
+              "name": "Ariel Shaffir",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 1206449,
+              "profile_path": ""
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Nono Prato",
+              "original_name": "",
+              "air_date": "2025-08-13",
+              "runtime": 28,
+              "overview": "Frank lida com a morte de Brenda forçando felicidade e participando da Food-topia; Sammy e Barry têm que juntar os pedaços; Jack espera finalmente ser aceito pela comida.",
+              "still_path": "/d5eIvoJlHJM3U1QOiughOdDeHnC.jpg",
+              "vote_average": 4,
+              "vote_count": 3,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kyle Hunter",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206448,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Ariel Shaffir",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206449,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt33041931",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11210241,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTAxLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Décimo Curso",
+              "original_name": "",
+              "air_date": "2025-08-13",
+              "runtime": 22,
+              "overview": "Depois do exílio, Frank, Jack, Sammy e Barry procuram uma nova sociedade alimentar, mas as tensões aumentam entre os amigos.",
+              "still_path": "/9Wc4STWof3dJ7htrVCKsFQUXWqq.jpg",
+              "vote_average": 2,
+              "vote_count": 2,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Dewayne Perkins",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2600533,
+                  "profile_path": "/hey5ww24f6dAp5xRRuGgufKKlDf.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt37345117",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11210242,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTAyLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Décimo primeiro curso",
+              "original_name": "",
+              "air_date": "2025-08-13",
+              "runtime": 25,
+              "overview": "Leaving Jack behind, Frank, Barry and Sammy secretly explore the advanced and suspiciously perfect town of Newfoodland.",
+              "still_path": "/99DrGMR2G6ImnAYsAamqKhpSGhu.jpg",
+              "vote_average": 4.5,
+              "vote_count": 1,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Jennifer Kim",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 6209226,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt37345119",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11210243,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTAzLm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Décimo segundo curso",
+              "original_name": "",
+              "air_date": "2025-08-13",
+              "runtime": 29,
+              "overview": "Frank, Barry, Sammy e Jack encontram seu lugar especial em Newfoodland. Tudo parece perfeito, até que Barry e Jack descobrem o segredo que essa cidade utópica esconde.",
+              "still_path": "/o0H2dcST5DDxkBjq0mx2hlUOXX8.jpg",
+              "vote_average": 4,
+              "vote_count": 2,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kyle Hunter",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206448,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Ariel Shaffir",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206449,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jack Berigan",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 4823692,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt37345121",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11210244,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTA0Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "Décimo terceiro prato",
+              "original_name": "",
+              "air_date": "2025-08-13",
+              "runtime": 26,
+              "overview": "A galera lida com as novas informações sobre Newfoodland; Frank descobre a localização da próxima missão de combustível de Newfoodland.",
+              "still_path": "/cwpP0bPSYXf2BzYlrfP31rCTIcs.jpg",
+              "vote_average": 5,
+              "vote_count": 2,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kyle Hunter",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206448,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Ariel Shaffir",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206449,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt37345123",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11210245,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTA1Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Décimo quarto curso",
+              "original_name": "",
+              "air_date": "2025-08-13",
+              "runtime": 28,
+              "overview": "Quando Frank descobre que Foodtopia é a próxima cidade que Newfoodland quer invadir, ele pede a Barry para voltar e avisá-los. Enquanto isso, o filme de Sammy estreia, e Jack volta a um velho 'hábito'.",
+              "still_path": "/hS2ySu7ynk8mdY8V2qmOaGCvB3R.jpg",
+              "vote_average": 3,
+              "vote_count": 2,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kyle Hunter",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206448,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Ariel Shaffir",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206449,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jack Berigan",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 4823692,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt37345124",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11210246,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTA2Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "Décimo quinto curso",
+              "original_name": "",
+              "air_date": "2025-08-13",
+              "runtime": 29,
+              "overview": "Frank e Barry ficam surpresos ao encontrar uma Food-topia agora próspera; Jack, Sammy e todo o Newfoodland estão se aproximando rapidamente, prontos para invadir.",
+              "still_path": "/e6Jp0yRQZpRZAWXKOOPtjslq7Jg.jpg",
+              "vote_average": 3,
+              "vote_count": 1,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kyle Hunter",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206448,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Ariel Shaffir",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206449,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Jack Berigan",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 4823692,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt37345125",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11210247,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTA3Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "Décimo sexto curso",
+              "original_name": "",
+              "air_date": "2025-08-13",
+              "runtime": 30,
+              "overview": "A batalha final começa entre Food-topia e Newfoodland; Frank tenta consertar as coisas com Jack.",
+              "still_path": "/3IAde1JliMbzqeymM8CtuYPRuPt.jpg",
+              "vote_average": 6.3,
+              "vote_count": 3,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Seth Rogen",
+                  "character": "Frank (voice)",
+                  "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+                  "order": 0,
+                  "id": 19274
+                },
+                {
+                  "name": "Kristen Wiig",
+                  "character": "Brenda (voice)",
+                  "profile_path": "/gEKYhc3HvNxWhxneVfeePu0rTm.jpg",
+                  "order": 1,
+                  "id": 41091
+                },
+                {
+                  "name": "Edward Norton",
+                  "character": "Sammy (voice)",
+                  "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+                  "order": 2,
+                  "id": 819
+                },
+                {
+                  "name": "Michael Cera",
+                  "character": "Barry (voice)",
+                  "profile_path": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+                  "order": 3,
+                  "id": 39995
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kyle Hunter",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206448,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Conrad Vernon",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 12080,
+                  "profile_path": "/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
+                },
+                {
+                  "name": "Ariel Shaffir",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1206449,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt37345127",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11210248,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dublado",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjEzMjQ5LTAyLTA4Lm1rdg==",
+                  "language": "PT-BR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
