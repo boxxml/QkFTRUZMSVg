@@ -3,12 +3,12 @@
     {
       "name": "[COLOR green]KodiLoucos [COLORgold] Brasil[/COLOR]",
       "addonId": "plugin.video.kodiloucos_brasil",
-      "version": "1.2.7",
+      "version": "1.2.8",
       "kind": "Plugin de vídeo",
       "platform": "Todos",
       "status": "Ativo",
-      "zipUrl": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/plugin.video.kodiloucos_brasil.zip",
-      "dependencies": "",
+      "zipUrl": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/addons/plugin.video.kodiloucos_brasil-1.2.7.zip",
+      "dependencies": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/plugin.video.kodiloucos_brasil.zip",
       "iconUrl": "",
       "description": "[COLOR lime]KodiLoucos Brasil é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR]",
       "id": "qf_mwtmca6q_drglj"
@@ -19,6 +19,11 @@
   "deps": [],
   "categories": [],
   "activity": [
+    {
+      "id": "qf_mwtmqnc1_1swm8",
+      "msg": "Cadastro atualizado: [COLOR green]KodiLoucos [COLORgold] Brasil[/COLOR]",
+      "date": "23/11/2026, 15:59:18"
+    },
     {
       "id": "qf_mwtmca6q_xebgc",
       "msg": "Novo cadastro: [COLOR green]KodiLoucos [COLORgold] Brasil[/COLOR]",
