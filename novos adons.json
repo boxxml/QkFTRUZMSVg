@@ -1,18 +1,20 @@
 {
   "schema": "quickfilmes.catalog.v1",
-  "generated_at": "2026-11-23T19:27:43.714Z",
+  "generated_at": "2026-11-23T19:33:57.545Z",
   "addons": [
     {
       "id": "plugin.video.kodiloucos_brasil",
       "name": "[COLOR green]KodiLoucos [COLORgold] Brasil[/COLOR]",
-      "version": "1.2.7",
+      "version": "1.2.8",
       "type": "addon",
       "kind": "Plugin de vídeo",
       "platform": "Todos",
-      "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/plugin.video.kodiloucos_brasil.zip",
+      "url": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/addons/plugin.video.kodiloucos_brasil-1.2.7.zip",
       "icon": "",
-      "description": "",
-      "dependencies": []
+      "description": "[COLOR lime]KodiLoucos Brasil é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR]",
+      "dependencies": [
+        "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/plugin.video.kodiloucos_brasil.zip"
+      ]
     }
   ],
   "apks": [],
